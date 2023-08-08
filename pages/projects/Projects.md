@@ -1,7 +1,7 @@
 ---
-title: Labs
+title: Projects
 layout: home
 has_children: true
 ---
 
-# Labs
+# Projects
