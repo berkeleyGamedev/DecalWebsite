@@ -1,11 +1,11 @@
 ---
-title: "Lab 1: Intro to Unity"
+title: "Lab 11: Coroutines"
 parent: Labs
 layout: home
-nav_order: 1
+nav_order: 11
 ---
 
-# Lab 1: Intro to Unity
+# Lab 11: Coroutines
 {: .no_toc }
 
 ## Table of contents

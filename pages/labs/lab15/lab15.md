@@ -1,11 +1,11 @@
 ---
-title: "Lab 1: Intro to Unity"
+title: "Lab 15: Raycasting"
 parent: Labs
 layout: home
-nav_order: 1
+nav_order: 15
 ---
 
-# Lab 1: Intro to Unity
+# Lab 15: Raycasting
 {: .no_toc }
 
 ## Table of contents

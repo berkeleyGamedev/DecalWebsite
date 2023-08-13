@@ -2,6 +2,7 @@
 title: "Lab 0: Unity Setup"
 parent: Labs
 layout: home
+nav_order: 0
 ---
 
 # Lab 0: Unity Setup

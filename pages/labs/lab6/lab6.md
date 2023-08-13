@@ -1,11 +1,11 @@
 ---
-title: "Lab 1: Intro to Unity"
+title: "Lab 6: Colliders and Rigidbodies"
 parent: Labs
 layout: home
-nav_order: 1
+nav_order: 6
 ---
 
-# Lab 1: Intro to Unity
+# Lab 6: Colliders and Rigidbodies
 {: .no_toc }
 
 ## Table of contents

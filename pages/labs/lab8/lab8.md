@@ -1,11 +1,11 @@
 ---
-title: "Lab 1: Intro to Unity"
+title: "Lab 8: Animator and Blend Trees"
 parent: Labs
 layout: home
-nav_order: 1
+nav_order: 8
 ---
 
-# Lab 1: Intro to Unity
+# Lab 8: Animator and Blend Trees
 {: .no_toc }
 
 ## Table of contents
