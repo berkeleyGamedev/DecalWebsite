@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 
 # GDD Decal Fall 2023
@@ -11,37 +12,36 @@ layout: home
 
 ## Schedule
 
-| Wk.   | Date  | Lecture                          | Weekly Readings                            | Labs                                             | Projects    |
-|-------|-------|----------------------------------|--------------------------------------------|--------------------------------------------------|-------------|
-| W1D1  | 08/29 | Infosession                      |                                            | [Lab 0]                                          |             |
-| W2D1  | 09/05 | Course Overview                  | [Game Design Principles]                   | [Lab 1]                                          |             |
-| W2D2  | 09/07 | Game Design                      |                                            | Programmer: [Lab 2] <br/> Artist: [Lab 3]        | [Project 1] |
-| W3D1  | 09/12 | Introduction to the Art Pipeline | [Good Graphics vs Good Aesthetics]         | Programmer: [Lab 2] <br/> Artist: [Lab 3]        |             |
-| W3D2  | 09/14 | Fundamentals of Animation        |                                            | Programmer: [Lab 6] <br/> Artist: [Lab 7]        |             |
-| W4D1  | 09/19 | Game Loops                       | [Principles of Game Design]                | [Lab 8]                                          |             |
-| W4D2  | 09/21 | User Interfaces                  |                                            | Programmer: [Lab 9] <br/> Artist: [Lab 10] <br/> | [Project 2] |
-| W5D1  | 09/26 | Git Tutorial                     | [How to Pitch your Project]                | Programmer: [Lab 11] <br/> Artist: [Lab 12]      |             |
-| W5D2  | 09/28 | Design Docs and MVPs             |                                            |                                                  |             |
-| W6D1  | 10/03 | Pitch Day                        | [How to Write a Good Game Design Document] |                                                  |             |
-| W6D2  | 10/05 | Project 2 Showcase               |                                            |                                                  | [Project 3] |
-| W7D1  | 10/10 | Workday                          | [Team Structures in Game Development]      | Optional: [Lab 13]                               |             |
-| W7D2  | 10/12 | Tutorials                        |                                            | Optional: [Lab 14]                               |             |
-| W8D1  | 10/17 | Game Feel                        | [Tips for Better Playtesting]              | Optional: [Lab 15]                               |             |
-| W8D2  | 10/19 | Milestone 1: MVP Playtest        |                                            |                                                  |             |
-| W9D1  | 10/24 | Music and SFX                    | [Insightful Playtest Questions]            | Optional: [Lab 16]                               |             |
-| W9D2  | 10/26 | Guest Lecture                    |                                            |                                                  |             |
-| W10D1 | 10/31 | Accessibility                    | [Narrative Design in Games]                | Optional: [Lab 17]                               |             |
-| W10D2 | 11/02 | Milestone 2: Alpha Playtest      |                                            |                                                  |             |
-| W11D1 | 11/07 | Workday                          | [Accessible Controllers]                   |                                                  |             |
-| W11D2 | 11/09 | Guest Lecture                    |                                            |                                                  |             |
-| W12D1 | 11/14 | AI Design                        | [NEEDS UPDATE]                             |                                                  |             |
-| W12D2 | 11/16 | Milestone 3: Beta Playtest       |                                            |                                                  |             |
-| W13D1 | 11/21 | Workday                          | [Tutorial Design]                          |                                                  |             |
-| W13D2 | 11/23 | Thanksgiving Break               |                                            |                                                  |             |
-| W14D1 | 11/28 | Building and Publishing          | [Gamification]                             |                                                  |             |
-| W14D2 | 11/30 | Course Postmortem                |                                            |                                                  |             |
-| W15D1 | 12/04 | GDD Showcase                     |                                            |                                                  |             |
-
+| Wk.   | Date  | Lecture                          | Readings                            | Labs                                       | Projects    |
+|-------|-------|----------------------------------|-------------------------------------|--------------------------------------------|-------------|
+| W1D1  | 08/29 | [Infosession]                    |                                     | [Lab 0]                                    |             |
+| W2D1  | 09/05 | [Intro to Unity]                | [Game Design Principles]            | [Lab 1]                                    |             |
+| W2D2  | 09/07 | [Game Design]                    |                                     | Programmer: [Lab 2] <br/> Artist: [Lab 3]  | [Project 1] |
+| W3D1  | 09/12 | [Introduction to the Art Pipeline] | [Good Graphics vs Good Aesthetics] | Programmer: [Lab 2] <br/> Artist: [Lab 3]  |             |
+| W3D2  | 09/14 | [Fundamentals of Animation]      |                                     | Programmer: [Lab 6] <br/> Artist: [Lab 7]  |             |
+| W4D1  | 09/19 | [Game Loops]                     | [Principles of Game Design]         | [Lab 8]                                    |             |
+| W4D2  | 09/21 | [User Interfaces]                |                                     | Programmer: [Lab 9] <br/> Artist: [Lab 10] | [Project 2] |
+| W5D1  | 09/26 | [Git Tutorial]                   | [How to Pitch your Project]         | Programmer: [Lab 11] <br/> Artist: [Lab 12]|             |
+| W5D2  | 09/28 | [Design Docs and MVPs]           |                                     |                                            |             |
+| W6D1  | 10/03 | [Pitch Day]                      | [How to Write a Good Game Design Document] |                                    |             |
+| W6D2  | 10/05 | [Project 2 Showcase]             |                                     |                                            | [Project 3] |
+| W7D1  | 10/10 | Workday                        | [Team Structures in Game Development] | Optional: [Lab 13]                         |             |
+| W7D2  | 10/12 | [Tutorials]                      |                                     | Optional: [Lab 14]                         |             |
+| W8D1  | 10/17 | [Game Feel]                      | [Tips for Better Playtesting]       | Optional: [Lab 15]                         |             |
+| W8D2  | 10/19 | Milestone 1: MVP Playtest        |                                     |                                            |             |
+| W9D1  | 10/24 | [Music and SFX]                  | [Insightful Playtest Questions]     | Optional: [Lab 16]                         |             |
+| W9D2  | 10/26 | Guest Lecture                 |                                     |                                            |             |
+| W10D1 | 10/31 | [Accessibility]                  | [Narrative Design in Games]         | Optional: [Lab 17]                         |             |
+| W10D2 | 11/02 | Milestone 2: Alpha Playtest      |                                     |                                            |             |
+| W11D1 | 11/07 | Workday                        | [Accessible Controllers]            |                                            |             |
+| W11D2 | 11/09 | Guest Lecture                  |                                     |                                            |             |
+| W12D1 | 11/14 | [AI Design]                      | [NEEDS UPDATE]                      |                                            |             |
+| W12D2 | 11/16 | Milestone 3: Beta Playtest       |                                     |                                            |             |
+| W13D1 | 11/21 | Workday                        | [Tutorial Design]                   |                                            |             |
+| W13D2 | 11/23 | Thanksgiving Break               |                                     |                                            |             |
+| W14D1 | 11/28 | [Building and Publishing]        | [Gamification]                      |                                            |             |
+| W14D2 | 11/30 | Course Postmortem              |                                     |                                            |             |
+| W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |
 
 
 [Lab 0]: ./pages/labs/lab0/lab0.html
@@ -62,3 +62,43 @@ layout: home
 [Lab 15]: ./pages/labs/lab15/lab15.html
 [Lab 16]: ./pages/labs/lab16/lab16.html
 [Lab 17]: ./pages/labs/lab17/lab17.html
+
+[Project 1]: ./pages/projects/project1/project1.html
+[Project 2]: ./pages/projects/project2/project2.html
+[Project 3]: ./pages/projects/project3/project3.html
+
+[Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/ 
+[Good Graphics vs Good Aesthetics]: https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe
+[Principles of Game Design]: https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 
+[How to Pitch your Project]: http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php 
+[How to Write a Good Game Design Document]: https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545 
+[Team Structures in Game Development]: https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php  
+[Tips for Better Playtesting]: https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1
+[Insightful Playtest Questions]: http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php 
+[Narrative Design in Games]: http://www.gamasutra.com/blogs/ThomasGrip/20140429/216467/4Layers_A_Narrative_Design_Approach.php 
+[Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/ 
+[NEEDS UPDATE]: http://www.gamestudies.org/0101/juul-gts/ 
+[Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400 
+[Gamification]: https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php
+
+[Infosession]: https://docs.google.com/presentation/d/1a0Sd4CeEbJr5XZjCVahNE_WRogwCHxggq1Pu10Z2-Pk/edit?usp=drive_link
+[Intro to Unity]: https://docs.google.com/presentation/d/1z5eJMr9ZptOFKFqSOmnqBtuzRL4mtU-eFMppI3oj_8g/edit?usp=drive_link
+[Game Design]: https://docs.google.com/presentation/d/1rcLp94lLWn_NFkKcqyhfhtf1ZSwghD_BuxDP6t_mmdg/edit?usp=drive_link
+[Introduction to the Art Pipeline]: https://docs.google.com/presentation/d/11_DEQ9OCzoOfkMoqckLjMdEFKtJLhH0iTMrEWHk4XgI/edit?usp=drive_link
+[Fundamentals of Animation]: https://docs.google.com/presentation/d/1FWmoWbJn07mSXCOVcWfiDdSYWvV9L2S6SF92En3QOQg/edit?usp=drive_link
+[Game Loops]: https://docs.google.com/presentation/d/1qcTa4jcy2h4TDrAmTcn3kdV2d9X7bCNTXoa4HdQ8ziM/edit?usp=drive_link
+[User Interfaces]: https://docs.google.com/presentation/d/1mf9k3ZQxBLTRq01irq64hlTZB0PXb0cuQIRxhm1_4KU/edit?usp=drive_link
+[Git Tutorial]: https://docs.google.com/presentation/d/1CNgyW64qSacAchdhFqy_PuAwIlA8sFwhfWEb3dnrquU/edit?usp=drive_link 
+[Design Docs and MVPs]: https://docs.google.com/presentation/d/1r4FYWasjGUt2oOQVp5gYr5LQPbOkT95q/edit?usp=drive_link&ouid=100199393940763246714&rtpof=true&sd=true
+[Pitch Day]: https://www.google.com/
+[Project 2 Showcase]: https://www.google.com/
+[Tutorials]: https://docs.google.com/presentation/d/1YT_9C2WHyyyx_IpotHwyMvpdwRekX3we/edit?usp=sharing&ouid=100199393940763246714&rtpof=true&sd=true
+[Game Feel]: https://docs.google.com/presentation/d/14jehcjl-PZCyLs4iZ-IKcEU90mxyeUy6vH44gR-NJgA/edit?usp=drive_link
+[Milestone 1: MVP Playtest]: https://www.google.com/
+[Music and SFX]: https://docs.google.com/presentation/d/17bKI5TqPwzim8xId55EYzl-4dwI_Ga41urHHCN8YZzM/edit?usp=drive_link
+[Accessibility]: https://docs.google.com/presentation/d/1BAvT820lHtXss86uSsiW9flzH9gz-ShKFAyhKLqAEFo/edit?usp=drive_link
+[Milestone 2: Alpha Playtest]: https://www.google.com/
+[AI Design]: https://docs.google.com/presentation/d/1fyick947gM8XYr5-6O_BHv-D4raoMLwe9DDEkQyM9cM/edit?usp=drive_link
+[Milestone 3: Beta Playtest]: https://www.google.com/
+[Building and Publishing]: https://docs.google.com/presentation/d/1NpOozI9SgG9_Op3k6bJ_LltLWOw27IniFLPNt5bzS-k/edit?usp=drive_link
+[Course Postmortem]: https://www.google.com/
