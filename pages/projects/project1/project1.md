@@ -1,5 +1,5 @@
 ---
-title: "Project 1"
+title: Project 1
 parent: Projects
 layout: home
 nav_order: 1
@@ -14,8 +14,16 @@ nav_order: 1
 1. TOC
 {:toc}
 
-## Title 1
-Description
 
-## Title 2
-Description
+
+## Project 1 Part 1
+
+### Part 1: Programmer/Hybrids
+
+### Part 1: Artists
+
+## Project 1 Part 2
+
+### Part 2: Programmer/Hybrids
+
+### Part 2: Artists
