@@ -26,9 +26,9 @@ Upon completion of this lab, you should have a basic understanding of what varia
 ### Editing Scripts
 <ol>
 <li>Select the Main scene from the Assets folder in the Project tab. The image on your screen should match the one seen in Figure 1.</li>
-    <ol type='a'>
+    <ul>
         <li>Notice that the Player GameObject under Main in the `Hierarchy` tab corresponds to the purple square, while the SimpleEnemy GameObject corresponds to the red circle.</li>
-    </ol>
+    </ul>
 
     <img src='images\image5.png'>
 
@@ -85,7 +85,7 @@ int currentHealth;
 Each GameObject with the Health script attached to it will have its own copy of the variables declared within the script (unless the variables are preceded by the keyword **static**). Public variables will remain set to their default values unless set to another one via the Inspector. <b>Inspector changes to public variables will override values set in scripts.</b>
 </span>
 
-We will now modify the <b>startingHealth</b> variable in the Inspector in order to allow our Player to survive more than one hit.
+<br>We will now modify the <b>startingHealth</b> variable in the Inspector in order to allow our Player to survive more than one hit.
 
 <img src='images\image8.png'>
 
@@ -144,7 +144,7 @@ Verify that when you press play, SimpleEnemies continue to spawn indefinitely.
 
 Delete all SimpleEnemy instances (every SimpleEnemy object in the Scene/Hierarchy), but **do not delete the Prefab asset that you created in the Prefab folder.**
 
-*** Checkoff Requirement:*** No Prefab instances should exist in the Scene.
+***Checkoff Requirement:*** No Prefab instances should exist in the Scene.
 
 We will now add a new enemy type to our minigame.
 
@@ -183,8 +183,6 @@ Go to your new Sniper prefab and remove the **Simple Enemy Movement** component.
 Save the prefab and start the minigame. You should now observe that the Snipers spawn heading initially towards the Player, but proceed in a straight line rather than following the Player.
 
 ***Checkoff Requirement:*** The Sniper enemy type should have a different movement pattern from the SimpleEnemy. Artists may now proceed to the summary and checkoff below. <br><span style="color:red">Open the scripts **MyGameManager.cs** and **EnemyData.cs.** These scripts combine a few different methods of making the Inspector for a script more useful:</span>
-
-<span style="color:red">
 - **HideInInspector** –– Use this if you require a variable to be public (for example, in a struct or an array) but don’t want it to show up in the Inspector
 - Structs — Use these to create convenient groupings of variable names that will **remain** grouped in the Inspector
 - Arrays/Lists — Use these to make adding more elements to your game more convenient. Rather than having to add a new public variable for each enemy type, this allows you to add a new enemy entirely in the Inspector.
@@ -195,17 +193,16 @@ Take a look at the relationship between **EnemyMovement.cs**, **SimpleEnemyMovem
 - Functions that you intend to override must be visible to the child script (public or protected) as well as **meant** to be overridden (virtual or abstract).
 - When a child class overrides a method, you must use the keyword **override**.
 - When you override a method, it is good coding practice to call the parent method by using **base.methodName()**, wherein **base** refers to the parent class.
-- Note that we separated Player and Enemy movement into different scripts; there are not many shared elements between  them in the case of our minigame.
+- Note that we separated Player and Enemy movement into different scripts; there are not many shared elements between them in the case of our minigame.
 
 Notice how **Health.cs** and **Attack.cs** interact. This is an example of how to utilize the concept of **Composition**. ∙ When an object with the Attack script attached comes into contact with another object, it will check to see if that object has a Health script. If it does, it will call that Health script’s takeDamage() function. It also checks to see if the health is less than or equal to zero, so that it can inform the GameManager that the game is over.
 
 - **Composition** is the idea of building up behaviors through modular components. For instance, an enemy has a movement script and an attack script, and these scripts together make up the behavior of an enemy. In **Inheritance**, you build unique things up from the top down by adding new features to a parent class. In Composition, you build unique things from the bottom up by assembling different pieces together in order to achieve a desired behavior.
 - Most games will utilize a combination of Composition and Inheritance.
-</span>
 
 ## Summary
 
-Congratulations! You have now successfully created a minigame with two different enemy types that will spawn in and attack your  Player. You have also gained a better understanding of scripts, variables, and Prefabs — things that will be invaluable in your further exploration of Unity. If you would like more practice with these concepts, please take a look at the optional challenge tasks on the last page of this lab.
+Congratulations! You have now successfully created a minigame with two different enemy types that will spawn in and attack your Player. You have also gained a better understanding of scripts, variables, and Prefabs — things that will be invaluable in your further exploration of Unity. If you would like more practice with these concepts, please take a look at the optional challenge tasks on the last page of this lab.
 
 ## Checkoff Requirements
 
@@ -234,7 +231,7 @@ Here are some additional, more challenging tasks if you’d like extra practice 
 
     - [https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html] 
 
-    - The enemies currently have hitboxes known as **Triggers**. Any colliders can pass through a Trigger collider without any physics taking place, but a user-specified event will be triggered (similar to something like a sensor on a sliding glass  door at a grocery store).
+    - The enemies currently have hitboxes known as **Triggers**. Any colliders can pass through a Trigger collider without any physics taking place, but a user-specified event will be triggered (similar to something like a sensor on a sliding glass door at a grocery store).
 
         - CircleCast will not detect Colliders that are Triggers; therefore, you will have to add another Collider to your enemies.
 

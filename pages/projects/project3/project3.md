@@ -2,7 +2,7 @@
 title: "Project 3"
 parent: Projects
 layout: home
-nav_order: 3
+nav_order: 4
 ---
 
 # Project 3: Final
@@ -14,6 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
+## Overview
 For the final project you will be working in teams of 3-5 for the rest of the semester to make a game based on your original pitches. A facilitator will be assigned to your team to help guide your team so that the final version is as wonderful as possible.
 
 ## Milestones

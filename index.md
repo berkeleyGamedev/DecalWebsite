@@ -12,6 +12,27 @@ nav_order: 0
 
 ## Schedule
 
+<style>
+  table th:first-of-type {
+      width: 5% !important;
+  }
+  table th:nth-of-type(2) {
+      width: 5% !important;
+  }
+  table th:nth-of-type(3) {
+      width: 20% !important;
+  }
+  table th:nth-of-type(4) {
+      width: 20% !important;
+  }
+  table th:nth-of-type(5) {
+      width: 40% !important;
+  }
+  table th:nth-of-type(6) {
+      width: 30% !important;
+  }
+</style>
+
 | Wk.   | Date  | Lecture                          | Readings                            | Labs                                       | Projects    |
 |-------|-------|----------------------------------|-------------------------------------|--------------------------------------------|-------------|
 | W1D1  | 08/29 | [Infosession]                    |                                     | [Lab 0]                                    |             |
@@ -41,8 +62,7 @@ nav_order: 0
 | W13D2 | 11/23 | Thanksgiving Break               |                                     |                                            |             |
 | W14D1 | 11/28 | [Building and Publishing]        | [Gamification]                      |                                            |             |
 | W14D2 | 11/30 | Course Postmortem              |                                     |                                            |             |
-| W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |
-
+| W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |            |
 
 [Lab 0]: ./pages/labs/lab0/lab0.html
 [Lab 1]: ./pages/labs/lab1/lab1.html

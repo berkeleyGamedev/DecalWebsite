@@ -2,7 +2,7 @@
 title: "Project 2"
 parent: Projects
 layout: home
-nav_order: 2
+nav_order: 3
 ---
 
 # Project 2: Game Jam
