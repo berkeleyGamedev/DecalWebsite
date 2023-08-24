@@ -5,7 +5,7 @@ layout: home
 nav_order: 1
 ---
 
-# Project 1: Pro/Hybrids
+# Project 1: Programmers/Hybrids
 {: .no_toc }
 
 ## Table of contents
