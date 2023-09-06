@@ -219,7 +219,10 @@ Now that you have some basics, try creating a small game! Some possible ideas ar
 
 Hint: You can create a prefab of the asteroid and create multiple instances of the same asteroid by dragging the prefab into your scene.
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
 
 
 
 [Project Repo]: https://github.com/berkeleyGamedev/UnityBasics
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
