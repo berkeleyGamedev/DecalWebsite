@@ -41,9 +41,9 @@ _ATTENTION: This site is under construction!_
 
 | Wk.   | Date  | Lecture                          | Readings                            | Labs                                       | Projects    |
 |-------|-------|----------------------------------|-------------------------------------|--------------------------------------------|-------------|
-| W1D1  | 08/29 | Infosession                    |                                     | [Lab 0]                                    |             |
-| W1D2  | 08/31 | Infosession                  |                                     |                                     |             |
-| W2D1  | 09/05 | Intro to Unity                | [Game Design Principles]            | [Lab 1]                                    |             |
+| W1D1  | 08/29 | [Infosession]                    |                                     | [Lab 0]                                    |             |
+| W1D2  | 08/31 | [Infosession]                  |                                     |                                     |             |
+| W2D1  | 09/05 | [Intro to Unity]                | [Game Design Principles]            | [Lab 1]                                    |             |
 | W2D2  | 09/07 | Game Design                    |                                     | Programmer: [Lab 2] <br/> Artist: [Lab 3]  | [Project 1] |
 | W3D1  | 09/12 | Introduction to the Art Pipeline | [Good Graphics vs Good Aesthetics] | Programmer: [Lab 2] <br/> Artist: [Lab 3]  |             |
 | W3D2  | 09/14 | Fundamentals of Animation      |                                     | Programmer: [Lab 6] <br/> Artist: [Lab 7]  |             |
