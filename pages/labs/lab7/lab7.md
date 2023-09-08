@@ -82,4 +82,8 @@ Double-clicking on any of the four tiles will open the working Photoshop file in
 For this lab, your job is to create your own Tileset! You can make a Tileset for any environment you’d like, but it has to have two different surfaces making contact (ex. grass and cobblestone, dirt and water). Show a facilitator the 3x3 tiles for the outer and inner rounding.
 
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [Brackey's Photoshop Template]: https://goo.gl/Xih8nw

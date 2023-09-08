@@ -16,7 +16,7 @@ nav_order: 1
 
 **NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
 
-[Project Repo]
+[Lab 1 Repo]
 
 ## Lab Overview 
 In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make  art; this is an introduction to the basics of the Unity engine.
@@ -224,5 +224,5 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 
 
-[Project Repo]: https://github.com/berkeleyGamedev/UnityBasics
+[Lab 1 Repo]: https://github.com/berkeleyGamedev/UnityBasics
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 

@@ -173,3 +173,7 @@ Show your animation window and play your finished animation, which should be mad
 
 2. Add in-between frames for a smoother, more dynamic animation!
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 

@@ -10,11 +10,13 @@ _ATTENTION: This site is under construction!_
 
 ## Announcements
 
-* The Fall 2023 application is [here]! Apps are **due Friday Sept. 1, 11:59PM** and decisions will be sent out by Sunday Sept. 3rd.
+* [Lab 1] due **09/12**
 
-* We will have two infosessions on **08/29** and **08/31** at Jacobs 10 from 6:30pm - 8:00pm. Come with questions and/or for help with setting up Unity! _(Lab 0)_
+* [Lab 2] / [Lab 3] due **09/14** (You only have to do one of them based on your role.)
 
-* Questions? Join our [Discord]!
+* [Project 1] Part 1 due **09/14**
+
+* Optional Reading: [Game Design Principles]
 
 ## Schedule
 
@@ -45,29 +47,29 @@ _ATTENTION: This site is under construction!_
 | W1D2  | 08/31 | [Infosession]                  |                                     |                                     |             |
 | W2D1  | 09/05 | [Intro to Unity]                | [Game Design Principles]            | [Lab 1]                                    |             |
 | W2D2  | 09/07 | Game Design                    |                                     | Programmer: [Lab 2] <br/> Artist: [Lab 3]  | [Project 1] |
-| W3D1  | 09/12 | Introduction to the Art Pipeline | [Good Graphics vs Good Aesthetics] | Programmer: [Lab 2] <br/> Artist: [Lab 3]  |             |
-| W3D2  | 09/14 | Fundamentals of Animation      |                                     | Programmer: [Lab 6] <br/> Artist: [Lab 7]  |             |
-| W4D1  | 09/19 | Game Loops                     | [Principles of Game Design]         | [Lab 8]                                    |             |
-| W4D2  | 09/21 | User Interfaces                |                                     | Programmer: [Lab 9] <br/> Artist: [Lab 10] | [Project 2] |
-| W5D1  | 09/26 | Git Tutorial                   | [How to Pitch your Project]         | Programmer: [Lab 11] <br/> Artist: [Lab 12]|             |
+| W3D1  | 09/12 | Introduction to the Art Pipeline | Good Graphics vs Good Aesthetics | Programmer: Lab 4 <br/> Artist: Lab 5  |             |
+| W3D2  | 09/14 | Fundamentals of Animation      |                                     | Programmer: Lab 6 <br/> Artist: Lab 7  |             |
+| W4D1  | 09/19 | Game Loops                     | Principles of Game Design         | Lab 8                                    |             |
+| W4D2  | 09/21 | User Interfaces                |                                     | Programmer: Lab 9 <br/> Artist: Lab 10 | Project 2 |
+| W5D1  | 09/26 | Git Tutorial                   | How to Pitch your Project         | Programmer: Lab 11 <br/> Artist: Lab 12|             |
 | W5D2  | 09/28 | Design Docs and MVPs           |                                     |                                            |             |
-| W6D1  | 10/03 | Pitch Day                      | [How to Write a Good Game Design Document] |                                    |             |
-| W6D2  | 10/05 | Project 2 Showcase             |                                     |                                            | [Project 3] |
-| W7D1  | 10/10 | Workday                        | [Team Structures in Game Development] | Optional: [Lab 13]                         |             |
-| W7D2  | 10/12 | Tutorials                      |                                     | Optional: [Lab 14]                         |             |
-| W8D1  | 10/17 | Game Feel                      | [Tips for Better Playtesting]       | Optional: [Lab 15]                         |             |
+| W6D1  | 10/03 | Pitch Day                      | How to Write a Good Game Design Document |                                    |             |
+| W6D2  | 10/05 | Project 2 Showcase             |                                     |                                            | Project 3 |
+| W7D1  | 10/10 | Workday                        | Team Structures in Game Development | Optional: Lab 13                         |             |
+| W7D2  | 10/12 | Tutorials                      |                                     | Optional: Lab 14                         |             |
+| W8D1  | 10/17 | Game Feel                      | Tips for Better Playtesting       | Optional: Lab 15                         |             |
 | W8D2  | 10/19 | Milestone 1: MVP Playtest        |                                     |                                            |             |
-| W9D1  | 10/24 | Music and SFX                  | [Insightful Playtest Questions]     | Optional: [Lab 16]                         |             |
+| W9D1  | 10/24 | Music and SFX                  | Insightful Playtest Questions     | Optional: Lab 16                         |             |
 | W9D2  | 10/26 | Guest Lecture                 |                                     |                                            |             |
-| W10D1 | 10/31 | Accessibility                  | [Narrative Design in Games]         | Optional: [Lab 17]                         |             |
+| W10D1 | 10/31 | Accessibility                  | Narrative Design in Games         | Optional: Lab 17                         |             |
 | W10D2 | 11/02 | Milestone 2: Alpha Playtest      |                                     |                                            |             |
-| W11D1 | 11/07 | Workday                        | [Accessible Controllers]            |                                            |             |
+| W11D1 | 11/07 | Workday                        | Accessible Controllers            |                                            |             |
 | W11D2 | 11/09 | Guest Lecture                  |                                     |                                            |             |
-| W12D1 | 11/14 | AI Design                      | [AI in Gaming]                      |                                            |             |
+| W12D1 | 11/14 | AI Design                      | AI in Gaming                      |                                            |             |
 | W12D2 | 11/16 | Milestone 3: Beta Playtest       |                                     |                                            |             |
-| W13D1 | 11/21 | Workday                        | [Tutorial Design]                   |                                            |             |
+| W13D1 | 11/21 | Workday                        | Tutorial Design                   |                                            |             |
 | W13D2 | 11/23 | Thanksgiving Break               |                                     |                                            |             |
-| W14D1 | 11/28 | Building and Publishing        | [Gamification]                      |                                            |             |
+| W14D1 | 11/28 | Building and Publishing        | Gamification                      |                                            |             |
 | W14D2 | 11/30 | Course Postmortem              |                                     |                                            |             |
 | W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |            |
 
@@ -93,7 +95,7 @@ _ATTENTION: This site is under construction!_
 [Lab 16]: ./pages/labs/lab16/lab16.html
 [Lab 17]: ./pages/labs/lab17/lab17.html
 
-[Project 1]: ./pages/projects/project1/project1.html
+[Project 1]: ./pages/projects/Projects.html
 [Project 2]: ./pages/projects/project2/project2.html
 [Project 3]: ./pages/projects/project3/project3.html
 

@@ -96,3 +96,7 @@ In order to communicate with the Animator, we’ll need to create a reference to
 
 You can either (1) create a private reference and use GetComponent to retrieve the Animator or (2) create a public reference and drag/drop the Animator in from the `Inspector View`.
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 

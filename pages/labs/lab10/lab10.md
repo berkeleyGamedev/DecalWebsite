@@ -71,3 +71,8 @@ Design a health bar, stat tracker (could track anything, points, etc), an invent
 Create the assets and apply them on top of an 1920x1080 image of your background, like so (with the correct assets):
 
 ![](images\image5.png)
+
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 

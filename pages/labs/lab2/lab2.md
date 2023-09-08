@@ -14,83 +14,72 @@ nav_order: 2
 1. TOC
 {:toc}
 
+**NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
+
+[Lab 2 Repo]
+
 ## Lab Introduction
 
-In this lab, you will gain a surface level introduction to programming by interpreting and editing elements of pre-written scripts. You will not be required to create any scripts for this lab. <span style="color:blue">**Information only relevant to artists will appear in blue**</span>. <span style="color:red">**Information only relevant to programmers will appear in red.**</span>
+In this lab, you will gain a surface level introduction to programming by interpreting and editing elements of pre-written scripts. You will not be required to create any scripts for this lab.
 
 You will be adding a new enemy type to a simple minigame, converting both enemy types into Unity Prefabs, and then spawning your enemy Prefabs into the minigame.
 
-Upon completion of this lab, you should have a basic understanding of what variables are and of potential ways to modify them. You will also learn how to create and edit Prefabs in Unity. <span style="color:red">Programmers will learn about variable protection levels and gain a surface level introduction to how different types of scripts interact with each other.</span>
+Upon completion of this lab, you should have a basic understanding of what variables are and of potential ways to modify them. You will also learn how to create and edit Prefabs in Unity. Programmers will learn about variable protection levels and gain a surface level introduction to how different types of scripts interact with each other
 
 ## Lab Instructions
 ### Editing Scripts
-<ol>
-<li>Select the Main scene from the Assets folder in the Project tab. The image on your screen should match the one seen in Figure 1.</li>
-    <ul>
-        <li>Notice that the Player GameObject under Main in the `Hierarchy` tab corresponds to the purple square, while the SimpleEnemy GameObject corresponds to the red circle.</li>
-    </ul>
+Select the Main scene from the Assets folder in the Project tab. The image on your screen should match the one seen in the image below.
+- Notice that the Player GameObject under Main in the `Hierarchy` tab corresponds to the purple square, while the SimpleEnemy GameObject corresponds to the red circle.
 
-    <img src='images\image5.png'>
+![](images\image5.png)
 
-<li>Press play and observe how the game currently plays. Use WASD or the arrow keys to move the Player around. a. If the SimpleEnemy object touches the Player, the game should end.</li>
+Press play and observe how the game currently plays. Use WASD or the arrow keys to move the Player around.
+- If the SimpleEnemy object touches the Player, the game should end.
 
 In order to make this rather dull minigame more interesting, we will add multiple enemies and ensure that the player can survive more than one hit before dying.
 
+Open the Scripts folder, located under Assets in the Project tab. Navigate to the Player folder, find the script called **Health**, and double click to open it.
 
-<li>Open the Scripts folder, located under Assets in the Project tab. Navigate to the Player folder, find the script called <b>Health</b>, and double click to open it.</li>
-
-<li>You should see several lines of code similar to the ones transcribed below. Read the section indicated below.</li>
-
-
-
-<br>
-
-<pre><code class="csharp">
-public class Health: MonoBehaviour {
-
-/// Non-programmers only need to look between >>>>> and <<<<<
-
-/// >>>>>
-
-// Most scripts will have a collection of Variables at the top. 
-Similar to their function in mathematical equations, a variable is a 
-name that is associated with a value. In this example, the variable 
-startingHealth is set to a value of 1. Following the variable is 
-a comment that explains its purpose. Variables preceded by the keyword 
-public will show up in the Inspector tab when you attach this 
-script to a GameObject in the Hierarchy tab.
-
-public int startingHealth = 1; 
-// This is how much health you have before you die 
-// <<<<< Non-programmers may stop reading here 
-
-int currentHealth;
-
-}
-</code></pre>
+You should see several lines of code similar to the ones transcribed below. Read the section indicated below.
 
 
 
+        public class Health: MonoBehaviour {
 
-<br><span style="color:red">In addition to the <b>public</b> keyword used in the code block above, several other <b>variable protection levels</b> exist in programming:
-<ul>
-<li> <b>Private</b> — The default setting, meaning that no other script may access this variable (including child scripts). </li>
-<li> <b>Public</b> — All scripts may access this variable. Additionally, it will show up as a field in the Inspector tab when this script is attached to a GameObject.</li>
-    <ul>
-    <li>If you require a variable to be public but <b>not</b> show up in the Inspector, type <b>HideInInspector</b> before the variable declaration or on the line above it. </li>
-    </ul>
-<li><b>Protected</b> — Only child scripts may access this variable. No other scripts can.</li>
-</ul>
+        /// Non-programmers only need to look between >>>>> and <<<<<
 
-Each GameObject with the Health script attached to it will have its own copy of the variables declared within the script (unless the variables are preceded by the keyword **static**). Public variables will remain set to their default values unless set to another one via the Inspector. <b>Inspector changes to public variables will override values set in scripts.</b>
-</span>
+        /// >>>>>
 
-<br>We will now modify the <b>startingHealth</b> variable in the Inspector in order to allow our Player to survive more than one hit.
+        // Most scripts will have a collection of Variables at the top. 
+        Similar to their function in mathematical equations, a variable is a 
+        name that is associated with a value. In this example, the variable 
+        startingHealth is set to a value of 1. Following the variable is 
+        a comment that explains its purpose. Variables preceded by the keyword 
+        public will show up in the Inspector tab when you attach this 
+        script to a GameObject in the Hierarchy tab.
 
-<img src='images\image8.png'>
+        public int startingHealth = 1; 
+        // This is how much health you have before you die 
+        // <<<<< Non-programmers may stop reading here 
 
-<li>Exit out of this script and return to Unity, then select the Player GameObject in the Hierarchy. In the Inspector, displayed in Figure 2, locate the component titled <b>Health (Script).</b> The component should have only one modifiable field, titled <b>Starting Health.</b> Change this value to any number greater than 1.</li>
-</ol>
+        int currentHealth;
+
+        }
+
+In addition to the **public** keyword used in the code block above, several other **variable protection levels** exist in programming:
+
+- **Private** — The default setting, meaning that no other script may access this variable (including child scripts).
+- **Public** — All scripts may access this variable. Additionally, it will show up as a field in the Inspector tab when this script is attached to a GameObject.
+    - If you require a variable to be public but **not** show up in the Inspector, type **HideInInspector** before the variable declaration or on the line above it. 
+- **Protected** — Only child scripts may access this variable. No other scripts can.
+
+Each GameObject with the Health script attached to it will have its own copy of the variables declared within the script (unless the variables are preceded by the keyword **static**). Public variables will remain set to their default values unless set to another one via the Inspector. **Inspector changes to public variables will override values set in scripts.**
+
+We will now modify the **startingHealth** variable in the Inspector in order to allow our Player to survive more than one hit.
+
+- Exit out of this script and return to Unity, then select the Player GameObject in the Hierarchy. In the Inspector, displayed in the image below, locate the component titled **Health (Script).** The component should have only one modifiable field, titled **Starting Health.** Change this value to any number greater than 1.
+
+![](images\image8.png)
 
 ***Checkoff Requirement:*** The Player should be able to survive more than one hit from an Enemy.
 
@@ -99,8 +88,8 @@ Each GameObject with the Health script attached to it will have its own copy of 
 ### Creating Prefabs
 A **Prefab** is a predefined GameObject that is saved as an **Asset**, in a manner similar to how one would save a script or an art asset. Prefabs are created by dragging an existing GameObject from the `Hierarchy` into the `Project` tab. Once a Prefab has been created, you can repeatedly drag it from the `Project` tab into the `Scene` in order to create multiple copies of the object.
 
-1. Create a Prefabs folder within your Assets folder. Drag the **SimpleEnemy** GameObject from the Hierarchy into this new folder to create a new Prefab.
-2. Drag the SimpleEnemy Prefab into the Scene to instantiate a new SimpleEnemy.
+- Create a Prefabs folder within your Assets folder. Drag the **SimpleEnemy** GameObject from the Hierarchy into this new folder to create a new Prefab.
+- Drag the SimpleEnemy Prefab into the Scene to instantiate a new SimpleEnemy.
 
 Notice the following:
 - All instances of a Prefab have the same name and are numbered in order of creation.
@@ -169,7 +158,7 @@ Make the following changes to the Sniper Prefab using Prefab Mode (the second me
 
 Select the GameManager object from the Hierarchy tab and edit the **My Game Manager (Script)** component to add the Sniper to the GameManager:
 
-Drag your new Sniper Prefab onto Element 1 **0** (or add it by clicking the circle located to the right of the word “Prefab”).
+- Drag your new Sniper Prefab onto Element 1 **0** (or add it by clicking the circle located to the right of the word “Prefab”).
 
 Verify that your My Game Manager component matches the photo below.
 
@@ -182,7 +171,9 @@ Go to your new Sniper prefab and remove the **Simple Enemy Movement** component.
 
 Save the prefab and start the minigame. You should now observe that the Snipers spawn heading initially towards the Player, but proceed in a straight line rather than following the Player.
 
-***Checkoff Requirement:*** The Sniper enemy type should have a different movement pattern from the SimpleEnemy. Artists may now proceed to the summary and checkoff below. <br><span style="color:red">Open the scripts **MyGameManager.cs** and **EnemyData.cs.** These scripts combine a few different methods of making the Inspector for a script more useful:</span>
+***Checkoff Requirement:*** The Sniper enemy type should have a different movement pattern from the SimpleEnemy. 
+
+Open the scripts **MyGameManager.cs** and **EnemyData.cs.** These scripts combine a few different methods of making the Inspector for a script more useful:
 - **HideInInspector** –– Use this if you require a variable to be public (for example, in a struct or an array) but don’t want it to show up in the Inspector
 - Structs — Use these to create convenient groupings of variable names that will **remain** grouped in the Inspector
 - Arrays/Lists — Use these to make adding more elements to your game more convenient. Rather than having to add a new public variable for each enemy type, this allows you to add a new enemy entirely in the Inspector.
@@ -195,8 +186,9 @@ Take a look at the relationship between **EnemyMovement.cs**, **SimpleEnemyMovem
 - When you override a method, it is good coding practice to call the parent method by using **base.methodName()**, wherein **base** refers to the parent class.
 - Note that we separated Player and Enemy movement into different scripts; there are not many shared elements between them in the case of our minigame.
 
-Notice how **Health.cs** and **Attack.cs** interact. This is an example of how to utilize the concept of **Composition**. ∙ When an object with the Attack script attached comes into contact with another object, it will check to see if that object has a Health script. If it does, it will call that Health script’s takeDamage() function. It also checks to see if the health is less than or equal to zero, so that it can inform the GameManager that the game is over.
+Notice how **Health.cs** and **Attack.cs** interact. This is an example of how to utilize the concept of **Composition**. 
 
+- When an object with the Attack script attached comes into contact with another object, it will check to see if that object has a Health script. If it does, it will call that Health script’s takeDamage() function. It also checks to see if the health is less than or equal to zero, so that it can inform the GameManager that the game is over.
 - **Composition** is the idea of building up behaviors through modular components. For instance, an enemy has a movement script and an attack script, and these scripts together make up the behavior of an enemy. In **Inheritance**, you build unique things up from the top down by adding new features to a parent class. In Composition, you build unique things from the bottom up by assembling different pieces together in order to achieve a desired behavior.
 - Most games will utilize a combination of Composition and Inheritance.
 
@@ -241,5 +233,10 @@ Here are some additional, more challenging tasks if you’d like extra practice 
 
     - To avoid the enemies experiencing physics interactions with their new colliders, go to `Edit>Project Settings>Physics 2D` and view the Layer Collision Matrix. You can then specify which layers can collider with which layers.
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
 
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html]: https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html
+
+[Lab 2 Repo]: https://github.com/berkeleyGamedev/BasicScriptingLab

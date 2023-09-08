@@ -249,3 +249,8 @@ We have been using dynamic objects so far.  Briefly return to the different move
 3. Show that the ShooterBoss only fires projectiles while you are within its radius. Demonstrate that you can land both the ball and the robot in the desired goal zones for the GravityChamber Scene.
 4. Demonstrate that you can land the ball in the desired goal zone for the DragRoom Scene.
 5. Demonstrate that you can complete the maze in the Movement Control section of this lab and briefly explain the different types of control covered in the section.
+
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 

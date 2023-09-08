@@ -239,7 +239,10 @@ Collision Methods
 Unity Misc  
 **Script Specific Headers**
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
 
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [GameObject]: https://docs.unity3d.com/ScriptReference/GameObject.html
 [Find()]: https://docs.unity3d.com/ScriptReference/GameObject.Find.html
 [GetComponent()]: https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html

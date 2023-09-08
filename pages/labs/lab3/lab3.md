@@ -161,11 +161,10 @@ If you feel like a brief (6 min) demonstration would be helpful, check out a sup
 
 [Lospec] - Online tools for people creating pixel art and other restrictive digital art
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
 
-
-
-
-
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [Pixel Join Forum]: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
 [Pixelation​]: https://pixelation.org/
 [aP's Dither Brushes]: https://abductedplatypus.itch.io/dither-brushes

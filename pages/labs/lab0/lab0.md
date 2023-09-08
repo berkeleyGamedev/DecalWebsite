@@ -80,7 +80,10 @@ If you already have a Unity ID, you may skip this step. Otherwise, go [here] to 
 
 After your Unity Editor finishes installing, you're all set up!
 
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
 
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [here]: https://id.unity.com/en/conversations/5e65b337-3449-4920-a563-a308184ec7f8018f?view=register
 [Windows Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
 [Mac Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg

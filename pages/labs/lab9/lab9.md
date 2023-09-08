@@ -245,3 +245,8 @@ Show your shop to a facilitator to get checked off! Make sure that you can scrol
 Try adding more on top of what is given. Maybe allow items to “stack” so that their sprite is only blacked out when all of the stock is sold out. Try letting the player sell things back to the shop. Be creative!
 
 You can also redesign the shop, and set up a new layout for it.
+
+## Bug Reports
+If you experience any bugs or typos within the lab itself, please report it [here!]
+
+[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
