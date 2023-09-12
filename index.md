@@ -20,7 +20,7 @@ _ATTENTION: This site is under construction!_
 
 ## Schedule
 
-<style>
+<!-- <style>
   table th:first-of-type {
       width: 5% !important;
   }
@@ -39,10 +39,127 @@ _ATTENTION: This site is under construction!_
   table th:nth-of-type(6) {
       width: 30% !important;
   }
+</style> -->
+
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| 
+[8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14)
+
+<style>
+  table th:first-of-type {
+      width: 20% !important;
+  }
+  table th:nth-of-type(2) {
+      width: 80% !important;
+  }
 </style>
 
-| Wk.   | Date  | Lecture                          | Readings                            | Labs                                       | Projects    |
+### <a id="week-1"></a> Week 1
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 08/29 | `Lecture` [Infosession] <br/> `Lab` [Lab 0] |
+| Thu 08/31 | `Lecture` [Infosession] |
+
+### <a id="week-2"></a> Week 2
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 09/05 | `Lecture` [Intro to Unity] <br/> `Lab` [Lab 1] <br/> `Reading` [Game Design Principles] |
+| Thu 09/07 | `Lecture` [Game Design] <br/> `Lab` Programmer: [Lab 2] \| Artist: [Lab 3] <br/> `Project` [Project 1] |
+
+### <a id="week-3"></a> Week 3
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 09/12 | `Lecture` Introduction to the Art Pipeline <br/> `Lab` Programmer: Lab 4 \| Artist: Lab 5 <br/> `Reading` Good Graphics vs Good Aesthetics |
+| Thu 09/14 | `Lecture` Fundamentals of Animation <br/> `Lab` Programmer: Lab 6 \| Artist: Lab 7 |
+
+### <a id="week-4"></a> Week 4
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 09/19 | `Lecture` Game Loops <br/> `Lab` Lab 8 <br/> `Reading` Principles of Game Design |
+| Thu 09/21 | `Lecture` User Interfaces <br/> `Lab` Programmer: Lab 9 \| Artist: Lab 10 <br/> `Project` Project 2 |
+
+### <a id="week-5"></a> Week 5
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 09/26 | `Lecture` Git Tutorial <br/> `Lab` Programmer: Lab 11 \| Artist: Lab 12 <br/> `Reading` How to Pitch your Project |
+| Thu 09/28 | `Lecture` Design Docs and MVPs |
+
+### <a id="week-6"></a> Week 6
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 10/03 | `Lecture` Pitch Day <br/> `Reading` How to Write a Good Game Design Document |
+| Thu 10/05 | `Lecture` Project 2 Showcase <br/> `Project` Project 3 |
+
+### <a id="week-7"></a> Week 7
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 10/10 | `Workday` <br/> `Lab` Optional: Lab 13 <br/> `Reading` Team Structures in Game Development |
+| Thu 10/12 | `Lecture` Tutorials <br/> `Lab` Optional: Lab 14 |
+
+### <a id="week-8"></a> Week 8
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 10/17 | `Lecture` Game Feel <br/> `Lab` Optional: Lab 15 <br/> `Reading` Tips for Better Playtesting |
+| Thu 10/19 | `Playtest` Milestone 1: MVP Playtest |
+
+### <a id="week-9"></a> Week 9
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 10/24 | `Lecture` Music and SFX <br/> `Lab` Optional: Lab 16 <br/> `Reading` Insightful Playtest Questions |
+| Thu 10/26 | `Lecture` Guest Lecture |
+
+### <a id="week-10"></a> Week 10
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 10/31 | `Lecture` Accessibility <br/> `Lab` Optional: Lab 17 <br/> `Reading` Narrative Design in Games |
+| Thu 11/02 | `Playtest` Milestone 2: Alpha Playtest |
+
+### <a id="week-11"></a> Week 11
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 11/07 | `Workday` <br/> `Reading` Accessible Controllers |
+| Thu 11/09 | `Lecture` Guest Lecture |
+
+### <a id="week-12"></a> Week 12
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 11/14 | `Lecture` AI Design <br/> `Reading` AI in Gaming |
+| Thu 11/16 | `Playtest` Milestone 3: Beta Playtest |
+
+### <a id="week-13"></a> Week 13
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 11/21 | `Workday` <br/> `Reading` Tutorial Design |
+| Thu 11/23 | **Thanksgiving Break** |
+
+### <a id="week-14"></a> Week 14
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Tue 11/28 | `Lecture` Building and Publishing <br/> `Reading` Gamification |
+| Thu 11/30 | `Lecture` Course Postmortem |
+
+### Week 15
+
+| Date  | Content                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Mon 12/04 | `Event` GDD Showcase |
+
+<!-- | Wk.   | Date  | Lecture                          | Readings                            | Labs                                       | Projects    |
 |-------|-------|----------------------------------|-------------------------------------|--------------------------------------------|-------------|
+| Week 1 |
 | W1D1  | 08/29 | [Infosession]                    |                                     | [Lab 0]                                    |             |
 | W1D2  | 08/31 | [Infosession]                  |                                     |                                     |             |
 | W2D1  | 09/05 | [Intro to Unity]                | [Game Design Principles]            | [Lab 1]                                    |             |
@@ -71,7 +188,7 @@ _ATTENTION: This site is under construction!_
 | W13D2 | 11/23 | Thanksgiving Break               |                                     |                                            |             |
 | W14D1 | 11/28 | Building and Publishing        | Gamification                      |                                            |             |
 | W14D2 | 11/30 | Course Postmortem              |                                     |                                            |             |
-| W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |            |
+| W15D1 | 12/04 | GDD Showcase                     |                                     |                                            |            | -->
 
 [here]: https://tinyurl.com/f23gddapp
 [Discord]: http://tinyurl.com/GDDatBerkeley
