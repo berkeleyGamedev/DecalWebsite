@@ -9,6 +9,7 @@ nav_order: 0
 _ATTENTION: This site is under construction!_
 
 ## Announcements
+### Week 3
 
 * [Lab 1] due **09/12**
 
