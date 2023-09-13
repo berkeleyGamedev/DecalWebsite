@@ -10,6 +10,8 @@ nav_order: 4
 
 For this lab you are going to create a lot from scratch. We provide a loose framework for the game, but you will create the enemies from scratch. Exciting!
 
+Github Repo: [https://github.com/berkeleyGamedev/Advanced-Scripting]
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -242,6 +244,7 @@ Unity Misc
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
+[https://github.com/berkeleyGamedev/Advanced-Scripting]: https://github.com/berkeleyGamedev/Advanced-Scripting
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [GameObject]: https://docs.unity3d.com/ScriptReference/GameObject.html
 [Find()]: https://docs.unity3d.com/ScriptReference/GameObject.Find.html
