@@ -8,6 +8,8 @@ nav_order: 7
 # Lab 7: Tilesets
 {: .no_toc }
 
+Github Repo: [https://github.com/berkeleyGamedev/TilesetLab]
+
 ## Table of contents
 {: .no_toc .text-delta }
 
