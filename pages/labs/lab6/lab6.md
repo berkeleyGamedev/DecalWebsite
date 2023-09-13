@@ -8,6 +8,8 @@ nav_order: 6
 # Lab 6: Colliders and Rigidbodies
 {: .no_toc }
 
+Github Repo: [https://github.com/berkeleyGamedev/CollidersRigidbodyLab]
+
 ## Table of contents
 {: .no_toc .text-delta }
 
