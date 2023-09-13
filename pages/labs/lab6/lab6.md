@@ -122,7 +122,7 @@ You should now have an understanding of what Colliders are, the differences betw
 
 You will explore different properties of the Rigidbody2D component, and how changes made to them will affect the behavior of the GameObject that they are attached to.  You will also be introduced to a few different types of movement control, as well as different methods of capturing user input from a keyboard or a controller.
 
-You will complete a series of exercises designed around different properties of the Rigidbody2D component; each one can be completed by varying the property in question in order to achieve a desired behavior for the GameObject.  You will also explore movement control by using different movement methods to navigate a ball through a maze.  Finally, you will combine the concepts covered in the previous sections in order to create a Rube Goldberg machine in Unity.
+You will complete a series of exercises designed around different properties of the Rigidbody2D component; each one can be completed by varying the property in question in order to achieve a desired behavior for the GameObject.  You will also explore movement control by using different movement methods to navigate a ball through a maze.
 
 Upon completion of this lab, you should understand how to use the Rigidbody2D properties covered in the exercises.  You should also be able to explain, in your own words, the differences between different types of movement control.  You should be familiar with a few different ways to process user input and how changing the values of different fields in the Input Manager can affect gameplay.
 
@@ -253,19 +253,6 @@ We have been using dynamic objects so far.  Briefly return to the different move
 
     ![](images\freeze.png) 
 
-## Final Task
-Your final task for this lab will be to design a Rube Goldberg machine in Unity like the one seen in Figure 7 (press Play to observe how the machine works).  
-
-You are required to have at least:
-- 5 static bodies
-- 5 dynamic bodies
-- Negative/positive/zero gravity
-- Some utilization of drag, mass, and rotation freezing
-
-...in order for your machine to be checked off.  
-
-![](images\rube.png) 
-
 ## Checkoff Requirements
 
 1. Show functionality of PlayerTask1, and that it can jump when touching any physical barrier.
@@ -273,9 +260,19 @@ You are required to have at least:
 3. Show that the ShooterBoss only fires projectiles while you are within its radius. Demonstrate that you can land both the ball and the robot in the desired goal zones for the GravityChamber Scene.
 4. Demonstrate that you can land the ball in the desired goal zone for the DragRoom Scene.
 5. Demonstrate that you can complete the maze in the Movement Control section of this lab and briefly explain the different types of control covered in the section.
-6. Demonstrate that you have a working Rube Goldberg machine and that it fulfills all of the requirements.
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
+
+## Extra Credit
+If you want more practice, try designing a Rube Goldberg machine in Unity like the one seen below!
+
+You are required to have at least:
+- 5 static bodies
+- 5 dynamic bodies
+- Negative/positive/zero gravity
+- Some utilization of drag, mass, and rotation freezing
+
+![](images\rube.png) 
 
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
