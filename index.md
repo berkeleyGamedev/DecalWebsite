@@ -17,33 +17,16 @@ _ATTENTION: This site is under construction!_
 
 * [Project 1] Part 1 due **09/14**
 
-* Optional Reading: [Game Design Principles]
+* [Lab 4] / [Lab 5] due **09/19**
+
+* Optional Reading: [Good Graphics vs Good Aesthetics]
 
 ## Schedule
 
-<!-- <style>
-  table th:first-of-type {
-      width: 5% !important;
-  }
-  table th:nth-of-type(2) {
-      width: 5% !important;
-  }
-  table th:nth-of-type(3) {
-      width: 20% !important;
-  }
-  table th:nth-of-type(4) {
-      width: 20% !important;
-  }
-  table th:nth-of-type(5) {
-      width: 40% !important;
-  }
-  table th:nth-of-type(6) {
-      width: 30% !important;
-  }
-</style> -->
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3 (Current)](#week-3)
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| 
-[8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14)
+<!-- \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| 
+[8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
 <style>
   table th:first-of-type {
@@ -72,7 +55,7 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Tue 09/12 | `Lecture` Introduction to the Art Pipeline <br/> `Lab` Programmer: Lab 4 \| Artist: Lab 5 <br/> `Reading` Good Graphics vs Good Aesthetics |
+| Tue 09/12 | `Lecture` Introduction to the Art Pipeline <br/> `Lab` Programmer: [Lab 4] \| Artist: [Lab 5] <br/> `Reading` [Good Graphics vs Good Aesthetics] |
 | Thu 09/14 | `Lecture` Fundamentals of Animation <br/> `Lab` Programmer: Lab 6 \| Artist: Lab 7 |
 
 ### <a id="week-4"></a> Week 4
