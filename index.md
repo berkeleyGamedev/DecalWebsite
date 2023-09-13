@@ -55,7 +55,7 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3 (Current)](#week-3)
 
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Tue 09/12 | `Lecture` Introduction to the Art Pipeline <br/> `Lab` Programmer: [Lab 4] \| Artist: [Lab 5] <br/> `Reading` [Good Graphics vs Good Aesthetics] |
+| Tue 09/12 | `Lecture` [Introduction to the Art Pipeline] <br/> `Lab` Programmer: [Lab 4] \| Artist: [Lab 5] <br/> `Reading` [Good Graphics vs Good Aesthetics] |
 | Thu 09/14 | `Lecture` Fundamentals of Animation <br/> `Lab` Programmer: Lab 6 \| Artist: Lab 7 |
 
 ### <a id="week-4"></a> Week 4

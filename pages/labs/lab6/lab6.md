@@ -130,12 +130,18 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 
 1. Verify that the GravityChamber Scene is currently open (your screen should match Figure 1).  If it is not, Navigate to File > Open Scene > Scenes > GravityChamber.
 
-![](images\image16.png)  
+    ![](images\image16.png)  
 
 2. Deactivate the GameObject labeled **Bob the Ball** by clicking the box next to the object’s name in the *Inspector*.  If it is already deactivated, proceed to step 3.
 3. Select the GameObject **Rob the Robot** in the *Hierarchy*.
-    1. In the Inspector, select Add Component and add a Rigidbody2D component to the object (Figure 2). 
-    2. Set the **Gravity Scale** field (Figure 3) to a value of 5 and press Play.  Repeat this process with values of -1 and -2.5 and notice how these changes affect the movement of the Player.
+    1. In the Inspector, select Add Component and add a Rigidbody2D component to the object.
+
+        ![](images\rigidbody2d.png)
+
+    2. Set the **Gravity Scale** field to a value of 5 and press Play.  Repeat this process with values of -1 and -2.5 and notice how these changes affect the movement of the Player.
+
+        ![](images\gravity.png)
+
 4. Activate **Bob the Ball** by clicking the same box that we selected to deactivate it earlier.
 5. Adjust the Gravity Scales for both the ball and the robot so that the ball ends up in the bottom right corner of the box and the robot ends up in the goal zone on the ceiling.
 6. **Save this Scene before moving onto the next task.**
@@ -151,9 +157,9 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 
 ## Task 6
 
-1. Navigate to the Scene labeled **Maze** and verify that your screen matches Figure 4. The ultimate goal for each of the tasks in this section will be to move the white ball through the maze until you reach the red square.
+1. Navigate to the Scene labeled **Maze** and verify that your screen matches the image below. The ultimate goal for each of the tasks in this section will be to move the white ball through the maze until you reach the red square.
 
-![](images\image7.png)  
+    ![](images\image7.png)  
 
 2. Open the **CircleMovement** Script.  Examine the block of code that matches the one transcribed below:
 
@@ -175,9 +181,9 @@ Before we delve into the details of moveFunction1(), we will briefly examine how
 
         xAxis = Input.GetAxisRaw(“Horizontal”);
 
-1. Return to the Scene and navigate to **Edit > Project Settings**.  Select **Input**, then click the triangle next to **Horizontal**.  Verify that the window matches what you see below
+1. Return to the Scene and navigate to **Edit > Project Settings**.  Select **Input**, then click the triangle next to **Horizontal**.  Verify that the window matches what you see below:
 
-![](images\image6.png)  
+    ![](images\image6.png)  
 
 2. Here is a brief explanation of the Input fields that will be important for this task:
     1. **Name** — This field is the string that will be used to access this axis.  For example, “Horizontal” in GetAxisRaw(“Horizontal”).
@@ -186,7 +192,7 @@ Before we delve into the details of moveFunction1(), we will briefly examine how
 
             Input.GetAxisRaw(“Horizontal”) = 1 if you were to press the right arrow key or the ‘d’ button.
 
-Return to the CircleMovement script and re-examine the code block for moveFunction1().  This function defines a 2D vector using our horizontal and vertical input axes.  The **AddForce()** function applies this vector as a force to the Rigidbody2D, resulting in movement.  
+    Return to the CircleMovement script and re-examine the code block for moveFunction1().  This function defines a 2D vector using our horizontal and vertical input axes.  The **AddForce()** function applies this vector as a force to the Rigidbody2D, resulting in movement.  
 
 3. Try to run the maze using **moveFunction1()** as the function called  in **Update()** (you do not have to finish the maze in this step).  Notice what was easy and what was difficult using this type of movement and control.
 4. Now examine the code block for **moveFunction2()**, transcribed below:
@@ -196,14 +202,17 @@ Return to the CircleMovement script and re-examine the code block for moveFuncti
             playerRigidbody.MovePosition(playerRigidbody.position + movementVector);
         }
 
-This function creates the same movement vector as the first.  However, rather than applying a force to the object, this function moves the actual RigidBody to the new coordinates specified by the movement vector; for example, if your Player is at (3, -3), pressing the left arrow key and up arrow key simultaneously will transform the object’s coordinates to (3-1, -3+1), resulting in a new position of (2,-2).
+    This function creates the same movement vector as the first.  However, rather than applying a force to the object, this function moves the actual RigidBody to the new coordinates specified by the movement vector; for example, if your Player is at (3, -3), pressing the left arrow key and up arrow key simultaneously will transform the object’s coordinates to (3-1, -3+1), resulting in a new position of (2,-2).
 
 5. Change the function call in **Update()** to **movementFunction2()**.  Try to navigate the maze using this function.
-    1. You may notice the ball clipping out of the map, skipping walls, and exhibiting other puzzling behavior.  This is due to the fact that the frame time in Unity does not always remain constant; the gameObject translation occurs one frame at a time, so changes in the frame time result in the object appearing to move at an irregular speed.  For example, a frame time of 10 milliseconds means the object will step forward one hundred times per second.  However, the frame time may increase to 25 milliseconds due to factors like CPU load, meaning that the object will only step forward forty times a second.   We can correct for this by scaling our movement with the frame time, allowing for a smoother and more controlled translation.  Add the following line to moveFunction2() before moving the Player Rigidbody:
+    1. You may notice the ball clipping out of the map, skipping walls, and exhibiting other puzzling behavior.  This is due to the fact that the frame time in Unity does not always remain constant; the gameObject translation occurs one frame at a time, so changes in the frame time make the object appear as if it's moving at an irregular speed.  For example, a frame time of 10 milliseconds means the object will step forward one hundred times per second.  However, the frame time may increase to 25 milliseconds due to factors like CPU load, meaning that the object will only step forward forty times a second.   We can correct for this by scaling our movement with the frame time, allowing for a smoother and more controlled translation.  Add the following line to moveFunction2() before moving the Player Rigidbody:
 
             movementVector = movementVector * Time.deltaTime;
 
     The **Time.deltaTime** property reads out the frame time, therefore scaling the size of the movement step with changes in framerate.  
+
+    Hint: If you're stuck, try printing out the value of Time.deltaTime and the movementVector to figure out what's happening!
+
 6. Examine the code block for **moveFunction3()**, transcribed below:
 
         void moveFunction3() {
@@ -211,7 +220,7 @@ This function creates the same movement vector as the first.  However, rather th
             playerRigidbody.velocity = movementVector;
         }
 
-This type of movement is called velocity control.  We define a Vector2 movement vector in the same way as with the previous functions, then set the velocity of our gameObject to our movement vector (recall that a vector has both a direction and magnitude).  If you try to run the maze, you may notice that moveFunction3() in its current state feels identical to moveFunction2(); however, moveFunction2() moves the actual rigidbody, while moveFunction3() instantaneously sets the velocity.
+    This type of movement is called velocity control.  We define a Vector2 movement vector in the same way as with the previous functions, then set the velocity of our gameObject to our movement vector (recall that a vector has both a direction and magnitude).  If you try to run the maze, you may notice that moveFunction3() in its current state feels identical to moveFunction2(); however, moveFunction2() moves the actual rigidbody, while moveFunction3() instantaneously sets the velocity.
 
 7. We can speed up the movement of our object by adding a multiplier to our movement vector. Try out a few values greater than 1 and select the one that you feel most comfortable with.  Note that this type of vector scaling can be done with all of your movement.
 
@@ -240,7 +249,22 @@ We have been using dynamic objects so far.  Briefly return to the different move
 
 1. Navigate to the **BodiesIntro** Scene.
 2. Keep your circle as a dynamic object with the gravity set to 0.  Use whichever movement script you feel most comfortable with.  Use the player object to run into the robot, noticing if and when the robot responds to the collision across different body types.
-3. While the body type is set to dynamic, the robot may begin to rotate when you collide with it at certain angles.  We can prevent this by adjusting the constraints of the Rigidbody2D, shown in Figure 6.  Freezing the rotation of the robot around the z axis means that the robot will no longer rotate when something collides with it.  Constraints have many useful applications for preventing characters from spinning and translating in undesirable ways.
+3. While the body type is set to dynamic, the robot may begin to rotate when you collide with it at certain angles.  We can prevent this by adjusting the constraints of the Rigidbody2D, shown in the image below.  Freezing the rotation of the robot around the z axis means that the robot will no longer rotate when something collides with it.  Constraints have many useful applications for preventing characters from spinning and translating in undesirable ways.
+
+    ![](images\freeze.png) 
+
+## Final Task
+Your final task for this lab will be to design a Rube Goldberg machine in Unity like the one seen in Figure 7 (press Play to observe how the machine works).  
+
+You are required to have at least:
+- 5 static bodies
+- 5 dynamic bodies
+- Negative/positive/zero gravity
+- Some utilization of drag, mass, and rotation freezing
+
+...in order for your machine to be checked off.  
+
+![](images\rube.png) 
 
 ## Checkoff Requirements
 
@@ -249,6 +273,7 @@ We have been using dynamic objects so far.  Briefly return to the different move
 3. Show that the ShooterBoss only fires projectiles while you are within its radius. Demonstrate that you can land both the ball and the robot in the desired goal zones for the GravityChamber Scene.
 4. Demonstrate that you can land the ball in the desired goal zone for the DragRoom Scene.
 5. Demonstrate that you can complete the maze in the Movement Control section of this lab and briefly explain the different types of control covered in the section.
+6. Demonstrate that you have a working Rube Goldberg machine and that it fulfills all of the requirements.
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
