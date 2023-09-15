@@ -89,4 +89,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [Brackey's Photoshop Template]: https://goo.gl/Xih8nw
-[https://github.com/berkeleyGamedev/TilesetLab]: [https://github.com/berkeleyGamedev/TilesetLab]
+[https://github.com/berkeleyGamedev/TilesetLab]: https://github.com/berkeleyGamedev/TilesetLab

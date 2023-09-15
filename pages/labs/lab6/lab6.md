@@ -278,4 +278,4 @@ You are required to have at least:
 ![](images\rube.png) 
 
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
-[https://github.com/berkeleyGamedev/CollidersRigidbodyLab]: [https://github.com/berkeleyGamedev/CollidersRigidbodyLab]
+[https://github.com/berkeleyGamedev/CollidersRigidbodyLab]: https://github.com/berkeleyGamedev/CollidersRigidbodyLab

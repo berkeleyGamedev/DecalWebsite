@@ -11,15 +11,22 @@ _ATTENTION: This site is under construction!_
 ## Announcements
 ### Week 3
 
-* [Lab 1] due **09/12**
+#### Deadlines
 
-* [Lab 2] / [Lab 3] due **09/14** (You only have to do one of them based on your role.)
+* Programmer: [Lab 2] / Artist: [Lab 3] due **TODAY** (You only have to do one of them based on your role.)
 
-* [Project 1] Part 1 due **09/14**
+* [Project 1] Part 1 due **TODAY**
 
 * [Lab 4] / [Lab 5] due **09/19**
 
-* Optional Reading: [Good Graphics vs Good Aesthetics]
+#### Released Today
+
+* Programmer: [Lab 6] / Artist: [Lab 7] due **09/21**
+* [Project 1] Part 2 due **09/21**
+
+#### Optional Readings
+
+* [Good Graphics vs Good Aesthetics]
 
 ## Schedule
 
@@ -56,7 +63,7 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3 (Current)](#week-3)
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Tue 09/12 | `Lecture` [Introduction to the Art Pipeline] <br/> `Lab` Programmer: [Lab 4] \| Artist: [Lab 5] <br/> `Reading` [Good Graphics vs Good Aesthetics] |
-| Thu 09/14 | `Lecture` Fundamentals of Animation <br/> `Lab` Programmer: Lab 6 \| Artist: Lab 7 |
+| Thu 09/14 | `Lecture` [Fundamentals of Animation] <br/> `Lab` Programmer: [Lab 6] \| Artist: [Lab 7] |
 
 ### <a id="week-4"></a> Week 4
 
