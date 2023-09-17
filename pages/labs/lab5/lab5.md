@@ -8,6 +8,8 @@ nav_order: 5
 # Lab 5: Animation
 {: .no_toc }
 
+Github Repo: [https://github.com/berkeleyGamedev/AnimationLab]
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -176,4 +178,5 @@ Show your animation window and play your finished animation, which should be mad
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
+[https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
