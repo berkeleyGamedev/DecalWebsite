@@ -6,31 +6,14 @@ nav_order: 0
 
 # GDD Decal Fall 2023
 
-_ATTENTION: This site is under construction!_
-
-## Announcements
-### Week 3
-
-#### Deadlines
-
-* Programmer: [Lab 2] / Artist: [Lab 3] due **TODAY** (You only have to do one of them based on your role.)
-
-* [Project 1] Part 1 due **TODAY**
-
-* [Lab 4] / [Lab 5] due **09/19**
-
-#### Released Today
-
-* Programmer: [Lab 6] / Artist: [Lab 7] due **09/21**
-* [Project 1] Part 2 due **09/21**
-
-#### Optional Readings
-
-* [Good Graphics vs Good Aesthetics]
+{: .announcements }
+> * Programmer: [Lab 4] / Artist: [Lab 5] due **09/19**
+> * Programmer: [Lab 6] / Artist: [Lab 7] due **09/21**
+> * [Project 1] Part 2 due **09/21**
 
 ## Schedule
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3 (Current)](#week-3)
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#week-4)
 
 <!-- \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| 
 [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
@@ -42,7 +25,14 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3 (Current)](#week-3)
   table th:nth-of-type(2) {
       width: 80% !important;
   }
+  .heading1 {
+    color: red !important;
+    font-weight:700 !important;
+    font-size: 35px !important; 
+  }
 </style>
+
+# Markdown heading styles {#identifier .heading1}
 
 ### <a id="week-1"></a> Week 1
 
