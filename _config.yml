@@ -2,6 +2,10 @@ title: Game Design and Development
 description: The official website for the Game Design and Development Decal at UC Berkeley.
 theme: just-the-docs
 color_scheme: wider
+callouts:
+  announcements:
+    title: Weekly Announcements
+    color: purple
 
 url: https://www.gamedesigndecal.com
 
