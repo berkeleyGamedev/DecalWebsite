@@ -25,14 +25,7 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#wee
   table th:nth-of-type(2) {
       width: 80% !important;
   }
-  .heading1 {
-    color: red !important;
-    font-weight:700 !important;
-    font-size: 35px !important; 
-  }
 </style>
-
-# Markdown heading styles {#identifier .heading1}
 
 ### <a id="week-1"></a> Week 1
 

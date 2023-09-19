@@ -16,7 +16,7 @@ nav_order: 1
 
 **NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
 
-[Lab 1 Repo]
+[Download Lab 1](https://github.com/berkeleyGamedev/UnityBasics/archive/refs/heads/master.zip){: .btn .btn-purple }
 
 ## Lab Overview 
 In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make  art; this is an introduction to the basics of the Unity engine.
@@ -91,7 +91,7 @@ Here, you can organize the layout of this particular scene. The Game window show
 ![](images\image8.png)
 
 1. The play button will start running the game inside the editor so that you can test the game. Hitting the play button while the game is running will stop the game.
-2. The pause button will pause the game on a frame when you are playing it, which is useful when you want to debug a problem. 3. The step button allows you to skip forward a frame. It will pause the game if it isn’t already paused. This is also useful for debugging as it allows you to go frame by frame. 
+2. The pause button will pause the game on a frame when you are playing it, which is useful when you want to debug a problem.
 3. The step button allows you to skip forward a frame. It will pause the game if it isn’t already paused. This is also useful for debugging as  it allows you to go frame by frame.
 
 In addition, you can change variables in the inspector while the game is running, but when you stop playing the game, your changes will be reverted back to what they were before you started playing. This is important to keep in mind while testing your game.
@@ -101,7 +101,7 @@ Now that you have learned some of the basics, let’s start making a game!
 ## Space Shooter Game
 ### Setting it up
 
-Close the project you made. Open Unity Hub again, and click the arrow next to "Open". Then click "Add project from disk" and select the Unity Basics lab folder (the folder that this PDF is contained in). Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` and double click it to open it up.
+Close the project you made. Open Unity Hub again, and click the arrow next to "Open". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` and double click it to open it up.
 
 ![](images\image12.png)
 

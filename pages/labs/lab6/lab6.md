@@ -8,13 +8,13 @@ nav_order: 6
 # Lab 6: Colliders and Rigidbodies
 {: .no_toc }
 
-Github Repo: [https://github.com/berkeleyGamedev/CollidersRigidbodyLab]
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+[Download Lab 6](https://github.com/berkeleyGamedev/CollidersRigidbodyLab/archive/refs/heads/main.zip){: .btn .btn-purple }
 
 ## Overview
 This is the most work intensive and time consuming lab of this course. While it is long, it covers the fundamentals of the core mechanics of unity. This lab covers two topics, colliders and rigidbodies in two separate portions. Please push through, and good luck. 
@@ -82,7 +82,7 @@ Instead of modifying the collision functions of the bullet and ground objects, y
 ![](images\image13.png)  
 By unchecking the Bullet X Ground box, Game Objects on the Bullet and Ground layers will no longer collide with each other (physical and trigger). To access the collision matrix, go to Edit > Project Settings > Physics2D (for 2D games). This is a very useful tool in specifying your collider interactions!
 
-## Task 1
+### Task 1
 
 Open up the JumpDemo scene if you haven’t already. For this task, you will need to enable the following:  
 - PlayerTask1, MainCamera, and Environment
@@ -94,7 +94,7 @@ Open up the JumpDemo scene if you haven’t already. For this task, you will nee
 
 3. We will now fix some problems with jumping. In the Scripts folder, open PlayerControllerTask1.cs. This is the script that controls the PlayerTask1 object. Modify the sections labeled ‘Task 1’ so that you **should only be able to jump if you are touching a platform, wall, or floor.**
 
-## Task 2
+### Task 2
 
 For this task, you will need to enable the following:
 - PlayerTask2, MainCamera, and Environment
@@ -104,7 +104,7 @@ For this task, you will need to enable the following:
 
 You should only be modifying the **FeetCollider** script and **PlayerController2** script. If you need hints, take a look at the children of PlayerTask2 and the other scripts.
 
-## Task 3
+### Task 3
 
 For this task, you will need to enable the following:
 - PlayerTask2, ShooterBoss, MainCamera, and Environment
@@ -128,7 +128,7 @@ You will complete a series of exercises designed around different properties of 
 
 Upon completion of this lab, you should understand how to use the Rigidbody2D properties covered in the exercises.  You should also be able to explain, in your own words, the differences between different types of movement control.  You should be familiar with a few different ways to process user input and how changing the values of different fields in the Input Manager can affect gameplay.
 
-## Task 4
+### Task 4
 
 1. Verify that the GravityChamber Scene is currently open (your screen should match Figure 1).  If it is not, Navigate to File > Open Scene > Scenes > GravityChamber.
 
@@ -148,7 +148,7 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 5. Adjust the Gravity Scales for both the ball and the robot so that the ball ends up in the bottom right corner of the box and the robot ends up in the goal zone on the ceiling.
 6. **Save this Scene before moving onto the next task.**
 
-## Task 5
+### Task 5
 
 1. Navigate to the **DragRoom** Scene.
     1. **Drag** is a force that acts opposite to the motion of a moving object, slowing it down over time.  
@@ -157,7 +157,7 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
     1. Note that while it is possible to achieve this task by only editing one of these fields, we encourage you to explore different values in order to gain a better idea of how different changes affect the object’s movement.
 3. **Save this Scene before moving onto the next task.**
 
-## Task 6
+### Task 6
 
 1. Navigate to the Scene labeled **Maze** and verify that your screen matches the image below. The ultimate goal for each of the tasks in this section will be to move the white ball through the maze until you reach the red square.
 
@@ -235,7 +235,7 @@ Before we delve into the details of moveFunction1(), we will briefly examine how
 8. Run the maze with whichever function you feel the most comfortable with.
 9. **Save this Scene before moving onto the next task.**
 
-## Task 7
+### Task 7
 
 The body type of a Rigidbody2D determines which forces can and cannot be applied to it.  There are three types of bodies: **Dynamic**,  **Kinematic**, and **Static**.
 
