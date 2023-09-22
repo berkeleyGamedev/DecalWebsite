@@ -10,13 +10,13 @@ nav_order: 4
 
 For this lab you are going to create a lot from scratch. We provide a loose framework for the game, but you will create the enemies from scratch. Exciting!
 
-Github Repo: [https://github.com/berkeleyGamedev/Advanced-Scripting]
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+[Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-purple }
 
 ## PREFACE
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas.

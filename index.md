@@ -7,9 +7,12 @@ nav_order: 0
 # GDD Decal Fall 2023
 
 {: .announcements }
-> * Programmer: [Lab 4] / Artist: [Lab 5] due **09/19**
-> * Programmer: [Lab 6] / Artist: [Lab 7] due **09/21**
-> * [Project 1] Part 2 due **09/21**
+> * Programmer: [Lab 6] / Artist: [Lab 7] due **TODAY**
+> * [Project 1] Part 2 due **TODAY**
+> * Programmer & Artist: [Lab 8] due **09/26**
+#### Assigned Today
+> * Programmer: [Lab 9] / Artist: [Lab 10] due **09/28**
+> * [Project 2] due **09/28**
 
 ## Schedule
 
@@ -59,8 +62,8 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#wee
 
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Tue 09/19 | `Lecture` Game Loops <br/> `Lab` Lab 8 <br/> `Reading` Principles of Game Design |
-| Thu 09/21 | `Lecture` User Interfaces <br/> `Lab` Programmer: Lab 9 \| Artist: Lab 10 <br/> `Project` Project 2 |
+| Tue 09/19 | `Lecture` [Game Loops] <br/> `Lab` [Lab 8] <br/> `Reading` [Principles of Game Design] |
+| Thu 09/21 | `Lecture` [User Interfaces] <br/> `Lab` Programmer: [Lab 9] \| Artist: [Lab 10] <br/> `Project` [Project 2] |
 
 ### <a id="week-5"></a> Week 5
 

@@ -14,11 +14,12 @@ nav_order: 9
 1. TOC
 {:toc}
 
+[Download Lab 9](https://github.com/berkeleyGamedev/UILab/archive/refs/heads/master.zip){: .btn .btn-purple }
+
 ## Lab Overview
 In this lab, you will be making a shop to learn how UI elements work in Unity. UI is present in most games, yet can get quite complicated when you have to consider how the UI layout will look on different screen resolutions.
 
 This lab will cover both how to set up UI elements and anchor them correctly and get them to interact with each other. It will also cover how to use scripts to specify the functionality of your UI elements.
-
 
 ## Lab Instructions
 First, navigate to the shop scene. In the hierarchy on the left, right click and create a new canvas UI element. The canvas deals with all the UI, so every UI element must be a child of a canvas. When you make a canvas, an EventSystem will also be created. The EventSystem is responsible for processing and handling events in a scene. Every scene will have one EventSystem. We’re not going to go into the EventSystem in this lab, but feel free to look more into it on your own time.

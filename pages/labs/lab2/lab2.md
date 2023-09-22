@@ -16,7 +16,7 @@ nav_order: 2
 
 **NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
 
-[Lab 2 Repo]
+[Download Lab 2](https://github.com/berkeleyGamedev/BasicScriptingLab/archive/refs/heads/master.zip){: .btn .btn-purple }
 
 ## Lab Introduction
 
