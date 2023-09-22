@@ -53,8 +53,8 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#wee
 
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Tue 09/19 | `Lecture` Game Loops <br/> `Lab` [Lab 8] <br/> `Reading` [Principles of Game Design] |
-| Thu 09/21 | `Lecture` User Interfaces <br/> `Lab` Programmer: Lab 9 \| Artist: Lab 10 <br/> `Project` Project 2 |
+| Tue 09/19 | `Lecture` [Game Loops] <br/> `Lab` [Lab 8] <br/> `Reading` [Principles of Game Design] |
+| Thu 09/21 | `Lecture` [User Interfaces] <br/> `Lab` Programmer: [Lab 9] \| Artist: [Lab 10] <br/> `Project` [Project 2] |
 
 ### <a id="week-5"></a> Week 5
 
