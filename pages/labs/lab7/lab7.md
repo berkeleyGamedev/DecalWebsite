@@ -8,13 +8,13 @@ nav_order: 7
 # Lab 7: Tilesets
 {: .no_toc }
 
-Github Repo: [https://github.com/berkeleyGamedev/TilesetLab]
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+[Download Lab 7](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-purple }
 
 ## Overview
 

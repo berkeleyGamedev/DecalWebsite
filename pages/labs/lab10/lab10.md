@@ -37,18 +37,18 @@ Looking at these assets, it’s evident they all belong to the same game. There�
 
 Below are a few more examples of UI assets that have a very cohesive theme.
 
-![](images\image10.png)
+![](images\image10.jpg)
 
-![](images\image1.jpg)
+![](images\image1.png)
 
-![](images\image3.jpg)
+![](images\image3.png)
 
 
 ## Color
 
 By looking at these examples, it can be noted that UI tends to have a simple and generally monochromatic color palette. They’re not supposed to be a very large focal point of the game, but just there to aid in making it more stylized. However, important elements are colored and designed to be more noticeable, such as the bright design in the rewards in the Dungeon Hunter 4 example, or the congratulating words “spectacular” and “astonishing” in the Medieval UI Pack. It’s up to you to distinguish what parts of UI are more important than others; although, generally elements that directly correlate with gameplay should stand out more, such as the health bar.
 
-![](images\image9.png)
+![](images\image9.jpg)
 
 ![](images\image8.png)
 
