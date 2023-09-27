@@ -7,16 +7,16 @@ nav_order: 0
 # GDD Decal Fall 2023
 
 {: .announcements }
-> * Programmer: [Lab 6] / Artist: [Lab 7] due **TODAY**
-> * [Project 1] Part 2 due **TODAY**
-> * Programmer & Artist: [Lab 8] due **09/26**
-#### Assigned Today
+> * Programmer/Artist [Lab 8] due **TODAY**
 > * Programmer: [Lab 9] / Artist: [Lab 10] due **09/28**
-> * [Project 2] due **09/28**
+> * [Project 2] due **09/30**
+> * [Project 2 Teams] were announced in the Discord
+#### Assigned Today
+> Programmer: [Lab 11] / Artist: [Lab 12] due **10/03**
 
 ## Schedule
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#week-4)
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5 (Current)](#week-5)
 
 <!-- \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| 
 [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
@@ -62,7 +62,7 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#wee
 
 | Date  | Content                                                                                                                           |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Tue 09/26 | `Lecture` Git Tutorial <br/> `Lab` Programmer: Lab 11 \| Artist: Lab 12 <br/> `Reading` How to Pitch your Project |
+| Tue 09/26 | `Lecture` Git Tutorial <br/> `Lab` Programmer: [Lab 11] \| Artist: [Lab 12] <br/> `Reading` [How to Pitch your Project] |
 | Thu 09/28 | `Lecture` Design Docs and MVPs |
 
 ### <a id="week-6"></a> Week 6
@@ -228,3 +228,4 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4 (Current)](#wee
 [Milestone 3: Beta Playtest]: https://www.google.com/
 [Building and Publishing]: https://docs.google.com/presentation/d/1NpOozI9SgG9_Op3k6bJ_LltLWOw27IniFLPNt5bzS-k/edit?usp=drive_link
 [Course Postmortem]: https://www.google.com/
+[Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
