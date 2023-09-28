@@ -23,7 +23,7 @@ This is the most work intensive and time consuming lab of this course. While it 
 ## Colliders
 Colliders are one of the basic building blocks of games. Two of its main uses are as physical boundaries and as event triggers, both of which you will learn in this lab.
 
-![](images\image2.png)
+![](images/image2.png)
 
 To add a collider to a GameObject:
 1. Select the object in the hierarchy and then in the Inspector
@@ -35,13 +35,13 @@ For this lab, we will be using the **Box Collider 2D** and the **Circle Collider
 ## Colliders & Triggers
 If you already have a solid understanding of how colliders work, the OnCollisionEnter/Stay/Exit() functions, and the OnTriggerEnter/Stay/Exit() functions, then feel free to skip this section.
 
-![](images\image15.png)  
+![](images/image15.png)  
 Imagine these are two GameObjects moving towards each other.
 
-![](images\image11.png)  
+![](images/image11.png)  
 If neither of them have colliders, then there will be no physical collision when they bump into each other, which may not necessarily be the behavior we want. Instead, they will continue through each other.
 
-![](images\image12.png)  
+![](images/image12.png)  
 However, with colliders (NOT triggers) attached, these two squares will stop when they come into contact.
 
 There are three methods that will execute whenever a collision occurs:
@@ -53,18 +53,18 @@ To define what happens when two colliders interact, you must implement these thr
 
 **Triggers** are colliders that do not cause physical collisions, obtained by selecting the “Is Trigger” option in the collider component. Their main use case is when you want a collision to trigger something without any physical interactions or barriers.  
 
-![](images\image17.png)  
+![](images/image17.png)  
 
-![](images\image4.png)  
+![](images/image4.png)  
 If you have a trigger collider (Green), it will not physically collide with any other colliders (Blue).
 
-![](images\image14.png)  
+![](images/image14.png)  
 Instead, the trigger functions will be called in the same way as the collision functions without a physical collision. OnTriggerEnter() is called on the frame when the trigger comes into contact with another collider.
 
-![](images\image4.png)  
+![](images/image4.png)  
 OnTriggerStay() is called for every frame that the trigger and another collider remain in contact.
 
-![](images\image1.png)  
+![](images/image1.png)  
 OnTriggerExit() is called on the frame when the trigger and another collider leave contact.
 
 It’s important to note that these collider functions will only be called if at least one of the GameObjects involved in the collision has a Rigidbody component attached.  
@@ -73,14 +73,14 @@ It’s important to note that these collider functions will only be called if at
 ## Physics Layers
 Every object in Unity is assigned to a layer:  
 
-![](images\image10.png)  
+![](images/image10.png)  
 
 By default, everything is on the Default layer and Game Objects from all layers can collide with one another. However, when your game starts having multiple types of objects, collision interactions can start becoming increasingly complicated.
 
 For example, let’s say that you want a special bullet object that is able to pass through the ground but still able to hit enemies.  
 Instead of modifying the collision functions of the bullet and ground objects, you can instead utilize Unity’s layer collision matrix, which allows you to toggle collisions between specific layers:
 
-![](images\image13.png)  
+![](images/image13.png)  
 By unchecking the Bullet X Ground box, Game Objects on the Bullet and Ground layers will no longer collide with each other (physical and trigger). To access the collision matrix, go to Edit > Project Settings > Physics2D (for 2D games). This is a very useful tool in specifying your collider interactions!
 
 ### Task 1
@@ -133,17 +133,17 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 
 1. Verify that the GravityChamber Scene is currently open (your screen should match Figure 1).  If it is not, Navigate to File > Open Scene > Scenes > GravityChamber.
 
-    ![](images\image16.png)  
+    ![](images/image16.png)  
 
 2. Deactivate the GameObject labeled **Bob the Ball** by clicking the box next to the object’s name in the *Inspector*.  If it is already deactivated, proceed to step 3.
 3. Select the GameObject **Rob the Robot** in the *Hierarchy*.
     1. In the Inspector, select Add Component and add a Rigidbody2D component to the object.
 
-        ![](images\rigidbody2d.png)
+        ![](images/rigidbody2d.png)
 
     2. Set the **Gravity Scale** field to a value of 5 and press Play.  Repeat this process with values of -1 and -2.5 and notice how these changes affect the movement of the Player.
 
-        ![](images\gravity.png)
+        ![](images/gravity.png)
 
 4. Activate **Bob the Ball** by clicking the same box that we selected to deactivate it earlier.
 5. Adjust the Gravity Scales for both the ball and the robot so that the ball ends up in the bottom right corner of the box and the robot ends up in the goal zone on the ceiling.
@@ -162,7 +162,7 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 
 1. Navigate to the Scene labeled **Maze** and verify that your screen matches the image below. The ultimate goal for each of the tasks in this section will be to move the white ball through the maze until you reach the red square.
 
-    ![](images\image7.png)  
+    ![](images/image7.png)  
 
 2. Open the **CircleMovement** Script.  Examine the block of code that matches the one transcribed below:
 
@@ -186,7 +186,7 @@ Before we delve into the details of moveFunction1(), we will briefly examine how
 
 1. Return to the Scene and navigate to **Edit > Project Settings**.  Select **Input**, then click the triangle next to **Horizontal**.  Verify that the window matches what you see below:
 
-    ![](images\image6.png)  
+    ![](images/image6.png)  
 
 2. Here is a brief explanation of the Input fields that will be important for this task:
     1. **Name** — This field is the string that will be used to access this axis.  For example, “Horizontal” in GetAxisRaw(“Horizontal”).
@@ -254,7 +254,7 @@ We have been using dynamic objects so far.  Briefly return to the different move
 2. Keep your circle as a dynamic object with the gravity set to 0.  Use whichever movement script you feel most comfortable with.  Use the player object to run into the robot, noticing if and when the robot responds to the collision across different body types.
 3. While the body type is set to dynamic, the robot may begin to rotate when you collide with it at certain angles.  We can prevent this by adjusting the constraints of the Rigidbody2D, shown in the image below.  Freezing the rotation of the robot around the z axis means that the robot will no longer rotate when something collides with it.  Constraints have many useful applications for preventing characters from spinning and translating in undesirable ways.
 
-    ![](images\freeze.png) 
+    ![](images/freeze.png) 
 
 ## Checkoff Requirements
 
@@ -276,7 +276,7 @@ You are required to have at least:
 - Negative/positive/zero gravity
 - Some utilization of drag, mass, and rotation freezing
 
-![](images\rube.png) 
+![](images/rube.png) 
 
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
 [https://github.com/berkeleyGamedev/CollidersRigidbodyLab]: https://github.com/berkeleyGamedev/CollidersRigidbodyLab

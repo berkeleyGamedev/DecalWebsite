@@ -32,7 +32,7 @@ Upon completion of this lab, you should have a basic understanding of what varia
 Select the Main scene from the Assets folder in the Project tab. The image on your screen should match the one seen in the image below.
 - Notice that the Player GameObject under Main in the `Hierarchy` tab corresponds to the purple square, while the SimpleEnemy GameObject corresponds to the red circle.
 
-![](images\image5.png)
+![](images/image5.png)
 
 Press play and observe how the game currently plays. Use WASD or the arrow keys to move the Player around.
 - If the SimpleEnemy object touches the Player, the game should end.
@@ -80,7 +80,7 @@ We will now modify the **startingHealth** variable in the Inspector in order to 
 
 - Exit out of this script and return to Unity, then select the Player GameObject in the Hierarchy. In the Inspector, displayed in the image below, locate the component titled **Health (Script).** The component should have only one modifiable field, titled **Starting Health.** Change this value to any number greater than 1.
 
-![](images\image8.png)
+![](images/image8.png)
 
 ***Checkoff Requirement:*** The Player should be able to survive more than one hit from an Enemy.
 
@@ -97,7 +97,7 @@ Notice the following:
 - All instances of a Prefab are highlighted blue in the Hierarchy.
 - When you click on a Prefab in the Hierarchy, the Inspector should display an additional tab labeled Prefab. 
 
-![](images\image6.png)
+![](images/image6.png)
 
 ### Editing Prefabs
 
@@ -105,7 +105,7 @@ You may frequently want to apply edits you make to a single Prefab across all Pr
 1. Edit an instance of the Prefab in the Scene tab, then apply the change across all Prefab instances. 
     - Make a change to an instance of your Prefab.
     
-    ![](images\image7.png)
+    ![](images/image7.png)
 
     - Select the drop-down menu labeled “Overrides”.
     - Select “Apply All” to update the Prefab to match your current instance.
@@ -114,7 +114,7 @@ You may frequently want to apply edits you make to a single Prefab across all Pr
     - Open the Prefab base in Prefab Mode.
     - Make a change to the base Prefab.
     - As long as the “Auto Save” toggle is on, your changes will automatically be applied across all instances of the Prefab. If not, press the “Save” button to apply your changes.
-    ![](images\image3.png)
+    ![](images/image3.png)
 
 3. Make the default color of all SimpleEnemies blue using the first method (editing the **SpriteRenderer** component’s color field). Verify that your changes have been applied by instantiating a new SimpleEnemy afterwards.
 
@@ -138,7 +138,7 @@ Delete all SimpleEnemy instances (every SimpleEnemy object in the Scene/Hierarch
 
 We will now add a new enemy type to our minigame.
 
-![](images\image4.png)
+![](images/image4.png)
 
 Right-click the Prefab asset in the Project tab and Navigate to `Create > Prefab Variant`. Rename this variant to “Sniper”.
 
@@ -149,7 +149,7 @@ Make the following changes to the Sniper Prefab using Prefab Mode (the second me
 - Select **Add Component** and search for **Sniper Movement.**
     - Set the speed field to a value of 16 and the spawn distance field to a value of 10 (you’re welcome to experiment with different values if you would like).
     
-    ![](images\image1.png)
+    ![](images/image1.png)
     
 - Modify all variables in the **Enemy Data (Script)** component to match Figure 7. For a more detailed description of the purpose of each variable, read the comments located in the scripts. 
 
@@ -163,7 +163,7 @@ Select the GameManager object from the Hierarchy tab and edit the **My Game Mana
 
 Verify that your My Game Manager component matches the photo below.
 
-![](images\image2.png)
+![](images/image2.png)
 
 ### Debugging
 Press Play and notice the odd behavior of the Snipers. Their movement may be erratic (jittering and stuttering), or they may rush toward the Player at impossibly high speeds.
