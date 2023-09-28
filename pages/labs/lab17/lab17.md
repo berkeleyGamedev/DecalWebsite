@@ -3,6 +3,7 @@ title: "Lab 17: Delegates and Events"
 parent: Labs
 layout: home
 nav_order: 17
+nav_exclude: true
 ---
 
 # Lab 17: Delegates and Events

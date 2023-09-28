@@ -3,6 +3,7 @@ title: "Lab 12: Environment Design"
 parent: Labs
 layout: home
 nav_order: 12
+nav_exclude: true
 ---
 
 # Lab 12: Environment Design

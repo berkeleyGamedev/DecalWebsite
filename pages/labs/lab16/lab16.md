@@ -3,6 +3,7 @@ title: "Lab 16: Lighting"
 parent: Labs
 layout: home
 nav_order: 16
+nav_exclude: true
 ---
 
 # Lab 16: Lighting

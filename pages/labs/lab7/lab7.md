@@ -3,6 +3,7 @@ title: "Lab 7: Tilesets"
 parent: Labs
 layout: home
 nav_order: 7
+nav_exclude: true
 ---
 
 # Lab 7: Tilesets
@@ -14,7 +15,7 @@ nav_order: 7
 1. TOC
 {:toc}
 
-[Download Lab 7](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 7](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
 

@@ -3,6 +3,7 @@ title: "Lab 8: Animator and Blend Trees"
 parent: Labs
 layout: home
 nav_order: 8
+nav_exclude: true
 ---
 
 # Lab 8: Animator and Blend Trees
@@ -14,7 +15,7 @@ nav_order: 8
 1. TOC
 {:toc}
 
-[Download Lab 8](https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 8](https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
 

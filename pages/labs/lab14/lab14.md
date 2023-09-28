@@ -3,6 +3,7 @@ title: "Lab 14: 3D Rigging"
 parent: Labs
 layout: home
 nav_order: 14
+nav_exclude: true
 ---
 
 # Lab 14: 3D Rigging

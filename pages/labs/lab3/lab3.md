@@ -3,6 +3,7 @@ title: "Lab 3: Pixel Art and Spriting"
 parent: Labs
 layout: home
 nav_order: 3
+nav_exclude: true
 ---
 
 # Lab 3: Pixel Art and Spriting

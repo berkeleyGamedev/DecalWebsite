@@ -3,6 +3,7 @@ title: "Lab 6: Colliders and Rigidbodies"
 parent: Labs
 layout: home
 nav_order: 6
+nav_exclude: true
 ---
 
 # Lab 6: Colliders and Rigidbodies
@@ -14,7 +15,7 @@ nav_order: 6
 1. TOC
 {:toc}
 
-[Download Lab 6](https://github.com/berkeleyGamedev/CollidersRigidbodyLab/archive/refs/heads/main.zip){: .btn .btn-purple }
+[Download Lab 6](https://github.com/berkeleyGamedev/CollidersRigidbodyLab/archive/refs/heads/main.zip){: .btn .btn-blue }
 
 ## Overview
 This is the most work intensive and time consuming lab of this course. While it is long, it covers the fundamentals of the core mechanics of unity. This lab covers two topics, colliders and rigidbodies in two separate portions. Please push through, and good luck. 

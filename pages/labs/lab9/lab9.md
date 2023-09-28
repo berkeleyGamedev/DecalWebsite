@@ -3,6 +3,7 @@ title: "Lab 9: UI and Layering"
 parent: Labs
 layout: home
 nav_order: 9
+nav_exclude: true
 ---
 
 # Lab 9: UI and Layering
@@ -14,7 +15,7 @@ nav_order: 9
 1. TOC
 {:toc}
 
-[Download Lab 9](https://github.com/berkeleyGamedev/UILab/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 9](https://github.com/berkeleyGamedev/UILab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview
 In this lab, you will be making a shop to learn how UI elements work in Unity. UI is present in most games, yet can get quite complicated when you have to consider how the UI layout will look on different screen resolutions.

@@ -3,6 +3,7 @@ title: "Lab 2: Basic Scripting"
 parent: Labs
 layout: home
 nav_order: 2
+nav_exclude: true
 ---
 
 # Lab 2: Basic Scripting
@@ -16,7 +17,7 @@ nav_order: 2
 
 **NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
 
-[Download Lab 2](https://github.com/berkeleyGamedev/BasicScriptingLab/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 2](https://github.com/berkeleyGamedev/BasicScriptingLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Introduction
 

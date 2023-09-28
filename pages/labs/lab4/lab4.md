@@ -3,6 +3,7 @@ title: "Lab 4: Advanced Scripting"
 parent: Labs
 layout: home
 nav_order: 4
+nav_exclude: true
 ---
 
 # Lab 4: Advanced Scripting
@@ -16,7 +17,7 @@ For this lab you are going to create a lot from scratch. We provide a loose fram
 1. TOC
 {:toc}
 
-[Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## PREFACE
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas.

@@ -3,6 +3,7 @@ title: "Project 2"
 parent: Projects
 layout: home
 nav_order: 3
+nav_exclude: true
 ---
 
 # Project 2: Game Jam
@@ -16,7 +17,7 @@ nav_order: 3
 
 **Project Due**: Saturday 09/30 at 11:59 pm
 
-**Submission Link**: https://forms.gle/jiRECBtzHBs3KkmK6
+**Submission Link**: [Google Form]
 
 ## Overview
 For project 2, you will be working in groups of 2-3 (preferably not a group of all programmers or all artists) over the span of a week to create a game in Unity. It should be an original game idea you have or a mechanic that you find interesting (you may not repurpose any lab or project assets - scripts, art, prefabs, etc.). The project that you turn in does not have to be a fully functioning, polished game; the goal of this project is for you to see how it is to work in a team, figure out team dynamics, and learn how to scope your project.

@@ -3,6 +3,7 @@ title: "Lab 10: UI Asset Creation"
 parent: Labs
 layout: home
 nav_order: 10
+nav_exclude: true
 ---
 
 # Lab 10: UI Asset Creation

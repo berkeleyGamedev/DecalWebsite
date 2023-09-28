@@ -3,6 +3,7 @@ title: "Lab 5: Animation"
 parent: Labs
 layout: home
 nav_order: 5
+nav_exclude: true
 ---
 
 # Lab 5: Animation
@@ -14,7 +15,7 @@ nav_order: 5
 1. TOC
 {:toc}
 
-[Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
 In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation. For this lab, we will be focusing on a puppet-based method of animation that uses many of the tools that 3D animations use.  We will also be covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!

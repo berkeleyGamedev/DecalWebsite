@@ -3,6 +3,7 @@ title: "Project 1: Programmers & Hybrids"
 parent: Projects
 layout: home
 nav_order: 1
+nav_exclude: true
 ---
 
 # Project 1: Programmers / Hybrids
