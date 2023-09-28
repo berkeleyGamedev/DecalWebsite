@@ -21,7 +21,7 @@ nav_exclude: true
 If you already have a Unity ID, you may skip this step. Otherwise, go [here] to create an account.
 
 *Note*: You do not have to use your berkeley.edu email.
-![](images\image9.png)
+![](images/image9.png)
 
 ## Installing Unity Hub
 1. Install Unity Hub by clicking one of the following links, depending on your system.
@@ -32,37 +32,37 @@ If you already have a Unity ID, you may skip this step. Otherwise, go [here] to 
 
 2. Install Unity Hub. If you get this prompt, click `Allow access`.
 
-    ![](images\image6.png)
+    ![](images/image6.png)
 
 3. Sign in with the Unity ID you just created.
 
-    ![](images\image5.png)
+    ![](images/image5.png)
 
 4. If you see this prompt, check the box and click `open`.
 
-    ![](images\image8.png)
+    ![](images/image8.png)
 
 5. If prompted to install a Unity Editor, skip for now.
 
-    ![](images\image7.png)
+    ![](images/image7.png)
 
 6. Click `Get Personal Edition License`.
 
-    ![](images\image3.png)
+    ![](images/image3.png)
 
 ## Installing the Unity Editor
 
 1. On the left navigation panel, go to `Installs -> Install Editor`.
 
-    ![](images\image2.png)
+    ![](images/image2.png)
 
 2. Go to `Archive -> download archive`
 
-    ![](images\download.png)
+    ![](images/download.png)
 
 3. Go to the `Unity 2021.X` tab and search for 2021.3.16. Open with Unity Hub.
 
-    ![](images\openWithHub.png)
+    ![](images/openWithHub.png)
 
 4. By default, Unity will install Visual Studios as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code], then un-check this box.
 
@@ -77,7 +77,7 @@ If you already have a Unity ID, you may skip this step. Otherwise, go [here] to 
     *Note: The install may take a while to complete.*
     
 
-    ![](images\addingModules.png)
+    ![](images/addingModules.png)
 
 After your Unity Editor finishes installing, you're all set up!
 

@@ -27,7 +27,7 @@ tagline: A Jekyll template for course websites
 description: The course website for the Game Design Decal at UC Berkeley
 author: Henry La
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ./site_template/]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.2
