@@ -10,6 +10,7 @@ nav_order: 0
 {: .announcements }
 > * [Project 2] due **09/30**
 > * [Project 2 Teams] were announced in the Discord
+> * [Pitch Submission Form] due **10/02**
 > * Programmer: [Lab 9] / Artist: [Lab 10] due **TODAY**
 > * Programmer: [Lab 11] / Artist: [Lab 12] due **10/03**
 
@@ -45,3 +46,5 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 [Project 3]: ./pages/projects/project3/project3
 
 [Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
+
+[Pitch Submission Form]: https://forms.gle/ypPEBLJmhSN1rC4p7
