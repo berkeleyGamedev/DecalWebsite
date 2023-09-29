@@ -3,6 +3,7 @@ title: "Lab 12: Environment Design"
 parent: Labs
 layout: home
 nav_order: 12
+nav_exclude: true
 ---
 
 # Lab 12: Environment Design
@@ -22,7 +23,7 @@ of depth (a.k.a the parallax effect).
 ## Parallax Effect
 The parallax effect is created when the background moves slower than the foreground. This is accomplished through having multiple layers to a background and can look like this **(Fig. 1):**
 
-![](images\image1.png)
+![](images/image1.png)
 
 In order to create depth and the parallax effect, there are different shades of orange/red with the darker colors in the foreground and the lighter colors in the background. This depth is what is trying to be achieved in this lab.
 
@@ -34,31 +35,31 @@ There are plenty of ways to achieve depth and a parallax effect. Below are some 
 
 Depth is created through the foreground (the orange flowers and bushes), midground (the yellowish/orange field with white flowers), background 1 (dark hills with green/pink pasture on top), and background 2 (the light blue sky with clouds). In this screenshot **(Fig. 2)**, there is the use of scale and shades to create depth. 
 
-![](images\image2.png)
+![](images/image2.png)
 
 The orange flowers in the foreground are the size of Yoshi and Baby Mario. The hills in background 1 are still big, yet the midground field is bigger in size and detail. Additionally, the hills are staggered to overlap with the lighter part on the right side in front of the darker part on the right creating more depth. Background 2 contrasts the dark hills with a light blue creating more depth using that contrast.
 
-![](images\image5.png)
+![](images/image5.png)
 
 Here, the image above **(Fig. 3)** is highlighted to differentiate between the foreground (red), midground (green), and background (yellow).
 
 ## Ori and the Blind Forest
 
-![](images\image9.png)
+![](images/image9.png)
 
 In this screenshot **(Fig. 4)**, there is the foreground (the dark flower and rock tower shapes that are out of focus) and the midground (the brighter grassy pathway where Ori is located and is more detailed and in focus). Directly behind Ori, there is a cavity that uses the layers of the tree with lighter browns closer to Ori and darker browns further from it. This is the opposite of **Figure 1**. Yet on the right side of the tree, there is the gradation from the lighter brownish green to the darker, shadowed teal green like the background hills in **Figure 1**. The use of different shades of color creates depth in this frame. Also, the interruption of the smooth transition between shades of color (indicated in **Figure 5**) creates a strong contrast and depth.
 
-![](images\image4.png)
+![](images/image4.png)
 
 The image above **(Fig. 5)** is highlighted to differentiate the foreground (red), midground (green), and background (yellow). It also includes focus on the door, shading, and interruption of smooth transition.
 
 ## Pixel Art
 
-![](images\image3.png)
+![](images/image3.png)
 
 **(Fig. 6)**
 
-![](images\image6.png)
+![](images/image6.png)
 
 **(Fig. 7)** Figure 7 is highlighted to differentiate the foreground (red), midground (green), and background (yellow).
 
@@ -68,9 +69,9 @@ This piece exemplifies what is trying to be accomplished with this lab. There is
 
 For Photoshop, go to `File > Export > Layers to Files…`. Then in the pop up menu, change File Type to PNG-8. Photoshop will export each layer as a separate file –– perfect for Unity!
 
-![](images\image7.png)
+![](images/image7.png)
 
-![](images\image8.png)
+![](images/image8.png)
 
 ## General Tips
 

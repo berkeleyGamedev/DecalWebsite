@@ -3,6 +3,7 @@ title: "Lab 3: Pixel Art and Spriting"
 parent: Labs
 layout: home
 nav_order: 3
+nav_exclude: true
 ---
 
 # Lab 3: Pixel Art and Spriting
@@ -32,15 +33,15 @@ For those interested, there are a few other lightweight software options for pix
 
 To make scaling pixel art up and down easier, as well as to enable compression and optimization at a game engine level, the standard is to keep canvas dimensions for pixel art **powers of two​.** Some commonly used dimensions are: 
 - 32 x 32
-![](images\image12.png)
+![](images/image12.png)
 - 64 x 64
-![](images\image9.png)
+![](images/image9.png)
 - 128 x 128
-![](images\image3.png)
+![](images/image3.png)
 - 256 x 256
-![](images\image5.png)
+![](images/image5.png)
 - 512 x 512
-![](images\image10.png)
+![](images/image10.png)
 
 
 ## Tips and Techniques
@@ -50,7 +51,7 @@ Pixel art is one of the most accessible forms of art because instead of relying 
 ### Dithering
 Dithering is the simulation of a gradient with often very ​few ​colors. Using different dithering patterns you can create a pleasing transition between two colors. Since limited palettes are encouraged in pixel art, dithering is extremely helpful and almost always used in every piece. 
 
-![](images\image1.png)
+![](images/image1.png)
 
 #### Dithering with Photoshop Brushes
 
@@ -60,7 +61,7 @@ While dithering can be done by hand, photoshop has third-party brushes that make
 ### Anti-Aliasing
 Anti-aliasing is a stylistic choice​ ​used to make your pixel art look smoother when zoomed out by using gray pixels to fill in sharp edges​. ​Some pixel artist traditionalists disparage anti-aliasing, while others use it generously for smoother-looking lines. In general, NOT using anti-aliasing will make your pixel art look ​more old-school, lower definition, and more “pixely”. ​In contrast, using anti-aliasing will give the illusion of ​higher resolution artwork and smoother lines/color transitions. ​Which style you prefer is purely up to you and your vision for the game. 
 
-![](images\image7.png)
+![](images/image7.png)
 
 ### Pixel Clusters
 Pixel clusters are ​groups of pixels of the same color​ that together produce a solid color field. Think of it as an area filled in with a solid color by the paint bucket tool. While this may seem obvious, it is easy to get lost in dithering and blending and end up with too much fine detail and noise and lose the benefits that clusters bring. 
@@ -70,7 +71,7 @@ Pixel clusters serve two purposes:
     - Clusters provide areas of stability 
     - Brightness and colors are exponential in nature; a group of various pixels is easily dominated by the strongest one(s), often producing a noisy appearance
 
-    ![](images\image11.png)
+    ![](images/image11.png)
 
 2. Aesthetics
     - Clusters are visually and geometrically pleasing 
@@ -82,29 +83,29 @@ There are two common types of jaggies: corners and curves.
 1. Corners:
     - When you quickly draw a pixelated line, every pixel in that line is ​directly adjacent​ to another pixel, so there are no ​“diagonals”​ and the line looks thick, uneven, and jagged. Going back in with an eraser to fine tune the line makes a very noticeable difference. 
 
-    ![](images\image2.png)
+    ![](images/image2.png)
 
 2. Curves:
     - For a line to be read as a “curve”, the spacing of the pixels must be very symmetrical and mathematical. Otherwise the line reads awkwardly and looks messy. 
 
-    ![](images\image13.png)
+    ![](images/image13.png)
 
 ### Pillow Shading
 Pillow shading is shading from the outline inwards, with the colors getting progressively lighter as they move to the center of the sprite. Try to avoid this as it usually looks unrealistic. Instead, choose a light source direction, make that the lightest point, and shade outwards from there. 
 
-![](images\image4.png)
+![](images/image4.png)
 
 
 ## <span style="color:blue">Your Task</span>
 
 <span style="color:blue">Finally - with these resources in mind, your task is to create a single pixel rendition of this character:</span>
 
-![](images\image8.png)
+![](images/image8.png)
 
 
 <span style="color:blue">To add some life, use some sort of pose.​ ​It can be simple, as long as the character isn’t in the same generic pose as the reference image. For example:</span>
 
-![](images\image15.png)
+![](images/image15.png)
 
 <span style="color:blue">Pointers:</span>
 
@@ -127,7 +128,7 @@ This is an optional generalized guide to help you through the process if you fee
     - Remember to **​dither** ​your colors when you want to blend them together 
     - Don’t use all colors in equal amounts! Divide them into **​main (60%), secondary (30%), and accent (10%)**​ to reach a good balance, like below.
 
-    ![](images\image14.png)
+    ![](images/image14.png)
 
     - Try to **​avoid​ ​darkening with black ​and ​lightening with white.** ​This usually looks unrealistic, since light in real life is rarely pure white light!​ ​For example, try **purple-ish tones as shadows** ​and **​light​ ​yellow/orange-ish tones as highlights.**  
 

@@ -3,6 +3,7 @@ title: "Lab 10: UI Asset Creation"
 parent: Labs
 layout: home
 nav_order: 10
+nav_exclude: true
 ---
 
 # Lab 10: UI Asset Creation
@@ -25,32 +26,32 @@ UI is a very underrated aspect of game design. If done well, it goes unnoticed. 
 
 First, it’s always great to take a look at what works well. Very popular titles like Hollow Knight, Stardew Valley, Overwatch, and even Minecraft have all nailed down their UI assets.
 
-![](images\image7.png)
+![](images/image7.png)
 
-![](images\image4.jpg)
+![](images/image4.jpg)
 
-![](images\image6.jpg)
+![](images/image6.jpg)
 
-![](images\image2.jpg)
+![](images/image2.jpg)
 
 Looking at these assets, it’s evident they all belong to the same game. There’s a general wooden feel to the assets, with wooden backgrounds to the title image and the background behind the governor. All the assets also have a dark brown wooden frame around them, visible in the buttons on the start screen, dialogue box, fishing game, and inventory. The color palette of these assets is an analogous palette of various browns. 
 
 Below are a few more examples of UI assets that have a very cohesive theme.
 
-![](images\image10.jpg)
+![](images/image10.jpg)
 
-![](images\image1.png)
+![](images/image1.png)
 
-![](images\image3.png)
+![](images/image3.png)
 
 
 ## Color
 
 By looking at these examples, it can be noted that UI tends to have a simple and generally monochromatic color palette. They’re not supposed to be a very large focal point of the game, but just there to aid in making it more stylized. However, important elements are colored and designed to be more noticeable, such as the bright design in the rewards in the Dungeon Hunter 4 example, or the congratulating words “spectacular” and “astonishing” in the Medieval UI Pack. It’s up to you to distinguish what parts of UI are more important than others; although, generally elements that directly correlate with gameplay should stand out more, such as the health bar.
 
-![](images\image9.jpg)
+![](images/image9.jpg)
 
-![](images\image8.png)
+![](images/image8.png)
 
 Taking a look at these two menus, the general color scheme of UI assets is one that contrasts enough with the background to stand out, but don’t stand out so much as to distract from the general gameplay. They also generally contain 2 main colors, with the left game being blue and white and the right side game being brown and beige. A limited palette is best for UI as to not take away from the game. 
 
@@ -70,7 +71,7 @@ Design a health bar, stat tracker (could track anything, points, etc), an invent
 
 Create the assets and apply them on top of an 1920x1080 image of your background, like so (with the correct assets):
 
-![](images\image5.png)
+![](images/image5.png)
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]

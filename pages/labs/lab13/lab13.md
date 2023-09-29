@@ -3,6 +3,7 @@ title: "Lab 13: Transitioning, Saving and Building"
 parent: Labs
 layout: home
 nav_order: 13
+nav_exclude: true
 ---
 
 # Lab 13: Transitioning, Saving and Building

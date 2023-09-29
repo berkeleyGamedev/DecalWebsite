@@ -3,6 +3,7 @@ title: "Project 3"
 parent: Projects
 layout: home
 nav_order: 4
+nav_exclude: true
 ---
 
 # Project 3: Final

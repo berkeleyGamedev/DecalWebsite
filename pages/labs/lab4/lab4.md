@@ -3,6 +3,7 @@ title: "Lab 4: Advanced Scripting"
 parent: Labs
 layout: home
 nav_order: 4
+nav_exclude: true
 ---
 
 # Lab 4: Advanced Scripting
@@ -16,7 +17,7 @@ For this lab you are going to create a lot from scratch. We provide a loose fram
 1. TOC
 {:toc}
 
-[Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## PREFACE
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas.
@@ -27,7 +28,7 @@ You almost certainly have run into at least one of these by now so I will keep i
 1. [Find()]  
     Returns a GameObject with the specified name
 
-    ![](images\image3.png)
+    ![](images/image3.png)
     - Ex: In the Basic Scripting Lab, the GameObject for the player in the scene was named “Player”. Thus, if we write  
 
             foo = GameObject.Find(‘Player’);  
@@ -67,7 +68,7 @@ We encourage you to explore the linked Script References. There are a lot of sim
 ### Singletons
 A singleton, as you may or may not have learned from other classes, is an object that there is only one of. This is a really useful model for **centralized systems** in your game. Some good examples of scripts where this may be useful include: *SpawnManager, PlayerData, LevelLoader* (These are made up names to get the idea across). So how do we make a singleton? Easy!
 
-![](images\image4.jpg)  
+![](images/image4.jpg)  
 Let’s break this down.
 - First off this is not a true singleton in that you could technically make more of them by attaching this script to more objects, but this does not matter for our use case
 - Public means all scripts anywhere can access this variable
@@ -140,7 +141,7 @@ Do not worry if you don’t know what some of these things mean. As you go spend
 ## The actual lab assignment!
 **BEFORE YOU START: Make sure your screen looks like this picture. If it doesn’t, go to File > Open Scene > Scenes > Main.unity**
 
-![](images\image2.png)  
+![](images/image2.png)  
 
 Sorry for the essay above, there is a lot to cover.
 

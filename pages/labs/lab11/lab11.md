@@ -3,6 +3,7 @@ title: "Lab 11: Coroutines"
 parent: Labs
 layout: home
 nav_order: 11
+nav_exclude: true
 ---
 
 # Lab 11: Coroutines
@@ -14,7 +15,7 @@ nav_order: 11
 1. TOC
 {:toc}
 
-[Download Lab 11](https://github.com/berkeleyGamedev/Coroutines/archive/refs/heads/master.zip){: .btn .btn-purple }
+[Download Lab 11](https://github.com/berkeleyGamedev/Coroutines/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview 
 

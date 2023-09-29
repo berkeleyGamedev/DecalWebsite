@@ -1,0 +1,106 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'module';
+@import 'schedule';
+@import 'staffer';
+
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+details {
+  @extend .mb-4;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+
+  width: 100%;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
+
+@media (min-width: 50rem) {
+  .site-header {
+    max-height: 13.75rem !important;
+    height: 100% !important;
+  }
+}
+
+.module {
+  margin: 1rem 0rem !important;
+}
+
+a {
+  color: $blue-100;
+}
+
+.side-bar {
+  background-color: rgba(44, 132, 250, 0.2) !important;
+}
+
+.nav-list-expander {
+  display: none !important;
+  color: $blue-100 !important;
+}
+
+.icon {
+  color: $blue-100 !important;
+}
+
+body {
+  font-family: 'Comic Sans', 'Comic Sans MS', 'Arial' !important;
+}
+
+.gdd-brown {
+  background-color: #c49a6c !important;
+}
+
+.gdd-blue {
+  background-color: #69b8e7 !important;
+}
+
+.gdd-yellow {
+  background-color: #f7c35a !important;
+}
+
+.gdd-navy {
+  background-color: #29528c !important;
+}
