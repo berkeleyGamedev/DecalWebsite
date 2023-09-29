@@ -1,5 +1,5 @@
 ---
-name: Jackie Dai
+name: Juju No
 role: Teaching Assistant
 email:
 website:
