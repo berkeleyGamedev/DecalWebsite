@@ -43,7 +43,7 @@ Let’s make our shop background look a bit better by shortening the width of th
 
 Now change the width and height of the panel to your liking by dragging the corners.
 
-<img align="right" src="images/image21.png" alt="drawing" width="200" class="ml-2" />  
+![](images/image21.png)
 
 Once you find a proportion you like, look at the RectTransform component. If you click on the box on the left, you’ll be able to change the anchor presets.
 Simply clicking on any of the options will set the anchors (the white triangles) to that position. This will affect the way the UI elements change as the screen changes in resolution or size. For example, if you set the anchors to the top left, if you drag the size of the Game display larger and smaller or change the resolution, the UI element will stay at the top left of the screen.
@@ -51,13 +51,14 @@ If you hold down Shift and click one of the squares, you’ll also set the pivot
 Lastly, if you hold down Alt and click on a square, you’ll set the position of your element. This is pretty straightforward.
 The options on the right and bottom allow you to expand your element to stretch the entire width or height of its parent. Remember that all of these options will change your element’s anchors, pivot, and position *in relation* to its parent!
 
-<img align="right" src="images/image6.png" alt="drawing" width="400" class="ml-2" />  
+![](images/image6.png)
 
 With that being said, let’s anchor our UI to the center of the screen. Hold down Alt and click on the middle square so that we set the position and anchor of the Panel to the center.  
 <br><br><br><br>
 Now, let’s add the title and exit button. Create a new Image and Button as children of the Panel.
 
-![](images/image32.png)  
+![](images/image32.png)
+
 ![](images/image15.png)  
 
 Go into the GUI folder and put the *hp panel* sprite on the Image, and the *x button passive* on the Button’s image component. Let’s also name the objects so they’re a bit more organized. Lastly, use the RectTransform of each object to anchor the Image to the top center of the panel, and the Button to the bottom center of the panel. Drag the corners around until you’re satisfied with the size of your elements.
@@ -70,12 +71,13 @@ TextMeshPro is a replacement for Unity’s default text option. To put it briefl
 
 If you select the text, you should see it in the scene. You can change the text in the TextMeshPro component in the inspector. Remember to anchor your text as well to the center of the component through the RectTransform. TextMeshPro has many options for the font type, size, alignment, etc. Here, I’ve changed the font and set the alignment to center.
 
-<img src="images/image13.png" alt="drawing" width="200" class="ml-2" style="display:flex; float:right" />  
-<img src="images/image7.png" alt="drawing" width="200" class="ml-2" style="display:flex; float:right" />  
+![](images/image13.png)
+
+![](images/image7.png)
 
 Now let’s start setting up the items to be sold in the shop. Make a new Image element as a child of the panel and name it Spacer. Go to the RectTransform to anchor it to the center of the panel holding down Shift and Alt to also change the pivot and position, and also click on the bottom right square. This will cause the image to stretch over your entire panel. Now drag the corners to resize the image so that it only covers the section of the panel where you want to display the items of the shop. Be sure to leave some room on the right for the scroll bar.
 
-<img src="images/image29.png" alt="drawing" width="200" class="ml-2" style="display:flex; float:right" />  
+![](images/image29.png)
 
 Now make another Image that is a child of Spacer. Name this Grid. This is the grid of all items that are going to be sold. Use RectTransform on this image as well, holding down Shift and Alt and clicking on the rightmost option. This will stretch the element width-wise to fill its parent.
 Now add two components to Grid in the inspector: a Content Size Fitter and a Vertical Layout Group. Both components are used to allow the grid of items to grow as you add more elements into it. Content Size Fitter will change the size of the grid as you add things, and Vertical Layout Group will help you order things as you add more elements into the grid.
@@ -84,7 +86,7 @@ Now add two components to Grid in the inspector: a Content Size Fitter and a Ver
 
 You don’t have to change anything in Vertical Layout Group, but in Content size Fitter, change the Vertical Fit to be Preferred Size instead of Unconstrained. This will cause the height of the image to be 0 for now, but as you add things to the grid, it will also grow in size.
 
-<img align="right" src="images/image25.png" alt="drawing" width="400" class="ml-2" />  
+![](images/image25.png)
 
 Now in Spacer, add a Button and name it Item. Make sure you’re creating this element as a child of Spacer, not Grid. This button will be how the player can buy an item, and should show multiple things: a picture of the item, the name of the item, and the price/whether you have bought the item or not. We will make a Prefab out of this, so that we can Instantiate as many items as we need.
 
@@ -124,8 +126,9 @@ Great! Now we have the scroll working. However, you’ll notice that items are o
 
 Nice! We have the entire scroll system set up. Now that we have the scrollbar implemented, let’s work on the items. Delete every item button except for the first one. Delete its child default Text object and replace it with two TextMeshPro objects. Also add an Image to the item (as a child). This will be the sprite of the item. Anchor and position the Text and Image objects like so:
 
-<img align="right" src="images/image5.png" alt="drawing" width="200" class="m-2" />  
-<img src="images/image4.png" alt="drawing" width="500" />  
+![](images/image5.png)
+
+![](images/image4.png)
 
 Now let’s make this into a Prefab. Create a Prefabs folder inside your Assets folder and drag the Item button into it. Once done, you should see a blue cube. Now every time we want to make a new Item slot, we can just drag out an instance of the prefab.
 
@@ -137,18 +140,19 @@ Finally, let’s add some functionality to our buttons! If you select your Item,
 
 Alright, let’s start adding the scripts! Create a new GameObject in the scene, independent of all our UI elements. Name this GameObject *GameManager*, and attach the GameManager script onto it. This will handle the currency system. Take the Money Text GameObject you just created and drag it to the Money parameter in the GameManager component. Also set your money to some number. I’m setting it as 1000.
 
-![](images/image23.png)  
+![](images/image23.png)
 
-<img align="right" src="images/image1.png" alt="drawing" width="200" class="m-2" />  
+![](images/image1.png) 
 
 Now go to the Panel GameObject and add the script ItemShop to it. In that script component, there should be an expandable field called Item List. Set the size to 5. Once you do, you should see a list of empty elements. For each one, set the item ID’s from 1 to 5 (don’t index from 0), add the necessary sprites from the Sprites folder, and set the item names and prices.
 
 Now go to your Item GameObject. Add the script ItemHolder to it, and drag the corresponding UI elements for each item into the fields. The top text should be the item name, and the bottom text should be the item price.
 
-![](images/image12.png)  
+![](images/image12.png)
 
-<img align="right" src="images/image2.png" alt="drawing" width="200" class="m-2" />  
-<img align="right" src="images/image34.png" alt="drawing" width="200" class="m-2" />  
+![](images/image2.png)
+
+![](images/image34.png)
 
 Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. 
 
@@ -158,7 +162,7 @@ Now let’s make the buttons actually do something. In the item in the hierarchy
 
 ![](images/image8.png)  
 
-<img align="right" src="images/image19.png" alt="drawing" width="200" class="m-2" />  
+![](images/image19.png)
 
 Then make sure to apply the prefab changes again. Now you can delete this GameObject from the scene. If you play the game, you should be able to click on each item and buy it.
 
@@ -188,7 +192,7 @@ One problem many people have when dealing with Canvas UI elements is layering. S
 above another, or you have a button that you can't seem to click. These issues are usually due to improper layering. For a quick
 exercise in understanding UI layering, navigate to the "Layering" Scene under the Scenes folder.
 
-<img align="left" src="images/image9.png" alt="drawing" width="200" class="m-2" />  
+![](images/image9.png)
 
 In the scene hierarchy, notice that Canvas_1 has 4 child elements: Blue Background, Green
 Square, Red Square, and Yellow Button. This is the same order in which they are rendered
@@ -197,14 +201,14 @@ happens. The ordering changed!
 When it comes to UI elements in a canvas, the order of the elements is determined by the
 Hierarchy order. Changing the z position of a UI element will have no effect on the ordering.
 
-<img align="right" src="images/image28.png" alt="drawing" width="200" class="m-2" />  
+![](images/image28.png)
 
 Select the Red Square and change its alpha value to 125 in the Inspector. Enter play
 mode and click the Yellow Button. It should display the number of clicks in the console.
 While still in play mode, move the button above the Red Square in the Hierarchy and
 try clicking now. Nothing happens because the button is now being blocked.
-<br><br><br><br>
-<img align="left" src="images/image22.png" alt="drawing" width="200" class="m-2" />  
+
+![](images/image22.png)
 
 Now try un-checking Raycast Target in the Red Square's Image component. You
 should now be able to click the button, but why?
