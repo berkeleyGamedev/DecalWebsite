@@ -2,12 +2,12 @@
 title: Week 5
 ---
 
-Aug 26
+Sep 26
 : **Lecture**{: .label .gdd-blue }[Git Tutorial]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 11] / Artist: [Lab 12]
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
-Aug 28
+Sep 28
 : **Lecture**{: .label .gdd-blue }Design Docs and MVPs
 
 [Git Tutorial]: https://docs.google.com/presentation/d/1CNgyW64qSacAchdhFqy_PuAwIlA8sFwhfWEb3dnrquU/edit?usp=drive_link 

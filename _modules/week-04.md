@@ -2,12 +2,12 @@
 title: Week 4
 ---
 
-Aug 19
+Sep 19
 : **Lecture**{: .label .gdd-blue }[Game Loops]
 : **Lab**{: .label .gdd-yellow }[Lab 8]
 : **Reading**{: .label .gdd-brown }[Principles of Game Design]
 
-Aug 21
+Sep 21
 : **Lecture**{: .label .gdd-blue }[User Interfaces]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9] / Artist: [Lab 10]
 : **Project**{: .label .gdd-navy }[Project 2]

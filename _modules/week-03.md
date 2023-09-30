@@ -2,12 +2,12 @@
 title: Week 3
 ---
 
-Aug 12
+Sep 12
 : **Lecture**{: .label .gdd-blue }[Introduction to the Art Pipeline]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 4] / Artist: [Lab 5]
 : **Reading**{: .label .gdd-brown }[Good Graphics vs Good Aesthetics]
 
-Aug 14
+Sep 14
 : **Lecture**{: .label .gdd-blue }[Fundamentals of Animation]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6] / Artist: [Lab 7]
 

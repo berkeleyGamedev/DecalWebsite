@@ -2,11 +2,11 @@
 title: Week 1
 ---
 
-Sep 29
+Aug 29
 : **Lecture**{: .label .gdd-blue }[Infosession]
 : **Lab**{: .label .gdd-yellow }[Lab 0]
 
-Sep 31
+Aug 31
 : **Lecture**{: .label .gdd-blue }[Infosession]
 
 
