@@ -8,13 +8,9 @@ nav_order: 0
 # Game Design Decal Fall 2023
 
 {: .announcements }
-> * [Project 2] due **09/30**
-> * [Project 2 Teams] were announced in the Discord
-> * [Pitch Submission Form] due **10/02**
-> * Programmer: [Lab 9] / Artist: [Lab 10] due **TODAY**
-> * Programmer: [Lab 11] / Artist: [Lab 12] due **10/03**
+> * Project 2 Showcase and Project 3 Teams!
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5 (Current)](#week-5)
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6 (Current)](#week-6)
 
 ## Schedule
 

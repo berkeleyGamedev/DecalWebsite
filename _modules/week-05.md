@@ -8,7 +8,7 @@ Sep 26
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
 Sep 28
-: **Lecture**{: .label .gdd-blue }Design Docs and MVPs
+: **Lecture**{: .label .gdd-blue }[Design Docs and MVPs]
 
 [Git Tutorial]: https://docs.google.com/presentation/d/1CNgyW64qSacAchdhFqy_PuAwIlA8sFwhfWEb3dnrquU/edit?usp=drive_link 
 [Design Docs and MVPs]: https://docs.google.com/presentation/d/1r4FYWasjGUt2oOQVp5gYr5LQPbOkT95q/edit?usp=drive_link&ouid=100199393940763246714&rtpof=true&sd=true
