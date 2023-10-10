@@ -252,6 +252,8 @@ Figure 25
 
 ![](images\figure25.png)
 
+![](images\image24.png)
+
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
