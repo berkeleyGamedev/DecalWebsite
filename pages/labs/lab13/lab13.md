@@ -205,15 +205,26 @@ Figure 15
 
 ![](images\figure15_1.png)
 
+![](images\figure15_2.png)
+
 The list of types that Unity can serialize can be found here: [https://docs.unity3d.com/Manual/script-Serialization.html#FieldSerliaized2]
 
 The [System.Serializable] lets Unity know that it will be serialized. Any object inside Game needs to be serializable for it to be written to an outside file. 
 
-![](images\figure15_2.png)
+- Now open up the SaveData script (the second class you should have created). This class will be used to write and read the files. This script will also not be a MonoBehavior script. The beginning will look like Game.cs (ie no “MonoBehavior” at the top of the script). There are a few packages that need to be used for serializing and formatting files. The new packages are System.IO and System.Runtime.Serialization.Formatters.Binary, but the default packages are still necessary. Make sure SaveData.cs contains Figure 16.
 
 Figure 16
 
 ![](images\figure16.png)
+
+There are only 3 main things necessary in this script. 
+
+- First, add a public variable for a Game object. See Figure 17.
+
+- Second, add a way to write files, or save data. This is done by finding the current game, which is of the class Game and is the object current in that script, and using FileStream to write it to a new file. When the BinaryFormatter serializes the saved game, all of the data inside Game.current has been saved to an outside file that can be called when a game needs to be loaded. FileStream creates the outside save data file. See Figure 18.
+
+- The third and final necessary component is a method to read files, or load data. This is basically the reverse of the last function. Now savedGame contains all of the data from the loaded file. We will also add a check to make sure some previous save data exists before trying to load something that does not exist. See Figure 19.
+
 
 Figure 17
 
@@ -225,32 +236,125 @@ Figure 18
 
 Figure 19
 
+Great! Now the system is ready to use, all we need to do now is to call these functions at the right time. For this game, any saved game will automatically be loaded up into the game once it is opened and saving will be done manually by pressing a button. 
+
+- First, since we want saving to be done by pressing a button, we want to create a public function, which we will do in SceneController.
+
+- Create a new function SaveGame() in SceneController. Each time we save the game, we will create a new Game to set to Game.current so that it has the most updated number of candies. The code for SaveGame() in SceneController.cs should look like Figure 20:
+
+
 ![](images\figure19.png)
 
 Figure 20
 
 ![](images\figure20.png)
 
+Loading the game will have a similar function except this will also be reversed. This time, the saved data will be loaded first and then the candy number in Player will be changed by “Player.NumCandies = num”. LoadGame() will have a check to see whether SaveData.savedGame exists. If not then the player will start with 0 candies.
+
+- Edit the code for LoadGame() in SceneController.cs to look like Figure 21: 
+
+
 Figure 21
 
 ![](images\figure21.png)
+
+Since loading happens automatically, we want it to happen first, and only once. We have a few additional modifications to make before loading works as expected. Since we want it to happen first: 
+
+- Place it in the Awake() of SceneController. Because Awake() is only called once per scene, we do not have to worry about loading multiple times in a scene. However, we do have to worry about it being called whenever we transition to a new scene. This can be remedied by having a static boolean to only have it work once. So this will only cause LoadGame() to be called once. SceneController.cs should now contain Figure 22. 
 
 Figure 22
 
 ![](images\figure22.png)
 
+We will add two more things before going back to the editor: a way to reset the progress and a way to close the game. There should be a way to reset the progress, as in make the number of candies be 0. There is already a button in the Menu scene to do this, the function just needs to be written. This can be done by setting m_Player.NumCandies = 0 and then saving the game. 
+
+- Add the code in Figure23 to SceneController.cs to accomplish the above. 
+CHECKOFF TIP: The reset button should work :).
+
 Figure 23
 
 ![](images\figure23.png)
+
+Next, there is going to be a button to quit the game (though this button will only work after you build the game). There is a concise line of code that can perform this: Application.Quit(). All we need is a public function that will call that function to close the game once it is opened. 
+
+- In SceneController.cs, add Figure 24: 
 
 
 Figure 24
 
 ![](images\figure24.png)
 
+- Now, back to the editor. 
+
+- Add the SaveGame() function to the save buttons in level1 and level2 scenes.
+
+- Add the ResetGame() function to the button in Menu.
+
+- Add the QuitGame() function to the quit button in the Menu. 
+
+All that is left now is to build the actual game. 
+
+## Building the Game
+
+The final step in making a game is to create an executable file. This can be easily accomplished by going back to Build Settings under File and making the proper selections. See Figure 25 for the following few paragraph references.
+
+
 Figure 25
 
 ![](images\figure25.png)
+
+Number 2 is what platform this build is going to be made for (PC, mobile, web, etc.). By default, either the Windows or Mac module is downloaded. But, each of the different modules can be downloaded. 
+
+Number 3 is for details of each platform. Here, there can be different options for Windows or Mac, since each OS has a different way of running these games. 
+
+- Depending on what OS you are running, select that option in box 3 and click Build. It will create and save an executable file.
+
+- When you open it up, you can experiment and see how the save system works between opening and closing the game, keeping the number of candies collected until you reset the progress. 
+
+CHECKOFF TIP: You will need to be able to run the executable.
+
+## Lab Summary
+
+At this point you should be able to save progress between scenes as well as between runs of your executable file, as well as a way to use the UI to pause the game. There are many different things you can do with Scene Management across Scenes, and hopefully this lab was a decent introduction to them. If you are struggling at all, flag down a facilitator and don’t feel too discouraged. This was a very long and heavy lab and I am proud of you for getting through it. 
+
+## Check off:
+
+1. Run the lab from the executable file 
+
+2. Go into a level, collect some candies and exit back to the menu 
+
+3. Go into the other level and show that the number of candies is still the same 
+
+4. Collect some more candies and save the game. Go back to the menu and quit the game using the Quit button 
+
+5. Open the executable again and start any level to show that the number of candies has stayed the same 
+
+6. Go back to the menu and click on Reset Progress, go back to any level and show that the candy counter has reset 
+
+7. Finally, while in a level, press ”p” to pause the game 
+
+## Extra Challenges 
+
+- Create a new collectible and set up a system to store that in the game as well. Try to do something fun with it, such as having it move around 
+
+- Make a new collectible that changes the player’s color and saves that color so that the next time a new level is opened or the executable is started, the player starts with that new color instead of the default white. (hint: you can get the player’s color by using GetComponent<SpriteRenderer>().color; it returns a Color object. This can then be changed into HSV or RGBA integers or a string) 
+
+- If you are familiar with UI, create UI elements (text or images) that show that the game has been saved and that the progress has been reset.
+
+- Edit MapGenerator.cs so that candies spawn when the player travels to the left (right now they only spawn to the right). 
+
+## Extra Notes
+
+- In each script that requires the Player game object, rather than manually setting the Player, GameObject.Find is used. Since we use DontDestroyOnLoad on the Player, manually setting the Player will usually yield the incorrect Player and therefore, that Player is destroyed and bugs ensue. 
+
+- The mapGenerator script contains very simple code to create an endless runner, as well as using, instantiating and destroying prefabs 
+- The candy script contains some simple interaction between UI elements and scripting 
+
+- The cameraControl script has code that creates a smooth camera that follows the player around 
+
+- There is another way to do save data and that is through PlayerPrefs, which can store simple data types. It can be called through Unity’s function for PlayerPrefs, which it has documentation on here https://docs.unity3d.com/ScriptReference/PlayerPrefs.html 
+
+    - The opinion of a humble soul is that PlayerPrefs are simpler and easier to use (also better for most circumstances). While they were not taught in the lab, having gone through the lab should make using PlayerPrefs straightforward. 
 
 ![](images\image24.png)
 
