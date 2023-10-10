@@ -45,7 +45,7 @@ Alpha Build. All mechanics should be in place/in a testable state. Your general 
 ### Milestone 3 (11/16):
 Beta Build. All levels should be built, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
 
-### Milestone 4 (MM/DD):
+### Milestone 4 (12/04):
 Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: https://tinyurl.com/gddTrailer. 
 
 ## Playtests
