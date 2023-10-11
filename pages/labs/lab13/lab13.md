@@ -31,7 +31,7 @@ Scenes can be controlled in code using Unity.SceneManagement. In the Scenes fold
 Figure 1
 
 
-![](images\figure1.png)
+![](images/figure1.png)
 
 
 The goal is to make scene transitions happen by pressing a button. To do this, we will edit the SceneController script. Some parts are already there, but we will be adding to it. To be able to use SceneManagement, ”using UnityEngine.SceneManagement” must be added so that the top looks like Figure 2. 
@@ -39,7 +39,7 @@ The goal is to make scene transitions happen by pressing a button. To do this, w
 Figure 2
 
 
-![](images\figure2.png)
+![](images/figure2.png)
 
 
 The first thing we will be doing is creating a way to reload the level by pressing ”r”. The simplest way to do this is to reload the current scene. One way to reload a scene is by using its name. 
@@ -53,27 +53,27 @@ Then, in the Start method, retrieve the current scene’s name and store it in o
 
 Figure 3
 
-![](images\figure3.png)
+![](images/figure3.png)
 
 To reset the scene, a new function will be created that will be called in Update() whenever ”r” is pressed. In the new function, called ReloadScene(), we can just callSceneManager.LoadSceneAsync(p_SceneName) and it will reload our scene. LoadSceneAsync(name) loads the new scene separately from the scene currently loaded and will show the new scene as soon as it is finished loading. It will also automatically unload the current scene, so there is no need to unload a scene. The exception to this is if the mode of LoadSceneAsync is changed. By default, the mode is set to Single, so that only a single scene is loaded at once. However, if the mode is set to Additive, then the scenes will add on top of each other, so that scenes do have to be manually unloaded. Our game only needs to use Single mode. **Once this part of the code is finished, Update() and ReloadScene() should look like Figure 4:** 
 
 
 Figure 4
 
-![](images\figure4.png)
+![](images/figure4.png)
 
 Now, once ”r” is pressed, it will reload the scene, essentially resetting the level. Now we will make a function that takes a scene name as an argument and then moves us to that scene. We create a public function called GoToScene; it is public so that it can be called from outside of the script. Why call it from outside the script? Because we want to attach this function to a UI button. **GoToScene(name) should look like Figure 5:** 
 
 Figure 5
 
-![](images\figure5.png)
+![](images/figure5.png)
 
 These should be enough to start transitioning through different scenes. 
 1. In the editor, attach the SceneController script onto GameController (this action must be repeated in all three scenes or else later portions of the lab won’t work). 
 
 Figure 6
 
-![](images\figure6.png)
+![](images/figure6.png)
 
 2. To set the buttons to go to each scene, we need to modify their corresponding onClick() commands. 
 
@@ -95,7 +95,7 @@ Here is where all of the necessary scenes will be added.
 
 Figure 7
 
-![](images\figure7.png)
+![](images/figure7.png)
 
 Unity now knows which scenes to “remember”. If a scene is not in there, it will not be accessible from a different scene (attempting to transition will cause an error). We will touch on the rest of Build Settings later, but **an important thing to note is that there is an order to the scenes. Each scene has an index number that it can be referenced from.** The scenes can be reordered in the Build Settings. Once all of the scenes have been added into the Build Settings, we can close it. 
 
@@ -122,7 +122,7 @@ We will also be using the SceneController script to implement this pause system.
 
 Figure 8
 
-![](images\figure8.png)
+![](images/figure8.png)
 
 For our code, we will be using the time scale. Inside of the SceneController script:
 
@@ -136,20 +136,20 @@ Format the code in a similar way in Update(). See Figure 10 for guidance.
 
 Figure 9
 
-![](images\figure9.png)
+![](images/figure9.png)
 
 Using the same format as the reload level code, we want the game to pause once ”p” is pressed. **This is the purpose of the formatting in instruction 15..** Note: we also don’t want this to work in the Menu scene, so we will take advantage of the fact that we have the active scene name and check that the active scene is not the Menu. See Figure 10.
 
 Figure 10
 
-![](images\figure10.png)
+![](images/figure10.png)
 
 In Pause(), change the p_IsPaused and change the time scale accordingly, where nothing happens when it is 0 and everything runs at normal speed at 1 (time scale is also a way to run a game at half or double speed). The time scale can be accessed by Time.timeScale. The resulting function should look like Figure 11: 
 
 
 Figure 11
 
-![](images\figure11.png)
+![](images/figure11.png)
 
 That’s all of the code that is necessary for the pause system that we want to implement. All that is left to do is:
 
@@ -158,7 +158,7 @@ CHECKOFF NOTE: Pausing will be checked.
 
 Figure 12
 
-![](images\figure12.png)
+![](images/figure12.png)
 
 ## Save Data
 
@@ -174,12 +174,12 @@ For this game, we want to retain the Player object because that is where the num
 
 Figure 13
 
-![](images\figure13.png)
+![](images/figure13.png)
 
 DontDestroyOnLoad will be called on the player. Unfortunately, this might cause an issue - if there is already a player object in the scene, this will create a duplicate, persistent object. To get around this:
 Figure 14
 
-![](images\figure14.png)
+![](images/figure14.png)
 
 - Create a static game object to keep track of the “real” player instance. This p_PlayerInstance will determine whether or not an extra player is present. The code in Awake() should look like this (Figure 14):
 
@@ -203,9 +203,9 @@ Any information that we want to save will be a variable in Game so that it can b
 
 Figure 15
 
-![](images\figure15_1.png)
+![](images/figure15_1.png)
 
-![](images\figure15_2.png)
+![](images/figure15_2.png)
 
 The list of types that Unity can serialize can be found here: [https://docs.unity3d.com/Manual/script-Serialization.html#FieldSerliaized2]
 
@@ -215,7 +215,7 @@ The [System.Serializable] lets Unity know that it will be serialized. Any object
 
 Figure 16
 
-![](images\figure16.png)
+![](images/figure16.png)
 
 There are only 3 main things necessary in this script. 
 
@@ -228,11 +228,11 @@ There are only 3 main things necessary in this script.
 
 Figure 17
 
-![](images\figure17.png)
+![](images/figure17.png)
 
 Figure 18
 
-![](images\figure18.png)
+![](images/figure18.png)
 
 Figure 19
 
@@ -243,11 +243,11 @@ Great! Now the system is ready to use, all we need to do now is to call these fu
 - Create a new function SaveGame() in SceneController. Each time we save the game, we will create a new Game to set to Game.current so that it has the most updated number of candies. The code for SaveGame() in SceneController.cs should look like Figure 20:
 
 
-![](images\figure19.png)
+![](images/figure19.png)
 
 Figure 20
 
-![](images\figure20.png)
+![](images/figure20.png)
 
 Loading the game will have a similar function except this will also be reversed. This time, the saved data will be loaded first and then the candy number in Player will be changed by “Player.NumCandies = num”. LoadGame() will have a check to see whether SaveData.savedGame exists. If not then the player will start with 0 candies.
 
@@ -256,7 +256,7 @@ Loading the game will have a similar function except this will also be reversed.
 
 Figure 21
 
-![](images\figure21.png)
+![](images/figure21.png)
 
 Since loading happens automatically, we want it to happen first, and only once. We have a few additional modifications to make before loading works as expected. Since we want it to happen first: 
 
@@ -264,7 +264,7 @@ Since loading happens automatically, we want it to happen first, and only once. 
 
 Figure 22
 
-![](images\figure22.png)
+![](images/figure22.png)
 
 We will add two more things before going back to the editor: a way to reset the progress and a way to close the game. There should be a way to reset the progress, as in make the number of candies be 0. There is already a button in the Menu scene to do this, the function just needs to be written. This can be done by setting m_Player.NumCandies = 0 and then saving the game. 
 
@@ -273,7 +273,7 @@ CHECKOFF TIP: The reset button should work :).
 
 Figure 23
 
-![](images\figure23.png)
+![](images/figure23.png)
 
 Next, there is going to be a button to quit the game (though this button will only work after you build the game). There is a concise line of code that can perform this: Application.Quit(). All we need is a public function that will call that function to close the game once it is opened. 
 
@@ -282,7 +282,7 @@ Next, there is going to be a button to quit the game (though this button will on
 
 Figure 24
 
-![](images\figure24.png)
+![](images/figure24.png)
 
 - Now, back to the editor. 
 
@@ -301,7 +301,7 @@ The final step in making a game is to create an executable file. This can be eas
 
 Figure 25
 
-![](images\figure25.png)
+![](images/figure25.png)
 
 Number 2 is what platform this build is going to be made for (PC, mobile, web, etc.). By default, either the Windows or Mac module is downloaded. But, each of the different modules can be downloaded. 
 
