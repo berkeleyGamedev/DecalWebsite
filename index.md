@@ -8,7 +8,9 @@ nav_order: 0
 # Game Design Decal Fall 2023
 
 {: .announcements }
-> * Project 2 Showcase and Project 3 Teams!
+> * Design Doc is due 10/12, submit [here]!
+> * Playtest 1 is next Thursday 10/19, please submit 3 playtest questions to your  mentor by Wed. 10/18
+> * Optional Lab 13 is released!
 
 Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6 (Current)](#week-6)
 
@@ -44,3 +46,4 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 [Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
 
 [Pitch Submission Form]: https://forms.gle/ypPEBLJmhSN1rC4p7
+[here]: tinyurl.com/fa23proj3designdoc

@@ -4,7 +4,7 @@ title: Week 7
 
 Oct 10
 : **Lecture**{: .label .gdd-blue }Work Day
-: **Lab**{: .label .gdd-yellow }Optional: Lab 13
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 13]
 : **Reading**{: .label .gdd-brown }Team Structures in Game Development
 
 Oct 12
