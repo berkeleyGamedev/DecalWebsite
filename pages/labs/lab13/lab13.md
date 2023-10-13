@@ -12,6 +12,8 @@ nav_exclude: true
 ## Table of contents
 {: .no_toc .text-delta }
 
+[Download Lab 13](https://github.com/berkeleyGamedev/TransitioningSavingAndBuildingLab){: .btn .btn-blue }
+
 ## Lab Overview
 This lab will be going through how to transition between scenes and how to create save data in a game. Much of this lab will be topics that are final components in building a game, such as transitioning through scenes, creating and loading save data, and building an .exe file. In all, this will cover: 
 
