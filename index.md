@@ -46,4 +46,4 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 [Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
 
 [Pitch Submission Form]: https://forms.gle/ypPEBLJmhSN1rC4p7
-[here]: tinyurl.com/fa23proj3designdoc
+[here]: https://tinyurl.com/fa23proj3designdoc
