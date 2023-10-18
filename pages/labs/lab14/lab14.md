@@ -1,12 +1,12 @@
 ---
-title: "Lab 14: 3D Rigging"
+title: "Lab 14: 3D Rigging, Skinning, and Animation"
 parent: Labs
 layout: home
 nav_order: 14
 nav_exclude: true
 ---
 
-# Lab 14: 3D Rigging
+# Lab 14: 3D Rigging, Skinning, and Animation
 {: .no_toc }
 
 ## Table of contents
@@ -16,6 +16,12 @@ nav_exclude: true
 {:toc}
 
 **Disclaimer:** The GitHub model this lab refers to is no longer available. Please use your own model.
+
+![](images/figure1.png)
+*This lab uses Maya. You can use Maya for free if you are a UC Berkeley student*
+
+
+[Download Lab 14](https://github.com/berkeleyGamedev/3DRiggingSkinnnigAndAnimatingLab){: .btn .btn-blue }
 
 ## Introduction
 
@@ -27,10 +33,7 @@ In rigging there are two main techniques as to how the skeleton will move/operat
 
 In this lab you will be animating using FK. For this lab you will be working with a premade model that looks like the one below unless you want to use a previous model that you have made; however, understand you will have to interpret the instructions in respect to your model (the default model is in the github).
 
-
 ![](images/figure2.png)
-
-
 
 Forward kinematics is the default method of animating. In FK, when you rotate or translate a joint, its children joints maintain their offsets. In this tutorial we will be creating a rotation based rig for a more natural feel. First we will go about rigging out model using FK:
 
