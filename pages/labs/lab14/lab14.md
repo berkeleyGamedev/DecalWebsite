@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**Disclaimer:** The GitHub model this lab refers to is no longer available. Please use your own model.
+
 ## Introduction
 
 Rigging is the method in which you create a set of joints such that your model will be able to deform and perform actions such as bending an elbow or knee. The first thing to learn about rigging is understanding the spaces you are working in and how to use them to your advantage. 
