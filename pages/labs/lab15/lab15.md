@@ -3,6 +3,7 @@ title: "Lab 15: Raycasting"
 parent: Labs
 layout: home
 nav_order: 15
+nav_exclude: true
 ---
 
 # Lab 15: Raycasting

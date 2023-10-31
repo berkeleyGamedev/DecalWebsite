@@ -3,6 +3,7 @@ title: "Project 1: Artists"
 parent: Projects
 layout: home
 nav_order: 0
+nav_exclude: true
 ---
 
 # Project 1: Artists

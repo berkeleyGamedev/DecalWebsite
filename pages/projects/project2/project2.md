@@ -3,6 +3,7 @@ title: "Project 2"
 parent: Projects
 layout: home
 nav_order: 3
+nav_exclude: true
 ---
 
 # Project 2: Game Jam
@@ -14,11 +15,9 @@ nav_order: 3
 1. TOC
 {:toc}
 
-**Start**: ...
+**Project Due**: Saturday 09/30 at 11:59 pm
 
-**Project Due**: ...
-
-**Submission Link**: ...
+**Submission Link**: [Google Form]
 
 ## Overview
 For project 2, you will be working in groups of 2-3 (preferably not a group of all programmers or all artists) over the span of a week to create a game in Unity. It should be an original game idea you have or a mechanic that you find interesting (you may not repurpose any lab or project assets - scripts, art, prefabs, etc.). The project that you turn in does not have to be a fully functioning, polished game; the goal of this project is for you to see how it is to work in a team, figure out team dynamics, and learn how to scope your project.
@@ -53,8 +52,8 @@ Musicians/sound designers should create music and sound effects for the game, bu
 We will be grading on the amount of effort and time put into the project. This will be reflected through the submitted project and the reflection that everyone will be turning in. It is also helpful to keep a log of everything that was accomplished (or attempted if it ended up not working out)
 
 ## Submission
-Submit your Unity project through Github via the [Google Form] by ...
+Submit your Unity project through Github via the [Google Form] by **Saturday 09/30 at 11:59 pm**
 
 
 [Unity API]: https://docs.unity3d.com/ScriptReference/
-[Google Form]: www.google.com
+[Google Form]: https://forms.gle/jiRECBtzHBs3KkmK6
