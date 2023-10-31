@@ -5,7 +5,7 @@ title: Week 10
 Oct 31
 : **Lecture**{: .label .gdd-blue }Accessibility
 : **Lab**{: .label .gdd-yellow }Optional: Lab 17
-: **Reading**{: .label .gdd-brown }Narrative Design in Games
+: **Reading**{: .label .gdd-brown }[Narrative Design in Games]
 
 Nov 2
 : **Project**{: .label .gdd-navy }Milestone 2: Alpha Playtest

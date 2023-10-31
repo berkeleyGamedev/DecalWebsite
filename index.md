@@ -9,9 +9,9 @@ nav_order: 0
 
 {: .announcements }
 
-> - Playtest 1 is next Thursday 10/19, please submit 3 playtest questions to your mentor by Wed. 10/18
+> - Milestone 2 Alpha Playtest is this Thursday 11/02, please submit 3 playtest questions to your mentor by Wed. 11/01
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8 (Current)](#week-8)
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10 (Current)](#week-10)
 
 ## Schedule
 
