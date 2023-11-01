@@ -8,9 +8,9 @@ nav_order: 0
 # Game Design Decal Fall 2023
 
 {: .announcements }
-> * Design Doc is due 10/12, submit [here]!
-> * Playtest 1 is next Thursday 10/19, please submit 3 playtest questions to your  mentor by Wed. 10/18
-> * Optional Lab 13 is released!
+> * Playtest 2 is **Thursday 11/02!**
+> * Submit 3+ playtest questions to your mentor by **Wednesday 11/01 midnight**
+> * Special guest lecture **Thursday 11/09!**
 
 Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6 (Current)](#week-6)
 
