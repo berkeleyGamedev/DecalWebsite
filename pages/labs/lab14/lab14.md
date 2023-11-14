@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**Disclaimer:** The GitHub model this lab refers to is no longer available. Please use your own model.
+
 ![](images/figure1.png)
 *This lab uses Maya. You can use Maya for free if you are a UC Berkeley student*
 
