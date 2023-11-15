@@ -8,6 +8,7 @@ Nov 28
 
 Nov 30
 : **Lecture**{: .label .gdd-blue }Course Postmortem
+: **Project**{: .label .gdd-navy }Milestone 4: Final Submission
 
 [Building and Publishing]: https://docs.google.com/presentation/d/1NpOozI9SgG9_Op3k6bJ_LltLWOw27IniFLPNt5bzS-k/edit?usp=drive_link
 [Course Postmortem]: https://www.google.com/
