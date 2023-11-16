@@ -8,11 +8,8 @@ nav_order: 0
 # Game Design Decal Fall 2023
 
 {: .announcements }
-> * Playtest 2 is **Thursday 11/02!**
-> * Submit 3+ playtest questions to your mentor by **Wednesday 11/01 midnight**
-> * Special guest lecture **Thursday 11/09!**
 
-> - Milestone 2 Alpha Playtest is this Thursday 11/02, please submit 3 playtest questions to your mentor by Wed. 11/01
+> - Milestone 3 is this Thursday 11/16! GLHF!
 
 Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10 (Current)](#week-10)
 
