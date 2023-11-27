@@ -77,10 +77,18 @@ In order to receive a grade, your game **must be uploaded to itch.io** and you *
 * Peer evaluations: 40%
 * Project score: 20%
 
-**Final Submission links**:
-* Game, itch.io, and trailer (1 per group): ...
-* Final course writeup (1 per person): ...
+**Final Submission links**
 
+Game, itch.io, and trailer (1 per group):
+* [Trailer Making Guide]
+* [Game Submission]
 
+Final course writeup (1 per person):
+* [Reflection Spec]
+* [Reflection Submission]
 
+[Game Submission]: https://tinyurl.com/fa23finalsubmission 
+[Trailer Making Guide]: https://tinyurl.com/gddTrailer
+[Reflection Spec]: https://tinyurl.com/fa23reflectionspec
+[Reflection Submission]: https://tinyurl.com/fa23finalreflection
 
