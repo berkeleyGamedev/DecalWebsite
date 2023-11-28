@@ -10,8 +10,8 @@ nav_order: 0
 {: .announcements }
 
 > * Please **submit your 9x9 graphic, game trailer, and final game build** for [milestone 4] by this **Thursday 11/30!**
-> * If you love making games and helping others, **[facilitator apps are now open!]** Join us to teach a wide range of students!
-> * Final showcase will be in **Jacobs 310 on Monday 11/04 7pm-9pm.** Stop by to see what everyone has been working on this semester!
+> * If you enjoy making games and helping others, **[facilitator apps are now open!]** Join us to teach a wide range of students!
+> * Final showcase will be in **Jacobs 310 on Monday 12/04 7pm-9pm.** Stop by to see what everyone has been working on this semester!
 
 Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10 (Current)](#week-10)
 
