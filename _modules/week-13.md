@@ -4,7 +4,7 @@ title: Week 13
 
 Nov 21
 : **Lecture**{: .label .gdd-blue }Workday
-: **Reading**{: .label .gdd-brown }Tutorial Design
+: **Reading**{: .label .gdd-brown } [Tutorial Design]
 
 Nov 23
 : **Thanksgiving Break**

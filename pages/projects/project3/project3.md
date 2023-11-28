@@ -46,7 +46,7 @@ Alpha Build. All mechanics should be in place/in a testable state. Your general 
 Beta Build. All levels should be built, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
 
 ### Milestone 4 (11/30):
-Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: https://tinyurl.com/gddTrailer. 
+Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: [Trailer Guide]
 
 ### GDD Showcase (12/04):
 Show off your game to the whole club and see what other game's people have been working on this semester!
@@ -91,4 +91,4 @@ Final course writeup (1 per person):
 [Trailer Making Guide]: https://tinyurl.com/gddTrailer
 [Reflection Spec]: https://tinyurl.com/fa23reflectionspec
 [Reflection Submission]: https://tinyurl.com/fa23finalreflection
-
+[Trailer Guide]: https://tinyurl.com/gddTrailer
