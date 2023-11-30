@@ -9,11 +9,12 @@ nav_order: 0
 
 {: .announcements }
 
-> * Please **submit your 9x9 graphic, game trailer, and final game build** for [milestone 4] by this **Thursday 11/30!**
-> * If you enjoy making games and helping others, **[facilitator apps are now open!]** Join us to teach a wide range of students!
-> * Final showcase will be in **Jacobs 310 on Monday 12/04 7pm-9pm.** Stop by to see what everyone has been working on this semester!
+> - Please **submit your 9x9 graphic, game trailer, and final game build** for [milestone 4] by this **Thursday 11/30!**
+> - If you enjoy making games and helping others, **[facilitator apps are now open!]** Join us to teach a wide range of students!
+> - Please fill out the **[Course Postmortem Form]** to give us feedback on our course!
+> - Final showcase will be in **Jacobs 310 on Monday 12/04 7pm-9pm.** Stop by to see what everyone has been working on this semester!
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14 (Current)](#week-14) 
+Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14 (Current)](#week-14)
 
 ## Schedule
 
@@ -45,6 +46,6 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 [Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
 [Pitch Submission Form]: https://forms.gle/ypPEBLJmhSN1rC4p7
 [here]: https://tinyurl.com/fa23proj3designdoc
-
 [facilitator apps are now open!]: https://docs.google.com/forms/d/e/1FAIpQLSfWZ_qyR0ay88w5iQBJX_bSALlPLhKQAInqRia1KCDsqOFDPQ/viewform
 [milestone 4]: ./pages/projects/project3/project3
+[Course Postmortem form]: https://tinyurl.com/fa23courseeval
