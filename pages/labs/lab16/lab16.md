@@ -69,23 +69,25 @@ you can read the Unity manual for it here.
 
 Each of these 3 are exactly what they sound like. No shadows means that this light will not create any shadows. Hard shadows will have rough edged shadows and soft shadows will look more natural in that there are smooth transitions between shadows and light. Soft shadows are more expensive to generate and hard shadows are easier to render. It may be hard to see the difference between hard and soft shadows due to picture quality, but there is a difference.Try it for yourself!
 
-(Fig. 6)
-![](images/fig6.1.png) 
+
 No Shadow 
+![](images/fig6.1.png) 
+Hard Shadow
 ![](images/fig6.2.png)
-Hard Shadow 
+ Soft Shadow
 ![](images/fig6.3.png)
-Soft Shadow
+(Fig. 6)
 
 I won’t be covering each aspect of the shadow, but I will mention **Bias**, which is where the shadow originates from. 0 is where you would expect the shadow to start forming and 2 is at the furthest area away from the origin. Having it at 0 may cause some artifacting, so the default value is 0.05. See Figure 7 on the next page for a visualization of different bias settings.
 
-(Fig. 7) 
-![](images/fig7.1.png) 
+
 Bias: 0 
-![](images/fig7.2.png) 
+![](images/fig7.1.png) 
 Bias: 0.05 
-![](images/fig7.3.png) 
+![](images/fig7.2.png) 
 Bias: 2
+![](images/fig7.3.png) 
+(Fig. 7) 
 
 That’s it for the basics! If you want an explanation for the rest of the Light component, read on. If not, you can skip to page 8.
 
