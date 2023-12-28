@@ -64,6 +64,7 @@ you can read the Unity manual for it here.
 
 **Shadow type** (4) can be chosen from a choice of 3 different types of shadows: no shadows, soft shadows, and hard shadows.
 
+
 ![](images/fig5.png) 
 (Fig. 5) Different types of shadows
 
@@ -96,6 +97,7 @@ That’s it for the basics! If you want an explanation for the rest of the Light
 **Draw Halo** creates a small area of light around the light itself, not where the light shines onto. In the image below, that pink glow behind the capsule is the halo on the light (light is repositioned so that the camera can see it). Halo can also be added as its own component to change the color and size of the halo. By default, the halo will have the same color as the light as the whole.
 
 ![](images/fig8.png) 
+
 (Fig. 8) Draw Halo visualization
 
 **Flare** is essentially a lens flare, which only responds to the intensity of the light. For flare to be shown on camera, the Main Camera has to have a Flare Layer component (add through Add Component). Like Halo, this can also be added as its own component on the light.
