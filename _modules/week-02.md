@@ -2,18 +2,18 @@
 title: Week 2
 ---
 
-Sep 5
-: **Lecture**{: .label .gdd-blue }[Intro to Unity]
+Jan 30
+: **Lecture**{: .label .gdd-blue }Intro to Unity
 : **Lab**{: .label .gdd-yellow }[Lab 1]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
-Sep 7
-: **Lecture**{: .label .gdd-blue }[Game Design]
+Feb 1
+: **Lecture**{: .label .gdd-blue }Game Design
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 2] / Artist: [Lab 3]
 : **Project**{: .label .gdd-navy }[Project 1]
 
-[Intro to Unity]: https://docs.google.com/presentation/d/1z5eJMr9ZptOFKFqSOmnqBtuzRL4mtU-eFMppI3oj_8g/edit?usp=drive_link
-[Game Design]: https://docs.google.com/presentation/d/1rcLp94lLWn_NFkKcqyhfhtf1ZSwghD_BuxDP6t_mmdg/edit?usp=drive_link
+<!-- [Intro to Unity]: https://docs.google.com/presentation/d/1z5eJMr9ZptOFKFqSOmnqBtuzRL4mtU-eFMppI3oj_8g/edit?usp=drive_link
+[Game Design]: https://docs.google.com/presentation/d/1rcLp94lLWn_NFkKcqyhfhtf1ZSwghD_BuxDP6t_mmdg/edit?usp=drive_link -->
 
 
 [Lab 1]: ./../pages/labs/lab1/lab1

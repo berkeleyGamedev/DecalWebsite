@@ -2,14 +2,11 @@
 title: Week 12
 ---
 
-Nov 14
-: **Lecture**{: .label .gdd-blue } [AI Design]
+Apr 9
+: **Lecture**{: .label .gdd-blue } Accessibility
 : **Reading**{: .label .gdd-brown } [AI in Gaming]
 
-Nov 16
-: **Project**{: .label .gdd-navy } [Milestone 3: Beta Playtest]
-
-[AI Design]: https://docs.google.com/presentation/d/1fyick947gM8XYr5-6O_BHv-D4raoMLwe9DDEkQyM9cM/edit?usp=drive_link
-[Milestone 3: Beta Playtest]: ../pages/projects/project3/project3
+Apr 11
+: **Project**{: .label .gdd-navy } Guest Lecture
 
 [AI in Gaming]: https://www.gamedesigning.org/gaming/ai-in-gaming/
