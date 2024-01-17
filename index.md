@@ -10,6 +10,9 @@ nav_order: 0
 {: .announcements }
 
 > - [Applications for Spring 2024] are out! The application is **due Friday, January 26th at 11:59 PM**.
+> - We will be hosting **two info sessions** for a chance for you to learn more about the course and ask any questions. Please attend one of them.
+> - **Info session #1**: Jan 23rd, Jacobs 10 from 6:30 PM - 8:00 PM
+> - **Info session #2**: Jan 25th, Jacobs 10 from 6:30 PM - 8:00 PM
 
 Jump to Week: [1](#week-1) 
 
