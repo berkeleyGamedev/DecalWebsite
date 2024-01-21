@@ -205,7 +205,6 @@ Congratulations! You have now successfully created a minigame with two different
 4. The Sniper enemy type should have a unique color.
 5. The Sniper enemy type should begin spawning at 10 seconds.
 6. The Sniper enemy type should have a different movement pattern from the SimpleEnemy.
-7. You should have set up Unity Collab for this project and invited the decal staff account.
 
 ## Challenges (Optional)
 

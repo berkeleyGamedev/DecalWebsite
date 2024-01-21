@@ -26,16 +26,15 @@ The **Animator** is an element with an associated Component and Window (similar 
 This window is where you connect your code to the visuals by defining the animation transitions. 
 
 **Blend Trees** are used inside of the Animator to organize and smooth the transition between similar Animations. 
-Use cases include transitioning between walk and run animations depending on how far you’re pushing your joystick or simply transitioning between up/down/left/right movement animations in a top-down 2D game (think retro Legend of Zelda). 
+Use cases of blend trees include transitioning between walk and run animations depending on how far you’re pushing your joystick or simply transitioning between up/down/left/right movement animations in a top-down 2D game (think retro Legend of Zelda). 
 
 In this lab, we will go through the process of implementing an Animator component for a player GameObject using predefined animations (either through the provided frames or through your own .anim files). Then we will communicate between the code handling the player movement and the animation transitions to finish implementing a simple 2D platformer player with idle, run and jump animation states. 
-After that, we will implement a blend tree to transition between eight different animation states for a top-down 2D game. 
-**By the end of this lab, you should be comfortable with creating and customizing Animator mappings as well as recognizing how to simplify mappings using blend trees to support whatever your future games will require.**
-
+After that, we will implement a blend tree to transition between four different animation states for a top-down 2D game. 
+**By the end of this lab, you should be comfortable with creating and customizing Animator mappings, as well as recognizing how to simplify mappings using blend trees to support whatever your future games will require.**
 
 ## Setup
 
-Open your Animator scene by going to “Window” tab in the top bar and navigating to `Animation>Animator`. Once it’s open, double click on the `Animator scene`, or make sure the `Animator scene` is open, load in the pre-setup. You have two options to set up the rest of this lab in your `Animator`: load your animation frames or load your .anim files if you have pre-made animations.
+Open the `Animator` scene under `Assets > Scenes > Animator`. Once upon, you'll want to also pull up the Animator window. Go to the `Window` tab in the top bar and navigate to `Animation > Animator`. Once it’s open, double click on the `Animator scene`, or make sure the `Animator scene` is open, load in the pre-setup. You have two options to set up the rest of this lab in your `Animator`: load your animation frames or load your .anim files if you have pre-made animations.
 
 ### Load Your Animation Frames
 
