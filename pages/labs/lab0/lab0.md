@@ -18,10 +18,11 @@ nav_exclude: true
 **DISCLAIMER**: This setup tutorial is for Macs and Windows Computers.  If you have a Chromebook or a Linux system, we recommend looking  up a YouTube tutorial on how to do so (there are a lot online!) 
 
 ## Creating a Unity ID
-If you already have a Unity ID, you may skip this step. Otherwise, go [here] to create an account.
+If you already have a Unity ID, you may skip this step. Otherwise, [create a Unity account].
 
 *Note*: You do not have to use your berkeley.edu email.
-![](images/image9.png)
+
+![](images/createUnityId.png)
 
 ## Installing Unity Hub
 1. Install Unity Hub by clicking one of the following links, depending on your system.
@@ -60,11 +61,11 @@ If you already have a Unity ID, you may skip this step. Otherwise, go [here] to 
 
     ![](images/download.png)
 
-3. Go to the `Unity 2021.X` tab and search for 2021.3.16. Open with Unity Hub.
+3. Go to the `Unity 2022.X` tab and search for `2022.3.16`. Open with Unity Hub.
 
     ![](images/openWithHub.png)
 
-4. By default, Unity will install Visual Studios as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code], then un-check this box.
+4. By default, Unity will install Visual Studios as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
 
     For the purposes of this class, we will only ever ask you to build your project as an executable.
 
@@ -76,7 +77,6 @@ If you already have a Unity ID, you may skip this step. Otherwise, go [here] to 
 
     *Note: The install may take a while to complete.*
     
-
     ![](images/addingModules.png)
 
 After your Unity Editor finishes installing, you're all set up!
@@ -85,7 +85,7 @@ After your Unity Editor finishes installing, you're all set up!
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
-[here]: https://id.unity.com/en/conversations/5e65b337-3449-4920-a563-a308184ec7f8018f?view=register
+[create a Unity account]: https://id.unity.com/en/conversations/02f34c66-e99a-487b-bf0b-669778c319cc002f
 [Windows Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
 [Mac Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg
-[VS Code]: https://code.visualstudio.com/docs/other/unity
+[VS Code For Unity]: https://code.visualstudio.com/docs/other/unity
