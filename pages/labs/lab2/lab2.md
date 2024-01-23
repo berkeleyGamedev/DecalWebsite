@@ -159,7 +159,7 @@ Make the following changes to the Sniper Prefab using Prefab Mode (the second me
 
 Select the GameManager object from the Hierarchy tab and edit the **My Game Manager (Script)** component to add the Sniper to the GameManager:
 
-- Drag your new Sniper Prefab onto Element 1 **0** (or add it by clicking the circle located to the right of the word “Prefab”).
+- Drag your new Sniper Prefab onto Element 1 (or add it by clicking the circle located to the right of the word “Prefab”).
 
 Verify that your My Game Manager component matches the photo below.
 
