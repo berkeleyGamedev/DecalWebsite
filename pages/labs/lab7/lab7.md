@@ -88,6 +88,6 @@ For this lab, your job is to create your own Tileset! You can make a Tileset for
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [Brackey's Photoshop Template]: https://goo.gl/Xih8nw
 [https://github.com/berkeleyGamedev/TilesetLab]: https://github.com/berkeleyGamedev/TilesetLab

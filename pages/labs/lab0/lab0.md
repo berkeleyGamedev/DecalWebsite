@@ -84,7 +84,7 @@ After your Unity Editor finishes installing, you're all set up!
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [create a Unity account]: https://id.unity.com/en/conversations/02f34c66-e99a-487b-bf0b-669778c319cc002f
 [Windows Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
 [Mac Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg

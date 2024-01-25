@@ -226,4 +226,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 
 [Lab 1 Repo]: https://github.com/berkeleyGamedev/UnityBasics
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 

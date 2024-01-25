@@ -258,6 +258,6 @@ The process might create new animation controllers for each animation sequence y
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 
 [Lab 5: Animation]: ../../lab5/lab5
