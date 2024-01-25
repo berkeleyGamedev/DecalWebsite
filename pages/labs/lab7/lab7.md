@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 7](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview

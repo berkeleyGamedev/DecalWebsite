@@ -12,6 +12,8 @@ nav_exclude: true
 ## Table of contents
 {: .no_toc .text-delta }
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 13](https://github.com/berkeleyGamedev/TransitioningSavingAndBuildingLab){: .btn .btn-blue }
 
 ## Lab Overview

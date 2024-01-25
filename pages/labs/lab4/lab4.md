@@ -17,6 +17,8 @@ For this lab you are going to create a lot from scratch. We provide a loose fram
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## PREFACE

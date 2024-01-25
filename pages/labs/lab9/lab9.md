@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 9](https://github.com/berkeleyGamedev/UILab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview

@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 2](https://github.com/berkeleyGamedev/BasicScriptingLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 

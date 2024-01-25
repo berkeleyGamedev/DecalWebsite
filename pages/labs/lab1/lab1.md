@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 1](https://github.com/berkeleyGamedev/UnityBasics/archive/refs/heads/master.zip){: .btn .btn-blue }
 

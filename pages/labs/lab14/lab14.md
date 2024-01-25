@@ -20,6 +20,7 @@ nav_exclude: true
 ![](images/figure1.png)
 *This lab uses Maya. You can use Maya for free if you are a UC Berkeley student*
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 14](https://github.com/berkeleyGamedev/3DRiggingSkinnnigAndAnimatingLab){: .btn .btn-blue }
 

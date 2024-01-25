@@ -17,6 +17,8 @@ nav_exclude: true
 1. TOC
    {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 16](https://github.com/berkeleyGamedev/IntroToLightingLab){: .btn .btn-blue }
 
 ## PREFACE
