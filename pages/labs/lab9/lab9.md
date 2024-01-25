@@ -20,6 +20,9 @@ nav_exclude: true
 [Download Lab 9](https://github.com/berkeleyGamedev/UILab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview
+
+**IMPORTANT**: This lab is quite strenuous and covers a lot of ground, so make sure to follow the directions carefully and backtrack when you reach an error.”
+
 In this lab, you will be making a shop to learn how UI elements work in Unity. UI is present in most games, yet can get quite complicated when you have to consider how the UI layout will look on different screen resolutions.
 
 This lab will cover both how to set up UI elements and anchor them correctly and get them to interact with each other. It will also cover how to use scripts to specify the functionality of your UI elements.
@@ -96,7 +99,9 @@ First, let’s format the button. Use the RectTransform to stretch the button wi
 
 Now let’s add the component that will allow us to put the buttons in a nice layout. Add a Layout Element component to your item and check Preferred Height and Flexible Width. Preferred Height will cause the default height of each button to be the one we set here, and the Flexible Width will cause the width of the button to correspond to the grid. Remember the Vertical Layout Group component we added to the grid? This component will work with that one, allowing the grid to grow and shrink in relationship to how many items/elements are in it.
 
-Now, make Item a child of Grid. You shouldn’t be able to see the button any more. This is because the width of the button is 0. Click on Item and set the width to be greater than 0, which you can do via the RectTransform component, and then drag it to the width of the Spacer box.
+Now, make Item a child of Grid. You shouldn’t be able to see the button any more. This is because the width of the button is 0. Click on Item and set the width to be greater than 0 so that you can see the blue corner dots, which you can do via the RectTransform component, and then drag the corners to the width of the Spacer box.
+
+**Note**: If your Item button is offset, check the Grid object and make sure that all transform values are set to 0.
 
 ![](images/image3.png)  
 
@@ -112,11 +117,13 @@ Keep all of the extra items; we’re going to add a scrollbar for them now. Crea
 
 ![](images/image10.png)  
 
-Anchor the Scrollbar to the right of the items and resize it however you want. Set the Image of the scrollbar to the *vertical slider panel*. Set the Image of the handle, which is a grandchild of the scrollbar, to vertical slider. Change the size of these elements to your discretion.
+Anchor the Scrollbar to the right of the items and resize it however you want. Set the Image of the scrollbar to the *vertical slider panel*. Set the Image of the handle, which is a grandchild of the scrollbar, to *vertical slider*.
 
 ![](images/image24.png)  
 
-Now let’s make the scrollbar work with our grid. Select Spacer in the hierarchy and add a ScrollRect component. Uncheck the Horizontal option, since our items will only be shifting vertically. Finally, let’s attach the scrollbar to the ScrollRect. Drag the Grid into the Content of the ScrollRect, since the grid is what we want to shift as we scroll. Then set the Vertical Scrollbar of the ScrollRect to be the scrollbar we just created.
+Now let’s make the scrollbar work with our grid. Select Spacer in the hierarchy and add a ScrollRect component. Uncheck the Horizontal option, since our items will only be shifting vertically. Finally, let’s attach the scrollbar to the ScrollRect. Drag the Grid into the Content of the ScrollRect, since the grid is what we want to shift as we scroll. 
+
+Be careful about adjusting the size of the Handle object after assigning the scrollbar to the Spacer, as it may cause the scrollbar to look weird. Then set the Vertical Scrollbar of the ScrollRect to be the scrollbar we just created.
 
 ![](images/image14.png)  
 
@@ -126,7 +133,7 @@ Great! Now we have the scroll working. However, you’ll notice that items are o
 
 ![](images/image17.png)  
 
-Nice! We have the entire scroll system set up. Now that we have the scrollbar implemented, let’s work on the items. Delete every item button except for the first one. Delete its child default Text object and replace it with two TextMeshPro objects. Also add an Image to the item (as a child). This will be the sprite of the item. Anchor and position the Text and Image objects like so:
+Nice! We have the entire scroll system set up. Now that we have the scrollbar implemented, let’s work on the items. Delete every item button except for the first one. Duplicate the TextMeshPro child to the item button so that there are TWO Text objects under Item. Add an Image to the item as a child. This will be the sprite of the item. Anchor and position the Text and Image objects like so:
 
 ![](images/image5.png)
 
@@ -159,14 +166,14 @@ Now go to your Item GameObject. Add the script ItemHolder to it, and drag the co
 Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. 
 
 Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject.
-<br><br><br>
-Now let’s make the buttons actually do something. In the item in the hierarchy, add the script BuyButton. In the Button component of your item, add a new condition to the OnClick() list. Drag the item itself into the GameObject slot, and in the dropdown menu, select BuyButton.BuyItem().
+
+Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject. 
 
 ![](images/image8.png)  
 
 ![](images/image19.png)
 
-Then make sure to apply the prefab changes again. Now you can delete this GameObject from the scene. If you play the game, you should be able to click on each item and buy it.
+Now you can delete this GameObject from the scene. If you play the game, you should be able to click on each item and buy it.
 
 If you ran into any issues, make sure that your Item prefab changes have all been applied, and make sure that the Item Shop script in the panel object is holding the updated prefab in Item Holder Prefab.
 
