@@ -8,13 +8,15 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
+> **Tuesday 01/30**
+> - [Lab 0] is assigned, check-off is **due Feb 6th in class**
+> 
+> **Thursday 02/01**
+> - Programmer [Lab 0] / Artist [Lab 3] is assigned, check-off is **due Feb 8th in class**
+> - [Project 1] is assigned, Part 1 is due Feb 8th at 11:59pm via this [form].
 
-> - [Applications for Spring 2024] are out! The application is **due Friday, January 26th at 11:59 PM**.
-> - We will be hosting **two info sessions** for a chance for you to learn more about the course and ask any questions. Please attend one of them.
-> - **Info session #1**: Jan 23rd, Jacobs 10 from 6:30 PM - 8:00 PM
-> - **Info session #2**: Jan 25th, Jacobs 10 from 6:30 PM - 8:00 PM
 
-Jump to Week: [1](#week-1) 
+Jump to Week: [1](#week-1) \| [2](#week-2)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
@@ -46,5 +48,5 @@ Jump to Week: [1](#week-1)
 [Project 2]: ./pages/projects/project2/project2
 [Project 3]: ./pages/projects/project3/project3
 
-[Applications for Spring 2024]: http://tinyurl.com/sp24gddapp
+[form]: https://forms.gle/WrDUcRKpRqHvDXwA7
 

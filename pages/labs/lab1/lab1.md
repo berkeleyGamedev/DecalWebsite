@@ -20,11 +20,13 @@ nav_exclude: true
 [Download Lab 1](https://github.com/berkeleyGamedev/UnityBasics/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview 
-In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make  art; this is an introduction to the basics of the Unity engine.
+In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make art; this is an introduction to the basics of the Unity engine.
 
 ## Lab Instructions
-### Setting up your project
-When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **2021.3.16f1**, as this is the version that the labs in this class will be working under.
+**NOTE**: This lab assumes you have both Unity Hub and Unity version 2022.3.16f1 installed. If this is not the case, please refer to [Lab 0].
+
+### Setting up your project (practice)
+When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **2022.3.16f1**, as this is the version that the labs in this class will be working under.
 
 ![](images/image21.png)
 
@@ -36,11 +38,11 @@ After waiting for a bit, you should see a screen like this. It’s okay if it do
 
 ![](images/image11.png)
 
-**IMPORTANT FOR PROGRAMMERS:** Before continuing, check that Visual Studio is selected as the External Script Editor for Unity.  
+**IMPORTANT FOR PROGRAMMERS:** Before continuing, check that your choice of script editor (Visual Studio or VS Code) is selected as the External Script Editor for Unity.  
 
 In the top menu, go to `Unity > Settings/Preferences > External Tools.`
 
-Select Visual Studio as the External Script Editor **(Note that Visual Studio and Visual Studio Code are different)**
+Verify that your script editor is selected as the External Script Editor. For example, in the image below, we are using Visual Studios so we selected Visual Studios.
 
 ![](images/image10.png)
 
@@ -224,6 +226,6 @@ Hint: You can create a prefab of the asteroid and create multiple instances of t
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 
-
+[Lab 0]: ../../lab0/lab0
 [Lab 1 Repo]: https://github.com/berkeleyGamedev/UnityBasics
 [here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
