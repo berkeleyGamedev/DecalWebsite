@@ -19,7 +19,7 @@ nav_order: 4
 
 **Location**: Jacobs 10
 
-**Facilitator**: Henry La, Sharon Zhong
+**Facilitator**: Henry La, Cynthia Xiong
 
 **Faculty of Record**: Ren Ng
 
@@ -122,6 +122,16 @@ For Projects 1 and 2, a 30% deduction will be applied on the assignment for the 
 ## Attendance Policy
 
 Attendance matters! If you cannot be at class, you must inform an instructor via the course email, berkeley.gamedev@gmail.com. Only two unexcused absences will be allowed, and any further absences will result in your grade dropping 10% per absence. If you are in danger of not passing by the middle of the semester, the instructors will let people know what can be done to remedy that.
+
+## Academic Honesty
+
+The goal of this course is to teach you the fundamentals of game development **from start to finish**. As such, we are strictly forbidding the following in our class:
+> Generative AI. This means no ChatGPT, Github Copilot, Dall-E, or any other type of AI tool that automates anything for you.
+> Usage of assets made outside of the class.
+> Copying large amounts of code from others/online.
+> Unapproved usage of asset libraries or packages (must ask facilitating staff).
+
+**Violation of any of the above policies will be an automatic fail on the assignment/project, and we will pursue the appropriate Academic Misconduct procedures.**
 
 ## Accommodations
 

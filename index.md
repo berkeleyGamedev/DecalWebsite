@@ -9,11 +9,11 @@ nav_order: 0
 
 {: .announcements }
 > **Tuesday 01/30**
-> - [Lab 0] is assigned, check-off is **due Feb 6th in class**
+> - [Lab 1] is assigned, check-off is **due Feb 6th in class.**
 > 
 > **Thursday 02/01**
-> - Programmer [Lab 0] / Artist [Lab 3] is assigned, check-off is **due Feb 8th in class**
-> - [Project 1] is assigned, Part 1 is due Feb 8th at 11:59pm via this [form].
+> - Programmer [Lab 2] / Artist [Lab 3] is assigned, check-off is **due Feb 8th in class.**
+> - [Project 1] is assigned, Part 1 is **due Feb 8th at 11:59pm via this [form].**
 
 
 Jump to Week: [1](#week-1) \| [2](#week-2)
