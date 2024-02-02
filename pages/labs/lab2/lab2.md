@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**NOTE**: Please download this lab before starting! (You can also clone the repository if you're familiar with GitHub)
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 2](https://github.com/berkeleyGamedev/BasicScriptingLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
@@ -159,7 +159,7 @@ Make the following changes to the Sniper Prefab using Prefab Mode (the second me
 
 Select the GameManager object from the Hierarchy tab and edit the **My Game Manager (Script)** component to add the Sniper to the GameManager:
 
-- Drag your new Sniper Prefab onto Element 1 **0** (or add it by clicking the circle located to the right of the word “Prefab”).
+- Drag your new Sniper Prefab onto Element 1 (or add it by clicking the circle located to the right of the word “Prefab”).
 
 Verify that your My Game Manager component matches the photo below.
 
@@ -205,7 +205,6 @@ Congratulations! You have now successfully created a minigame with two different
 4. The Sniper enemy type should have a unique color.
 5. The Sniper enemy type should begin spawning at 10 seconds.
 6. The Sniper enemy type should have a different movement pattern from the SimpleEnemy.
-7. You should have set up Unity Collab for this project and invited the decal staff account.
 
 ## Challenges (Optional)
 
@@ -237,7 +236,7 @@ Here are some additional, more challenging tasks if you’d like extra practice 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html]: https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html
 
 [Lab 2 Repo]: https://github.com/berkeleyGamedev/BasicScriptingLab

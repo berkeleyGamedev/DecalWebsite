@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
@@ -180,4 +182,4 @@ Show your animation window and play your finished animation, which should be mad
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 

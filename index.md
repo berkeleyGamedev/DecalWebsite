@@ -5,13 +5,20 @@ description: Announcements and class schedule
 nav_order: 0
 ---
 
-# Game Design Decal Fall 2023
+# Game Design Decal Spring 2024
 
 {: .announcements }
+> **Tuesday 01/30**
+> - [Lab 1] is assigned, check-off is **due Feb 6th in class.**
+> 
+> **Thursday 02/01**
+> - Programmer [Lab 2] / Artist [Lab 3] is assigned, check-off is **due Feb 8th in class.**
+> - [Project 1] is assigned, Part 1 is **due Feb 8th at 11:59pm via this [form].**
 
-> - Thank you for a great semester everyone!
 
-Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14 (Current)](#week-14)
+Jump to Week: [1](#week-1) \| [2](#week-2)
+
+<!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
 ## Schedule
 
@@ -40,9 +47,6 @@ Jump to Week: [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5
 [Project 1]: ./pages/projects/Projects
 [Project 2]: ./pages/projects/project2/project2
 [Project 3]: ./pages/projects/project3/project3
-[Project 2 Teams]: https://docs.google.com/spreadsheets/d/1CZgPawYnguPQaf4d85N1Vm0moBTB7juq5Q41wTIE6Hk/edit#gid=89316042
-[Pitch Submission Form]: https://forms.gle/ypPEBLJmhSN1rC4p7
-[here]: https://tinyurl.com/fa23proj3designdoc
-[facilitator apps are now open!]: https://docs.google.com/forms/d/e/1FAIpQLSfWZ_qyR0ay88w5iQBJX_bSALlPLhKQAInqRia1KCDsqOFDPQ/viewform
-[milestone 4]: ./pages/projects/project3/project3
-[Course Postmortem form]: https://tinyurl.com/fa23courseeval
+
+[form]: https://forms.gle/WrDUcRKpRqHvDXwA7
+

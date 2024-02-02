@@ -18,18 +18,18 @@ timeline:
   - '8:30 PM'
   - '9:00 PM'
 schedule:
+  - name: Monday
+    events:
+      - name: Office Hours
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Discord
   - name: Tuesday
     events:
       - name: Class
         start: 6:30 PM
         end: 8:00 PM
         location: Jacobs 10
-  - name: Wednesday
-    events:
-      - name: Office Hours
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Discord
   - name: Thursday
     events:
         - name: Class
@@ -39,7 +39,7 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
+        start: 12:00 PM
+        end: 1:00 PM
         location: Discord
 ---

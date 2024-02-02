@@ -17,6 +17,8 @@ For this lab you are going to create a lot from scratch. We provide a loose fram
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## PREFACE
@@ -169,8 +171,13 @@ You can think of this game as essentially Fruit Ninja. You click on the screen t
 You have a lot of creative freedom here. You can take that and run with it or you can follow the more chunked up, bare minimum steps below.
 
 ### Creating the Enemies
+- Create a serializable variable named despawnTime. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
+- In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
+
+
+
 First off, we need an enemy to interact with.
-- In the Hierarchy window, right click and select *2D Object* > *Sprite*
+- In the Hierarchy window, right click and select *2D Object* > *Sprites > Square (or Circle)*
 - Edit the sprite using the **SpriteRenderer** component if you want
     - Click the circle next to *Sprite* in the inspector
 - Adjust the scale of the transform to your liking
@@ -180,7 +187,7 @@ First off, we need an enemy to interact with.
     - As a reminder, prefabs are like GameObject “templates”, they are very useful because scripts can reference them
     - Just drag it into your Prefabs folder
 
-Now we need the enemy to move (Or not, that’s up to you. But it should at the very least spawn in a random location and optionally despawn after some time has passed)
+Now we need the enemy to move (Or not, that’s up to you. But it should at the very least spawn in a random location and despawn after some time has passed)
 - Right click the *Assets tab Create* > *C# Script* (name the script ‘Enemy’). Open the script
 - In the **Start** function, find some satisfiable way to move the enemy to a good spawn location. I recommend using something like
 
@@ -196,7 +203,9 @@ Now we need the enemy to move (Or not, that’s up to you. But it should at the 
         - You will need to create 3 new variables if you choose to follow the above:
             - **startingPosition** should be a Vector2 that is set to your **transform.position** in Start AFTER you reset **transform.position** to a random spot
             - **elapsedTime** should be a float that is set to 0 when the enemy is initialized
-            - **radius** should be a float set in the inspector (make it private, serialize it, and give it a tooltip)
+            - Create a serializable variable named **despawnTime**. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
+        - In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
+
 - Make sure to attach the script you made to your enemy!!!
 
 Repeat the above steps for the second enemy type (Or just copy and paste and change the **SpriteRenderer** color and make a new prefab for it)
@@ -246,7 +255,7 @@ Unity Misc
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [https://github.com/berkeleyGamedev/Advanced-Scripting]: https://github.com/berkeleyGamedev/Advanced-Scripting
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [GameObject]: https://docs.unity3d.com/ScriptReference/GameObject.html
 [Find()]: https://docs.unity3d.com/ScriptReference/GameObject.Find.html
 [GetComponent()]: https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html

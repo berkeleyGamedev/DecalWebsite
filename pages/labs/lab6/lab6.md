@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 6](https://github.com/berkeleyGamedev/CollidersRigidbodyLab/archive/refs/heads/main.zip){: .btn .btn-blue }
 
 ## Overview
@@ -278,5 +280,5 @@ You are required to have at least:
 
 ![](images/rube.png) 
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [https://github.com/berkeleyGamedev/CollidersRigidbodyLab]: https://github.com/berkeleyGamedev/CollidersRigidbodyLab

@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 11](https://github.com/berkeleyGamedev/Coroutines/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Lab Overview 
@@ -117,4 +119,4 @@ Coroutines can also be used to handle larger functions. For example, functions t
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 

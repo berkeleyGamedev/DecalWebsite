@@ -20,6 +20,7 @@ nav_exclude: true
 ![](images/figure1.png)
 *This lab uses Maya. You can use Maya for free if you are a UC Berkeley student*
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 14](https://github.com/berkeleyGamedev/3DRiggingSkinnnigAndAnimatingLab){: .btn .btn-blue }
 
@@ -203,4 +204,4 @@ Go ahead and open the export menu again. Turn animations and under the Bake Anim
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7 
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 

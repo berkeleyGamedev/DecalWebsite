@@ -17,6 +17,8 @@ nav_exclude: true
 1. TOC
    {:toc}
 
+**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+
 [Download Lab 16](https://github.com/berkeleyGamedev/IntroToLightingLab){: .btn .btn-blue }
 
 ## PREFACE
@@ -240,6 +242,6 @@ Congrats! You finished the lab! :D
 
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/1C2GPHGDHCQo3WWe7
+[here!]: https://forms.gle/oiyM6iu3MinHfmNc7
 [Unity's tutorial]: https://learn.unity.com/tutorial/rendering-and-shading
 [here]: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
