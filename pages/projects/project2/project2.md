@@ -56,4 +56,4 @@ Submit your Unity project through Github via the [Google Form] by **Saturday 02/
 
 
 [Unity API]: https://docs.unity3d.com/ScriptReference/
-[Google Form]: https://forms.gle/jiRECBtzHBs3KkmK6
+[Google Form]: http://tinyurl.com/sp24p2submit
