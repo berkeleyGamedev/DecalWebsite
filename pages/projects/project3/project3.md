@@ -39,16 +39,16 @@ Turn in link [Here]
 ### Milestone 1 (10/19)
 Your MVP must be complete (refer to the [MVP lecture]). Playable prototype of the original pitch. At least two of the core mechanics of your game should be implemented, though no art needs to be in place yet. Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be what you expected.
 
-### Milestone 2 (11/02):
+### Milestone 2 (11/02)
 Alpha Build. All mechanics should be in place/in a testable state. Your general art style should be decided on and you should have a few assets added in. You should have a basic level. This build may have bugs.
 
-### Milestone 3 (11/16):
+### Milestone 3 (11/16)
 Beta Build. All levels should be built, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
 
-### Milestone 4 (11/30):
+### Milestone 4 (11/30)
 Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: [Trailer Guide]
 
-### GDD Showcase (12/04):
+### GDD Showcase (12/04)
 Show off your game to the whole club and see what other game's people have been working on this semester!
 
 ## Playtests

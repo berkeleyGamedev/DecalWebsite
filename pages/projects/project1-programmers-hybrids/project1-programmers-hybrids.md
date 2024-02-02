@@ -68,13 +68,13 @@ For part 1, upload your project to Github in a private repo and share it with be
 After projects have been graded, you will receive feedback on your project. 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
-[Part 1 Submission] is due **09/14 at 11:59 pm**
+[Part 1 Submission] is due **02/8 at 11:59 pm**
 
-[Part 2 Submission] is due **09/21 at 11:59 pm**
+[Part 2 Submission] is due **02/15 at 11:59 pm**
 
 [2D Github Repo]: https://github.com/berkeleyGamedev/2DTutorialBase
 [2D Playlist]: https://www.youtube.com/watch?v=U0Rg0NVvKBA&list=PLkTqf5DBzPsAe-pR5bDUdwHiCNgHcyBIh
 [3D Github Repo]: https://github.com/berkeleyGamedev/3DTutorialBase
 [3D Playlist]: https://www.youtube.com/playlist?list=PLkTqf5DBzPsDQDTYorcX8RIcxzVC-sgO6
-[Part 1 Submission]: http://tinyurl.com/gddfa23proj1pt1
-[Part 2 Submission]: http://tinyurl.com/gddfa23proj1pt2
+[Part 1 Submission]: http://tinyurl.com/s24proj1p1
+[Part 2 Submission]: http://tinyurl.com/s24proj1p2
