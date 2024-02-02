@@ -69,11 +69,7 @@ For part 1, upload your project to Github in a private repo and share it with be
 After projects have been graded, you will receive feedback on your project. 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
-<<<<<<< HEAD
 [Part 1 Submission] is due **02/8 at 11:59 pm**
-=======
-[Part 1 Submission] is due **02/08 at 11:59 pm**
->>>>>>> ddf50170c3746bc7719a7f4a95b4a1c1835c3ebb
 
 [Part 2 Submission] is due **02/15 at 11:59 pm**
 
@@ -81,10 +77,5 @@ For part 2, upload your project to a new Github repo and fill out the respective
 [2D Playlist]: https://www.youtube.com/watch?v=U0Rg0NVvKBA&list=PLkTqf5DBzPsAe-pR5bDUdwHiCNgHcyBIh
 [3D Github Repo]: https://github.com/berkeleyGamedev/3DTutorialBase
 [3D Playlist]: https://www.youtube.com/playlist?list=PLkTqf5DBzPsDQDTYorcX8RIcxzVC-sgO6
-<<<<<<< HEAD
 [Part 1 Submission]: http://tinyurl.com/s24proj1p1
 [Part 2 Submission]: http://tinyurl.com/s24proj1p2
-=======
-[Part 1 Submission]: https://forms.gle/WrDUcRKpRqHvDXwA7
-[Part 2 Submission]: https://forms.gle/VUbNs6Z49CEBnxGw9
->>>>>>> ddf50170c3746bc7719a7f4a95b4a1c1835c3ebb
