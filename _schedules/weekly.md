@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '11:00 PM'
+  - '12:00 PM'
   - '1:00 PM'
   - '1:30 PM'
   - '2:00 PM'
@@ -30,6 +32,7 @@ schedule:
         start: 6:30 PM
         end: 8:00 PM
         location: Jacobs 10
+  - name: Wednessday
   - name: Thursday
     events:
         - name: Class
