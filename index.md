@@ -8,15 +8,23 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> **Tuesday 01/30**
-> - [Lab 1] is assigned, check-off is **due Feb 6th in class.**
-> 
-> **Thursday 02/01**
-> - Programmer [Lab 2] / Artist [Lab 3] is assigned, check-off is **due Feb 8th in class.**
-> - [Project 1] is assigned, Part 1 is **due Feb 8th at 11:59pm via this [form].**
+> Office hours are here! You can drop in on our Office Hour voice channel on the following times: **Monday 3:00-4:00 PM, Friday 12:00-1:00 PM**.
+At Office Hours, you can get your lab checked off, ask any questions, and get help on assignments!
+>
+> **Tuesday 02/06**
+> [Lab 1] is **due in class**.
+> Assigned at this date:
+> Programmer [Lab 4] / Artist [Lab 5] is assigned, check-off is **due Feb 13th in class**.
+>
+> **Thursday 02/08**
+> Due at this date:
+> Project 1, Part 1 is **due at 11:59PM** .
+>Programmer [Lab 2] / Artist [Lab 3] is **due in class**.
+> Assigned at this date:
+> Programmer [Lab 6] / Artist [Lab 7] is assigned, check-off is **due Feb 15th in class**.
+> Project 1 is assigned, Part 2 is **due Feb 15th at 11:59pm**.
 
-
-Jump to Week: [1](#week-1) \| [2](#week-2)
+Jump to Week: [2](#week-2) \| [3](#week-3)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
