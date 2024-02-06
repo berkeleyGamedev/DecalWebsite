@@ -62,9 +62,13 @@ Main Character:
 
 Items/Assets/Enemies:
 ![](images/item-1.png)
+
 ![](images/item-2.png)
+
 ![](images/item-3.png)
+
 ![](images/item-4.png)
+
 ![](images/item-5.png)
 
 Idle, run, and jump animations:
@@ -110,11 +114,17 @@ Part 3:
 ### Resources:
 
 [Piskel App] -  A place to create animated sprites in pixel art
+
 [Code and Web]- A sprite sheet maker
+
 [Unity 3D tutorials]  -  A myriad of unity tutorials on a variety of topics
+
 [Itch.io game assets]- Lots of free game assets you can use as references
+
 [Map Editor] - Tiled - A program which lets you design levels, maps, etc by importing your own art
+
 [Tiled2Unity] - Tiled2Unity - Used to import Tiled files to Unity assets
+
 [Studio Mini Boss Blog] - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
 
 
@@ -127,6 +137,6 @@ Part 3:
 [Code and Web]: https://www.codeandweb.com/texturepacker
 [Unity 3D Tutorials]: https://unity3d.com/learn/tutorials
 [Itch.io game assets]: https://itch.io/game-assets/free
-[Map Editor] http://www.mapeditor.org
+[Map Editor]: http://www.mapeditor.org
 [Tiled2Unity]: http://www.seanba.com/tiled2unity
 [Studio Mini Boss Blog]: http://blog.studiominiboss.com/pixelart
