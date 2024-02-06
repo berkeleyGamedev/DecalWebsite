@@ -43,5 +43,90 @@ Create animations for at least one character.  These don’t have to be implemen
 
 [Part 2 Submission] is due **02/15 at 11:59 pm**
 
+
+### Examples
+
+Mood Boards:
+
+![](images/mood-board.png)
+
+Environment: 
+
+![](images/environment-1.png)
+![](images/environment-2.png)
+![](images/environment-3.png)
+
+Main Character:
+
+![](images/main-character.png)
+
+Items/Assets/Enemies:
+![](images/item-1.png)
+![](images/item-2.png)
+![](images/item-3.png)
+![](images/item-4.png)
+![](images/item-5.png)
+
+Idle, run, and jump animations:
+
+![](images/sprite-sheet.png)
+
+Part 1:
+
+![](images/war-1.png)
+![](images/war-2.png)
+![](images/war-3.png)
+![](images/war-4.png)
+![](images/war-5.png)
+![](images/war-6.png)
+![](images/war-7.png)
+
+Characters: 
+
+![](images/character.png)
+
+Enemies: 
+
+![](images/enemies-1.png)
+![](images/enemies-2.png)
+![](images/enemies-3.png)
+
+
+Items:
+
+![](images/weapons-1.png)
+![](images/weapons-2.png)
+![](images/weapons-3.png)
+
+Environment: 
+
+![](images/environment-4.png)
+
+Part 3: 
+
+![](images/enemy.gif)
+
+
+### Resources:
+
+[Piskel App] -  A place to create animated sprites in pixel art
+[Code and Web]- A sprite sheet maker
+[Unity 3D tutorials]  -  A myriad of unity tutorials on a variety of topics
+[Itch.io game assets]- Lots of free game assets you can use as references
+[Map Editor] - Tiled - A program which lets you design levels, maps, etc by importing your own art
+[Tiled2Unity] - Tiled2Unity - Used to import Tiled files to Unity assets
+[Studio Mini Boss Blog] - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
+
+
+
+
 [Part 1 Submission]: http://tinyurl.com/s24proj1p1
 [Part 2 Submission]: http://tinyurl.com/s24proj1p2
+
+[Piskel App]: https://www.piskelapp.com/ 
+[Code and Web]: https://www.codeandweb.com/texturepacker
+[Unity 3D Tutorials]: https://unity3d.com/learn/tutorials
+[Itch.io game assets]: https://itch.io/game-assets/free
+[Map Editor] http://www.mapeditor.org
+[Tiled2Unity]: http://www.seanba.com/tiled2unity
+[Studio Mini Boss Blog]: http://blog.studiominiboss.com/pixelart
