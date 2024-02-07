@@ -40,56 +40,52 @@ We’ll first go over the frame-based method. Even if you’re doing the modular
 ## Frame-based Method
 
 ### Making the Sprites
-1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool. Otherwise, do your best to space your drawings out correctly). In photoshop, go to `View > Show` ​ and make sure ​ `Grid` ​ is checked. Then go to ​ `Edit >​ Preferences > Guides`, Grid & Slices ​and change ​`Gridline Every…` to the right size.​ Each grid box will contain one sprite. If you’re doing pixel art, **​64** ​or **​128** ​pixels usually works. If you’re drawing regular art, you’ll need something bigger, like 500 or 1000 pixels, depending on the size of your canvas.
+1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool. Otherwise, do your best to space your drawings out correctly). For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
 
-2. **Draw one keyframe**. ​Use the grid to center the drawing inside the **​top left grid square**​. 
 
-With `​View > Snap` ​enabled, you can do this by selecting the **​Move tool** 
-
-![](images/image5.jpg)
-
-and holding **Shift** ​as you click and drag the layer vertically or horizontally. We’ll be making adjustments to this frame for later frames to reduce the amount of work necessary.
+2. Now, on a new layer, **draw one keyframe**. ​Use the grid to center the drawing inside the **leftmost grid square**​. With `​View > Snap` ​enabled, you can do this by selecting the **​Move tool** and holding **Shift** ​as you click and drag the layer vertically or horizontally. 
 
 ![](images/image4.jpg)
 
-3. **Draw the other three frames on separate layers**. ​You can do this by copying your one frame three times into adjacent grid squares, then changing parts that need to move. This can save you having to redraw parts like the head and face, which don’t change as much. 
+We’ll be making adjustments to this frame for later frames to reduce the amount of work necessary.
+
+![](images/image5.jpg)
+
+3. **Draw the other three frames on separate layers**. ​You can do this by copy and pasting your first keyframe three times into adjacent grid squares, then changing parts that need to move. This can save you having to redraw parts like the head and face, which don’t change as much. 
 
 ![](images/image7.jpg)
 
-Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (ie ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like. 
+Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (i.e. ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like. 
 
 ### Importing Sprites
 1. **Create a new 2D Unity project.**
 
 2. **Create a Sprites Folder inside Assets**
+    * You can do this by going to `Assets > Create > Folder` and naming your new folder **Sprites**.
 
 3. **Import**
     *  Inside the folder, right click the background and select `Import New Asset`.​ Locate and import your sprite sheet.
 
 4. **Change Settings**
-    * In the import settings window in the Inspector, change **Sprite Mode** ​to **Multiple**. If you are doing pixel art, change ​Filter Mode to ​ Point​ (this will prevent your​ sprites from being blurry). Then click ​`Apply`.
+    * In the import settings window in the Inspector, change **Sprite Mode** ​to **Multiple**. If you are doing pixel art, change ​Filter Mode to​ Point​ (this will prevent your​ sprites from being blurry). Then click ​`Apply`.
 
 5. **Sprite Editor**
     * **Frame Based**:
-        1. In the window that opens, click **​Slice**. ​Then, in ​.**Type**, ​select **Grid By Cell​ Size**. Choose the size that you used to make your grid in Photoshop.
-        ![](images/image6.png)
-
-        2. If your sprites are taller than they are wide or vice-versa, like many character sprites, you can use **​Offset** ​and **Padding** ​ ​to change the cell dimensions. Make sure the x and y **Padding + Pixel Size**​ sums​ ​ are equal​ and that **​Offset = Padding / 2**, ​like below:
-        ![](images/image9.png)
-        Click `Slice`.
+        1. Click `Sprite Editor` in the **Inspector**. In the window that opens, click **​Slice**. ​Then, in ​**Type**, ​select **Grid By Cell​ Size**. Choose the height size that you used to make your grid in Photoshop. Then, click `Slice`.
+        ![](images/image19.png)
 
 ### Creating Animations
-This part will go by very quickly.  If you want a more in depth explanation and learn how to animate a sprite to walk in other directions as well, check out the Animator and Blend Trees lab. 
+This part will go by very quickly. We will provide a more in-depth explanation and learn how to animate a sprite to walk in other directions well in a later lab (the Animator and Blend Trees lab).
 
-1. Right click in the project **Hierarchy**​ and click ​ `Create Empty`. ​ Select the object and name​ it ​**Player**. ​Then, click `Window > Animation > Animation` to open the ​Animation ​window. ​Then, select **Player** and click Create. This will create a New Clip. ​Name this clip **walking.anim** and save.​ Notice that if you click **Player**, an **Animator** component is automatically added. For future reference, to create more animations, select the box that has your animation name (in this case **walking.anim**) and click **Create New Clip**.
-![](images/image8.png)
+1. Right click in the **Hierarchy**​ and click ​ `Create Empty`. ​ While the **Player** object is still selected in the **Hierarchy**, click `Window > Animation > Animation` to open the ​Animation ​window. ​Then, click Create. This will create a New Clip. Name this clip **walking.anim** and save (Notice that if you select the **Player** object in the **Hierarchy**, an **Animator** component is automatically added in the **Inspector**). For future reference, to create more animations, select the box that has your animation name (in this case, **walking.anim**) and click **Create New Clip**.
+![](images/image20.png)
 
 2. Frame Based
     1. In the **​Sprites** ​folder, click on the arrow next to your sprite sheet to expand it.
-    ![](images/image8.png)
+    ![](images/image21.png)
 
-    2. Click and drag each sprite frame from the **​Sprites**​ folder to the **Animation**​ timeline, at ​**0:10 intervals. Add the last frame twice, 0:10 apart**​, to prevent a jitter as the animation loops. You should have a total of 5 frame markers. Click the play button in the **Animation**​ window to see the animation. Feel free to adjust​ the **Samples value**​ ​and the frames’ spacing if the animation is too slow or fast.
-    ![](images/image2.png)
+    2. Click and drag each sprite frame from the **​Sprites**​ folder to the **Animation**​ timeline, at ​**0:10 intervals. Add the last frame twice, 0:10 apart**​, to prevent a jitter as the animation loops. You should have a total of 5 frame markers. Click the play button in the **Animation**​ window to see the animation playing in the **Scene**. Feel free to adjust​ the **Samples value**​ ​and the frames’ spacing if the animation is too slow or fast.
+    ![](images/image22.png)
 
 **Congrats, you’re done!**
 
@@ -115,7 +111,7 @@ Similar to the sprite based method, there’s a sprite provided for reference an
         * Thigh
         * Calf + Foot(Can be one part)
 
-For some parts, you’ll need to go back and *​*manually extend the lassoed drawing**​ to allow for a smooth range of motion later on (see rounded-off limb ends below). Feel free to be as detailed as you want with the parts, but **​make sure to leave a lot of white space in between each one!**
+For some parts, you’ll need to go back and manually extend the lassoed drawing​ to allow for a smooth range of motion later on (see rounded-off limb ends below). Feel free to be as detailed as you want with the parts, but ​make sure to leave a lot of white space in between each one!
 
 ![](images/image13.jpg)
 
@@ -123,37 +119,38 @@ For some parts, you’ll need to go back and *​*manually extend the lassoed dr
 1. **Create a new 2D Unity project.**
 
 2. **Create a Sprites Folder inside Assets**
+    * You can do this by going to `Assets > Create > Folder` and naming your new folder **Sprites**.
 
 3. **Import**
     * Inside the folder, right click the background and select **Import New Asset**.​ Locate and import your sprite sheet.
 
 4. **Change Settings**
-    * In the import settings window in the Inspector, change ​**Sprite Mode** ​to **​Multiple**. If you are doing pixel art, change ​Filter Mode to ​ Point​ (this will prevent your​ sprites from being blurry). Then click ​Apply.
+    * In the import settings window in the Inspector, change ​**Sprite Mode** ​to **​Multiple**. If you are doing pixel art, change ​Filter Mode to​ Point​ (this will prevent your​ sprites from being blurry). Then click ​`Apply`.
 
 ### Sprite Editor
-that opens, click `​Slice`, ​make sure the settings are **​Automatic, Center, and Delete Existing**, then click ​`Slice`​ again. This will automatically separate the sprite sheet into individual sprites.
+Click `Sprite Editor` in the **Inspector**. In the window that opens, click `​Slice`. ​Make sure the settings are **​Automatic, Center, and Delete Existing**, then click the ​`Slice`​ button at the bottom of the pop-out. This will automatically separate the sprite sheet into individual sprites.
 
-![](images/image1.jpg)
+![](images/image23.png)
 
-Now, to edit the pivot points so that they resemble joints, click on each part and move the blue circle to its correct pivot location. For example, thighs pivot around the hips, calves pivot around the knee, and arms pivot around the shoulder. You can also set pivots values manually in the *​*Sprite** ​window by entering values in the **​Custom Pivot** ​box.
+Now, to edit the pivot points so that they resemble joints, click on each part and move the blue circle to its correct pivot location. For example, thighs pivot around the hips, calves pivot around the knee, and arms pivot around the shoulder. You can also set pivots values manually in the `Sprite Editor` ​window by entering values in the **​Custom Pivot** ​box. Make sure you save any changes made to any individual sprite by clicking the `Apply` button towards the top right side of the `Sprite Editor` window.
 
 
 **Now is also a good time to​ ​name the body parts**. As you set pivots, rename each of the body​ parts with a R or L label and the part name. This will make organization much easier later on.
 
-![](images/image12.png)
+![](images/image25.png)
 
 ### Creating Animations
-1. Right click in the **​Hierarchy** ​and select **​Create Empty**.​ Name this empty object **PlayerHolder**. ​Create another empty game object, name it **​Player**, ​and drag it​ ​onto PlayerHolder so that it becomes a child. This is so that translations and rotations we make to the character while animating it won’t affect its position in the world space. 
+1. Right click in the **​Hierarchy** ​and select **​Create Empty**.​ Name this empty object **PlayerHolder**. ​Create another empty game object, name it **​Player**, ​and drag it​ ​onto **PlayerHolder** so that it becomes a child. This is so that translations and rotations we make to the character while animating it won’t affect its position in the world space. 
 
 2. Expand your sprite sheet in the ​**Sprites** ​folder by clicking on the gray arrow.
-![](images/image14.jpg)
+![](images/image24.png)
 
 3. Click and drag each body part onto the ​Scene ​view to its approximate location.
-![](images/image15.jpg)
+![](images/image26.png)
 Then rearrange the objects in the **​Hierarchy** with parent-child relationships that roughly​ follow the organization of a skeleton. For example, `​Hips > Left Thigh > Left Calf > Left Foot`. ​This will make it much easier to animate later, since moving the hips would move everything attached to them at the same time.
 
-4. The layer ordering will be messed up, so go to `​Edit > Project Settings > Tags & Layers` ​and create a new sorting layer called *​*Player** ​using the + button. Then, select all body parts and in the ​**Sprite Renderer** ​in the **Inspector**, ​ ​and​ ​change the sorting layer to **Player**. ​Now, change body parts’ **​Order in Layer** ​values to fix the ordering (like below) - objects with a higher **Order in Layer**​ value will be displayed above others. Take this time​ to also adjust the positioning of all body parts so that your character looks right. On the toolbar left of the **Play Button**, make sure that **Toggle Tool Handle Position** is set to **Pivot**. This will allow you to rotate your body parts according to your custom pivot points.
-![](images/image16.jpg)
+4. The layer ordering will be messed up, so go to `​Edit > Project Settings > Tags & Layers` ​and create a new sorting layer called *​*Player** ​using the + button under **Sorting Layers**. Then, select all body parts and in the ​**Sprite Renderer** ​in the **Inspector**, ​ ​and​ ​change the sorting layer to **Player**. ​Now, change body parts’ **​Order in Layer** ​values to fix the ordering (like below) - objects with a higher **Order in Layer**​ value will be displayed above others. Take this time​ to also adjust the positioning of all body parts so that your character looks right. On the toolbar left of the **Play Button**, make sure that **Toggle Tool Handle Position** is set to **Pivot**. This will allow you to rotate your body parts according to your custom pivot points.
+![](images/image27.png)
 
 5. Click the **​Recording Mode (red circle)** button in the ​**Animation** ​window. This will save all your object rotations and translations as frames of animation. Move the white animation line marker to the **​0:05** ​mark. Then, use the rotation and translation tools to move each body part ​in the scene​ to make a walking keyframe. Go to the **​0:10** mark and move everything to the next keyframe. **Once you have made four​ keyframes, copy the first keyframe and paste it 0:05 after your last keyframe.** ​(You can do this by clicking on the top gray diamond of the last keyframe so that all the diamonds turn blue, doing Ctrl+C, then moving the white animation line marker to the right time and doing Ctrl+V).
 
@@ -168,7 +165,7 @@ Then rearrange the objects in the **​Hierarchy** with parent-child relationshi
 ## Supplementary Lecture
 This supplementary lecture demonstrates how to improve your animations in the Animator using the 12 principles of animation.
 
-It is linked here: https://youtu.be/aBRQT8tvpKs
+It is linked here: [https://youtu.be/aBRQT8tvpKs]
 
 ## Checkoff Requirement
 Show your animation window and play your finished animation, which should be made with entirely original sprites.
@@ -183,3 +180,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 [https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
 [here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[https://youtu.be/aBRQT8tvpKs]: https://youtu.be/aBRQT8tvpKs
