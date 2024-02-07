@@ -130,7 +130,7 @@ For some parts, you’ll need to go back and manually extend the lassoed drawing
 ### Sprite Editor
 Click `Sprite Editor` in the **Inspector**. In the window that opens, click `​Slice`. ​Make sure the settings are **​Automatic, Center, and Delete Existing**, then click the ​`Slice`​ button at the bottom of the pop-out. This will automatically separate the sprite sheet into individual sprites.
 
-![](images/image23.jpg)
+![](images/image23.png)
 
 Now, to edit the pivot points so that they resemble joints, click on each part and move the blue circle to its correct pivot location. For example, thighs pivot around the hips, calves pivot around the knee, and arms pivot around the shoulder. You can also set pivots values manually in the `Sprite Editor` ​window by entering values in the **​Custom Pivot** ​box. Make sure you save any changes made to any individual sprite by clicking the `Apply` button towards the top right side of the `Sprite Editor` window.
 
@@ -143,14 +143,14 @@ Now, to edit the pivot points so that they resemble joints, click on each part a
 1. Right click in the **​Hierarchy** ​and select **​Create Empty**.​ Name this empty object **PlayerHolder**. ​Create another empty game object, name it **​Player**, ​and drag it​ ​onto **PlayerHolder** so that it becomes a child. This is so that translations and rotations we make to the character while animating it won’t affect its position in the world space. 
 
 2. Expand your sprite sheet in the ​**Sprites** ​folder by clicking on the gray arrow.
-![](images/image24.jpg)
+![](images/image24.png)
 
 3. Click and drag each body part onto the ​Scene ​view to its approximate location.
-![](images/image26.jpg)
+![](images/image26.png)
 Then rearrange the objects in the **​Hierarchy** with parent-child relationships that roughly​ follow the organization of a skeleton. For example, `​Hips > Left Thigh > Left Calf > Left Foot`. ​This will make it much easier to animate later, since moving the hips would move everything attached to them at the same time.
 
 4. The layer ordering will be messed up, so go to `​Edit > Project Settings > Tags & Layers` ​and create a new sorting layer called *​*Player** ​using the + button under **Sorting Layers**. Then, select all body parts and in the ​**Sprite Renderer** ​in the **Inspector**, ​ ​and​ ​change the sorting layer to **Player**. ​Now, change body parts’ **​Order in Layer** ​values to fix the ordering (like below) - objects with a higher **Order in Layer**​ value will be displayed above others. Take this time​ to also adjust the positioning of all body parts so that your character looks right. On the toolbar left of the **Play Button**, make sure that **Toggle Tool Handle Position** is set to **Pivot**. This will allow you to rotate your body parts according to your custom pivot points.
-![](images/image27.jpg)
+![](images/image27.png)
 
 5. Click the **​Recording Mode (red circle)** button in the ​**Animation** ​window. This will save all your object rotations and translations as frames of animation. Move the white animation line marker to the **​0:05** ​mark. Then, use the rotation and translation tools to move each body part ​in the scene​ to make a walking keyframe. Go to the **​0:10** mark and move everything to the next keyframe. **Once you have made four​ keyframes, copy the first keyframe and paste it 0:05 after your last keyframe.** ​(You can do this by clicking on the top gray diamond of the last keyframe so that all the diamonds turn blue, doing Ctrl+C, then moving the white animation line marker to the right time and doing Ctrl+V).
 
@@ -165,7 +165,7 @@ Then rearrange the objects in the **​Hierarchy** with parent-child relationshi
 ## Supplementary Lecture
 This supplementary lecture demonstrates how to improve your animations in the Animator using the 12 principles of animation.
 
-It is linked here: https://youtu.be/aBRQT8tvpKs
+It is linked here: [https://youtu.be/aBRQT8tvpKs]
 
 ## Checkoff Requirement
 Show your animation window and play your finished animation, which should be made with entirely original sprites.
@@ -180,3 +180,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 [https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
 [here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[https://youtu.be/aBRQT8tvpKs]: https://youtu.be/aBRQT8tvpKs
