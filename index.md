@@ -12,17 +12,16 @@ nav_order: 0
 At Office Hours, you can get your lab checked off, ask any questions, and get help on assignments!
 >
 > **Tuesday 02/06**
-> [Lab 1] is **due in class**.
-> Assigned at this date:
-> Programmer [Lab 4] / Artist [Lab 5] is assigned, check-off is **due Feb 13th in class**.
+> - [Lab 1] is **due in class**.
+> - Assigned at this date:
+> - Programmer [Lab 4] / Artist [Lab 5] is assigned, check-off is **due Feb 13th in class**.
 >
 > **Thursday 02/08**
-> Due at this date:
-> Project 1, Part 1 is **due at 11:59PM** .
->Programmer [Lab 2] / Artist [Lab 3] is **due in class**.
-> Assigned at this date:
-> Programmer [Lab 6] / Artist [Lab 7] is assigned, check-off is **due Feb 15th in class**.
-> Project 1 is assigned, Part 2 is **due Feb 15th at 11:59pm**.
+> - Project 1, Part 1 is **due at 11:59PM** .
+> - Programmer [Lab 2] / Artist [Lab 3] is **due in class**.
+> - Assigned at this date:
+> - Programmer [Lab 6] / Artist [Lab 7] is assigned, check-off is **due Feb 15th in class**.
+> - Project 1 is assigned, Part 2 is **due Feb 15th at 11:59pm**.
 
 Jump to Week: [2](#week-2) \| [3](#week-3)
 
