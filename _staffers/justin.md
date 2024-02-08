@@ -6,4 +6,4 @@ website:
 photo: justin.jpg
 ---
 
-Hi! I’m a junior CS major who l oves Nintendo games! If you enjoy platformers, hit me up :D
+Hi! I’m a junior CS major who loves Nintendo games! If you enjoy platformers, hit me up :D

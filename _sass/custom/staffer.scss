@@ -4,9 +4,12 @@
 
   .staffer-image {
     border-radius: 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
     height: 100px;
     margin-right: $sp-4;
-    width: auto;
+    object-fit: cover;
+    width: 100px;
   }
 
   .anchor-heading {
@@ -41,5 +44,23 @@
       display: grid;
       grid-template-columns: auto 1fr;
     }
+  }
+}
+
+.afk_staffer {
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+  // margin: $sp-4 0;
+  align-items: center;
+
+  .staffer-image {
+    border-radius: 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 100px;
+    object-fit: cover;
+    width: 100px;
   }
 }

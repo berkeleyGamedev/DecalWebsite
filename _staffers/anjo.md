@@ -1,6 +1,6 @@
 ---
 name: Anjo Pagdanganan
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: anjo.jpg

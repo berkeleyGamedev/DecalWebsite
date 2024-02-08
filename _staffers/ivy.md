@@ -1,6 +1,6 @@
 ---
 name: Ivy Liu
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: ivy.JPG

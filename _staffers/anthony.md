@@ -1,6 +1,6 @@
 ---
 name: Anthony Padron
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: anthony.jpg

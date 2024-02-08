@@ -1,6 +1,6 @@
 ---
 name: Sharon Zhong
-role: Instructor
+role: AFK Staff
 email:
 website:
 photo: sharon.JPG
