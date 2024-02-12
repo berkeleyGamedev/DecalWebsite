@@ -6,4 +6,4 @@ website:
 photo: juju.jpg
 ---
 
-Hello! I’m Juju, a fourth-year double-majoring in Cognitive Science/Data Science. I especially enjoy rhythm games and RPG horror games! I also play Tetris semi-competitively and am open to any requests for a versus match >:3c
+Hello! I’m Juju, a fourth-year double-majoring in Cognitive Science/Data Science. I especially enjoy rhythm games, RPG horror games, and Tetris! My favorite game atm is Neon White (Machine Girl soundtrack is 🐐).

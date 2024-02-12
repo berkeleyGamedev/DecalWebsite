@@ -23,3 +23,10 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+<!-- ## AFK Staff (Last Online: 999 Years Ago)
+
+{% assign afk_staff = site.staffers | where: 'role', 'AFK Staff' %}
+{% for staffer in afk_staff %}
+{{ staffer }}
+{% endfor %} -->
