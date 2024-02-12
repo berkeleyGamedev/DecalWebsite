@@ -17,9 +17,9 @@ At Office Hours, you can get your lab checked off, ask any questions, and get he
 > 
 > **Thursday 02/15**
 > - Programmer [Lab 6] / Artist [Lab 7] is **due in class**.
-> - Project 1 Part 2 is **due at 11:59pm**.
+> - Project 1 Part 2 is **due at 11:59 PM**.
 > - Programmer [Lab 9] / Artist [Lab 10] is assigned, check-off is **due Feb 22nd** in class.
-> - Project 2 is assigned, and is **due Feb 24th at 11:59p**
+> - Project 2 is assigned, and is **due Feb 24th at 11:59 PM**
 
 Jump to Week: [3](#week-3) \| [4](#week-4)
 
