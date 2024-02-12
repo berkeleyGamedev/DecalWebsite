@@ -23,8 +23,8 @@ schedule:
   - name: Monday
     events:
       - name: Office Hours
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 3:00 PM
+        end: 4:00 PM
         location: Discord
   - name: Tuesday
     events:
