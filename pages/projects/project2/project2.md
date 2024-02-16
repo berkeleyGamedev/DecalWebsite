@@ -34,7 +34,7 @@ After completing the project, each person is expected to also submit a short ref
 * Describe how your group incorporated the theme
 
 ## Themes/Ideas
-To better emulate the game jam experience, you are required to incorporate the theme **splatter**! It should be easy to tell what theme your group followed at a glance, but in case it is not, you are given the opportunity to elaborate in the reflection.
+To better emulate the game jam experience, you are required to incorporate the theme **combustion**! It should be easy to tell what theme your group followed at a glance, but in case it is not, you are given the opportunity to elaborate in the reflection.
 
 ## Roles
 
