@@ -30,6 +30,8 @@ However, the process of collaborating in Unity through Git is not the smoothest.
 3. Click the green `New` button on the top left to create a new repository.
     * (If you don’t see this option, you can also click on your profile icon on the top right and navigate to `Your repositories`. There will be an option to create a new repository there as well.)
 
+    ![](images/new_repo.png)
+
 4. Name your repository and set your repo’s visibility to private.
 
 5. Under `Add .gitignore`, click the drop down and search for Unity.
@@ -37,9 +39,14 @@ However, the process of collaborating in Unity through Git is not the smoothest.
 
     When finished your screen should look like this:
 
+    ![](images/create_repo.png)
+
 6. Finally, scroll down to the bottom and click `Create repository`
 
 7. Your respository should now look like the following:
+    
+    ![](images/empty_repo.png)
+
 
 ## Editing Git Ignore (Optional)
 Your git ignore file will automatically be configured to ignore non-essential Unity files. However, it may be worthwhile to edit this file to include other directories that are commonly pushed to this repository by accident.
@@ -47,6 +54,8 @@ Your git ignore file will automatically be configured to ignore non-essential Un
 1. Click on your git ignore file in your repository.
 
 2. Click the edit button on the top right.
+    
+    ![](images/edit_git_ignore.png)
 
 3. Add these two lines anywhere on the file.
     ```
@@ -82,29 +91,39 @@ Now run the following commands:
 
 6. `git push origin main`
 
-If all went well, your repository on GitHub should look like the following:
+If all went well, your repository on GitHub should similar to the following:
+    
+![](images/example_repo.png)
 
-For GitHub, you only need to upload the **Assets, Packages, and Project Settings** folders. Everything else is auto-generated when you/others open the project in Unity.
+Notice that we only upload **Assets, Packages, and Project Settings** to our repository. Everything else is auto-generated when you/others open the project in Unity.
 
-If you end up with any extra files, you can remove them by running the following commands in your terminal: `git rm --cached FILE_NAME`. Then commit and push this removal using the same commands above. You may also want to edit your .gitignore file to ignore these files in the future.
+If you end up with any extra files, you can remove them by running the following commands in your terminal: `git rm --cached FILE_NAME`. Then commit and push this removal using the same commands above. (You may also want to edit your .gitignore file to ignore these files in the future. See [Editing Git Ignore (Optional)].)
 
 ## Adding Collaborators
 1. From your repository page, navigate to `Settings`.
+    
+    ![](images/repo_settings.png)
 
 2. On the left panel, click on `Collaborators`.
+    
+    ![](images/click_collaborators.png)
 
 3. Click on `Add people` and enter the usernames or emails of your collaborators.
+    
+    ![](images/add_people.png)
 
 ## Setting Up For Collaborators
 1. Accept the GitHub invitation link from your email inbox.
 
-2. Navigate to the project repository and click code.
+2. Navigate to the project repository and click the green `Code` button.
 
 3. Copy the .git URL under the HTTPS tab.
+    
+    ![](images/copy_git_url.png)
 
 4. Open a terminal and navigate to the directory where you want to clone the project to.
 
-5. Run `git clone YOUR-GIT-URL`
+5. Run `git clone YOUR-COPIED-GIT-URL`
 
 6. `cd` into your cloned repo directory.
 
