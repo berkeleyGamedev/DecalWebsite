@@ -54,69 +54,6 @@ We will be grading on the amount of effort and time put into the project. This w
 ## Submission
 Submit your Unity project through Github via the [Google Form] by **Saturday 02/24 at 11:59 pm**
 
-### Examples
-
-Mood Boards:
-
-![](images/mood-board.png)
-
-Environment: 
-
-![](images/environment-1.png)
-![](images/environment-2.png)
-![](images/environment-3.png)
-
-Main Character:
-
-![](images/main-character.png)
-
-Items/Assets/Enemies:
-![](images/item-1.png)
-![](images/item-2.png)
-![](images/item-3.png)
-![](images/item-4.png)
-![](images/item-5.png)
-
-Idle, run, and jump animations:
-
-![](images/sprite-sheet.png)
-
-Part 1:
-
-![](images/war-1.png)
-![](images/war-2.png)
-![](images/war-3.png)
-![](images/war-4.png)
-![](images/war-5.png)
-![](images/war-6.png)
-![](images/war-7.png)
-
-Characters: 
-
-![](images/character.png)
-
-Enemies: 
-
-![](images/enemies-1.png)
-![](images/enemies-2.png)
-![](images/enemies-3.png)
-
-
-Items:
-
-![](images/weapons-1.png)
-![](images/weapons-2.png)
-![](images/weapons-3.png)
-
-Environment: 
-
-![](images/environment-4.png)
-
-Part 3: 
-
-![](images/enemy.gif)
-
-
 ### Resources:
 https://www.piskelapp.com/  -  A place to create animated sprites in pixel art
 https://www.codeandweb.com/texturepacker - A sprite sheet maker
