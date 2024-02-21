@@ -3,12 +3,12 @@ title: Week 4
 ---
 
 Feb 13
-: **Lecture**{: .label .gdd-blue }Game Loops
+: **Lecture**{: .label .gdd-blue }[Game Loops]
 : **Lab**{: .label .gdd-yellow }[Lab 8]
 : **Reading**{: .label .gdd-brown }[Principles of Game Design]
 
 Feb 15
-: **Lecture**{: .label .gdd-blue }User Interfaces
+: **Lecture**{: .label .gdd-blue }[User Interfaces]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9] / Artist: [Lab 10]
 : **Project**{: .label .gdd-navy }[Project 2]
 
@@ -22,3 +22,7 @@ Feb 15
 [Project 2]: ./../pages/projects/project2/project2
 
 [Principles of Game Design]: https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 
+
+[User Interfaces]: https://docs.google.com/presentation/d/1nzLXBeCPWFVryBPw1MBpqQ376M-SjtJJgN7OE7OAMX8/edit?usp=sharing
+
+[Game Loops]: https://docs.google.com/presentation/d/1dlbcmQ_yy0W_kbvMs8JkeLnEiBWiVEief9LDr0Ek5-E/edit?usp=sharing
