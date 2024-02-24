@@ -19,6 +19,8 @@ At Office Hours, you can get your lab checked off, ask any questions, and get he
 > - Programmer [Lab 9] / Artist [Lab 10] is **due in class**.
 >
 > Project 2 is **due Saturday Feb 24th at 11:59 PM** at this [form](http://tinyurl.com/sp24p2submit).
+>
+> Project 3 Pitch Day is coming! **EVERYONE must submit this [Pitch Form](http://tinyurl.com/sp24pitch) by Monday 11:59 PM**. More details on the form.
 
 Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5)
 
