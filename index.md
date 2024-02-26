@@ -8,17 +8,15 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> Office hours are here! You can drop in on our Office Hour voice channel on the following times: **Monday 3:00-4:00 PM, Friday 12:00-1:00 PM**.
-At Office Hours, you can get your lab checked off, ask any questions, and get help on assignments!
+> If you haven't already, please fill this form out by midnight tonight: [Link](http://tinyurl.com/sp24pitch)
 >
-> **Tuesday 02/20**
-> - Artist/Programmer [Lab 8] is **due in class**.
-> - Programmer [Lab 11] / Artist [Lab 12] is assigned, check-off is **due Feb 27th in class**.
-> 
-> **Thursday 02/22**
-> - Programmer [Lab 9] / Artist [Lab 10] is **due in class**.
+> **Tuesday 02/27**
+> Pitch Day: Show up to class in order to select which game you would like to develop!
+> Programmer [Lab 11] / Artist [Lab 12] is due in class.
 >
-> Project 2 is **due Saturday Feb 24th at 11:59 PM** at this [form](http://tinyurl.com/sp24p2submit).
+> **Thursday 02/29**
+> Project 3 is assigned, Milestone 0 is due on March 7th in class.
+
 
 Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5)
 
