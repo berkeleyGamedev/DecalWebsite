@@ -10,19 +10,17 @@ nav_order: 0
 {: .announcements }
 > If you haven't already, please fill this form out by midnight tonight: [Link](http://tinyurl.com/sp24pitch)
 >
-> **Tuesday 02/27**
+> **Tuesday 02/27** 
+> 
 > Pitch Day: Show up to class in order to select which game you would like to develop!
-> Programmer [Lab 11] / Artist [Lab 12] is due in class.
+> 
+> Programmer [Lab 11] / Artist  [Lab 12] is due in class.
 >
-<<<<<<< HEAD
 > **Thursday 02/29**
-> Project 3 is assigned, Milestone 0 is due on March 7th in class.
-
-=======
-> Project 2 is **due Saturday Feb 24th at 11:59 PM** at this [form](http://tinyurl.com/sp24p2submit).
 >
-> Project 3 Pitch Day is coming! **EVERYONE must submit this [Pitch Form](http://tinyurl.com/sp24pitch) by Monday 11:59 PM**. More details on the form.
->>>>>>> 95853e5f7172383e7211cb237744ee9e536b9c1f
+> Project 3 is assigned, Milestone 0 is due on March 7th in class.
+> 
+
 
 Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5)
 
