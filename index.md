@@ -8,13 +8,14 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> If you haven't already, please fill this form out by midnight tonight: [Link](http://tinyurl.com/sp24pitch)
+> **IMPORTANT**: Please remember to fill out the Project 3 [Pitch Interest Form](http://tinyurl.com/sp24pint) by **Wednesday February 28th 1pm**.
+> For descriptions on each Pitch, view the [Pitch Summary Doc](http://tinyurl.com/sp24summs).
 >
 > **Tuesday 02/27** 
 > 
-> Pitch Day: Show up to class in order to select which game you would like to develop!
+> Pitch Day: Show up to class in order to select which game you would like to develop! See above ^
 > 
-> Programmer [Lab 11] / Artist  [Lab 12] is due in class.
+> Programmer [Lab 11] / Artist  [Lab 12] is **due this Friday** due to Pitch Day and Project 2 Showcase.
 >
 > **Thursday 02/29**
 >
@@ -22,7 +23,7 @@ nav_order: 0
 > 
 
 
-Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5)
+Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
