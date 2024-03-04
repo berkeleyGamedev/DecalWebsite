@@ -8,9 +8,6 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> **IMPORTANT**: Please remember to fill out the Project 3 [Pitch Interest Form](http://tinyurl.com/sp24pint) by **Wednesday February 28th 1pm**.
-> For descriptions on each Pitch, view the [Pitch Summary Doc](http://tinyurl.com/sp24summs).
->
 > **Tuesday 03/05**
 > - OPTIONAL: [Lab 13] is assigned
 > 
