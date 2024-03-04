@@ -106,7 +106,7 @@ Environment:
 
 ![](images/environment-4.png)
 
-Part 3: 
+Part 2: 
 
 ![](images/enemy.gif)
 

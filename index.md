@@ -8,8 +8,8 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> Office hours are here! You can drop in on our Office Hour voice channel on the following times: **Monday 3:00-4:00 PM, Friday 12:00-1:00 PM**.
-At Office Hours, you can get your lab checked off, ask any questions, and get help on assignments!
+> **IMPORTANT**: Please remember to fill out the Project 3 [Pitch Interest Form](http://tinyurl.com/sp24pint) by **Wednesday February 28th 1pm**.
+> For descriptions on each Pitch, view the [Pitch Summary Doc](http://tinyurl.com/sp24summs).
 >
 > **Tuesday 03/05**
 > - OPTIONAL: [Lab 13] is assigned
@@ -24,7 +24,8 @@ At Office Hours, you can get your lab checked off, ask any questions, and get he
 > PLEASE make sure your team’s git repo is set up properly on everyone’s computer!
 
 
-Jump to Week: [3](#week-3) \| [4](#week-4)
+
+Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 

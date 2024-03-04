@@ -163,9 +163,9 @@ Now go to your Item GameObject. Add the script ItemHolder to it, and drag the co
 
 ![](images/image34.png)
 
-Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. 
-
 Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject.
+
+Now let’s make the buttons actually do something. In the item in the hierarchy, add the script BuyButton. In the Button component of your item, add a new condition to the OnClick() list. Drag the item itself into the GameObject slot, and in the dropdown menu, select BuyButton.BuyItem().
 
 Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject. 
 
