@@ -11,15 +11,18 @@ nav_order: 0
 > Office hours are here! You can drop in on our Office Hour voice channel on the following times: **Monday 3:00-4:00 PM, Friday 12:00-1:00 PM**.
 At Office Hours, you can get your lab checked off, ask any questions, and get help on assignments!
 >
-> **Tuesday 02/13**
-> - Programmer [Lab 4] / Artist [Lab 5] is **due in class**.
-> - [Lab 8] is assigned, check-off is **due Feb 20th** in class.
+> **Tuesday 03/05**
+> - OPTIONAL: [Lab 13] is assigned
 > 
-> **Thursday 02/15**
-> - Programmer [Lab 6] / Artist [Lab 7] is **due in class**.
-> - Project 1 Part 2 is **due at 11:59 PM**.
-> - Programmer [Lab 9] / Artist [Lab 10] is assigned, check-off is **due Feb 22nd** in class.
-> - Project 2 is assigned, and is **due Feb 24th at 11:59 PM**
+> **Thursday 03/7**
+> - OPTIONAL: [Lab 14] is assigned
+>
+> **Sunday 03/10**
+> - Project 3, Milestone 0 is **due at 11:59 PM**
+>
+> **Do not start programming until your mentor has checked off on your design doc.**
+> PLEASE make sure your team’s git repo is set up properly on everyone’s computer!
+
 
 Jump to Week: [3](#week-3) \| [4](#week-4)
 
