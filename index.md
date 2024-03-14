@@ -8,6 +8,7 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
+<<<<<<< HEAD
 > Your design doc was due on 3/10! Make sure that your mentor has checked it off before coding!
 >
 > **Tuesday 03/12** 
@@ -22,6 +23,23 @@ nav_order: 0
 
 
 Jump to Week: [7](#week-7) \| [8](#week-8) \| [9](#week-9)
+=======
+> **Tuesday 03/05**
+> - OPTIONAL: [Lab 13] is assigned
+> 
+> **Thursday 03/7**
+> - OPTIONAL: [Lab 14] is assigned
+>
+> **Sunday 03/10**
+> - Project 3, Milestone 0 is **due at 11:59 PM**
+>
+> **Do not start programming until your mentor has checked off on your design doc.**
+> PLEASE make sure your team’s git repo is set up properly on everyone’s computer!
+
+
+
+Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6)
+>>>>>>> 55d4df951f1506d69aa6b8c7038f0575795ccdc3
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 

@@ -33,8 +33,7 @@ Game design document that must include all of the following sections:
 * Schedule
 * Others (optional)
 
-Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume.
-Turn in link [Here]
+Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. Turn in link [here](http://tinyurl.com/sp24mile0).
 
 ### Milestone 1 (03/21)
 Your MVP must be complete (refer to the [MVP lecture]). Playable prototype of the original pitch. At least two of the core mechanics of your game should be implemented, though no art needs to be in place yet. Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be what you expected.
