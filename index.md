@@ -8,21 +8,20 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> If you haven't already, please fill this form out by midnight tonight: [Link](http://tinyurl.com/sp24pitch)
+> Your design doc was due on 3/10! Make sure that your mentor has checked it off before coding!
 >
-> **Tuesday 02/27** 
+> **Tuesday 03/12** 
 > 
-> Pitch Day: Show up to class in order to select which game you would like to develop!
+> OPTIONAL: [Lab 15] is assigned
 > 
-> Programmer [Lab 11] / Artist  [Lab 12] is due in class.
 >
-> **Thursday 02/29**
+> **Thursday 03/14**
 >
-> Project 3 is assigned, Milestone 0 is due on March 7th in class.
+> Guest Lecture with Steve from MobilityWare! Make sure to prepare any questions you may have about the industry!
 > 
 
 
-Jump to Week: [3](#week-3) \| [4](#week-4) \| [5](#week-5)
+Jump to Week: [7](#week-7) \| [8](#week-8) \| [9](#week-9)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
