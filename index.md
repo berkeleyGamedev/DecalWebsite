@@ -15,7 +15,7 @@ nav_order: 0
 > OPTIONAL: [Lab 16] is assigned
 > 
 >
-> **Thursday 03/14**
+> **Thursday 03/21**
 >
 > **Project 3, Milestone 1: MVP Playtest is during class today!** Remember to send your playtest questions to your mentor by **the night before**. For your playtest, your group must implement **at least two core mechanics**, though no art needs to be in place yet.
 > 
