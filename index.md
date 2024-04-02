@@ -8,20 +8,19 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> Your design doc was due on 3/10! Make sure that your mentor has checked it off before coding!
 >
-> **Tuesday 03/19** 
+> **Tuesday 04/02** 
 > 
-> OPTIONAL: [Lab 16] is assigned
+> **Our next Industry Speaker is Thomas Winkley!!** 😮 Make sure to come to class to ask him questions about working at Unity, game dev education, and his commentator experiences!
 > 
 >
-> **Thursday 03/21**
+> **Thursday 04/04**
 >
-> **Project 3, Milestone 1: MVP Playtest is during class today!** Remember to send your playtest questions to your mentor by **the night before**. For your playtest, your group must implement **at least two core mechanics**, though no art needs to be in place yet.
+> **Project 3, Milestone 2: Alpha Playtest is during class today!** Remember to send your playtest questions to your mentor by **the night before**. For your playtest, your group must implement **at least two core mechanics**, though no art needs to be in place yet.
 > 
 
 
-Jump to Week: [7](#week-7) \| [8](#week-8) \| [9](#week-9)
+Jump to Week: [10](#week-10) \| [11](#week-11) \| [12](#week-12)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
