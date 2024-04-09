@@ -7,6 +7,6 @@ Apr 9
 : **Reading**{: .label .gdd-brown } [AI in Gaming]
 
 Apr 11
-: **Project**{: .label .gdd-navy } Guest Lecture
+: **Project**{: .label .gdd-navy } Work Day!
 
 [AI in Gaming]: https://www.gamedesigning.org/gaming/ai-in-gaming/

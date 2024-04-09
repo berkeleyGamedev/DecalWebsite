@@ -9,18 +9,18 @@ nav_order: 0
 
 {: .announcements }
 >
-> **Tuesday 04/02** 
+> **Tuesday 04/09** 
 > 
-> **Our next Industry Speaker is Thomas Winkley!!** 😮 Make sure to come to class to ask him questions about working at Unity, game dev education, and his commentator experiences!
+> Artist Critique will happen during class 🎨! For the rest of class, please make sure to show up anyways as you will get valuable time with your project group to meet in-person to discuss aspects of your project! 🙏
 > 
 >
-> **Thursday 04/04**
+> **Thursday 04/11**
 >
-> **Project 3, Milestone 2: Alpha Playtest is during class today!** Remember to send your playtest questions to your mentor by **the night before**. For your playtest, your group must implement **at least two core mechanics**, though no art needs to be in place yet.
+> Another work day for everybody! As a reminder, attendance for every class is recorded, so if you cannot make any class, please email the decal in order to be excused. 
 > 
 
 
-Jump to Week: [10](#week-10) \| [11](#week-11) \| [12](#week-12)
+Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
