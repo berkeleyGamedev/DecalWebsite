@@ -16,6 +16,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  hint:
+    title: Hint
+    color: violet
 
 url: https://www.gamedesigndecal.com
 favicon_ico: "favicon.ico"
