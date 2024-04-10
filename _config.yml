@@ -18,7 +18,7 @@ callouts:
     color: red
   hint:
     title: Hint
-    color: violet
+    color: purple
 
 url: https://www.gamedesigndecal.com
 favicon_ico: "favicon.ico"
