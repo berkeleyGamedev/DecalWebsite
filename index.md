@@ -9,14 +9,16 @@ nav_order: 0
 
 {: .announcements }
 >
-> **Tuesday 04/09** 
+> **Tuesday 04/16** 
 > 
-> Artist Critique will happen during class 🎨! For the rest of class, please make sure to show up anyways as you will get valuable time with your project group to meet in-person to discuss aspects of your project! 🙏
+> Important lecture today!!! If you wish to learn how to finish building your game, and publishing it, please show up to today's lecture!!!
 > 
 >
-> **Thursday 04/11**
+> **Thursday 04/18**
 >
-> Another work day for everybody! As a reminder, attendance for every class is recorded, so if you cannot make any class, please email the decal in order to be excused. 
+> **BETA PLAYTEST!!!!** These are the requirements: **All levels should be built**, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
+> *Please send your mentor three playtest questions once again the day before*
+
 > 
 
 
