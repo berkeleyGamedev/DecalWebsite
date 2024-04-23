@@ -9,17 +9,21 @@ nav_order: 0
 
 {: .announcements }
 >
-> **Tuesday 04/16** 
+> **Tuesday 04/23** 
 > 
-> Important lecture today!!! If you wish to learn how to finish building your game, and publishing it, please show up to today's lecture!!!
+> Work day!!
 > 
 >
-> **Thursday 04/18**
+> **Thursday 04/25**
 >
-> **BETA PLAYTEST!!!!** These are the requirements: **All levels should be built**, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
-> *Please send your mentor three playtest questions once again the day before*
-
+> **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
+>
+> **GDD Showcase 04/29**
+> Show off your game to the whole club and see what other game’s people have been working on this semester! At least one member of your group is required to be present with a working copy of your game!
+> 
+> **Date: Monday, 4/29, 7-9PM PST**
+> **Location: Jacobs Hall Room 310**
 
 
 Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
