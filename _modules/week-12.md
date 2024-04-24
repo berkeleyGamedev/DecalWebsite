@@ -3,10 +3,11 @@ title: Week 12
 ---
 
 Apr 9
-: **Lecture**{: .label .gdd-blue } Accessibility
+: **Lecture**{: .label .gdd-blue } [Accessibility]
 : **Reading**{: .label .gdd-brown } [AI in Gaming]
 
 Apr 11
 : **Project**{: .label .gdd-navy } Work Day!
 
 [AI in Gaming]: https://www.gamedesigning.org/gaming/ai-in-gaming/
+[Accessibility]: https://docs.google.com/presentation/d/1ecQenoE-umGRnJ449N0eV-0TvyGdAoCR45lA2APBKUo/edit?usp=sharing
