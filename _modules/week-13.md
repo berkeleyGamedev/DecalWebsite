@@ -9,7 +9,8 @@ Apr 16
 Apr 18
 : **Project**{: .label .gdd-navy } [Milestone 3: Beta Playtest]
 
-[Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400
+[Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400 
+
 
 [Milestone 3: Beta Playtest]: ../pages/projects/project3/project3
 

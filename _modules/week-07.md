@@ -18,6 +18,7 @@ Mar 7
 [Lab 13]: ./../pages/labs/lab13/lab13
 [Lab 14]: ./../pages/labs/lab14/lab14
 
-[Team Structures in Game Development]: https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php 
+[Team Structures in Game Development]: https://www.gamedeveloper.com/business/team-corporate-structure-is-the-standard-way-the-best-way- 
+ 
 
 [Milestone 0: Game Design Doc]: ../pages/projects/project3/project3

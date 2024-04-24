@@ -5,7 +5,7 @@ title: Week 3
 Feb 6
 : **Lecture**{: .label .gdd-blue }[Game Art Fundamentals]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 4] / Artist: [Lab 5]
-: **Reading**{: .label .gdd-brown }[Good Graphics vs Good Aesthetics]
+: **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
 Feb 8
 : **Lecture**{: .label .gdd-blue }[Fundamentals of Animation]
@@ -20,4 +20,4 @@ Feb 8
 [Lab 6]: ./../pages/labs/lab6/lab6
 [Lab 7]: ./../pages/labs/lab7/lab7
 
-[Good Graphics vs Good Aesthetics]: https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe
+[Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo 

@@ -11,5 +11,6 @@ Apr 25
 : **Project**{: .label .gdd-navy } [Milestone 4: Final Submission]
 
 
-[Gamification]: https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php
+[Gamification]: https://www.gamedeveloper.com/business/game-design-in-real-life-gamification 
+
 [Milestone 4: Final Submission]: ../pages/projects/project3/project3

@@ -12,7 +12,7 @@ Mar 21
 
 [Lab 16]: ./../pages/labs/lab16/lab16
 
-[Insightful Playtest Questions]: http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php 
+[Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
 
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
 

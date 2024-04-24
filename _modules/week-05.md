@@ -16,6 +16,6 @@ Feb 22
 [Lab 11]: ./../pages/labs/lab11/lab11
 [Lab 12]: ./../pages/labs/lab12/lab12
 
-[How to Pitch your Project]: http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php 
+[How to Pitch your Project]: https://www.gamedeveloper.com/business/how-to-pitch-your-project-to-publishers 
 
 

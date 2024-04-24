@@ -15,6 +15,6 @@ Mar 14
 
 [Lab 15]: ./../pages/labs/lab15/lab15
 
-[Tips for Better Playtesting]: https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1
+[Tips for Better Playtesting]: https://www.gamedeveloper.com/design/best-practices-five-tips-for-better-playtesting 
 
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
