@@ -8,16 +8,11 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
->
-> **Tuesday 04/23** 
-> 
-> Work day!!
-> 
->
-> **Thursday 04/25**
+> [Apply] to become a facilitator! Apps are **due Saturday 4/27 at 11:59 PM**
 >
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
+> Visit the [Project 3] Spec for submission instructions!
 >
 > **GDD Showcase 04/29**
 > Show off your game to the whole club and see what other game’s people have been working on this semester! At least one member of your group is required to be present with a working copy of your game!
@@ -59,4 +54,6 @@ Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
 [Project 3]: ./pages/projects/project3/project3
 
 [form]: https://forms.gle/WrDUcRKpRqHvDXwA7
+
+[Apply]: https://tinyurl.com/sp24gddfacil
 

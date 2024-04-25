@@ -86,8 +86,8 @@ Final course writeup (1 per person):
 * [Reflection Spec]
 * [Reflection Submission]
 
-[Game Submission]: https://tinyurl.com/fa23finalsubmission 
+[Game Submission]: http://tinyurl.com/sp24final 
 [Trailer Making Guide]: https://tinyurl.com/gddTrailer
-[Reflection Spec]: https://tinyurl.com/fa23reflectionspec
-[Reflection Submission]: https://tinyurl.com/fa23finalreflection
+[Reflection Spec]: http://tinyurl.com/sp24refSpecs 
+[Reflection Submission]: http://tinyurl.com/sp24refSubmit 
 [Trailer Guide]: https://tinyurl.com/gddTrailer
