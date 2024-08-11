@@ -1,6 +1,6 @@
 ---
 name: Cynthia Xiong
-role: Instructor
+role: AFK Staff
 email:
 website:
 photo: cynthia_xiong.jpg

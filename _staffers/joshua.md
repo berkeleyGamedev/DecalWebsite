@@ -1,6 +1,6 @@
 ---
 name: Joshua Almario
-role: Teaching Assistant
+role: Instructor
 email:
 website:
 photo: joshua_almario.jpg

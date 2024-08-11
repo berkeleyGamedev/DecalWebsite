@@ -1,6 +1,6 @@
 ---
 name: Henry La
-role: Instructor
+role: AFK Staff
 email:
 website: 
 photo: henry.png

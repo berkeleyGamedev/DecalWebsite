@@ -1,6 +1,6 @@
 ---
 name: David Ban
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: david_ban.jpg

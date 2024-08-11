@@ -1,6 +1,6 @@
 ---
 name: Justin Lee
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: justin.jpg

@@ -1,6 +1,6 @@
 ---
 name: Hailey Tran
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: hailey.jpg

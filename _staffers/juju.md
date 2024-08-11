@@ -1,6 +1,6 @@
 ---
 name: Juju No
-role: Teaching Assistant
+role: AFK Staff
 email:
 website:
 photo: juju.jpg

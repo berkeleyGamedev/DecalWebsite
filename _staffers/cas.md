@@ -1,5 +1,5 @@
 ---
-name: Yik Suen Lung (Kas)
+name: Yik Suen Lung (Cas)
 role: Teaching Assistant
 email:
 website:
