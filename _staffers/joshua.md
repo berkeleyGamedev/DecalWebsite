@@ -6,4 +6,4 @@ website:
 photo: joshua_almario.jpg
 ---
 
-Hi! I’m Josh, a first-year studying EECS. I enjoy playing gacha games and RPGs such as OMORI, as well as all types of card games and board games. 
+Hi! I’m Josh, a second-year studying EECS. I enjoy card games, rhythm games, and especially RPGs. Come rant to me about terrible gacha games or show me awesome character designs!

@@ -36,7 +36,7 @@ After that, we will implement a blend tree to transition between four different 
 
 ## Setup
 
-Open the `Animator` scene under `Assets > Scenes > Animator`. Once upon, you'll want to also pull up the `Animator View`. Go to the `Window` tab in the top bar and navigate to `Animation > Animator`. Once you have both the Animator scene and view pulled up, you're ready to load in your animations. You have two options for this: either follow the next section to load in the sprites we provided, or provide your own animation frames / .anim files.
+Open the `Animator` scene inside of the `Scenes` folder. Once upon, you'll want to also pull up the `Animator View`. Go to the `Window` tab in the top bar and navigate to `Animation > Animator`. Once you have both the Animator scene and view pulled up, you're ready to load in your animations. You have two options for this: either follow the next section to load in the sprites we provided, or provide your own animation frames / .anim files.
 
 ### Load Your Animation Frames
 
@@ -185,7 +185,7 @@ One issue here is that the Jump animation looks like it’s been cut short. This
 
 Exit playmode and select the Any State -> Jump transition. Disable “Has Exit Time” and set Transition Duration to 0. This will make the transition from Idle/Run to Jump instantaneous with no smoothing. For player actions that require quick visual feedback like jumping, attacking or dashing, you should consider reducing or removing exit and transition time.
 
-For things like idle into running, you may want to leave the transition to make it feel smoother. This is all up to your preference.
+For specific cases such as moving from the idle into the running state, you may want to leave the transition to make it feel smoother. This is all up to your preference.
 
 ### Tweaking Animation Speeds
 
@@ -203,36 +203,38 @@ Explain the process of implementing transitions in the Animator and setting para
 
 ### Animator Challenge (Optional)
 
-Remove the ability to infinite jump while in the air (i.e. you can only jump if you’re on the ground) Make whatever changes necessary to make this Animator map function the same way as our current implementation: 
+Remove the ability to infinite jump while in the air (i.e. you can only jump if you’re on the ground)
+Make whatever changes necessary to make this Animator map function the same way as our current implementation: 
 
 ## Blend Trees
 
 The animation frames are already set up for the player’s four directions (up, down, left, right). In this lab, we will set up and test a Blend Tree. 
 If you want to learn how to set up these animations, please visit the [Appendix](#appendix).
 
-1. Inside the `Blend Trees` folder, open the Animation Controller called “player_Animation”
-2. In the `Animator View`, we can see that for now, the player is only connected up to an idle animation
-3. We want to set it up so that a different walk animation plays when the player changes direction so that the player faces the direction it’s moving in.
-4. To check how our animations are set up, you can find them in the `Blend Trees/Animation/Walking` folder. If you open them, they should have a couple keyframes that show up in the `Animation View`. If you click on Sprite, the frames should show up.
+1. Open the `Blend Trees` scene through the `Scenes` folder.
+2. Inside the `Blend Trees` folder, open the Animation Controller called “player_Animation”.
+3. In the `Animator View`, we can see that for now, the player is only connected up to an idle animation.
+4. We want to set it up so that a different walk animation plays when the player changes direction so that the player faces the direction it’s moving in.
+5. To check how our animations are set up, you can find them in the `Blend Trees/Animation/Walking` folder. If you open them, they should have a couple keyframes that show up in the `Animation View`. If you click on Sprite, the frames should show up.
 
     ![](images/image12.png)
     ![](images/image8.png)
 
-5. Go back to the player_Animation object and in the `Animator View`, right click the background, then click `Create State > From New Blend Tree` to create a new blend tree node. Name this blend tree “Walking”. Right click the node and click **Set as Layer Default State.**
-6. Double click the blend tree you just created to open it and click on the node that appears. In the `Inspector View`, select **“2D Freeform Directional”** from the drop-down menu and make sure the parameters that appear are **“dirX”** and **“dirY”**. These have been configured in the player movement script to correspond to the relative direction of the player’s mouse from the character’s location. The blend tree will check these values to decide which walking animation to play. Now click the plus button and select **Add Motion Field**.
-7. Click the circle next to **None (Motion)** and select “walk_DOWN” from the list that appears. Update the “Pos X” field with 0, and the “Pos Y” field with -1. This is because the coordinates correspond to (0, -1). The third field is the animation speed; leave it as it is. 
-8. Add three more fields for each of the rest of the walking animations. walk_RIGHT corresponds to (1, 0), walk_UP corresponds to (0, 1), and so on. In the end, your blend tree should look something like this (note: the animation names are different in the picture than in your lab).
+6. Go back to the player_Animation object and in the `Animator View`, right click the background, then click `Create State > From New Blend Tree` to create a new blend tree node. Name this blend tree “Walking”.
+7. Double click the blend tree you just created to open it and click on the node that appears. In the `Inspector View`, select **“2D Freeform Directional”** from the Blend Type drop-down menu and make sure the parameters that appear are **“dirX”** and **“dirY”**. These have been configured in the player movement script to correspond to the relative direction of the player’s mouse from the character’s location. The blend tree will check these values to decide which walking animation to play. Now click the plus button and select **Add Motion Field**.
+8. Click the circle next to **None (Motion)** and select “walk_DOWN” from the list that appears. Update the “Pos X” field with 0, and the “Pos Y” field with -1. This is because the coordinates correspond to (0, -1). The third field is the animation speed; leave it as it is. 
+9. Add three more fields for each of the rest of the walking animations. walk_RIGHT corresponds to (1, 0), walk_UP corresponds to (0, 1), and so on. In the end, your blend tree should look something like this (note: the animation names are different in the picture than in your lab).
     
     ![](images/image7.png)
 
-9. Finally, all that’s left to do is to create transitions between the Idle animation and the Walking blend tree. Return to the Base Layer and right click on the Walking blend tree node, then select Make Transition. Connect it to the Idle animation so that there's a transition from Walking -> Idle.
-10. Click on the white arrow that appears between Walking and Idle. Press the plus button under “Conditions” and select “walking” from the drop-down menu, with a value of false. If “walking” does not show up, create the parameter as a boolean in the Animator sidebar. Uncheck the “Has Exit Time” box as well as the “Fixed Duration” box.
-11. Create a second transition, this time from Idle to Walking, and set “walking” to true.
-12. Make sure the Idle animation is set to the default state. If not, you can do this by right clicking the Idle animation and selecting **Set as Layer Default State.** When you’re done, it should look like this:
+10. Finally, all that’s left to do is to create transitions between the Idle animation and the Walking blend tree. Return to the Base Layer and right click on the Walking blend tree node, then select Make Transition. Connect it to the Idle animation so that there's a transition from Walking -> Idle.
+11. Click on the white arrow that appears between Walking and Idle. Press the plus button under “Conditions” and select “walking” from the drop-down menu, with a value of false. If “walking” does not show up, create the parameter as a boolean in the Animator sidebar. Uncheck the “Has Exit Time” box as well as the “Fixed Duration” box.
+12. Create a second transition, this time from Idle to Walking, and set “walking” to true.
+13. Make sure the Idle animation is set to the default state. If not, you can do this by right clicking the Idle animation and selecting **Set as Layer Default State.** When you’re done, it should look like this:
 
     ![](images/image2.png)
 
-13. Press play and move the character around by **right clicking** on the screen. Notice how now, a different animation is played when the player moves in a different direction! 
+14. Press play and move the character around by **right clicking** on the screen. Notice how now, a different animation is played when the player moves in a different direction! 
 
 ### Blend Trees Checkoff
 
@@ -247,9 +249,9 @@ If you find the sprite file in Assets/Blend Trees/Sprites, you’ll see the spri
 ### Setting up Animations for Blend Trees
 
 1. Go to `Assets/Blend Trees/Sprites` to find the sprite image file. It should have multiple sprite images in one file.
-2. Click the little triangle to the right of the file
-3. Select the images you want as frames in your animation
-4. Drag and drop them into your `Scene View`
+2. Click the little triangle to the right of the file.
+3. Select the images you want as frames in your animation.
+4. Drag and drop them into your `Scene View`.
 5. This will pop up a window asking you to save this sequence as an animation.
 6. Once you save, you should have a Unity animation object with the sequence of images!
 
