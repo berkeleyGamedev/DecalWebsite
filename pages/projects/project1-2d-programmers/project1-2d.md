@@ -1,7 +1,12 @@
+**Project 1 2D**
 
+## Table of contents
+{: .no_toc .text-delta }
 
-**Section 1: Creating the Player**
+1. TOC
+{:toc}
 
+## Section 1: Creating the Player
 
 ![Alt Text](https://media.giphy.com/media/tsX3YMWYzDPjAARfeg/giphy.gif)
 
@@ -18,9 +23,10 @@ In this section, we will be kicking off our game development journey by creating
 {: .note}
 > An important part of debugging in Unity is using `Debug.Log()`, or print statements to figure out the output of your code, if objects are properly assigned to variables, and generally to gain some sort of insight on what your code is doing. Use these to your advantage if you get stuck debugging, such as figuring out where NullReferenceExceptions are coming from!
 
-## Player Movement
+### Player Movement
 
-#### Summary:
+**Summary:**
+
 1. Create the player object, and add the player movement script
 2. Be able to move the player object in any direction.
 
@@ -102,9 +108,9 @@ To check if we have coded this correctly, put in some value for `moveSpeed` (sta
 {: .highlight}
 > You may notice that some keys override the keys of others (when pushing both down and left, your character may only go left), as a design choice, we do not support diagonal movement. Feel free to improve / change this function from the tutorial code as you see fit.
 
-## Player Attacks
+### Player Attacks
 
-#### Summary:
+**Summary:**
 
 1. Be able to attack when pressing the "J" key in all four directions
 2. Cast the hitbox in the right direction
@@ -289,13 +295,13 @@ In the arena of challenges, foes emerge as catalysts for resilience and architec
 
 In this section, we'll be designing a enemy for the player to fight. The enemy will have a circular line of sight that, when the player enters, triggers the enemy to chase the player and explode upon contact; dealing damage to the player. The player will also be able to deal damage back to the enemy.
 
-#### Summary:
+**Summary:**
 
 1. Create an enemy that tracks and chases the player
 2. When the enemy makes contact with the player, it explodes and deals damage to the player
 3. Implement the ghost walking animation for the enemy
 
-## Enemy Setup
+### Enemy Setup
 
 First, create an empty GameObject by right clicking in the hierarchy and name it `Enemy`. Attach a *SpriteRenderer*, *Rigidbody2D*, and a *CircleCollider2D*.
 
@@ -316,7 +322,7 @@ Finally, attach the `Enemy.cs` script to the enemy GameObject and set it's tag t
 
 Now, we have a basic enemy GameObject. 
 
-## Setting Up Enemy Line of Sight
+### Setting Up Enemy Line of Sight
 
 An enemy should attack the player if the player is within a certain radius. 
 
@@ -376,7 +382,7 @@ Functions to modify:
 
 Once implemented, if the player enters the enemy's line of sight, the enemy should chase the player down. However, if you stop moving, the enemy will slowly push you off the screen. We'll address this in the next part.
 
-## Dealing Damage to the Player 
+### Dealing Damage to the Player 
 
 Once the enemy makes contact with the player, it should explode and deal damage to the player. Let's implement the logic for it.
 
@@ -416,7 +422,7 @@ To test your implementation, walk into the enemy's line of sight and let it coll
 
 ![](./images/fig2.3.png) Fig 2.3
 
-## Enemy Animation 
+### Enemy Animation 
 
 Right now, the enemy is a static ghost sprite. Lets give it some character by animating their walk cycle. (In this case, float cycle). 
 
@@ -424,7 +430,7 @@ Add an `Animator` component to the Enemy. We already provide you with a ready-to
 
 https://youtu.be/I9JG9kU17RI?si=lWHJnjz5SdM0bKCG&t=1613
 
-## Prefabing your Enemy
+### Prefabing your Enemy
 
 Good job on creating your foe! You've crafted an adorable floating green ghost who, if you get too near, will chase after you and explode if it gets too close. Now, its time to scatter your newly created enemy prefab around the map. Please decorate to your heart's content!
 
@@ -438,9 +444,10 @@ In this fleeting pursuit for glory we call a game, the player and the enemy wish
 
 Our goal for this section is to allow the player and enemy to defeat each other during the game as they exchange successful attacks.
 
-## Health System
+### Health System
 
-#### Summary:
+**Summary:**
+
 1. Update the PlayerController and Enemy scripts to store health and damage for both enemies and players.
 2. Send damage values from the players to the enemies when an attack lands, and vice versa.
 
@@ -499,7 +506,8 @@ Solution: 68 74 74 70 73 3A 2F 2F 79 6F 75 74 75 2E 62 65 2F 72 59 4A 52 31 41 3
 
 Now, both the enemy and the player have a functional health system, but they do not have a way to damage one another. To add a damage system, we will be using 2D raycasts.
 
-## Damage System
+### Damage System
+
 Head to the `AttackRoutine()` function within the PlayerController script. This function is called whenever the player attacks. Within the foreach loop, the player object is checking whether there are any objects with the Enemy tag inside of the attack hitbox, and returning any objects that it finds.
 ```    
 RaycastHit2D[] hits = Physics2D.BoxCastAll(PlayerRB.position + curr_direction, Vector2.one, 0f, Vector3.zero);
@@ -546,9 +554,10 @@ During the last section, we have successfully created a health and damage system
 
 In this section, we will be using Unity’s UI (User Interface) components to create a health bar for our game that displays the amount of health that the player has. In a way, we'll be making the scabbard to our gameplay.
 
-## Health Bar
+### Health Bar
 
-#### Summary:
+**Summary:**
+
 1. Create a health bar and place it within the scene.
 2. Getting the health bar to change dynamically depending on the player's health.
 
@@ -609,7 +618,7 @@ Head back to your Scene view and drag the *HPSlider* object to the `HPSlider` va
 In this section, you will handle all the sound aspects of the project, along with a couple bits and pieces that we need to pick up before moving on.
 
 
-## Audio
+### Audio
 
 
 First, enable the *AudioManager* object in the Hierarchy. Then, in your *Player* script, add the sounds where you want it to be played. In order to do this, you will need to add this line of code to where you want the sound to be played: `FindObjectOfType<AudioManager>().Play("SoundName");`. 
@@ -641,7 +650,7 @@ Here is a list of the sounds you'll need to implement:
 68 74 74 70 73 3A 2F 2F 79 6F 75 74 75 2E 62 65 2F 41 6D 6F 49 5A 34 41 55 75 72 45 3F 6C 69 73 74 3D 50 4C 6B 54 71 66 35 44 42 7A 50 73 41 65 2D 70 52 35 62 44 55 64 77 48 69 43 4E 67 48 63 79 42 49 68 26 74 3D 36 37
 ```
 
-## Bits and Pieces
+### Bits and Pieces
 
 Now, we want the camera to move with the player. So, click on the *CM vcam1* object in the Hierarchy, and check it. Then, in the `CinemachineVirtualCamera` component, drag your *Player* object into the Follow area. Then, go into the `Main Camera` and check the `CinemachineBrain` component. You should now be able to play the game with the camera centered on the player, as you explore the map.
 
@@ -651,12 +660,13 @@ Now, you should be able to play your game in the map, and have sound effects alo
 
 In this section, you will implement a chest object and a health potion object, then program the functionality to open these chests and receive health potions.
 
-#### Summary:
+**Summary:**
 
 1. Create a health potion GameObject that heals the player's health when the player walks over it
 2. Create a chest that drops health potions when the player opens it
 
-## Setting Up  Chest and HealthPack
+### Setting Up  Chest and HealthPack
+
 Right click in the hierarchy to create a new sprite GameObject `2D Object > Sprite` and rename it to `Chest`. Then, follow these steps: 
 
 1. In your project's directory, navigate to `Assets > Sprites > Items` and drag the *chest* sprite into the *SpriteRenderer* component's *Sprite* box. Alternatively, you can click on the circle next to the *Sprite* box and search the name *chest*.
@@ -707,7 +717,7 @@ Attach the *HealthPack.cs* script to your `HealthPotion` GameObject. You can tes
 
 Finally, drag your *HealthPotion* GameObject into `Assets > Prefabs` to turn it into prefab.
 
-## Chest Script
+### Chest Script
 
 Change the *Chest* GameObject's tag to **Chest**. Navigate to the Scripts folder again and add the *Chest.cs* script to your *Chest* GameObject. Double click the script to edit it.
 
@@ -735,7 +745,7 @@ Back in the Unity editor, with *Chest* selected, drag and drop a reference to th
 {: .note}
 >You won't be able to test your implemention until you've finished the next task.
 
-##  Interacting with Pickups
+### Interacting with Pickups
 
 We just implemented the `Open()` function for *Chest*, that when called, destroys the *Chest* game object and leaves in its place a *Health Potion*. 
 As of right now, we can't interact and open the chest. Let's implement that functionality in this section.
@@ -787,12 +797,13 @@ We've come so far, you and I. Our trials and tribulations are no match for your 
 
 Now that the core gameplay has been implemented, we can now round off our game with menu screens that allow the player to navigate from opening the game to playing it and vice versa. Menu screens are a quick way to add polish to your game and improve the user experience, as well as enforcing the style or theme that your game is going for.
 
-#### Summary:
+**Summary:**
 
 1. Create a GameManager script and UI assets for the GameManager to control
 2. Create scenes for the game to switch between and implement the scene-switching logic
 
-## Main Menu
+### Main Menu
+
 Head to the *Scenes* folder in the Inspector, and right click to create a new scene with `Create > Scene`. Name this scene *MainMenu*, and open the scene. Create a `Canvas` (this will also make an `EventManager`), and name it *MainMenuCanvas*. 
 
 Create a `Text` object under the new canvas and name it *TitleText*. Increase the font size to 40, and change both alignments to the centered option. Change the text to your game’s title. (You can choose this name! If you don’t care, call it *Awesome Game*) 
@@ -806,7 +817,7 @@ Change the `Color` of the image to your choice of background color. Notice how t
 
 Add a `Button` object to the *MainMenuCanvas* and lower the button either in the scene or by changing the `Y` position to -75 in the `Inspector`. Access the *Text* object, the child of *Button*, and change the text to *“Start Game"*.
 
-## Win and Lose Screens
+### Win and Lose Screens
 
 **Task 7.1: Create two more scenes, *WinScene* and *LoseScene*, that will show up when the win and lose conditions are met respectively.**
 
@@ -819,7 +830,7 @@ Add a `Button` object to the *MainMenuCanvas* and lower the button either in the
 68 74 74 70 73 3A 2F 2F 79 6F 75 74 75 2E 62 65 2F 41 33 78 35 69 50 6A 36 6A 6C 63 3F 6C 69 73 74 3D 50 4C 6B 54 71 66 35 44 42 7A 50 73 41 65 2D 70 52 35 62 44 55 64 77 48 69 43 4E 67 48 63 79 42 49 68 26 74 3D 34 39 
 ```
 
-## Scene Management
+### Scene Management
 
 To hold all of the scene management code, we will be using a `GameManager` script. The `GameManager` script is typically where, as the name suggests, most of the game management code is stored. Since most of the code that maintains the gameplay has been delegated to other scripts, this `GameManager` script will control scene management.
 
