@@ -8,7 +8,7 @@ nav_order: 0
 # Game Design Decal Spring 2024
 
 {: .announcements }
-> [Apply] to become a facilitator! Apps are **due Saturday 4/27 at 11:59 PM**
+> [Apply] dasfsadfto become a facilitator! Apps are **due Saturday 4/27 at 11:59 PM**
 >
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
@@ -31,7 +31,7 @@ Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
 {{ module }}
 {% endfor %}
 
-[Lab 0]: ./pages/labs/lab0/lab0
+[Lab 0: Setup Unity]: ./pages/labs/lab0/lab0
 [Lab 1]: ./pages/labs/lab1/lab1
 [Lab 2]: ./pages/labs/lab2/lab2
 [Lab 3]: ./pages/labs/lab3/lab3
