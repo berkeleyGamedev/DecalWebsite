@@ -1,6 +1,6 @@
 ---
 name: Jackie Dai
-role: Teaching Assistant
+role: Instructor
 email:
 website:
 photo: jackie.jpg
