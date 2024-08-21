@@ -1,10 +1,10 @@
 ---
-name: Sabrina Kuang
+name: Jinjeong Kim
 role: Teaching Assistant
 email:
 website:
-photo: sabrina_kuang.HEIC
+photo: jinjeong_kim.jpg
 ---
 
-Hi Hi! I’m Sabrina (she/her), a 3rd year EECS major. My favorite games currently are Stray, tetris, and Elden Ring. I’m currently obsessed with Stardew Valley (200+ hours). 
+Hey, I’m Jinjeong, Jin for short. I’m a sophomore studying chemical engineering. Currently playing Hollow Knight. If you have any art to show, please do!
 
