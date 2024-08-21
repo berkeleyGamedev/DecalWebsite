@@ -5,10 +5,10 @@ description: Announcements and class schedule
 nav_order: 0
 ---
 
-# Game Design Decal Spring 2024
+# Game Design Decal Fall 2024
 
-{: .announcements }
-> [Apply] dasfsadfto become a facilitator! Apps are **due Saturday 4/27 at 11:59 PM**
+<!-- {: .announcements }
+> [Apply] ! Apps are **due Saturday 4/27 at 11:59 PM**
 >
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
@@ -18,10 +18,10 @@ nav_order: 0
 > Show off your game to the whole club and see what other game’s people have been working on this semester! At least one member of your group is required to be present with a working copy of your game!
 > 
 > **Date: Monday, 4/29, 7-9PM PST**
-> **Location: Jacobs Hall Room 310**
+> **Location: Jacobs Hall Room 310** 
 
 
-Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
+Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13) -->
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 
@@ -55,5 +55,5 @@ Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13)
 
 [form]: https://forms.gle/WrDUcRKpRqHvDXwA7
 
-[Apply]: https://tinyurl.com/sp24gddfacil
+[Apply]: https://tinyurl.com/fa24gddfacil
 

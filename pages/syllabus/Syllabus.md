@@ -15,13 +15,13 @@ nav_order: 4
 
 ## Course Info
 
-**Time**: Tuesdays/Thursdays 6:30pm - 8:00pm
+**Time**: Mondays/Thursdays 6:30pm - 8:00pm
 
 **Location**: Jacobs 10
 
-**Facilitator**: Henry La, Cynthia Xiong
+**Facilitator**: Jackie Dai, Joshua Almario
 
-**Faculty of Record**: Ren Ng
+**Faculty of Record**: James O'Brien
 
 **Course Email**: berkeley.gamedev@gmail.com
 
@@ -93,11 +93,10 @@ Every student will need a laptop capable of running Photoshop, Illustrator, and 
 
 Overall:
 
-- Labs: 10%
-- Project 1: 10%
-- Project 2: 10%
-- Project 3: 60%
-- Written Responses: 10%
+- Labs: 20%
+- Project 1: 20%
+- Project 2: 20%
+- Project 3: 40%
 
 Project 1 and 2:
 
