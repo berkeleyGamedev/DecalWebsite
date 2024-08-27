@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Oct 7
-: **Lecture**{: .label .gdd-blue }[Pitch Day]
+: **Lecture**{: .label .gdd-blue }Pitch Day
 : **Reading**{: .label .gdd-brown }[How to Write a Good Game Design Document]
 
 Oct 10

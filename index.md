@@ -14,7 +14,7 @@ nav_order: 0
 > 
 > **Date: Thursday, 9/5, 6:30-8PM PST**
 > **Location: Jacobs Hall Room 10** 
-<!-- >
+<!--
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
 > Visit the [Project 3] Spec for submission instructions!
