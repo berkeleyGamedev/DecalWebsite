@@ -9,6 +9,7 @@ nav_order: 0
 
 {: .announcements }
 > [Apply] to become a part of the Fall 2024 DeCal! Apps are **due Friday 9/6 at 11:59 PM**
+>
 > **DeCal Infosession 9/5**
 > We will be hosting an info session a day before apps are due! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)!
 > 
