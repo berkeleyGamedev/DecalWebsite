@@ -7,9 +7,14 @@ nav_order: 0
 
 # Game Design Decal Fall 2024
 
-<!-- {: .announcements }
-> [Apply] ! Apps are **due Saturday 4/27 at 11:59 PM**
->
+{: .announcements }
+> [Apply] to become a part of the Fall 2024 DeCal! Apps are **due Friday 9/6 at 11:59 PM**
+> **DeCal Infosession 9/5**
+> We will be hosting an info session a day before apps are due! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)!
+> 
+> **Date: Thursday, 9/5, 6:30-8PM PST**
+> **Location: Jacobs Hall Room 10** 
+<!-- >
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
 > Visit the [Project 3] Spec for submission instructions!
