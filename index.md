@@ -14,6 +14,7 @@ nav_order: 0
 > 
 > **Date: Thursday, 9/5, 6:30-8PM PST**
 > **Location: Jacobs Hall Room 10** 
+
 <!--
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
 > 
@@ -29,7 +30,6 @@ nav_order: 0
 Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13) -->
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
-
 ## Schedule
 
 {% for module in site.modules %}
