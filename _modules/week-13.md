@@ -2,12 +2,9 @@
 title: Week 13
 ---
 
-Apr 16
-: **Lecture**{: .label .gdd-blue }[Building and Publishing]
+Nov 25
+: **Lecture**{: .label .gdd-blue }[Work Day]
 : **Reading**{: .label .gdd-brown } [Tutorial Design]
-
-Apr 18
-: **Project**{: .label .gdd-navy } [Milestone 3: Beta Playtest]
 
 [Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400 
 

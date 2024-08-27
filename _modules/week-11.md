@@ -2,12 +2,12 @@
 title: Week 11
 ---
 
-Apr 2
-: **Lecture**{: .label .gdd-blue }Guest Lecture
+Nov 11
+: **Lecture**{: .label .gdd-blue } [Work Day]
 : **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
-Apr 4
-: **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
+Nov 14
+: **Project**{: .label .gdd-navy } [Guest Lecture]
 
 [Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
 

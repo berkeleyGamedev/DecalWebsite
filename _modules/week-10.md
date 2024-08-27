@@ -2,8 +2,13 @@
 title: Week 10
 ---
 
-Mar 26
-: **Spring Break**
+Nov 4
+: **Lecture**{: .label .gdd-blue } [Accessibility]
+: **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
-Mar 28
-: **Spring Break**
+Nov 7
+: **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
+
+[Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
+
+[Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3

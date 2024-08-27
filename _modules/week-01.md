@@ -2,12 +2,9 @@
 title: Week 1
 ---
 
-Jan 23
+Sept 5
 : **Lecture**{: .label .gdd-blue }[Infosession]
 : **Lab**{: .label .gdd-yellow }[Lab 0: Unity Setup]
-
-Jan 25
-: **Lecture**{: .label .gdd-blue }[Infosession]
 
 
 <!-- [Infosession]: -->

@@ -2,13 +2,13 @@
 title: Week 9
 ---
 
-Mar 19
-: **Lecture**{: .label .gdd-blue } [Tutorial Design]
+Oct 28
+: **Lecture**{: .label .gdd-blue } [Music and SFX]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
-Mar 21
-: **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
+Oct 31
+: **Project**{: .label .gdd-navy } [Guest Lecture]
 
 [Lab 16]: ./../pages/labs/lab16/lab16
 
