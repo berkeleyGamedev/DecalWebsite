@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Nov 4
-: **Lecture**{: .label .gdd-blue } [Accessibility]
+: **Lecture**{: .label .gdd-blue } Accessibility
 : **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
 Nov 7

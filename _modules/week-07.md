@@ -3,12 +3,12 @@ title: Week 7
 ---
 
 Oct 14
-: **Lecture**{: .label .gdd-blue } [Work Day]
+: **Lecture**{: .label .gdd-blue } Work Day
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 13]
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
 Oct 17
-: **Lecture**{: .label .gdd-blue } [Tutorial + Level Design]
+: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14]
 : **Project**{: .label .gdd-navy } [Milestone 0: Game Design Doc]
 

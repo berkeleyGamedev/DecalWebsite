@@ -3,12 +3,12 @@ title: Week 9
 ---
 
 Oct 28
-: **Lecture**{: .label .gdd-blue } [Music and SFX]
+: **Lecture**{: .label .gdd-blue } Music and SFX
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Oct 31
-: **Project**{: .label .gdd-navy } [Guest Lecture]
+: **Project**{: .label .gdd-navy } Guest Lecture
 
 [Lab 16]: ./../pages/labs/lab16/lab16
 

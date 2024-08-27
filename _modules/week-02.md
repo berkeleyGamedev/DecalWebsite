@@ -3,12 +3,12 @@ title: Week 2
 ---
 
 Sept 9
-: **Lecture**{: .label .gdd-blue }[Intro to Unity]
+: **Lecture**{: .label .gdd-blue }Intro to Unity
 : **Lab**{: .label .gdd-yellow }[Lab 1]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
 Sept 12
-: **Lecture**{: .label .gdd-blue }[Game Design]
+: **Lecture**{: .label .gdd-blue }Game Design
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 2] / Artist: [Lab 3]
 : **Project**{: .label .gdd-navy }[Project 1]
 

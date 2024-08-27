@@ -3,12 +3,12 @@ title: Week 3
 ---
 
 Sept 16
-: **Lecture**{: .label .gdd-blue }[Game Art Fundamentals]
+: **Lecture**{: .label .gdd-blue }Game Art Fundamentals
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 4] / Artist: [Lab 5]
 : **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
 Sept 19
-: **Lecture**{: .label .gdd-blue }[Fundamentals of Animation]
+: **Lecture**{: .label .gdd-blue }Fundamentals of Animation
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6] / Artist: [Lab 7]
 
 
