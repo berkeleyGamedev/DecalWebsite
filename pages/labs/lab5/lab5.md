@@ -20,16 +20,16 @@ nav_exclude: true
 [Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
-In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation. For this lab, we will be focusing on a puppet-based method of animation that uses many of the tools that 3D animations use.  We will also be covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
-
-The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
+In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both frame-based and puppet-based method of animation.  We will also be covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
 
 The **Frame-Based** ​method generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations. 
+
+The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
 
 ## Making Sprites
-Open a canvas in Photoshop or your preferred software. In this lab, we’ll be making a walk animation. We have provided sprites in the file for reference, but artists must draw their own sprites of an existing/original character.
+Open a canvas in your preferred drawing software. In this lab, we’ll be making a walk animation. We have provided sprites in the file for reference, but artists must draw their own sprites of an existing/original character.
 
 ![](images/image3.jpg)
 
@@ -40,7 +40,7 @@ We’ll first go over the frame-based method. Even if you’re doing the modular
 ## Frame-based Method
 
 ### Making the Sprites
-1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool. Otherwise, do your best to space your drawings out correctly). For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
+1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool or onion skinning. Otherwise, do your best to space your drawings out correctly). For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
 
 
 2. Now, on a new layer, **draw one keyframe**. ​Use the grid to center the drawing inside the **leftmost grid square**​. With `​View > Snap` ​enabled, you can do this by selecting the **​Move tool** and holding **Shift** ​as you click and drag the layer vertically or horizontally. 
@@ -61,13 +61,13 @@ Keep in mind the **​12 principles of animation**​ while you animate to make 
 1. **Create a new 2D Unity project.**
 
 2. **Create a Sprites Folder inside Assets**
-    * You can do this by going to `Assets > Create > Folder` and naming your new folder **Sprites**.
+    * You can do this by going to `Assets > Left Click > Create > Folder` and naming your new folder **Sprites**.
 
 3. **Import**
-    *  Inside the folder, right click the background and select `Import New Asset`.​ Locate and import your sprite sheet.
+    *  Inside the Sprites folder, right click the background and select `Import New Asset`.​ Locate and import your sprite sheet.
 
 4. **Change Settings**
-    * In the import settings window in the Inspector, change **Sprite Mode** ​to **Multiple**. If you are doing pixel art, change ​Filter Mode to​ Point​ (this will prevent your​ sprites from being blurry). Then click ​`Apply`.
+    * In the import settings window (right side tab) in the Inspector, find **Sprite Mode** ​and change to **Multiple**. If you are doing pixel art, change ​Filter Mode to​ Point​ (this will prevent your​ sprites from being blurry). Then, at the bottom, click ​`Apply`.
 
 5. **Sprite Editor**
     * **Frame Based**:
@@ -163,9 +163,7 @@ Then rearrange the objects in the **​Hierarchy** with parent-child relationshi
 **Congrats, you’re done!**
 
 ## Supplementary Lecture
-This supplementary lecture demonstrates how to improve your animations in the Animator using the 12 principles of animation.
-
-It is linked here: [https://youtu.be/aBRQT8tvpKs]
+This [supplementary lecture](https://youtu.be/aBRQT8tvpKs?si=e6QbtktfhyV3X1hY) demonstrates how to improve your animations in the Animator using the 12 principles of animation.
 
 ## Checkoff Requirement
 Show your animation window and play your finished animation, which should be made with entirely original sprites.
