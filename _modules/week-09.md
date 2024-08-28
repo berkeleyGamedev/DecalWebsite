@@ -4,7 +4,7 @@ title: Week 9
 
 Oct 28
 : **Lecture**{: .label .gdd-blue } Music and SFX
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 16]
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Oct 31

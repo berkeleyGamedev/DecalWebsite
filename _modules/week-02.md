@@ -4,12 +4,12 @@ title: Week 2
 
 Sept 9
 : **Lecture**{: .label .gdd-blue }Intro to Unity
-: **Lab**{: .label .gdd-yellow }[Lab 1]
+: **Lab**{: .label .gdd-yellow }[Lab 1: Intro to Unity]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
 Sept 12
 : **Lecture**{: .label .gdd-blue }Game Design
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 2] / Artist: [Lab 3]
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Sprinting]
 : **Project**{: .label .gdd-navy }[Project 1]
 
 <!--[Intro to Unity]: https://docs.google.com/presentation/d/13UOf97nI0rWh0DLGCHcSVavez90o4fiwkxdiRE5pQms/edit?usp=sharing

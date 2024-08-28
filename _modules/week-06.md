@@ -8,7 +8,7 @@ Oct 7
 
 Oct 10
 : **Lecture**{: .label .gdd-blue }[Project 2 Showcase]
-: **Project**{: .label .gdd-navy }[Project 3]
+: **Project**{: .label .gdd-navy }[Project 3: Final]
 
 <!-- [Pitch Day]: https://docs.google.com/presentation/d/1vaz1Q_YqXOGP_fpGI7Wtqqe6-YCmiCaYQ6I3eptQkYo/edit?usp=sharing
 [Project 2 Showcase]: https://docs.google.com/presentation/d/16gLK3rRbWZzN8SunlftMyqUsAMK8b8CvDDnf0FFlfT8/edit?usp=sharing -->

@@ -4,7 +4,7 @@ title: Week 8
 
 Oct 21
 : **Lecture**{: .label .gdd-blue }Game Feel
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 15]
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
 Oct 24

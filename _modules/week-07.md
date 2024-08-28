@@ -4,12 +4,12 @@ title: Week 7
 
 Oct 14
 : **Lecture**{: .label .gdd-blue } Work Day
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 13]
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 13: Transitioning, Saving and Building]
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
 Oct 17
 : **Lecture**{: .label .gdd-blue } Tutorial + Level Design
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 14]
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 0: Game Design Doc]
 
 <!-- [Work Day]: https://docs.google.com/presentation/d/13p4d97ktfgWQkO24Pj8HJcAlZ_eo7CQOwo9xocCL_5A/edit#slide=id.p
