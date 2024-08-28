@@ -15,9 +15,9 @@ Sept 19
 <!-- [Game Art Fundamentals]: https://docs.google.com/presentation/d/18Z5mJ-LO84AU3PzaATqwU4cUpmeQOqvWrjUnXhDTi-E/edit?usp=sharing 
 [Fundamentals of Animation]: https://docs.google.com/presentation/d/1Ik2nqnqBubvtusnuC8mWJD7H4SDaGyZlryWj_aJMCOU/edit?usp=sharing -->
  
-[Lab 4]: ./../pages/labs/lab4/lab4
-[Lab 5]: ./../pages/labs/lab5/lab5
-[Lab 6]: ./../pages/labs/lab6/lab6
-[Lab 7]: ./../pages/labs/lab7/lab7
+[Lab 4: Advanced Scripting]: ./../pages/labs/lab4/lab4
+[Lab 5: Animation]: ./../pages/labs/lab5/lab5
+[Lab 6: Colliders and Rigidbodies]: ./../pages/labs/lab6/lab6
+[Lab 7: Tilesets]: ./../pages/labs/lab7/lab7
 
 [Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo 

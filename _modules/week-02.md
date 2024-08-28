@@ -16,9 +16,9 @@ Sept 12
 [Game Design]: https://docs.google.com/presentation/d/1Q0isDd1Ei1vJt2xBN-BbuqwA6x8U1RoaRbia1eZcB84/edit?usp=sharing -->
 
 
-[Lab 1]: ./../pages/labs/lab1/lab1
-[Lab 2]: ./../pages/labs/lab2/lab2
-[Lab 3]: ./../pages/labs/lab3/lab3
+[Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
+[Lab 2: Basic Scripting]: ./../pages/labs/lab2/lab2
+[Lab 3: Pixel Art and Sprinting]: ./../pages/labs/lab3/lab3
 
 [Project 1]: ./../pages/projects/Projects
 

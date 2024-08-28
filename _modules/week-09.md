@@ -10,7 +10,7 @@ Oct 28
 Oct 31
 : **Project**{: .label .gdd-navy } Guest Lecture
 
-[Lab 16]: ./../pages/labs/lab16/lab16
+[Lab 16: Lighting]: ./../pages/labs/lab16/lab16
 
 [Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
 
