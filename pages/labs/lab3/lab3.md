@@ -21,7 +21,7 @@ nav_exclude: true
 
 ### Tools & Software
 This lab will be in **​Photoshop**​ since it's free for students and has powerful editing and color correcting features that are useful for tweaking pixel drawings after they’re done.  
-If you are comfortable in another pixel art software, you may use that software for the task portion of this lab, but Photoshop is strongly recommended for its versatility. **​<span style="color:blue">If you do not yet have Photoshop downloaded, head over to ​https://software.berkeley.edu/adobe​ and read on as you wait for the download to finish. Otherwise, if you already have Photoshop, you’re good to go!</span>** 
+If you are comfortable in another pixel art software, you may use that software for the task portion of this lab, but Photoshop is strongly recommended for its versatility. **​<span style="color:blue">If you do not yet have Photoshop downloaded, head over to [Adobe Software](https://software.berkeley.edu/adobe-creative-cloud)​ and read on as you wait for the download to finish. Otherwise, if you already have Photoshop, you’re good to go!</span>** 
 
 For those interested, there are a few other lightweight software options for pixel art, listed below: 
 - [Aseprite] ($14.99)
@@ -142,7 +142,7 @@ This is an optional generalized guide to help you through the process if you fee
 
 ## Supplementary Lecture
 
-If you feel like a brief (6 min) demonstration would be helpful, check out a supplementary lecture at [https://youtu.be/v999BHLsPlM]. This video provides a rundown of the process from sketch to polish, with accompanying explanations for each step. 
+If you feel like a brief (6 min) demonstration would be helpful, check out a [supplementary lecture](https://youtu.be/v999BHLsPlM?si=RJ6VvJ8PsVYPuN8X). This video provides a rundown of the process from sketch to polish, with accompanying explanations for each step. 
 
 
 ## <span style="color:blue">Check-Off</span>

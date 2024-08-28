@@ -53,16 +53,16 @@ By looking at these examples, it can be noted that UI tends to have a simple and
 
 ![](images/image8.png)
 
-Taking a look at these two menus, the general color scheme of UI assets is one that contrasts enough with the background to stand out, but don’t stand out so much as to distract from the general gameplay. They also generally contain 2 main colors, with the left game being blue and white and the right side game being brown and beige. A limited palette is best for UI as to not take away from the game. 
+Taking a look at these two menus, the general color scheme of UI assets is one that contrasts enough with the background to stand out, but don’t stand out so much as to distract from the general gameplay. They also generally contain 2 main colors, with the top/first/space game being blue and white and the bottom/second/nature game being brown and beige. A limited palette is best for UI as to not take away from the game. 
 
 
 ## UI Assets in Unity
 
-Your games in this decal should all be **16:9** and **1920px by 1080px**. Keep that in mind when sizing your assets. One way you can work with this is take a 1920x1080 screenshot of your background (if it’s larger than that, ex. in a side-scroller) and import it into your drawing program. Then, draw your assets on layers on top of the background. This way, you always have a good way to gauge the size of the assets without having to import it into Unity and resize it in the program. 
+Your games in this decal should all be **16:9** and **1920px by 1080px**. Keep that in mind when sizing your assets. One way you can work with this is take a 1920x1080 screenshot of your background (if it’s larger than that, ex. in a side-scroller) and import it into your drawing program. Then, draw your assets on layers on top of the background. This way, you always have a good way to gauge the size of the assets without having to import it into Unity and resize it in the program. We recommend setting each UI element to its own layer as well, so you can readily resize and reposition them individually. 
 
 There are many ways to add extra flairs to UI assets within Unity that are more technical artist/programmer specific, and that as an artist you probably will not have to do (but is good to know). Some of these include adding text, changing colors of buttons when hovered and clicked, and more, but will not be covered in this lab as its purpose is to get you artists familiar with creating UI assets. 
 
-As an artist, if you are not the one implementing assets into Unity, it’s important to keep up communication with the programmer to keep the look consistent. Be sure to communicate important design elements like font and color, which are things the programmer changes within Unity.
+As an artist, if you are not the one implementing assets into Unity, it’s important to keep up communication with the programmer to keep the look consistent. Be sure to communicate important design elements like how the UI will be anchored to the screen as well as font and color, which are things the programmer changes within Unity.
 
 
 ## Check-off
