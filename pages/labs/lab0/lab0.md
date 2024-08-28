@@ -61,17 +61,17 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
     ![](images/download.png)
 
-3. Go to the `Unity 2022.X` tab and search for `2022.3.16`. Open with Unity Hub.
+3. Go to the `Unity 2022.X` tab and search for `2022.3.28f1`. Click Install (will install in your Unity Hub).
 
     ![](images/openWithHub.png)
 
 4. By default, Unity will install Visual Studios as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
 
-    For the purposes of this class, we will only ever ask you to build your project as an executable.
+    For the purposes of this class, we will only ever ask you to build your project as an executable. (Webgl executables will be covered later in the course, once we reach the final project!)
 
     This means for Windows users, check `Windows Build Support (IL2CPP)`.
 
-    For Mac users, check `Mac Build Support (Mono)`.
+    For Mac users, check `Mac Build Support (IL2CPP)`.
 
     You can always install other build support modules later on. After selecting your modules, press `Continue -> Install`.
 
