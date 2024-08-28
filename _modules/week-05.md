@@ -10,8 +10,8 @@ Sept 30
 Oct 3
 : **Lecture**{: .label .gdd-blue }Design Docs and MVPs
 
-<!-- [Git Tutorial]: https://docs.google.com/presentation/d/10j-3J4_rWsc6feD7vqNfUD5vQeYF-oKD7IegN-5dGig/edit?usp=sharing
-[Design Docs and MVPs]: https://docs.google.com/presentation/d/1ZqDiZswkFjNPO9zoeMYq1SGzN1B8LadEfuBYOcZTOmk/edit?usp=sharing -->
+<!-- [Git Tutorial]: https://docs.google.com/presentation/d/1sk7rqMcUNY4XS88DSLEOfvp-QnN5-w040UY7ojVeD8Q/edit#slide=id.g2844c5628fa_0_184
+[Design Docs and MVPs]: https://docs.google.com/presentation/d/1ZqDiZswkFjNPO9zoeMYq1SGzN1B8LadEfuBYOcZTOmk/edit?usp=sharing (NOT UPDATED) -->
 
 [Lab 11: Coroutines]: ./../pages/labs/lab11/lab11
 [Lab 12: Environment Design]: ./../pages/labs/lab12/lab12

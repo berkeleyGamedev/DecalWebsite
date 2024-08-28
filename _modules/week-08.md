@@ -10,8 +10,7 @@ Oct 21
 Oct 24
 : **Lecture**{: .label .gdd-blue } [Milestone 1: MVP Playtest]
 
-<!-- [Music and SFX]: https://docs.google.com/presentation/d/1DGmzUYHUnhnhJv7_Xb0Gg9svCmMSUHAC4m9NeegzziY/edit?usp=sharing
-[Game Feel]: https://docs.google.com/presentation/d/14jehcjl-PZCyLs4iZ-IKcEU90mxyeUy6vH44gR-NJgA/edit?usp=drive_link -->
+<!-- [Game Feel]: https://docs.google.com/presentation/d/14jehcjl-PZCyLs4iZ-IKcEU90mxyeUy6vH44gR-NJgA/edit?usp=drive_link (NOT UPDATED) -->
 
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
 

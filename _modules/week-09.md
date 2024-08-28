@@ -16,4 +16,6 @@ Oct 31
 
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
 
-[Tutorial Design]: https://docs.google.com/presentation/d/1oXW0eMqDaVZNduOEO6z2An1qa1vvtlTfycD8GpSddHg/edit?usp=sharing
+<!--[Music and SFX]: https://docs.google.com/presentation/d/1oXW0eMqDaVZNduOEO6z2An1qa1vvtlTfycD8GpSddHg/edit?usp=sharing
+(NOT UPDATED)
+-->

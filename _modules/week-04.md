@@ -12,8 +12,8 @@ Sept 26
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
-<!-- [Game Loops]: https://docs.google.com/presentation/d/1qcTa4jcy2h4TDrAmTcn3kdV2d9X7bCNTXoa4HdQ8ziM/edit?usp=drive_link
-[User Interfaces]: https://docs.google.com/presentation/d/1mf9k3ZQxBLTRq01irq64hlTZB0PXb0cuQIRxhm1_4KU/edit?usp=drive_link -->
+<!-- [Game Loops]: https://docs.google.com/presentation/d/1dhLGdGosFGorM3Pi5DrzG_XiJi5vmJ_5JorjLNbXX_0/edit?usp=drive_link
+[User Interfaces]: https://docs.google.com/presentation/d/1mf9k3ZQxBLTRq01irq64hlTZB0PXb0cuQIRxhm1_4KU/edit?usp=drive_link (NOT UPDATED) -->
 
 [Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
 [Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9

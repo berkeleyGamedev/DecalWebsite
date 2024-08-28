@@ -12,8 +12,8 @@ Sept 12
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Sprinting]
 : **Project**{: .label .gdd-navy }[Project 1]
 
-<!--[Intro to Unity]: https://docs.google.com/presentation/d/13UOf97nI0rWh0DLGCHcSVavez90o4fiwkxdiRE5pQms/edit?usp=sharing
-[Game Design]: https://docs.google.com/presentation/d/1Q0isDd1Ei1vJt2xBN-BbuqwA6x8U1RoaRbia1eZcB84/edit?usp=sharing -->
+<!--[Intro to Unity]: https://docs.google.com/presentation/d/1dAfCKSTjRtghfBLiGwkLpU6Dm3gb2sl1D8NYpA9ybg0/edit#slide=id.g2315d55620b_0_5
+[Game Design]: https://docs.google.com/presentation/d/1MCv-Lv4LxIjcdYdUczBw8UDfVaa2TWeRwi2xyAX8N9E/edit#slide=id.p-->
 
 
 [Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
