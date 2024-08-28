@@ -62,5 +62,5 @@ Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13) -->
 
 [form]: https://forms.gle/WrDUcRKpRqHvDXwA7
 
-[Apply]: https://tinyurl.com/fa24gddfacil
+[Apply]: https://tinyurl.com/fa24gddapp
 
