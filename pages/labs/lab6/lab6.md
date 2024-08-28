@@ -87,15 +87,17 @@ By unchecking the Bullet X Ground box, Game Objects on the Bullet and Ground lay
 
 ### Task 1
 
-Open up the JumpDemo scene if you haven’t already. For this task, you will need to enable the following:  
+Open up the JumpDemo scene if you haven’t already. 
+<!--For this task, you will need to enable the following: -->
+<!-- 
 - PlayerTask1, MainCamera, and Environment
-- Disable all the others by clicking on them in the hierarchy and unchecking the box to the left of its name in the inspector
+- Disable all the others by clicking on them in the hierarchy and unchecking the box to the left of its name in the inspector -->
 
 1. Hit the play button. The player should fall right through the floor. This doesn’t seem like something we want, so let’s fix it. Add a **Box Collider 2D** component to PlayerTask1 and size it appropriately by modifying the variables in the inspector OR clicking “Edit Collider” and adjusting the collider in the scene view.
 
 2. Hit the play button again. Now, the player should be able to physically collide with all of the platforms and walls. Try moving around and jumping (Space). Right now you can jump … anytime you want. Let’s fix that.
 
-3. We will now fix some problems with jumping. In the Scripts folder, open PlayerControllerTask1.cs. This is the script that controls the PlayerTask1 object. Modify the sections labeled ‘Task 1’ so that you **should only be able to jump if you are touching a platform, wall, or floor.**
+3. We will now fix some problems with jumping. In the Scripts/Collider folder, open PlayerControllerTask1.cs. This is the script that controls the PlayerTask1 object. Modify the sections labeled ‘Task 1’ so that you **should only be able to jump if you are touching a platform, wall, or floor.**
 
 ### Task 2
 
@@ -166,7 +168,7 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
 
     ![](images/image7.png)  
 
-2. Open the **CircleMovement** Script.  Examine the block of code that matches the one transcribed below:
+2. Open the **CircleMovement** Script from the Scripts/RigidBody folder. Examine the block of code that matches the one transcribed below:
 
         // Update is called once per frame
         void Update () {

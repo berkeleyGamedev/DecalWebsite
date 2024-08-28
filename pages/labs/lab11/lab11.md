@@ -64,6 +64,10 @@ There are quite a few different yield statements, but these are some of the most
 
 -  If you want a smooth transition from your starting state to ending state, then you will need to gradually increase your “x” value through multiple calls to your Lerp function 
     -  Time.DeltaTime can be used to do this; it tells you the amount of time that has elapsed since the last Update call 
+    - Another way to think of this is by thinking of a loop and a fraction, lets call this our 'x' value. Given X is a fraction we should have two values our numerator and denominator. By changing our numerator through multiples calls in a loop (hint hint) we are effectively increasing this x value each time we call the Lerp function. Again, Time.DeltaTime can be used to help you build this.
+
+- Lerp is an extremely useful function that you should always keep in mind and have a good understanding of. Below is a link to website that explains the fundamentals of lerp for programmers and animators alike. Please check it out!
+(https://www.febucci.com/2018/08/easing-functions/)
 
 ## Lab Instructions 
 
@@ -75,7 +79,7 @@ when you press the “F” key, your character sprite should fade to black
 
 - All code should be written in the PlayerController script 
 
-- Your implementation should use both a Coroutine and Color.Lerp
+- Your implementation should use both a Coroutine and Color.Lerp (Here is the documentation for Color.Lerp: https://docs.unity3d.com/ScriptReference/Color.Lerp.html)
 
 ### Task 2: Use a coroutine to spawn in enemies at regular intervals 
 - All code should be written in the SpawnManager script 
@@ -85,7 +89,7 @@ when you press the “F” key, your character sprite should fade to black
 - Use Instantiate to spawn enemies 
 
 - Multiple spawn points have been created for your convenience (feel free to create your own or modify the existing ones)
-
+    - FYI: spawn points are just empty gameobjects in a specifc location, basically marking a space in our game that we can refer back to in our scripts.
     - Use a loop or multiple yield statements to cycle through them so that enemies spawn in new locations each time 
 
 ### Task 3: Give enemies coroutine based movement and turn them into actual sentries 
