@@ -47,6 +47,9 @@ If the grid isn’t showing up, go to `View Menu > Pixel Aspect Ratio and go to 
 
 ![](images/image8.png)
 
+## Setting up Procreate
+
+For procreate users, you can download the free pixel brush back from [Ittai Manero](https://folio.procreate.com/discussions/10/28/46618) and work on a 300x300 vancas. The lab requires you to design a 3x3 tileset, hence the multiple of 3. You can fill a 100x100 canvas with black, and then copy and paste it into your 300x300 canvas for exact pixel accuracy. 
 
 ## Tileset Apps
 
@@ -68,7 +71,7 @@ image to the left.
 You would also need to create a center grass tile in the “inner rounding” 3x3 set that isn’t 
 featured here. One option is to simply just draw the tiles from a blank Photoshop canvas with the 
 grids set up, but Brackeys made a great template to use: [Brackey's Photoshop Template].
-s
+
 Clicking that link should take you to a Tileset template that looks like this:
 
 ![](images/image6.png)
