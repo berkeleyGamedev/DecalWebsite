@@ -22,13 +22,13 @@ nav_exclude: true
 ## Overview
 In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both Sprite-based and puppet-based in addition to covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
 
-The **Sprite-based** (or Cast-based) animation involves each frame being drawn individually independent of the background. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
+The **Sprite-based** (or Cast-based) is a type of frame-based animation which involves each frame being drawn individually. Sprite-based animation involves objects that move independetly of the background. This is a very popular form of animation and has seen a lot of usage in games. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
 
-![](images/image28)
+![](images/image28.png)
 
 The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
 
-![Example GIF](https://i.imgur.com/R2AvuMt.gif)
+![](images/image29.gif)
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
 
