@@ -20,11 +20,15 @@ nav_exclude: true
 [Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
-In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both frame-based and puppet-based method of animation.  We will also be covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
+In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both Sprite-based and puppet-based in addition to covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
 
-The **Frame-Based** ​method generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations. 
+The **Sprite-based** (or Cast-based) animation involves each frame being drawn individually independent of the background. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
+
+![](images/image28)
 
 The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
+
+![Example GIF](https://i.imgur.com/R2AvuMt.gif)
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
 
@@ -35,9 +39,9 @@ Open a canvas in your preferred drawing software. In this lab, we’ll be making
 
 We’ll be doing the **​passing and up**​ poses. This is just **​four​ ​frames**​ in total (two for each step for the left and right), although for your actual game animations you can (and should!) add frames in between to make the animation more fluid.
 
-We’ll first go over the frame-based method. Even if you’re doing the modular-based method, it’s recommended to at least skim through the next part, so that you’re familiar!
+We’ll first go over the Sprite-based method. Even if you’re doing the modular-based method, it’s recommended to at least skim through the next part, so that you’re familiar!
 
-## Frame-based Method
+## Sprite-based Method
 
 ### Making the Sprites
 1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool or onion skinning. Otherwise, do your best to space your drawings out correctly). For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
