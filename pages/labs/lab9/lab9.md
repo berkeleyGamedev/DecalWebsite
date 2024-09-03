@@ -70,7 +70,10 @@ Go into the GUI folder and put the *hp panel* sprite on the Image, and the *x bu
 
 Now, expand the Button and delete its child Text object. Then right click on the title Image object and add a new UI component called Text - TextMeshPro.
 
-TextMeshPro is a replacement for Unity’s default text option. To put it briefly, it solves many of the problems that Unity’s default text has, and lets you do a lot more. TextMeshPro should already be installed in this project, but if this is your first time using TextMeshPro in a project, when you try to create the asset, it may prompt you to install the package.
+TextMeshPro is a replacement for Unity’s default text option. To put it briefly, it solves many of the problems that Unity’s default text has, and lets you do a lot more. 
+
+{: .note}
+>TextMeshPro should already be installed in this project, but if this is your first time using TextMeshPro in a project, when you try to create the asset, it may prompt you to install the package.
 
 ![](images/image18.png)  
 
@@ -163,7 +166,6 @@ Now go to your Item GameObject. Add the script ItemHolder to it, and drag the co
 
 ![](images/image34.png)
 
-Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject.
 
 Now let’s make the buttons actually do something. In the item in the hierarchy, add the script BuyButton. In the Button component of your item, add a new condition to the OnClick() list. Drag the item itself into the GameObject slot, and in the dropdown menu, select BuyButton.BuyItem().
 
@@ -173,7 +175,7 @@ Once you’re done, don’t forget to apply these changes to your prefab so that
 
 ![](images/image19.png)
 
-Now you can delete this GameObject from the scene. If you play the game, you should be able to click on each item and buy it.
+Now you can delete this item GameObject from the scene. If you play the game, the menu should auto-populate with the items you listed in the ItemShop.cs script, and you should be able to click on each item to buy them!
 
 If you ran into any issues, make sure that your Item prefab changes have all been applied, and make sure that the Item Shop script in the panel object is holding the updated prefab in Item Holder Prefab.
 

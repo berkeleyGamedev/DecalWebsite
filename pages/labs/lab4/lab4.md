@@ -50,7 +50,7 @@ You almost certainly have run into at least one of these by now so I will keep i
                 sr.color = new Color.red;  
             }
 
-    - Not static and **must be called on a GameObject instance** (Pretty much anything in Unity)
+        - Not static and **must be called on a GameObject instance** (Pretty much anything in Unity)
     - To access the GameObject that your script is attached to you can simply use the keyword **gameObject**
         - Ex: if you have a Health script attached to your player GameObject, and you want to change the player’s color to red directly **from within the Health script**, you can type the following:
 
@@ -68,18 +68,26 @@ You almost certainly have run into at least one of these by now so I will keep i
 We encourage you to explore the linked Script References. There are a lot of similar methods that we will not be covering that you may find useful!
 
 ### Singletons
-A singleton, as you may or may not have learned from other classes, is an object that there is only one of. This is a really useful model for **centralized systems** in your game. Some good examples of scripts where this may be useful include: *SpawnManager, PlayerData, LevelLoader* (These are made up names to get the idea across). So how do we make a singleton? Easy!
+A singleton, as you may or may not have learned from other classes, is an object that there is only one of. This is a really useful model for **centralized systems** in your game. Some good examples of scripts where this may be useful include: *SpawnManager, PlayerData, LevelLoader* 
+
+{: .note} 
+> These are made up names to get the idea across... 
+
 
 ![](images/image4.jpg)  
-Let’s break this down.
+So how do we make a singleton? Easy! Let’s break this down.
 - First off this is not a true singleton in that you could technically make more of them by attaching this script to more objects, but this does not matter for our use case
 - Public means all scripts anywhere can access this variable
 - Static means all Score script objects share the same **st** variable
     - It also means you can access this shared **st** variable using **Score.st**
         - This is nice because there are no **GetComponent**s or **GameObject.Find**s required!
 - **We do this in `Awake()` because `Awake()` is guaranteed to happen before `Start()` which is a place where this singleton might get used**
-    - If another script tries to reference **Score.st** from within an `Awake()` there is no guarantee that **Score.st** will be assigned yet!!! (It will only work sometimes)
-- We use a short variable name (**st** short for singleton in this case) to make future uses in other scripts cleaner and easier to read
+
+{: .important}
+>If another script tries to reference **Score.st** from within an `Awake()` there is no guarantee that **Score.st** will be assigned yet!!! (It will only work sometimes)
+
+{: .note}
+>We use a short variable name (**st** short for singleton in this case) to make future uses in other scripts cleaner and easier to read [but you can name it whaterver you want].
 
 Now when another script wants to modify the score they can simply say
 
@@ -171,6 +179,7 @@ You can think of this game as essentially Fruit Ninja. You click on the screen t
 You have a lot of creative freedom here. You can take that and run with it or you can follow the more chunked up, bare minimum steps below.
 
 ### Creating the Enemies
+We will be creating two enemy types, a good and bad. If **the good Enemy** is clicked on, the player will be awarded with points, but if the player clicks on **the bad Enemy**, points will be deducted. Similar to Fruit Ninja, where you get points for slicing fruits, but lose the game if you hit a bomb." 
 - Create a serializable variable named despawnTime. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
 - In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
 
@@ -185,7 +194,7 @@ First off, we need an enemy to interact with.
 - If you want your enemy to have physics based movement/gravity then add a *Rigidbody2D* Component as well. **HOWEVER**, the rest of these tips will assume you didn’t do this
 - Make it a Prefab so you can spawn copies of it later
     - As a reminder, prefabs are like GameObject “templates”, they are very useful because scripts can reference them
-    - Just drag it into your Prefabs folder
+    - To create a prefab, just drag it into your Prefabs folder
 
 Now we need the enemy to move (Or not, that’s up to you. But it should at the very least spawn in a random location and despawn after some time has passed)
 - Right click the *Assets tab Create* > *C# Script* (name the script ‘Enemy’). Open the script
@@ -196,19 +205,18 @@ Now we need the enemy to move (Or not, that’s up to you. But it should at the 
     - For the purpose of this lab you can just hard-code values for **horizontalBound** and **verticalBound**
         - In a real game you would want to figure out how to do this dynamically (just google it), but it is not worth doing for this lab
         - There are two versions of **Random.Range**, one for floats and one for integers. Make sure you use the one for floats
-        - You can keep track of **elapsedTime** with:
+    - You can keep track of **elapsedTime** with:
 
-                elapsedTime = elapsedTime + Time.deltaTime;
+            elapsedTime = elapsedTime + Time.deltaTime;
 
-        - You will need to create 3 new variables if you choose to follow the above:
-            - **startingPosition** should be a Vector2 that is set to your **transform.position** in Start AFTER you reset **transform.position** to a random spot
-            - **elapsedTime** should be a float that is set to 0 when the enemy is initialized
-            - Create a serializable variable named **despawnTime**. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
+    - You will need to create 3 new variables if you choose to follow the above:
+        - **startingPosition** should be a Vector2 that is set to your **transform.position** in Start AFTER you reset **transform.position** to a random spot
+        - **elapsedTime** should be a float that is set to 0 when the enemy is initialized
         - In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
+    {: .important}
+    >Make sure to attach the script you made to your enemy!!!
 
-- Make sure to attach the script you made to your enemy!!!
-
-Repeat the above steps for the second enemy type (Or just copy and paste and change the **SpriteRenderer** color and make a new prefab for it)
+Repeat the above steps for the **good enemy** type (Or just copy and paste and change the **SpriteRenderer** color and make a new prefab for it)
 
 ### Programming Mouse-click and Score Functionality
 Now that we have an enemy to hit, go into the MouseInput script and add some code to deal with when the player clicks on an enemy
