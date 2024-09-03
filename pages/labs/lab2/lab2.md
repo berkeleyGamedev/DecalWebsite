@@ -175,8 +175,12 @@ Save the prefab and start the minigame. You should now observe that the Snipers 
 ***Checkoff Requirement:*** The Sniper enemy type should have a different movement pattern from the SimpleEnemy. 
 
 Open the scripts **MyGameManager.cs** and **EnemyData.cs.** These scripts combine a few different methods of making the Inspector for a script more useful:
-- **HideInInspector** –– Use this if you require a variable to be public (for example, in a struct or an array) but don’t want it to show up in the Inspector
-- Structs — Use these to create convenient groupings of variable names that will **remain** grouped in the Inspector
+- **HideInInspector** –– Use this if you require a variable to be public (for example, in a struct or an array) but don’t want it to show up in the Inspector. 
+{: .note} 
+>To do this, write "[HideInInspector]" above or next to your variable.
+- Structs — Use these to create convenient groupings of variable names that will **remain** grouped in the Inspector. 
+{: .note}
+>While not necessary for this lab, please make sure that you at least know how to use a struct, here is a helpful link: [https://gamedevbeginner.com/structs-in-unity-how-and-when-to-use-them/] 
 - Arrays/Lists — Use these to make adding more elements to your game more convenient. Rather than having to add a new public variable for each enemy type, this allows you to add a new enemy entirely in the Inspector.
 
 Take a look at the relationship between **EnemyMovement.cs**, **SimpleEnemyMovement.cs,** and **SniperEnemyMovement.cs.** This is an example of how to utilize **Inheritance** (a concept you may be familiar with if you’ve taken CS61B)
