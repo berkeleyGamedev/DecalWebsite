@@ -46,7 +46,7 @@ To make scaling pixel art up and down easier, as well as to enable compression a
 
 ## Tips and Techniques
 
-Pixel art is one of the most accessible forms of art because instead of relying on hand-eye coordination or a sense of artistic intuition, a lot of it simply relies on **​knowledge and understanding**​ of what makes ​low-resolution art ​ ​specifically ​ look enticing. Here are some tips and tricks to keep in mind when you make pixel art.  
+Pixel art is one of the most accessible forms of art because instead of relying on hand-eye coordination or a sense of artistic intuition, a lot of it simply relies on **​knowledge and understanding**​ of what makes ​low-resolution art ​​specifically ​look enticing. Here are some tips and tricks to keep in mind when you make pixel art.  
 
 ### Dithering
 Dithering is the simulation of a gradient with often very ​few ​colors. Using different dithering patterns you can create a pleasing transition between two colors. Since limited palettes are encouraged in pixel art, dithering is extremely helpful and almost always used in every piece. 
@@ -55,7 +55,8 @@ Dithering is the simulation of a gradient with often very ​few ​colors. Usin
 
 #### Dithering with Photoshop Brushes
 
-While dithering can be done by hand, photoshop has third-party brushes that make the task a little bit quicker. You can find them here: [​https://abductedplatypus.itch.io/dither-brushes] 
+While dithering can be done by hand, photoshop has third-party brushes that make the task a little bit quicker. You can find them [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abductedplatypus.itch.io/dither-brushes&ved=2ahUKEwiHnuXt76SIAxWLPTQIHakqE8IQFnoECBsQAQ&usg=AOvVaw3dS8NXBvF5h1FH0hiLn-Rm).
+
 *Note*:​ Each brush is titled by the pixel “channels” it covers. So, a brush labeled “AB” will conflict with a brush labeled “B”, since they both occupy the “B” channel, and one brush will always paint over the other one. Basically, in the words of the creator, to use the brushes without conflict, it’s useful to assign to each color either to OABC or DEFG brushes, since this will make it easier to dither with 3 or more colours. 
 
 ### Anti-Aliasing
@@ -111,7 +112,7 @@ Pillow shading is shading from the outline inwards, with the colors getting prog
 
 - <span style="color:blue">Feel free to give the character a weapon or shield if you want.</span>
 - <span style="color:blue">Don’t forget the techniques mentioned in this lab!</span>
-- <span style="color:blue">You won’t be able to get ​all ​ the character’s details in, since pixel art is lower resolution. Just pick and choose the most characteristic ones!</span>
+- <span style="color:blue">You won’t be able to get ​all the character’s details in, since pixel art is lower resolution. Just pick and choose the most characteristic ones!</span>
 
 
 ## The Workflow
@@ -125,6 +126,7 @@ This is an optional generalized guide to help you through the process if you fee
     - These sites can be good places to start:
         - [Paletton]
         - [color-hex]
+        - [Lospec Palette]
     - Remember to **​dither** ​your colors when you want to blend them together 
     - Don’t use all colors in equal amounts! Divide them into **​main (60%), secondary (30%), and accent (10%)**​ to reach a good balance, like below.
 
@@ -177,3 +179,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 [Medibang]: https://medibangpaint.com/en
 [Paletton]:http://www.paletton.com​/
 [color-hex]:http://www.color-hex.com/color-palettes/
+[Lospec Palette]:https://lospec.com/palette-list

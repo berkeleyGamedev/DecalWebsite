@@ -9,7 +9,7 @@ Sept 9
 
 Sept 12
 : **Lecture**{: .label .gdd-blue }Game Design
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Sprinting]
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Spriting]
 : **Project**{: .label .gdd-navy }[Project 1]
 
 <!--[Intro to Unity]: https://docs.google.com/presentation/d/1dAfCKSTjRtghfBLiGwkLpU6Dm3gb2sl1D8NYpA9ybg0/edit#slide=id.g2315d55620b_0_5
@@ -18,7 +18,7 @@ Sept 12
 
 [Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
 [Lab 2: Basic Scripting]: ./../pages/labs/lab2/lab2
-[Lab 3: Pixel Art and Sprinting]: ./../pages/labs/lab3/lab3
+[Lab 3: Pixel Art and Spriting]: ./../pages/labs/lab3/lab3
 
 [Project 1]: ./../pages/projects/Projects
 

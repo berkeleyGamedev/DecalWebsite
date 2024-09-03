@@ -20,11 +20,16 @@ nav_exclude: true
 [Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
-In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both frame-based and puppet-based method of animation.  We will also be covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
+In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both Sprite-based and puppet-based in addition to covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
 
-The **Frame-Based** ​method generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations. 
+The **Sprite-based** (or Cast-based) is a type of frame-based animation which involves each frame being drawn individually. Sprite-based animation involves objects that move independetly of the background. This is a very popular form of animation and has seen a lot of usage in video games. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
+
+![](images/image28.png)
 
 The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
+
+![](images/image29.gif)
+
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
 
@@ -35,27 +40,46 @@ Open a canvas in your preferred drawing software. In this lab, we’ll be making
 
 We’ll be doing the **​passing and up**​ poses. This is just **​four​ ​frames**​ in total (two for each step for the left and right), although for your actual game animations you can (and should!) add frames in between to make the animation more fluid.
 
-We’ll first go over the frame-based method. Even if you’re doing the modular-based method, it’s recommended to at least skim through the next part, so that you’re familiar!
+We’ll first go over the Sprite-based method. Even if you’re doing the modular-based method, it’s recommended to at least skim through the next part, so that you’re familiar!
 
-## Frame-based Method
+## Sprite-based Method
 
-### Making the Sprites
-1. **(Photoshop Specific) Set up a grid**. ​(If you don’t have Photoshop, see if your drawing software has a grid tool or onion skinning. Otherwise, do your best to space your drawings out correctly). For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
+### Making the Sprites 
+
+Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (i.e. ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like.
+
+#### Photoshop
+
+1. **Set up a grid**. For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
 
 
 2. Now, on a new layer, **draw one keyframe**. ​Use the grid to center the drawing inside the **leftmost grid square**​. With `​View > Snap` ​enabled, you can do this by selecting the **​Move tool** and holding **Shift** ​as you click and drag the layer vertically or horizontally. 
 
-![](images/image4.jpg)
+    ![](images/image4.jpg)
 
-We’ll be making adjustments to this frame for later frames to reduce the amount of work necessary.
-
-![](images/image5.jpg)
+    We’ll be making adjustments to this frame for later frames to reduce the amount of work necessary.
 
 3. **Draw the other three frames on separate layers**. ​You can do this by copy and pasting your first keyframe three times into adjacent grid squares, then changing parts that need to move. This can save you having to redraw parts like the head and face, which don’t change as much. 
 
 ![](images/image7.jpg)
 
-Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (i.e. ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like. 
+#### Procreate
+1. **Set up**. On a new canvas, go to `Actions(Wrench icon) > Canvas` here you can turn on Animation Assist (onion skinning) and Drawing guide (grid).
+    1. Animation Assist has many features that allows users for better animation workflow. One of the features is onion skinning which is used to see previous frames simultaneously, allowing us to create smooth motions. 
+
+    ![](images/image30.jpg)
+
+    2. Drawing Guide sets up the grid on our canvas. Feel free to customize your grid to whatever suites your needs in Edit Drawing Guide! 
+
+2. Now feel free to draw your walk-cycle frames either on top of each frame (with Animation Assist) or spaced out evenly with the grid (follow Photoshop method steps 2 and 3 as the pipeline is practically the same).  
+
+3. **Exporting**. When you're happy with your walk-cycle, it's time to export by `Actions (Wrench Icon) > Share > Share Image > PNG`. *Note: For a transparent background, deselect the background color and exported as PNG.* If you had done your walk-cycle using the Drawing Guide (and the Photoshop method) you're done and can move on to **Importing Sprites**. However, if you had drawing your walk-cycle with onion skinning, you'll find that all your sprites are on top of each other and on different layers! To fix this: 
+    1. Export by `Actions (Wrench Icon) > Share > Share Layers > PNG Files` and now you've exported every layer. *Note: You can directly import these sprites into Unity without making the Sprite Sheet. However, you'll find that the process much more time consuming and Sprite Sheets allow for better organization anyways. You can read more about this at [Why Should I Use A Sprite Sheet?](https://www.finalparsec.com/Blog/ViewPost/why-should-i-use-a-sprite-sheet)*
+    2. Navigate to any Sprite Sheet maker and import all of your images. You will end up with a complete Sprite Sheet of your walk-cycle animation! 
+        - [Finalparsec]
+        - [CodeShack] 
+        - [TexturePacker]
+
 
 ### Importing Sprites
 1. **Create a new 2D Unity project.**
@@ -71,7 +95,7 @@ Keep in mind the **​12 principles of animation**​ while you animate to make 
 
 5. **Sprite Editor**
     * **Frame Based**:
-        1. Click `Sprite Editor` in the **Inspector**. In the window that opens, click **​Slice**. ​Then, in ​**Type**, ​select **Grid By Cell​ Size**. Choose the height size that you used to make your grid in Photoshop. Then, click `Slice`.
+        1. Click `Sprite Editor` in the **Inspector**. In the window that opens, click **​Slice**. ​Then, in ​**Type**, ​select **Grid By Cell​ Size**. Choose the height size that you used to make your canvas size/grid. Then, click `Slice`.
         ![](images/image19.png)
 
 ### Creating Animations
@@ -100,7 +124,7 @@ Similar to the sprite based method, there’s a sprite provided for reference an
 
 ![](images/image10.png)
 
-2. **Modularize**. Using the lasso tool (or something similar in the drawing program you use if you don’t use photoshop) select each significant body part, cut them out of the character, and paste them somewhere on the canvas.​ ​At a **​minimum**​, you’ll need these parts:
+2. **Modularize**. Using the lasso tool (or something similar in the drawing program you use if you don’t use Photoshop) select each significant body part, cut them out of the character, and paste them somewhere on the canvas.​ ​At a **​minimum**​, you’ll need these parts:
     * Head + Torso (Can be one part) 
     * Right:
         * Arm
@@ -179,3 +203,7 @@ If you experience any bugs or typos within the lab itself, please report it [her
 [https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
 [here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
 [https://youtu.be/aBRQT8tvpKs]: https://youtu.be/aBRQT8tvpKs
+
+[Finalparsec]: https://www.finalparsec.com/tools/sprite_sheet_maker 
+[Codeshack]: https://codeshack.io/images-sprite-sheet-generator/
+[TexturePacker]: https://www.codeandweb.com/texturepacker
