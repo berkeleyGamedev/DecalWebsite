@@ -25,10 +25,14 @@ In this lab, you will be getting a preview of the game animation pipeline, from 
 The **Sprite-based** (or Cast-based) is a type of frame-based animation which involves each frame being drawn individually. Sprite-based animation involves objects that move independetly of the background. This is a very popular form of animation and has seen a lot of usage in video games. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
 
 ![](images/image28.png)
+   
+    Example of Sprite-Based animation
 
 The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
 
 ![](images/image29.gif)
+   
+    Example of Modular-Based animation
 
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
