@@ -71,6 +71,7 @@ Go into the GUI folder and put the *hp panel* sprite on the Image, and the *x bu
 Now, expand the Button and delete its child Text object. Then right click on the title Image object and add a new UI component called Text - TextMeshPro.
 
 TextMeshPro is a replacement for Unity’s default text option. To put it briefly, it solves many of the problems that Unity’s default text has, and lets you do a lot more. 
+
 {: .note}
 >TextMeshPro should already be installed in this project, but if this is your first time using TextMeshPro in a project, when you try to create the asset, it may prompt you to install the package.
 

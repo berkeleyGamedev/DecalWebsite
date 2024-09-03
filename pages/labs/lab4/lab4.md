@@ -213,8 +213,8 @@ Now we need the enemy to move (Or not, that’s up to you. But it should at the 
         - **startingPosition** should be a Vector2 that is set to your **transform.position** in Start AFTER you reset **transform.position** to a random spot
         - **elapsedTime** should be a float that is set to 0 when the enemy is initialized
         - In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
-
-- Make sure to attach the script you made to your enemy!!!
+    {: .important}
+    >Make sure to attach the script you made to your enemy!!!
 
 Repeat the above steps for the **good enemy** type (Or just copy and paste and change the **SpriteRenderer** color and make a new prefab for it)
 
