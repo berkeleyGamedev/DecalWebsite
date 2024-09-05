@@ -17,7 +17,7 @@ nav_exclude: true
 
 ## Overview
 
-In creating games, a core part of tying the entire game together is through UI. UI stands for User Interface and encompasses anything the player interacts with. This includes things like health bars, stat meters, text labels, screen shake, dialogue, and a whole lot more. As an artist for this decal, the UI assets you’ll most likely be working on include a start menu, health bar, in-game texts, and an in-game menu, along with others specific to your game genre of choice.
+In creating games, a core part of tying the entire game together is through UI. User Interface (UI)  encompasses anything the player interacts with. This includes things like health bars, stat meters, text labels, screen shake, dialogue, and a whole lot more. As an artist for this decal, the UI assets you’ll most likely be working on include a start menu, health bar, in-game texts, and an in-game menu, along with others specific to your game genre of choice.
 
 UI is a very underrated aspect of game design. If done well, it goes unnoticed. If done wrong, it completely disrupts the immersion of the game. This lab will teach you how to create cohesive UI assets to tie your game together!
 
