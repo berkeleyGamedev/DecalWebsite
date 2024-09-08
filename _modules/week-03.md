@@ -4,12 +4,12 @@ title: Week 3
 
 Sept 16
 : **Lecture**{: .label .gdd-blue }Game Art Fundamentals
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 5: Animation]
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 7: Tilesets]
 : **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
 Sept 19
 : **Lecture**{: .label .gdd-blue }Fundamentals of Animation
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Tilesets]
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 5: Animation]
 
 
 <!-- [Game Art Fundamentals]: https://docs.google.com/presentation/d/18Z5mJ-LO84AU3PzaATqwU4cUpmeQOqvWrjUnXhDTi-E/edit?usp=sharing (NOT UPDATED)
