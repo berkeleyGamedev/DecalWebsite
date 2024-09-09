@@ -22,20 +22,7 @@ nav_order: 0
 >
 > *Due Date: Monday, 9/16*
 
-<!--
-> **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
-> 
-> Visit the [Project 3] Spec for submission instructions!
->
-> **GDD Showcase 04/29**
-> Show off your game to the whole club and see what other game’s people have been working on this semester! At least one member of your group is required to be present with a working copy of your game!
-> 
-> **Date: Monday, 4/29, 7-9PM PST**
-> **Location: Jacobs Hall Room 310** 
- -->
-
-
-Jump to Week: [1](#week-1) \| [2](#week-2)
+Jump to Week: [0](#week-0) \| [1](#week-1)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule

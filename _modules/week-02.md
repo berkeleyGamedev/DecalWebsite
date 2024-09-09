@@ -1,25 +1,23 @@
 ---
-title: Week 2
+title: Week 3
 ---
 
-Sept 9
-: **Lecture**{: .label .gdd-blue }[Intro to Unity]
-: **Lab**{: .label .gdd-yellow }[Lab 1: Intro to Unity]
-: **Reading**{: .label .gdd-brown }[Game Design Principles]
+Sept 16
+: **Lecture**{: .label .gdd-blue }Game Art Fundamentals
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 5: Tilesets]
+: **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
-Sept 12
-: **Lecture**{: .label .gdd-blue }[Game Design]
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Spriting]
-: **Project**{: .label .gdd-navy }[Project 1]
-
-[Intro to Unity]: https://docs.google.com/presentation/d/1dAfCKSTjRtghfBLiGwkLpU6Dm3gb2sl1D8NYpA9ybg0/edit#slide=id.g2315d55620b_0_5
-[Game Design]: https://docs.google.com/presentation/d/1MCv-Lv4LxIjcdYdUczBw8UDfVaa2TWeRwi2xyAX8N9E/edit#slide=id.p
+Sept 19
+: **Lecture**{: .label .gdd-blue }Fundamentals of Animation
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 
 
-[Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
-[Lab 2: Basic Scripting]: ./../pages/labs/lab2/lab2
-[Lab 3: Pixel Art and Spriting]: ./../pages/labs/lab3/lab3
+<!-- [Game Art Fundamentals]: https://docs.google.com/presentation/d/18Z5mJ-LO84AU3PzaATqwU4cUpmeQOqvWrjUnXhDTi-E/edit?usp=sharing (NOT UPDATED)
+[Fundamentals of Animation]: https://docs.google.com/presentation/d/1DSOXp2OjayGv85iwT10dmJbvam0uuJjatSg7YMAIlOQ/edit?usp=drive_link-->
+ 
+[Lab 4: Advanced Scripting]: ./../pages/labs/lab4/lab4
+[Lab 7: Animation]: ./../pages/labs/lab7/lab7
+[Lab 6: Colliders and Rigidbodies]: ./../pages/labs/lab6/lab6
+[Lab 5: Tilesets]: ./../pages/labs/lab5/lab5
 
-[Project 1]: ./../pages/projects/Projects
-
-[Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/ 
+[Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo 

@@ -1,11 +1,19 @@
 ---
-title: Week 13
+title: Week 14
 ---
 
-Nov 25
-: **Lecture**{: .label .gdd-blue }Work Day
-: **Reading**{: .label .gdd-brown } [Tutorial Design]
+Dec 2
+: **Lecture**{: .label .gdd-blue } Building and Publishing
+: **Reading**{: .label .gdd-brown }[Gamification]
 
-[Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400 
+Dec 5
+: **Lecture**{: .label .gdd-blue } Course Postmortem
+: **Project**{: .label .gdd-navy } [Milestone 4: Final Submission]
 
+<!-- [Building and Publishing]: https://docs.google.com/presentation/d/1FW4NcBIaPYfFNCE16seBCXZy-7SAq6b6KN46q2r7RZk/edit?usp=drive_link
 
+[Course Postmortem]: (NOT UPDATED) -->
+
+[Gamification]: https://www.gamedeveloper.com/business/game-design-in-real-life-gamification 
+
+[Milestone 4: Final Submission]: ../pages/projects/project3/project3

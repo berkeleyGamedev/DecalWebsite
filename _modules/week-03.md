@@ -1,23 +1,28 @@
 ---
-title: Week 3
+title: Week 4
 ---
 
-Sept 16
-: **Lecture**{: .label .gdd-blue }Game Art Fundamentals
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 5: Tilesets]
-: **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
+Sept 23
+: **Lecture**{: .label .gdd-blue }Game Loops
+: **Lab**{: .label .gdd-yellow }[Lab 8: Animator and Blend Trees]
+: **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
 
-Sept 19
-: **Lecture**{: .label .gdd-blue }Fundamentals of Animation
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
+Sept 26
+: **Lecture**{: .label .gdd-blue }User Interfaces
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
+: **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
+<!-- [Game Loops]: https://docs.google.com/presentation/d/1dhLGdGosFGorM3Pi5DrzG_XiJi5vmJ_5JorjLNbXX_0/edit?usp=drive_link
+[User Interfaces]: https://docs.google.com/presentation/d/1mf9k3ZQxBLTRq01irq64hlTZB0PXb0cuQIRxhm1_4KU/edit?usp=drive_link (NOT UPDATED) -->
 
-<!-- [Game Art Fundamentals]: https://docs.google.com/presentation/d/18Z5mJ-LO84AU3PzaATqwU4cUpmeQOqvWrjUnXhDTi-E/edit?usp=sharing (NOT UPDATED)
-[Fundamentals of Animation]: https://docs.google.com/presentation/d/1DSOXp2OjayGv85iwT10dmJbvam0uuJjatSg7YMAIlOQ/edit?usp=drive_link-->
- 
-[Lab 4: Advanced Scripting]: ./../pages/labs/lab4/lab4
-[Lab 7: Animation]: ./../pages/labs/lab7/lab7
-[Lab 6: Colliders and Rigidbodies]: ./../pages/labs/lab6/lab6
-[Lab 5: Tilesets]: ./../pages/labs/lab5/lab5
+[Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
+[Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9
+[Lab 10: UI Asset Creation]: ./../pages/labs/lab10/lab10
 
-[Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo 
+[Project 2: Game Jam]: ./../pages/projects/project2/project2
+
+[13 Principles of Gameplay]: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design#close-modal
+
+[User Interfaces]: https://docs.google.com/presentation/d/1nzLXBeCPWFVryBPw1MBpqQ376M-SjtJJgN7OE7OAMX8/edit?usp=sharing
+
+[Game Loops]: https://docs.google.com/presentation/d/1dlbcmQ_yy0W_kbvMs8JkeLnEiBWiVEief9LDr0Ek5-E/edit?usp=sharing
