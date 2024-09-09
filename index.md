@@ -8,14 +8,19 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> [Apply] to become a part of the Fall 2024 DeCal! Applications are **due Friday 9/6 at 11:59 PM**
+> **Application Decisions Released!**
 >
-> **DeCal Infosession 9/5**
+> If you submitted a decal application, you should have received a email from us regarding your application result. If not, please check your spam folder and send us a email at berkeley.gamedev@gmail.com. 
 >
-> We will be hosting an info session a day before apps are due! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)!
-> 
-> **Date: Thursday, 9/5, 6:30-8PM PST**
-> **Location: Jacobs Hall Room 10** 
+> **First Day of Class**
+>
+> The first day of class is Monday, 9/9, 6:30-8PM PST in Jacobs 10. Looking forward to seeing everyone in class!
+>
+> **Lab 1 Released!**
+>
+>This lab is a intro to the unity interface and is for both programmers and artists.
+>
+> *Due Date: Monday, 9/16*
 
 <!--
 > **Finished Project Submission is due!** The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a **9x9 graphic with the game’s title for showcase, and a 30-60 second trailer.**
@@ -27,9 +32,10 @@ nav_order: 0
 > 
 > **Date: Monday, 4/29, 7-9PM PST**
 > **Location: Jacobs Hall Room 310** 
+ -->
 
 
-Jump to Week: [11](#week-11) \| [12](#week-12) \| [13](#week-13) -->
+Jump to Week: [1](#week-1) \| [2](#week-2)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
