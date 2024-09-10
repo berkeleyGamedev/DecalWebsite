@@ -933,3 +933,9 @@ Functions to modify:
 ```
 
 Give yourself a pat on the back! You have a super mega epic video game of the year triple AAA worthy in your hands!!! Upload your project onto a respository, fill out the Project 1 form on the Decal website, and go take a breather. The facilitator team grants you permission to do so.
+
+## Bug Reports
+
+If you find any bugs or typos within the project, please report it [here!]
+
+[here!]: https://forms.gle/7LpDK6KQSFLxFoxt8
