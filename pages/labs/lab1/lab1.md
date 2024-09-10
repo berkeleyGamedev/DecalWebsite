@@ -215,10 +215,9 @@ Now that you’ve the basics of components, prefabs, scripts, and how they work 
 
 ## Checkoff Requirements
 
-1. Randomly spawning asteroids
-2. Drifiting out of bounds teleports you to the opposite side of the screen.
-3. Destroy asteroids with bullets and add to the score counter
-4. Lose lives when hit by asteroid. If health below 0 -> game over.
+1. Drifiting out of bounds teleports you to the opposite side of the screen.
+2. Destroy asteroids with bullets and add to the score counter
+3. Lose lives when hit by asteroid. If health below 0 -> game over.
 
 ## Challenges (Optional)
 
