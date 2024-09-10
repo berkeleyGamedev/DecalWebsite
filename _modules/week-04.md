@@ -21,7 +21,7 @@ Sept 26
 
 [Project 2: Game Jam]: ./../pages/projects/project2/project2
 
-[13 Principles of Gameplay]: https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 
+[13 Principles of Gameplay]: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design#close-modal
 
 [User Interfaces]: https://docs.google.com/presentation/d/1nzLXBeCPWFVryBPw1MBpqQ376M-SjtJJgN7OE7OAMX8/edit?usp=sharing
 

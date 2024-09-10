@@ -27,7 +27,7 @@ The parallax effect is created when the background moves slower than the foregro
 
 In order to create depth and the parallax effect, there are different shades of orange/red with the darker colors in the foreground and the lighter colors in the background. This depth is what is trying to be achieved in this lab.
 
-Please watch this video to understand the parallax effect completely: [https://www.youtube.com/watch?v=z9tBce8eFqE]
+Please watch this video to understand [the parallax effect] completely. 
 
 There are plenty of ways to achieve depth and a parallax effect. Below are some analyses of different game screenshots and how depth is created.
 
@@ -98,4 +98,5 @@ Choose 1 (or more) and create a background that fulfills the checkoff list. You 
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
-[https://www.youtube.com/watch?v=z9tBce8eFqE]: https://www.youtube.com/watch?v=z9tBce8eFqE
+
+[the parallax effect]: https://www.youtube.com/watch?v=z9tBce8eFqE 
