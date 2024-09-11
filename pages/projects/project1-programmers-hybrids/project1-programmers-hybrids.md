@@ -77,5 +77,5 @@ For part 2, upload your project to a new Github repo and fill out the respective
 [2D Spec]: ../project1-2d-programmers/project1-2d.md
 [3D Github Repo]: https://github.com/berkeleyGamedev/3DTutorialBase
 [3D Playlist]: https://www.youtube.com/playlist?list=PLkTqf5DBzPsDQDTYorcX8RIcxzVC-sgO6
-[Part 1 Submission]: http://tinyurl.com/s24proj1p1
-[Part 2 Submission]: http://tinyurl.com/s24proj1p2
+[Part 1 Submission]: https://tinyurl.com/f24proj1p1
+[Part 2 Submission]: https://tinyurl.com/fa24proj1p2
