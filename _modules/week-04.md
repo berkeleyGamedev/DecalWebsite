@@ -1,28 +1,21 @@
 ---
-title: Week 4
+title: Week 5
 ---
 
-Sept 23
-: **Lecture**{: .label .gdd-blue }Game Loops
-: **Lab**{: .label .gdd-yellow }[Lab 8: Animator and Blend Trees]
-: **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
+Sept 30
+: **Lecture**{: .label .gdd-blue }Git Tutorial
+: **Lab**{: .label .gdd-yellow }Programmer: [Lab 11: Coroutines] / Artist: [Lab 12: Environment Design]
+: **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
-Sept 26
-: **Lecture**{: .label .gdd-blue }User Interfaces
-: **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
-: **Project**{: .label .gdd-navy }[Project 2: Game Jam]
+Oct 3
+: **Lecture**{: .label .gdd-blue }Design Docs and MVPs
 
-<!-- [Game Loops]: https://docs.google.com/presentation/d/1dhLGdGosFGorM3Pi5DrzG_XiJi5vmJ_5JorjLNbXX_0/edit?usp=drive_link
-[User Interfaces]: https://docs.google.com/presentation/d/1mf9k3ZQxBLTRq01irq64hlTZB0PXb0cuQIRxhm1_4KU/edit?usp=drive_link (NOT UPDATED) -->
+<!-- [Git Tutorial]: https://docs.google.com/presentation/d/1sk7rqMcUNY4XS88DSLEOfvp-QnN5-w040UY7ojVeD8Q/edit#slide=id.g2844c5628fa_0_184
+[Design Docs and MVPs]: https://docs.google.com/presentation/d/1ZqDiZswkFjNPO9zoeMYq1SGzN1B8LadEfuBYOcZTOmk/edit?usp=sharing (NOT UPDATED) -->
 
-[Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
-[Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9
-[Lab 10: UI Asset Creation]: ./../pages/labs/lab10/lab10
+[Lab 11: Coroutines]: ./../pages/labs/lab11/lab11
+[Lab 12: Environment Design]: ./../pages/labs/lab12/lab12
 
-[Project 2: Game Jam]: ./../pages/projects/project2/project2
+[How to Pitch your Project]: https://www.gamedeveloper.com/business/how-to-pitch-your-project-to-publishers 
 
-[13 Principles of Gameplay]: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design#close-modal
 
-[User Interfaces]: https://docs.google.com/presentation/d/1nzLXBeCPWFVryBPw1MBpqQ376M-SjtJJgN7OE7OAMX8/edit?usp=sharing
-
-[Game Loops]: https://docs.google.com/presentation/d/1dlbcmQ_yy0W_kbvMs8JkeLnEiBWiVEief9LDr0Ek5-E/edit?usp=sharing

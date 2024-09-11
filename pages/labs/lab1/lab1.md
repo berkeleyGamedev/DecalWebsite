@@ -23,10 +23,10 @@ nav_exclude: true
 In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make art; this is an introduction to the basics of the Unity engine.
 
 ## Lab Instructions
-**NOTE**: This lab assumes you have both Unity Hub and Unity version 2022.3.16f1 installed. If this is not the case, please refer to [Lab 0].
+**NOTE**: This lab assumes you have both Unity Hub and Unity version 2022.3.28f1 installed. If this is not the case, please refer to [Lab 0].
 
 ### Setting up your project (practice)
-When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **2022.3.16f1**, as this is the version that the labs in this class will be working under.
+When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **2022.3.28f1**, as this is the version that the labs in this class will be working under.
 
 ![](images/image21.png)
 
@@ -213,9 +213,11 @@ Now, when you play, you should be able to press Left Shift to shoot, destroy ast
 
 Now that you’ve the basics of components, prefabs, scripts, and how they work with each other, you’re on your way to learning how Unity works! All of these concepts are the bread and butter of using Unity, so you can always refer back to this document if you need a refresher on how these components work.
 
-## Checkoff
+## Checkoff Requirements
 
-Show your game to a facilitator to get this lab checked off!
+1. Drifiting out of bounds teleports you to the opposite side of the screen.
+2. Destroy asteroids with bullets and add to the score counter
+3. Lose lives when hit by asteroid. If health below 0 -> game over.
 
 ## Challenges (Optional)
 

@@ -1,19 +1,21 @@
 ---
-title: Week 8
+title: Week 9
 ---
 
-Oct 21
-: **Lecture**{: .label .gdd-blue }Game Feel
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
-: **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
+Oct 28
+: **Lecture**{: .label .gdd-blue } Music and SFX
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
+: **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
-Oct 24
-: **Lecture**{: .label .gdd-blue } [Milestone 1: MVP Playtest]
+Oct 31
+: **Project**{: .label .gdd-navy } Guest Lecture
 
-<!-- [Game Feel]: https://docs.google.com/presentation/d/14jehcjl-PZCyLs4iZ-IKcEU90mxyeUy6vH44gR-NJgA/edit?usp=drive_link (NOT UPDATED) -->
+[Lab 16: Lighting]: ./../pages/labs/lab16/lab16
 
-[Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
-
-[Tips for Better Playtesting]: https://www.gamedeveloper.com/design/best-practices-five-tips-for-better-playtesting 
+[Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
 
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
+
+<!--[Music and SFX]: https://docs.google.com/presentation/d/1oXW0eMqDaVZNduOEO6z2An1qa1vvtlTfycD8GpSddHg/edit?usp=sharing
+(NOT UPDATED)
+-->

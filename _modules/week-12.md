@@ -1,18 +1,11 @@
 ---
-title: Week 12
+title: Week 13
 ---
 
-Nov 18
-: **Lecture**{: .label .gdd-blue } AI Design
-: **Reading**{: .label .gdd-brown } [AI in Gaming]
+Nov 25
+: **Lecture**{: .label .gdd-blue }Work Day
+: **Reading**{: .label .gdd-brown } [Tutorial Design]
 
-Nov 21
-: **Project**{: .label .gdd-navy } Milestone 3: Beta Playtest
+[Tutorial Design]: https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400 
 
-[AI in Gaming]: https://www.gamedesigning.org/gaming/ai-in-gaming/
-[Accessibility]: https://docs.google.com/presentation/d/1ecQenoE-umGRnJ449N0eV-0TvyGdAoCR45lA2APBKUo/edit?usp=sharing
 
-[Milestone 3: Beta Playtest]: ../pages/projects/project3/project3
-
-<!--[AI Design]: https://docs.google.com/presentation/d/18iVJSEuwKFSU8w-lHDGNHQO25tv-UqcyzTsAGhEaveg/edit?usp=drive_link
--->
