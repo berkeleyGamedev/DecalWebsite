@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 6
 ---
 
 Oct 14

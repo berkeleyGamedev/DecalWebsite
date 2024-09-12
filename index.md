@@ -8,19 +8,21 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Application Decisions Released!**
+> **Lab 1 is Released!**
 >
-> If you submitted a decal application, you should have received a email from us regarding your application result. If not, please check your spam folder and send us a email at berkeley.gamedev@gmail.com. 
->
-> **First Day of Class**
->
-> The first day of class is Monday, 9/9, 6:30-8PM PST in Jacobs 10. Looking forward to seeing everyone in class!
->
-> **Lab 1 Released!**
->
->This lab is a intro to the unity interface and is for both programmers and artists.
+> This lab is a intro to the unity interface and is for both programmers and artists.
 >
 > *Due Date: Monday, 9/16*
+>
+> **Lab 2/3 are Released!**
+>
+> *Due Date: Thursday, 9/19*
+>
+> **Project 1 Part 1 Released!**
+>
+> Create a basic game from minimal skeleton code!
+>
+> *Due Date: Monday, 9/19*
 
 Jump to Week: [0](#week-0) \| [1](#week-1)
 
