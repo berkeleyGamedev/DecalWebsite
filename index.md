@@ -20,9 +20,9 @@ nav_order: 0
 >
 > **Project 1 Part 1 Released!**
 >
-> Create a basic game from minimal skeleton code!
+> Create a basic game from a minimal base project!
 >
-> *Due Date: Monday, 9/19*
+> *Due Date: Thursday, 9/19*
 
 Jump to Week: [0](#week-0) \| [1](#week-1)
 
