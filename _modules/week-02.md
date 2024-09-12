@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 2
 ---
 
 Sept 16
