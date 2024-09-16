@@ -11,12 +11,14 @@ nav_order: 0
 > **Lab 4/5 is Released!**
 >
 > Lab 4: Intro to advanced Unity scripting, where students create a game similar to Fruit Ninja!
+> 
 > Lab 5: Intro to tilesets in unity!
 >
 > *Due Date: Monday, 9/23*
 >
 > **Lab 6/7 are Released!**
 > Lab 6: Colliders and Rigidbodies!
+> 
 > Lab 7: Animation!
 >
 > *Due Date: Thursday, 9/26*
@@ -33,7 +35,7 @@ nav_order: 0
 >
 > *Due Date: Thursday, 9/26*
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [1](#week-2)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
