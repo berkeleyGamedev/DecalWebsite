@@ -15,12 +15,12 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**Project Due**: Saturday 02/24 at 11:59 pm
+**Project Due**: Saturday 10/5 at 11:59 pm
 
 **Submission Link**: [Google Form]
 
 ## Overview
-For project 2, you will be working in groups of 2-3 (preferably not a group of all programmers or all artists) over the span of a week to create a game in Unity. It should be an original game idea you have or a mechanic that you find interesting (you may not repurpose any lab or project assets - scripts, art, prefabs, etc.). The project that you turn in does not have to be a fully functioning, polished game; the goal of this project is for you to see how it is to work in a team, figure out team dynamics, and learn how to scope your project.
+For Project 2, you will be working in groups of 2-3 (preferably not a group of all programmers or all artists) over the span of a week to create a game in Unity. It should be an original game idea you have or a mechanic that you find interesting (you may not repurpose any lab or project assets - scripts, art, prefabs, etc.). The project that you turn in does not have to be a fully functioning, polished game; the goal of this project is for you to see how it is to work in a team, figure out team dynamics, and learn how to scope your project.
 	
 There is a week to work on the project, but we do not expect you to work on it for 3-4 hours a day for that entire week. We suggest sitting down with your team for a day during the week and just working on the project. The rest of the week can be used to fix small problems that you didn't get to on that work day. 
 
@@ -52,7 +52,7 @@ Musicians/sound designers should create music and sound effects for the game, bu
 We will be grading on the amount of effort and time put into the project. This will be reflected through the submitted project and the reflection that everyone will be turning in. It is also helpful to keep a log of everything that was accomplished (or attempted if it ended up not working out)
 
 ## Submission
-Submit your Unity project through Github via the [Google Form] by **Saturday 02/24 at 11:59 pm**
+Submit your Unity project through Github via the [Google Form] by **Saturday 10/5 at 11:59 pm**
 
 ### Resources:
 https://www.piskelapp.com/  -  A place to create animated sprites in pixel art
@@ -69,4 +69,4 @@ http://blog.studiominiboss.com/pixelart - Awesome pixel art tutorial master page
 
 
 [Unity API]: https://docs.unity3d.com/ScriptReference/
-[Google Form]: http://tinyurl.com/sp24p2submit
+[Google Form]: https://tinyurl.com/fa24p2submit
