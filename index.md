@@ -17,6 +17,7 @@ nav_order: 0
 > *Due Date: Monday, 9/23*
 >
 > **Lab 6/7 are Released!**
+> 
 > Lab 6: Colliders and Rigidbodies!
 > 
 > Lab 7: Animation!
