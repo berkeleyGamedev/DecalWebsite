@@ -8,23 +8,35 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Lab 1 is Released!**
+> **Lab 4/5 is Released!**
 >
-> This lab is a intro to the unity interface and is for both programmers and artists.
+> Lab 4: Intro to advanced Unity scripting, where students create a game similar to Fruit Ninja!
+> 
+> Lab 5: Intro to tilesets in unity!
 >
-> *Due Date: Monday, 9/16*
+> *Due Date: Monday, 9/23*
 >
-> **Lab 2/3 are Released!**
+> **Lab 6/7 are Released!**
+> 
+> Lab 6: Colliders and Rigidbodies!
+> 
+> Lab 7: Animation!
+>
+> *Due Date: Thursday, 9/26*
+>
+> **Project 1 Part 1 Due!**
+>
+> Project 1 Part 1 is due 9/19 at 11:59.
 >
 > *Due Date: Thursday, 9/19*
 >
-> **Project 1 Part 1 Released!**
+> **Project 1 Part 2 Released!**
 >
-> Create a basic game from a minimal base project!
+> Part 2 is assigned and is due 9/26 at 11:59.
 >
-> *Due Date: Thursday, 9/19*
+> *Due Date: Thursday, 9/26*
 
-Jump to Week: [0](#week-0) \| [1](#week-1)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
