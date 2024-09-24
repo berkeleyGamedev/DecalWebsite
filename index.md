@@ -36,7 +36,7 @@ nav_order: 0
 >
 > **Project 1 Part 2 Due In Class!**
 >
-> *Due Date: Thursday, 9/26*
+> *Due Date: EXTENDED TO Saturday, 9/28*
 
 Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3)
 
