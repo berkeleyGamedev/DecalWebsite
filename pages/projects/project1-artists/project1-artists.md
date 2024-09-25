@@ -41,7 +41,7 @@ Create animations for at least one character.  These don’t have to be implemen
 ## Submission
 [Part 1 Submission] is due **09/19 at 11:59 pm**
 
-[Part 2 Submission] is due **09/26 at 11:59 pm**
+[Part 2 Submission] is due **09/28 at 11:59 pm**
 
 
 ### Examples

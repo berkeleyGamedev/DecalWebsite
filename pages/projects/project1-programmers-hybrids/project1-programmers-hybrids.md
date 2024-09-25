@@ -71,7 +71,7 @@ For part 2, upload your project to a new Github repo and fill out the respective
 
 [Part 1 Submission] is due **09/19 at 11:59 pm**
 
-[Part 2 Submission] is due **09/26 at 11:59 pm**
+[Part 2 Submission] is due **09/28 at 11:59 pm**
 
 [2D Github Repo]: https://github.com/berkeleyGamedev/Project-1-2D-2024.git
 [2D Spec]: ../project1-2d-programmers/project1-2d.md

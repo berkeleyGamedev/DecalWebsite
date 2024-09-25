@@ -89,8 +89,8 @@ By unchecking the Bullet X Ground box, Game Objects on the Bullet and Ground lay
 
 Open up the JumpDemo scene if you haven’t already. 
 <!--For this task, you will need to enable the following: -->
-<!-- 
-- PlayerTask1, MainCamera, and Environment
+
+<!-- - PlayerTask1, MainCamera, and Environment
 - Disable all the others by clicking on them in the hierarchy and unchecking the box to the left of its name in the inspector -->
 
 1. Hit the play button. The player should fall right through the floor. This doesn’t seem like something we want, so let’s fix it. Add a **Box Collider 2D** component to PlayerTask1 and size it appropriately by modifying the variables in the inspector OR clicking “Edit Collider” and adjusting the collider in the scene view.
