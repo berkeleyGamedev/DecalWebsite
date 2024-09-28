@@ -8,7 +8,7 @@ Sept 23
 : **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
 
 Sept 26
-: **Lecture**{: .label .gdd-blue }User Interfaces
+: **Lecture**{: .label .gdd-blue }[User Interfaces]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
