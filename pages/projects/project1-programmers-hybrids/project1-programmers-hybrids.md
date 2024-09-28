@@ -36,14 +36,14 @@ Download the projects from Github, unzip the project and complete the tutorials 
 
 ## Part 2: Programmers
 * 2D project:
-    * Implement 2 or more of the following:
+    * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New items
         * New player abilities
         * New UI elements
         * New Levels
 * 3D project
-    * Implement 2 or more of the following:
+    * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New powerups
         * New UI elements
