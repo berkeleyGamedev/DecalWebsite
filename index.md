@@ -8,37 +8,25 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Lab 8 is Released!**
+> **Lab 11/12 is Released!**
 >
-> Lab 8: Animator and Blend Trees!
+> Lab 11: Coroutines/Lab 12: Environmental Design
+>
+> *Due Date: Monday, 10/7*
+>
+> **Lab 8 Due In Class!**
 >
 > *Due Date: Monday, 9/30*
 >
-> **Lab 4/5 Due In Class!**
->
-> *Due Date: Monday, 9/23*
->
-> **Lab 9/10 Released!**
->
-> Lab 9: UI and Layering / Artist: Lab 10: UI Asset Creation
+> **Lab 9/10 Due in Class!**
 >
 > *Due Date: Thursday, 10/3*
 > 
-> **Project 2 Released!**
->
-> Project 2 is assigned and is due 10/5 at 11:59 PM.
+> **Project 2 Due!**
 >
 > *Due Date: Saturday, 10/5*
->
-> **Lab 6/7 Due In Class!**
->
-> *Due Date: Thursday, 9/26*
->
-> **Project 1 Part 2 Due In Class!**
->
-> *Due Date: EXTENDED TO Saturday, 9/28*
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
