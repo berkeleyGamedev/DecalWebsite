@@ -7,7 +7,7 @@ Oct 7
 : **Reading**{: .label .gdd-brown }[How to Write a Good Game Design Document]
 
 Oct 10
-: **Lecture**{: .label .gdd-blue }[Project 2 Showcase]
+: **Lecture**{: .label .gdd-blue } Project 2 Showcase
 : **Project**{: .label .gdd-navy }[Project 3: Final]
 
 <!-- [Pitch Day]: https://docs.google.com/presentation/d/1vaz1Q_YqXOGP_fpGI7Wtqqe6-YCmiCaYQ6I3eptQkYo/edit?usp=sharing

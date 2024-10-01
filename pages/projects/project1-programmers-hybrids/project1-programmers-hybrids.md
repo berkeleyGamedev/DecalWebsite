@@ -20,7 +20,7 @@ The goal of this project is to familiarize you with Unity, guide you through mak
 
 ## Part 1: Base Project
 
-**Note**: The tutorials are done in a different version of Unity, but you should do yours in **2022.3.16f1**. The project files have been updated to this version.
+**Note**: The tutorials are done in a different version of Unity, but you should do yours in **2022.3.28f1**. The project files have been updated to this version.
 
 Select between the two tutorials:
 * 2D Project
@@ -36,14 +36,14 @@ Download the projects from Github, unzip the project and complete the tutorials 
 
 ## Part 2: Programmers
 * 2D project:
-    * Implement 2 or more of the following:
+    * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New items
         * New player abilities
         * New UI elements
         * New Levels
 * 3D project
-    * Implement 2 or more of the following:
+    * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New powerups
         * New UI elements
@@ -69,13 +69,13 @@ For part 1, upload your project to Github in a private repo and share it with be
 After projects have been graded, you will receive feedback on your project. 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
-[Part 1 Submission] is due **02/8 at 11:59 pm**
+[Part 1 Submission] is due **09/19 at 11:59 pm**
 
-[Part 2 Submission] is due **02/15 at 11:59 pm**
+[Part 2 Submission] is due **09/28 at 11:59 pm**
 
-[2D Github Repo]: https://github.com/berkeleyGamedev/2DTutorialBase
+[2D Github Repo]: https://github.com/berkeleyGamedev/Project-1-2D-2024.git
 [2D Spec]: ../project1-2d-programmers/project1-2d.md
 [3D Github Repo]: https://github.com/berkeleyGamedev/3DTutorialBase
 [3D Playlist]: https://www.youtube.com/playlist?list=PLkTqf5DBzPsDQDTYorcX8RIcxzVC-sgO6
-[Part 1 Submission]: http://tinyurl.com/s24proj1p1
-[Part 2 Submission]: http://tinyurl.com/s24proj1p2
+[Part 1 Submission]: https://tinyurl.com/f24proj1p1
+[Part 2 Submission]: https://tinyurl.com/fa24proj1p2

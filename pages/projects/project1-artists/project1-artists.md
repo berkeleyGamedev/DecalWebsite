@@ -39,9 +39,9 @@ Along with making revisions, you can choose to make additional assets for things
 Create animations for at least one character.  These don’t have to be implemented in Unity, but please animate it into a gif or something along those lines. Make sure to do at least 3 animations (some ideas are idle, walking, running, jumping, and attacking) that can transition from one to another later in Unity. This means they should generally all have the same starting pose!
 
 ## Submission
-[Part 1 Submission] is due **02/8 at 11:59 pm**
+[Part 1 Submission] is due **09/19 at 11:59 pm**
 
-[Part 2 Submission] is due **02/15 at 11:59 pm**
+[Part 2 Submission] is due **09/28 at 11:59 pm**
 
 
 ### Examples
