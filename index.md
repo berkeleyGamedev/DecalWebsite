@@ -16,6 +16,10 @@ nav_order: 0
 >
 > *Pitch Day: Show up to class in order to select which game you would like to develop!*
 >
+>**Project 2 Showcase! (10/10)**
+>
+> *Show off your hard work and check out other teams' games!*
+>
 > **Project 3 is Assigned! (10/10)**
 >
 > *Milestone 0 is due on Oct 17th in class.*
