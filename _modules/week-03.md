@@ -21,4 +21,5 @@ Sept 26
 
 [Project 2: Game Jam]: ./../pages/projects/project2/project2
 
+
 [13 Principles of Gameplay]: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design#close-modal
