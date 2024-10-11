@@ -13,7 +13,8 @@ Sept 26
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 [Game Loops]: https://docs.google.com/presentation/d/1dhLGdGosFGorM3Pi5DrzG_XiJi5vmJ_5JorjLNbXX_0/edit?usp=sharing
-[User Interfaces]: https://drive.google.com/file/d/1YC2qpTtZdDWAEZ47qCTfB6EE9cB146wb/view?usp=sharing
+
+[User Interfaces]: https://drive.google.com/file/d/1YC2qpTtZdDWAEZ47qCTfB6EE9cB146wb/view?usp=share_link
 
 [Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
 [Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9
@@ -22,7 +23,3 @@ Sept 26
 [Project 2: Game Jam]: ./../pages/projects/project2/project2
 
 [13 Principles of Gameplay]: https://www.gamedeveloper.com/design/the-13-basic-principles-of-gameplay-design#close-modal
-
-[User Interfaces]: https://docs.google.com/presentation/d/1nzLXBeCPWFVryBPw1MBpqQ376M-SjtJJgN7OE7OAMX8/edit?usp=sharing
-
-[Game Loops]: https://docs.google.com/presentation/d/1dlbcmQ_yy0W_kbvMs8JkeLnEiBWiVEief9LDr0Ek5-E/edit?usp=sharing
