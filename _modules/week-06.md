@@ -12,8 +12,8 @@ Oct 17
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 0: Game Design Doc]
 
-<!-- [Work Day]: https://docs.google.com/presentation/d/13p4d97ktfgWQkO24Pj8HJcAlZ_eo7CQOwo9xocCL_5A/edit#slide=id.p
-[Tutorial + Level Design]: https://docs.google.com/presentation/d/1OvpjWZmDU6Tijvcjyd8NZFN3yxhcWBm9K5hivGKy-8A/edit?usp=drive_link -->
+[Work Day]: https://docs.google.com/presentation/d/134ed12Z_He_NzoOFaq3FVqIYG_UBFjaeMBw-LTorsAM/edit?usp=sharing
+[Tutorial + Level Design]: https://docs.google.com/presentation/d/1OvpjWZmDU6Tijvcjyd8NZFN3yxhcWBm9K5hivGKy-8A/edit?usp=sharing 
 
 [Lab 13: Transitioning, Saving and Building]: ./../pages/labs/lab13/lab13
 [Lab 14: 3D Rigging, Skinning, and Animation]: ./../pages/labs/lab14/lab14
