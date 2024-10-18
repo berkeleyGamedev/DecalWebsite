@@ -8,24 +8,20 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Lab 11/12 Due In Class!**
+> **Monday 10/14**
 >
-> *Due Date: Monday, 10/7*
+> *OPTIONAL: Lab 13 is assigned!*
 >
-> **Pitch Day In Class! (10/7)**
+> **Thursday 10/17**
 >
-> *Pitch Day: Show up to class in order to select which game you would like to develop!*
+> *OPTIONAL: Lab 14 is assigned!*
 >
->**Project 2 Showcase! (10/10)**
+> *Project 3, Milestone 0 is due in class (10/17)*
 >
-> *Show off your hard work and check out other teams' games!*
->
-> **Project 3 is Assigned! (10/10)**
->
-> *Milestone 0 is due on Oct 17th in class.*
+> *Milestone 1 is assigned and due on Oct 24th in class.*
 > 
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
