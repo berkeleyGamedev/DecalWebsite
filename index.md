@@ -8,20 +8,20 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Monday 10/14**
+> **Monday 10/21**
 >
-> *OPTIONAL: Lab 13 is assigned!*
+> *OPTIONAL: Lab 15 is assigned!*
 >
-> **Thursday 10/17**
+> **Thursday 10/24**
 >
-> *OPTIONAL: Lab 14 is assigned!*
+> *Project 3, Milestone 1 is due in class! (10/24)*
 >
-> *Project 3, Milestone 0 is due in class (10/17)*
+> *MVP Playtest is during class! Remember to send your playtest questions to your mentor by the night before. For your playtest, your group must implement at least 2 core mechanics, though no art needs to be in place yet.*
 >
-> *Milestone 1 is assigned and due on Oct 24th in class.*
+> *Milestone 2 is due on Nov 7th in class.*
 > 
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
