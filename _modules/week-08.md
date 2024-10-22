@@ -8,7 +8,7 @@ Oct 28
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Oct 31
-: **Project**{: .label .gdd-navy } Guest Lecture
+: **Lecturet**{: .label .gdd-blue } Guest Lecture
 
 [Lab 16: Lighting]: ./../pages/labs/lab16/lab16
 

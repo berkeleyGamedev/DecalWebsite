@@ -3,17 +3,20 @@ title: Week 7
 ---
 
 Oct 21
-: **Lecture**{: .label .gdd-blue }Game Feel
+: **Project**{: .label .gdd-navy } [Work Day]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
 Oct 24
-: **Lecture**{: .label .gdd-blue } [Milestone 1: MVP Playtest]
+: **Lecture**{: .label .gdd-blue } Game Feel
+: **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
-<!-- [Game Feel]: https://docs.google.com/presentation/d/14jehcjl-PZCyLs4iZ-IKcEU90mxyeUy6vH44gR-NJgA/edit?usp=drive_link (NOT UPDATED) -->
+[Game Feel]: https://docs.google.com/presentation/d/10YDaUEdAo7J9C5cvlaEdOoD8FKNxnbf0T0V6bbSF6ak/edit?usp=sharing (NOT UPDATED)
 
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
 
 [Tips for Better Playtesting]: https://www.gamedeveloper.com/design/best-practices-five-tips-for-better-playtesting 
 
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
+
+[Work Day]: https://docs.google.com/presentation/d/10YDaUEdAo7J9C5cvlaEdOoD8FKNxnbf0T0V6bbSF6ak/edit?usp=sharing
