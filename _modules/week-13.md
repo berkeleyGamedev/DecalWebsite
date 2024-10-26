@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Dec 2
-: **Lecture**{: .label .gdd-blue } Building and Publishing
+: **Lecture**{: .label .gdd-blue } Guest Lecture
 : **Reading**{: .label .gdd-brown }[Gamification]
 
 Dec 5
