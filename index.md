@@ -8,20 +8,20 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Monday 10/21**
+> **🎃 Happy Halloween, everyone! 🎃 Hope you're all prepared for a spooky week! Here are this week's announcements.**
+> 
+> **Monday 10/28**
 >
-> *OPTIONAL: Lab 15 is assigned!*
+> *👻 OPTIONAL: Lab 16 is assigned. Use it to learn more about lighting in Unity!*
 >
-> **Thursday 10/24**
+> **Thursday 10/31**
 >
-> *Project 3, Milestone 1 is due in class! (10/24)*
+> *🕸️ Project Work Day! Use this time to focus on Project 3!*
 >
-> *MVP Playtest is during class! Remember to send your playtest questions to your mentor by the night before. For your playtest, your group must implement at least 2 core mechanics, though no art needs to be in place yet.*
->
-> *Milestone 2 is due on Nov 7th in class.*
+> *🧛‍♂️ Project 3, Milestone 2: Alpha Playtest due in class on 11/7. Prepare to showcase your latest updates and get feedback!*
 > 
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
