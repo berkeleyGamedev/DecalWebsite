@@ -16,7 +16,7 @@ nav_order: 0
 >
 > **Thursday 11/14**
 >
-> *Work Day: Use this time to review feedback from the Alpha Playtest with your team and start implementing necessary changes.
+> *Work Day: Use this time to review feedback from the Alpha Playtest with your team and start implementing necessary changes.*
 >
 > *Milestone 3: Beta Playtest is due next Thursday, 11/21. Aim to finalize core mechanics and polish gameplay elements.*
 >
