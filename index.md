@@ -16,11 +16,7 @@ nav_order: 0
 >
 > **Thursday 11/14**
 >
-> *Work Day: Use this time to review feedback from the Alpha Playtest with your team and start implementing necessary changes.*
->
-> *Milestone 3: Beta Playtest is due next Thursday, 11/21. Aim to finalize core mechanics and polish gameplay elements.*
->
-> *As we approach the end of Project 3, keep refining your work and consider final touches for your game. Let’s finish strong!*
+> *Guest Lecture: Details to be announced!*
 
 Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10)
 
