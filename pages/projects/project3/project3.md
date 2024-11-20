@@ -79,15 +79,14 @@ In order to receive a grade, your game **must be uploaded to itch.io** and you *
 **Final Submission Links**
 
 Game, itch.io, and trailer (1 per group):
-* [Trailer Making Guide]
+* [Trailer Guide]
 * [Game Submission]
 
 Final course writeup (1 per person):
 * [Reflection Spec]
 * [Reflection Submission]
 
-[Game Submission]: http://tinyurl.com/sp24final 
-[Trailer Making Guide]: https://tinyurl.com/gddTrailer
-[Reflection Spec]: http://tinyurl.com/sp24refSpecs 
-[Reflection Submission]: http://tinyurl.com/sp24refSubmit 
+[Game Submission]: https://tinyurl.com/fa24final
+[Reflection Spec]: https://tinyurl.com/fa24refSpecs
+[Reflection Submission]: https://tinyurl.com/fa24refSubmit
 [Trailer Guide]: https://tinyurl.com/gddTrailer
