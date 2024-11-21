@@ -47,7 +47,7 @@ Beta Build. All levels should be built, and all mechanics should be implemented.
 ### Milestone 4 (12/05):
 Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: [Trailer Guide]
 
-### GDD Showcase (12/09):
+### GDD Showcase (12/10):
 Show off your game to the whole club and see what other game's people have been working on this semester!
 
 ## Playtests
