@@ -20,7 +20,7 @@ nav_order: 0
 >
 > *No Class: Enjoy your Thanksgiving break! 🦃🍁*
 >
-> *REMINDER: Project 3, Milestone 4: Final Submission due on Dec 5th.*
+> *REMINDER: Project 3, Milestone 4: Final Submission due on Dec 5th. Make sure to have your 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer completed!*
 > 
 
 Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12)
