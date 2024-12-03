@@ -8,21 +8,20 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Hello everyone! Hope everyone's Project 3 is coming along! Here are this week's announcements.**
+> **Hope you all had a fantastic Thanksgiving break! Here’s what’s coming up this week:**
 > 
-> **Monday 11/18**
+> **Monday 12/2**
 >
-> *Artist critique!*
->
-> **Thursday 11/21**
->
-> *Project 3, Milestone 3 Beta Playtest is in class. Project 3, Milestone 4: Final Submission due on Dec 5th.*
+> *Lecture: Building and Publishing!*
 > 
-> *Aim to finalize core mechanics and polish gameplay elements.*
+> **Thursday 12/5**
+>
+> *Lecture: Course Postmortem!*
+>
+> *Project 3, Milestone 4: Final Submission due. Make sure to have your 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer completed!*
 > 
-> *As we approach the end of Project 3, keep refining your work and consider final touches for your game. Let’s finish strong!*
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
