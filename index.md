@@ -10,7 +10,7 @@ nav_order: 0
 {: .announcements }
 > **Hey everyone, this is the final announcement of the semester! On behalf of all the facilitators, we want to thank you for being such an incredible group and making this class so rewarding to teach. We’re so proud of all the hard work you’ve put into your projects and we hope you all had an amazing time learning the process of game development**
 > 
-> **Monday 12/10**
+> **Tuesday 12/10**
 >
 > *GDD Showcase!*
 > 
