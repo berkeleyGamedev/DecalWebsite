@@ -15,6 +15,7 @@ nav_order: 0
 > *GDD Showcase!*
 > 
 > *Date: December 10th, 7:30-9:30PM PST*
+>
 > *Location: Jacobs Hall Room 310*
 > 
 
