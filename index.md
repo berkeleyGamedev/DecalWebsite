@@ -8,20 +8,17 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Hope you all had a fantastic Thanksgiving break! Here’s what’s coming up this week:**
+> **Hey everyone, this is the final announcement of the semester! On behalf of all the facilitators, we want to thank you for being such an incredible group and making this class so rewarding to teach. We’re so proud of all the hard work you’ve put into your projects and we hope you all had an amazing time learning the process of game development**
 > 
-> **Monday 12/2**
+> **Monday 12/10**
 >
-> *Lecture: Building and Publishing!*
+> *GDD Showcase!*
 > 
-> **Thursday 12/5**
->
-> *Lecture: Course Postmortem!*
->
-> *Project 3, Milestone 4: Final Submission due. Make sure to have your 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer completed!*
+> *Date: December 10th, 7:30-9:30PM PST*
+> *Location: Jacobs Hall Room 310*
 > 
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
