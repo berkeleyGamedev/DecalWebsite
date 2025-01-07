@@ -20,19 +20,19 @@ nav_exclude: true
 [Download Lab 5](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
-In this lab, you will be getting a preview of the game animation pipeline, from a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both sprite-based and puppet-based in addition to covering some animation techniques for creating sprite-based animations; however, we won’t go too in depth about how to animate it in Unity, since there is another lab (Animator and Blend Trees) that covers it in more detail, so check that out!
+In this lab, you will be getting a preview of the game animation pipeline, starting with a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both sprite-based and puppet-based animation, as well as some techniques for creating sprite-based animations. However, we won’t go too in depth about how to animate it in Unity, as there is another lab (Animator and Blend Trees) that covers it in more detail--be sure to check that out!
 
-The **Sprite-based** (or Cast-based) is a type of frame-based animation which involves each frame being drawn individually. Sprite-based animation involves objects that move independetly of the background. This is a very popular form of animation and has seen a lot of usage in video games. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
+The **Sprite-based** (or Cast-based) is a type of frame-based animation which involves each frame being drawn individually. Sprite-based animation involves objects that move independently of the background. This is a very popular form of animation and has seen a lot of usage in video games. Frame-by-frame animation generally takes more time per animation frame but gives you much more freedom in your sprites, allowing for more convincing animations.
 
-![](images/image28.png)
-   
-    Example of Sprite-Based animation
+| ![](images/image28.png) | 
+|:---:|
+| Example of Sprite-Based animation | 
 
 The **​Modular** ​or Puppet​ ​method has more overhead, and is harder to make look realistic, but it is very easily scalable if you have lots of animations. It’s not well-suited to low-resolution or pixel animations, although there are ways of making it work. ​[**Warning**: ​This method may take you longer than the sprite-based method, depending on the complexity of your model. It’s only recommended if you are comfortable with sprite-based animations.]
 
-![](images/image29.gif)
-   
-    Example of Modular-Based animation
+|![](images/image29.gif)|
+|:---:|
+|Example of Modular-Based animation|
 
 
 The lab checkoff will only require **one** animation, so pick whichever method works best for you! 
@@ -42,7 +42,7 @@ Open a canvas in your preferred drawing software. In this lab, we’ll be making
 
 ![](images/image3.jpg)
 
-We’ll be doing the **​passing and up**​ poses. This is just **​four​ ​frames**​ in total (two for each step for the left and right), although for your actual game animations you can (and should!) add frames in between to make the animation more fluid.
+We’ll be doing the **​passing** and **up**​ poses. This is just **​four​ ​frames**​ in total (two for each step for the left and right), although for your actual game animations you can (and should!) add frames in between to make the animation more fluid.
 
 We’ll first go over the Sprite-based method. Even if you’re doing the modular-based method, it’s recommended to at least skim through the next part, so that you’re familiar!
 
@@ -70,15 +70,17 @@ Keep in mind the **​12 principles of animation**​ while you animate to make 
 
 #### Procreate
 1. **Set up**. On a new canvas, go to `Actions(Wrench icon) > Canvas` here you can turn on Animation Assist (onion skinning) and Drawing guide (grid).
-![](images/image30.jpg)
+
+    ![](images/image30.jpg)
     1. Animation Assist has many features that allows users for better animation workflow. One of the features is onion skinning which is used to see previous frames simultaneously, allowing us to create smooth motions. 
 
-    2. Drawing Guide sets up the grid on our canvas. Feel free to customize your grid to whatever suites your needs in Edit Drawing Guide! 
+    2. Drawing Guide sets up the grid on our canvas. Feel free to customize your grid to whatever suites your needs in Edit Drawing Guide. 
 
 2. Now draw your walk-cycle either with Animation Assist or spaced out evenly with the grid (follow Photoshop method steps 2 and 3 as the pipeline is practically the same).  
 
-3. **Exporting**. When you're happy with your walk-cycle, it's time to export by `Actions (Wrench Icon) > Share > Share Image > PNG`. *Note: For a transparent background, deselect the background color and exported as PNG.* If you had done your walk-cycle using the Drawing Guide (and the Photoshop method) you're done and can move on to **Importing Sprites**. However, if you had drawing your walk-cycle with onion skinning, you'll find that all your sprites are on top of each other and on different layers! To fix this: 
-    1. Export by `Actions (Wrench Icon) > Share > Share Layers > PNG Files` and now you've exported every layer. *Note: You can directly import these sprites into Unity without making the Sprite Sheet. However, you'll find that the process much more time consuming and Sprite Sheets allow for better organization anyways. You can read more about this at [Why Should I Use A Sprite Sheet?](https://www.finalparsec.com/Blog/ViewPost/why-should-i-use-a-sprite-sheet)*
+3. **Exporting**. When you're happy with your walk-cycle, it's time to export by selecting `Actions (Wrench Icon) > Share > Share Image > PNG`. *Note: For a transparent background, deselect the background color before exporting as a PNG.* 
+If you had done your walk-cycle using the Drawing Guide (Photoshop method) you're done and can move on to **Importing Sprites**. However, if you created your walk-cycle with onion skinning, you'll find that all your sprites are on top of each other and on different layers! To fix this: 
+    1. Export every layer by `Actions (Wrench Icon) > Share > Share Layers > PNG Files`. *Note: You can directly import these sprites into Unity without making the Sprite Sheet. However, you'll find that the process much more time consuming and Sprite Sheets allow for better organization anyways. You can read more about this at [Why Should I Use A Sprite Sheet?](https://www.finalparsec.com/Blog/ViewPost/why-should-i-use-a-sprite-sheet)*
     2. Navigate to any Sprite Sheet maker and import all of your images. You will end up with a complete Sprite Sheet PNG of your walk-cycle animation! 
         - [Finalparsec]
         - [CodeShack] 
