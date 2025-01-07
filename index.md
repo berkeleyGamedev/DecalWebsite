@@ -8,20 +8,18 @@ nav_order: 0
 # Game Design Decal Fall 2024
 
 {: .announcements }
-> **Hello everyone! Hope you all had an amazing Halloweek! Here are this week's announcements.**
+> **Hey everyone, this is the final announcement of the semester! On behalf of all the facilitators, we want to thank you for being such an incredible group and making this class so rewarding to teach. We’re so proud of all the hard work you’ve put into your projects and we hope you all had an amazing time learning the process of game development**
 > 
-> **Monday 11/4**
+> **Tuesday 12/10**
 >
-> *No announcements!*
+> *GDD Showcase!*
+> 
+> *Date: December 10th, 7:30-9:30PM PST*
 >
-> **Thursday 11/7**
->
-> *Project 3, Milestone 2: Alpha Playtest is in class. Milestone 3: Beta Playtest is due Nov 21st.*
->
-> *Make sure to come up with some new feedback questions for the playtest!*
+> *Location: Jacobs Hall Room 310*
 > 
 
-Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9)
+Jump to Week: [0](#week-0) \| [1](#week-1) \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14)
 
 <!-- \| [2](#week-2) \| [3](#week-3) \| [4](#week-4) \| [5](#week-5) \| [6](#week-6) \| [7](#week-7) \| [8](#week-8) \| [9](#week-9) \| [10](#week-10) \| [11](#week-11) \| [12](#week-12) \| [13](#week-13) \| [14](#week-14) -->
 ## Schedule
