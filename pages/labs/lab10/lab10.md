@@ -26,13 +26,11 @@ UI is a very underrated aspect of game design. If done well, it goes unnoticed. 
 
 First, it’s always great to take a look at what works well. Very popular titles like Hollow Knight, Stardew Valley, Overwatch, and even Minecraft have all nailed down their UI assets.
 
-![](images/image7.png)
-
-![](images/image4.jpg)
-
-![](images/image6.jpg)
-
-![](images/image2.jpg)
+|![](images/images4and7.png)|
+|![](images/image6.jpg)|
+|![](images/image2.jpg)|
+|:--:|
+|Stardew Valley UI Examples|
 
 Looking at these assets, it’s evident they all belong to the same game. There’s a general wooden feel to the assets, with wooden backgrounds to the title image and the background behind the governor. All the assets also have a dark brown wooden frame around them, visible in the buttons on the start screen, dialogue box, fishing game, and inventory. The color palette of these assets is an analogous palette of various browns. 
 
