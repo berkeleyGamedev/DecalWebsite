@@ -53,7 +53,7 @@ We’ll first go over the Sprite-based method. Even if you’re doing the modula
 Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (i.e. ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like.
 
 
-#### Photoshop
+#### **Photoshop**
 
 1. **Set up a grid**. For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
 
@@ -68,23 +68,31 @@ Keep in mind the **​12 principles of animation**​ while you animate to make 
 
 ![](images/image7.jpg)
 
-#### Procreate
+#### **Procreate**
 1. **Set up**. On a new canvas, go to `Actions(Wrench icon) > Canvas` here you can turn on Animation Assist (onion skinning) and Drawing guide (grid).
 
     ![](images/image30.jpg)
     1. Animation Assist has many features that allows users for better animation workflow. One of the features is onion skinning which is used to see previous frames simultaneously, allowing us to create smooth motions. 
 
-    2. Drawing Guide sets up the grid on our canvas. Feel free to customize your grid to whatever suites your needs in Edit Drawing Guide. 
+    2. The Drawing Guide sets up the grid on your canvas. Feel free to customize the grid to suit your needs in `Edit Drawing Guide`
 
 2. Now draw your walk-cycle either with Animation Assist or spaced out evenly with the grid (follow Photoshop method steps 2 and 3 as the pipeline is practically the same).  
 
-3. **Exporting**. When you're happy with your walk-cycle, it's time to export by selecting `Actions (Wrench Icon) > Share > Share Image > PNG`. *Note: For a transparent background, deselect the background color before exporting as a PNG.* 
+3. **Exporting**. When you're happy with your walk-cycle, it's time to export by selecting `Actions (Wrench Icon) > Share > Share Image > PNG`. 
+
+{: .note} 
+> For a transparent background, deselect the background color before exporting as a PNG.
+
 If you had done your walk-cycle using the Drawing Guide (Photoshop method) you're done and can move on to **Importing Sprites**. However, if you created your walk-cycle with onion skinning, you'll find that all your sprites are on top of each other and on different layers! To fix this: 
-    1. Export every layer by `Actions (Wrench Icon) > Share > Share Layers > PNG Files`. *Note: You can directly import these sprites into Unity without making the Sprite Sheet. However, you'll find that the process much more time consuming and Sprite Sheets allow for better organization anyways. You can read more about this at [Why Should I Use A Sprite Sheet?](https://www.finalparsec.com/Blog/ViewPost/why-should-i-use-a-sprite-sheet)*
-    2. Navigate to any Sprite Sheet maker and import all of your images. You will end up with a complete Sprite Sheet PNG of your walk-cycle animation! 
-        - [Finalparsec]
-        - [CodeShack] 
-        - [TexturePacker]
+1. Export every layer by `Actions (Wrench Icon) > Share > Share Layers > PNG Files`. 
+
+    {: .note}
+    > You can directly import these sprites into Unity without making the sprite sheet. However, sprite sheets are generally more time-efficient and provide better organization. You can read more about this at [Why Should I Use A Sprite Sheet?](https://www.finalparsec.com/Blog/ViewPost/why-should-i-use-a-sprite-sheet)
+
+2. Navigate to any sprite sheet maker and import all of your images. You will end up with a complete sprite sheet PNG of your walk-cycle animation! 
+     - [Finalparsec]
+     - [CodeShack] 
+     - [TexturePacker]
 
 
 ### Importing Sprites
