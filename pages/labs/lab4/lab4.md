@@ -9,8 +9,6 @@ nav_exclude: true
 # Lab 4: Advanced Scripting
 {: .no_toc }
 
-For this lab you are going to create a lot from scratch. We provide a loose framework for the game, but you will create the enemies from scratch. Exciting!
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -21,7 +19,14 @@ For this lab you are going to create a lot from scratch. We provide a loose fram
 
 [Download Lab 4](https://github.com/berkeleyGamedev/Advanced-Scripting/archive/refs/heads/master.zip){: .btn .btn-blue }
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 ## PREFACE
+For this lab you are going to create a lot from scratch. We provide a loose framework for the game, but you will create the enemies from scratch. Exciting!
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas.
 
 ### GetComponent and GameObject.Find

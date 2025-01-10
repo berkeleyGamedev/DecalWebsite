@@ -26,9 +26,7 @@ UI is a very underrated aspect of game design. If done well, it goes unnoticed. 
 
 First, it’s always great to take a look at what works well. Very popular titles like Hollow Knight, Stardew Valley, Overwatch, and even Minecraft have all nailed down their UI assets.
 
-|![](images/images4and7.png)|
-|![](images/image6.jpg)|
-|![](images/image2.jpg)|
+|![](images/images4and7.png)![](images/image6.jpg)![](images/image2.jpg)|
 |:--:|
 |Stardew Valley UI Examples|
 
