@@ -114,7 +114,7 @@ If you had done your walk-cycle using the Drawing Guide (Photoshop method) you'r
 ### Creating Animations
 This part will go by very quickly. We will provide a more in-depth explanation and learn how to animate a sprite to walk in other directions well in a later lab (the Animator and Blend Trees lab).
 
-1. Right click in the **Hierarchy**​ and click ​ `Create Empty`. ​ While the **Player** object is still selected in the **Hierarchy**, click `Window > Animation > Animation` to open the ​Animation ​window. ​Then, click Create. This will create a New Clip. Name this clip **walking.anim** and save (Notice that if you select the **Player** object in the **Hierarchy**, an **Animator** component is automatically added in the **Inspector**). For future reference, to create more animations, select the box that has your animation name (in this case, **walking.anim**) and click **Create New Clip**.
+1. Right click in the **Hierarchy**​ and click ​ `Create Empty`, let's name this GameObject "Player." While the **Player** object is still selected in the **Hierarchy**, click `Window > Animation > Animation` to open the ​Animation ​window. ​Then, click Create. This will create a New Clip. Name this clip **walking.anim** and save (Notice that if you select the **Player** object in the **Hierarchy**, an **Animator** component is automatically added in the **Inspector**). For future reference, to create more animations, select the box that has your animation name (in this case, **walking.anim**) and click **Create New Clip**.
 ![](images/image20.png)
 
 2. Frame Based
