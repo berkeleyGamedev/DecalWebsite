@@ -45,7 +45,7 @@ A GameObject is the fundemental building block in every scene. It could be anyth
 1. [Find()]  
     Finds and returns a GameObject with the specified name.
 
-    |![](images/image3.png)|
+    |![](images/image3new.png)|
     |:---:|
     |Lab 3: Basic Scripting|
 
