@@ -53,8 +53,7 @@ We’ll first go over the Sprite-based method. Even if you’re doing the modula
 Keep in mind the **​12 principles of animation**​ while you animate to make your animations bouncier, and more believable! Also, don’t be afraid to look up frames online by googling images of *insert action* animation frames (i.e. ​**walking animation frames​**) so that you can get an idea of how many frames you need and what each frame should roughly look like.
 
 
-#### **Photoshop**
-
+**Photoshop**
 1. **Set up a grid**. For the walking animation, we’ll focus on drawing four keyframes (you can use the file labeled *sprites.png* as a reference to follow in the downloaded lab folder). Start with a blank canvas. If you want to do pixel art, a suggested canvas size would be 256 (width) x 64 (height) pixels or 512 x 128 pixels. Otherwise, you can have a resolution of your choosing, but make sure that the width is four times the height. After you have your canvas in Photoshop, go to `View > Show` and make sure `Grid` is checked. Then go to `Photoshop > Settings > Preferences > Guides, Grid & Slices` and change `Gridline Every…` to the height size. Now, you should have four squares of equal size where you can draw each keyframe!
 
 
@@ -68,7 +67,7 @@ Keep in mind the **​12 principles of animation**​ while you animate to make 
 
 ![](images/image7.jpg)
 
-#### **Procreate**
+**Procreate**
 1. **Set up**. On a new canvas, go to `Actions(Wrench icon) > Canvas` here you can turn on Animation Assist (onion skinning) and Drawing guide (grid).
 
     ![](images/image30.jpg)
