@@ -28,7 +28,7 @@ This is how you dropdown.
 </details> -->
 
 ## Overview 
-In this lab, you will create a mini-game losely inspired by *Fruit Ninja*. While we will provide a basic framework for the game, you will have the opportunity to design and implement the enemies entirely from scratch. Exciting, right? 
+In this lab, you will create a mini-game loosely inspired by *Fruit Ninja*. While we will provide a basic framework for the game, you will have the opportunity to design and implement the enemies entirely from scratch. Exciting, right? 
 
 ## PREFACE
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas. We highly encourage you to read through this section and explore the linked Script References. Even if you are already familiar with these concepts, we recommend reviewing the material, as it contains methods that you may find useful! 
@@ -38,7 +38,7 @@ By now, you most certainly have encountered at least one [GameObject], so there'
 <details>
 <summary>If you need a quick refresher...</summary>
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
-A GameObject is the fundemental building block in every scene. It could be anything from a character, a light source, or a spawn point. While the GameObject itself does not "do" anything, it serves as a "container" which you can attach various components. These components define its behavior, appearance, and functionality, as demonstrated by the following methods. 
+A GameObject is the fundamental building block in every scene. It could be anything from a character, a light source, or a spawn point. While the GameObject itself does not "do" anything, it serves as a "container" which you can attach various components. These components define its behavior, appearance, and functionality, as demonstrated by the following methods. 
 </div>
 </details>
 
@@ -104,13 +104,13 @@ So how do we make a singleton? Easy! Let’s break this down.
 >If another script tries to reference **Score.st** from within an `Awake()` there is no guarantee that **Score.st** will be assigned yet!!! (It will only work sometimes)
 
 {: .note}
->We use a short variable name (**st** short for singleton in this case) to make future uses in other scripts cleaner and easier to read, but you can name it whaterver you want.
+>We use a short variable name (**st** short for singleton in this case) to make future uses in other scripts cleaner and easier to read, but you can name it whatever you want.
 
-Now when another script wants to modify the score they can simply say
+Now when another script wants to modify the score they can simply say:
 
         Score.st.addScore(9001);
 
-Instead of
+Instead of: 
 
         Score scoreObj = GameObject.Find(“Score”).GetComponent<Score>(); scoreObj.addScore(1337);
 
@@ -174,11 +174,11 @@ Do not worry if you don’t know what some of these things mean. As you go spend
 Sorry for the essay above, there is a lot to cover.
 
 **YOUR TASK:**  
-As stated before, you will be building a simplified version of the *Fruit Ninja* game. You click on the screen to clear enemies in a certain area, but you don’t want to hit the bombs.
+As mentioned earlier, you will be building a simplified version of the *Fruit Ninja* game: you click on the screen to clear enemies in a certain area, but you must avoid hitting the bombs.
 
 ### Checkoff 
 **You are highly encouraged to surpass these requirements!**
-- A functioning minigame that is mechanically similar to Fruit Ninja (in the loosest sense)
+- A functioning mini-game that is mechanically similar to Fruit Ninja (in the loosest sense)
 - 2 enemy types
     - One that you want to hit, one that you don’t
 - Score integration (use Score.st.addScore())
@@ -196,57 +196,118 @@ For this lab we have a few systems already in place in `Assets > Prefabs > Syste
 **You have a lot of creative freedom here on out. You can take that and run with it or you can follow the more chunked up, bare minimum steps below.**
 
 ### Creating the Enemies
-First off, we need a enemies to interact with. We will be creating two enemy types: a good and bad. If **the good Enemy** is clicked on, the player will be awarded with points, but if the player clicks on **the bad Enemy**, points will be deducted. Similar to Fruit Ninja, where you get points for slicing fruits, but lose the game if you hit a bomb. However, the point
+<!-- First off, we need a enemies to interact with. We will be creating two enemy types: a good and bad. If **the good Enemy** is clicked on, the player will be awarded with points, but if the player clicks on **the bad Enemy**, points will be deducted. Similar to Fruit Ninja, where you get points for slicing fruits, but lose the game if you hit a bomb. However, the point
 - Create a serializable variable named despawnTime. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
-- In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
+- In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active. -->
 
+A good place to start is to create our enemy prefabs. You'll need to design two types of enemies: a **GoodEnemy** which will award points, and a **BadEnemy**, which will deduct points (or end the game). 
 
-- In the Hierarchy window, right click and select *2D Object* > *Sprites > Square (or Circle)*
-- Edit the sprite using the **SpriteRenderer** component if you want
-    - Click the circle next to *Sprite* in the inspector
-- Adjust the scale of the transform to your liking
-- *Add Component* > *Box Collider 2D (or Circle Collider 2D)*
-- If you want your enemy to have physics based movement/gravity then add a *Rigidbody2D* Component as well. **HOWEVER**, the rest of these tips will assume you didn’t do this
-- Make it a Prefab so you can spawn copies of it later
-    - As a reminder, prefabs are like GameObject “templates”, they are very useful because scripts can reference them
-    - To create a prefab, just drag it into your Prefabs folder
+1. In the Hierarchy window, right-click and select `2D Object > Sprites > Square (or Circle)`. 
+2. Use the **SpriteRenderer** component to customize it's appearance (e.g., color or texture). 
+3. Adjust the scale of the transform to your liking.
+4. To make our enemies intractable, allowing it to our mouse clicks `Add Component > Box Collider 2D (or Circle Collider 2D)`. 
+    - **Optional Physics** If you want your enemy to have physics based movement or gravity, add a *Rigidbody2D* component. The rest of the tips will assume you did *not* do this, but it doesn't really matter. 
+5. Make it a Prefab so you can spawn copies of it later.
+    - As a reminder, prefabs are like GameObject “templates” that allow you to create reusable objects. 
+    - To create a prefab, drag your enemy object from the **Hierarchy** into your **Prefabs** folder (refer back to lab 3 for a refresher if needed).
+6. Repeat (or copy and paste) and you should have two *distinct* prefabs for each enemy type. 
 
-Now we need the enemy to move (Or not, that’s up to you. But it should at the very least spawn in a random location and despawn after some time has passed)
-- Right click the *Assets tab Create* > *C# Script* (name the script ‘Enemy’). Open the script
-- In the **Start** function, find some satisfiable way to move the enemy to a good spawn location. I recommend using something like
+Our current enemy prefabs don't actually do anything yet. So, the next step is to create and attach a script detailing our desired enemy behavior (e.g., moving around, chasing, or attacking the player). For this lab, at a minimum, both enemy types should **spawn** at a random location and **despawn** after some specified time has passed. 
 
-        transform.position = new Vector2(Random.Range(-horizontalBound, horizontalBound), Random.Range(-verticalBound, verticalBound));  
+1. Right click the Assets tab `Create > C# Script (name the script ‘Enemy’)`. Open the script.
+2. Find some satisfiable way to move the enemy to a good spawn location. (Again, you have creative freedom here.)
+    <br>
+    <details>
+    <summary>Hint 1</summary>
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;"
+    >To move to a spawn location, I recommend using something like: 
 
-    - For the purpose of this lab you can just hard-code values for **horizontalBound** and **verticalBound**
-        - In a real game you would want to figure out how to do this dynamically (just google it), but it is not worth doing for this lab
-        - There are two versions of **Random.Range**, one for floats and one for integers. Make sure you use the one for floats
-    - You can keep track of **elapsedTime** with:
+    <p><code> transform.position = new Vector2(Random.Range(-horizontalBound, horizontalBound), Random.Range(-verticalBound, verticalBound));</code></p>
 
-            elapsedTime = elapsedTime + Time.deltaTime;
+    For the purposes of this lab, you can hard-code values for <strong>horizontalBound</strong> and <strong>verticalBound</strong>. In a real game you would want to figure out how to do this dynamically (just google it), but it is not worth doing for this lab.
+   
+    <p><strong>Random.Range</strong> has two versions--one for floats and one for integers. Make sure you use the one for floats.
 
-    - You will need to create 3 new variables if you choose to follow the above:
-        - **startingPosition** should be a Vector2 that is set to your **transform.position** in Start AFTER you reset **transform.position** to a random spot
-        - **elapsedTime** should be a float that is set to 0 when the enemy is initialized
-        - In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active.
-    {: .important}
-    >Make sure to attach the script you made to your enemy!!!
+    <details>
+    <summary>Hint 2</summary>
+    <br>
+    <p>If you use the approach above, you'll need a Vector2 variable <strong>startingPosition</strong>. Under the Start() method, set your <strong>startingPosition</strong> to the enemy's new position AFTER using <strong>transform.position</strong> to randomize the spawn location. 
 
-Repeat the above steps for the **good enemy** type (Or just copy and paste and change the **SpriteRenderer** color and make a new prefab for it)
+    <details>
+    <summary>Hint 3</summary>
+    <br>
+    <p> I found the ranges (-10,10) and (-5, 5) reasonable for horizontal and vertical bounds, respectively. 
+
+3. Finally, you will need to implement some way to despawn the enemy after a specified amount of time has passed. 
+    <details>
+    <summary>Hint 1</summary>
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;"
+    >To determine how long an enemy will stay active if the player doesn't click on it, create a <a href="https://gamedevbeginner.com/serialize-field-in-unity/#:~:text=Serialize%20Field%20is%20an%20attribute,be%20visible%20in%20the%20Inspector.e" target="_top">serializable variable</a> named despawnTime and give it a value in the inspector.
+    <p>
+    <p> You're also going to need a way to keep track of the amount of <strong>time</strong> that has <strong>elapsed</strong> since spawning...<em>hint hint</em>...</p>
+
+    <details>
+    <summary>Hint 2</summary>
+    <br>
+    <p>elapsedTime should be a float that is set to 0 when the enemy is initialized. You can keep track of elapsedTime with:</p>
+
+    <p><code>elapsedTime = elapsedTime + Time.deltaTime;</code></p>
+
+    <details>
+    <summary>Hint 3</summary>
+    <br>
+    <p> In the Update() method, compare your despawnTime with the elapsedTime to determine whether or not the enemy should be active. 
+
+    <details>
+    <summary>Hint 4</summary>
+    <br>
+    <p> Remember to use the .SetActive() to despawn the enemy. </p>
+
+With that, you've successfully created your enemies from scratch! However, you might notice that your enemies don't appear when you hit play. That is because we've only defined their characteristics and haven't yet implemented a spawning system that will bring them into the game. Let's tackle that next! 
+
+{: .important}
+>Make sure to attach the enemy script you made to your enemy prefabs!!!
 
 ### Spawning Enemies
 
-Now we have to spawn the enemies! Open up the SpawnManager script and fill in the appropriate functions. Finally, stick this SpawnManager script on an object in the scene that will NOT be destroyed (like an empty game object that just exists to spawn stuff).
+Now we have to spawn the enemies! Open up the **SpawnManager** script and carefully review its contents. Take your time to understand what's going on as this will help you fill in the missing sections. 
+<details>
+<summary>Hint 1</summary>
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+  It might help to jump ahead a little to see how <em>exactly</em> SpawnManager functions in Unity. Create an empty game object in the Hierarchy and attach the SpawnManager script to it. In the Inspector, you'll see an empty list of Enemy Types.
+  <ul>
+    <li>Hover over Enemy Types, what does it say?</li>
+    <li>Try assigning a value to Enemy Types. What do you see now?</li>
+  </ul>
+
+  <p><strong> Enemy Types needs to be expanded to see this. </strong></p>
+
+  <details>
+    <summary>Hint 2</summary>
+    <br>
+    <p><img src="/pages/labs/lab4/images/image6.png" alt="Hint 2" width="700" height="500" /></p>
+    </details>
+</div>
+</details>
+
+If you haven't already, attach this SpawnManager script on an object in the scene that will **NOT** be destroyed (i.e., an empty GameObject specifically to handle spawning). When you hit play, you should see both enemy types spawn and despawn at random locations. Feel free to experiment with despawnTimer, Spawn Rate, and other variables until you're happy with it.  
 
 ### Programming Mouse-click and Score Functionality
-Now that we have an enemy to hit, go into the MouseInput script and add some code to deal with when the player clicks on an enemy
-- The easiest thing to do would be to check whether it is a good or a bad enemy
-    - For this we recommend using the *Tag* field at the top of the inspector. You can access the **Tag** in script with `gameObject.tag`
-        - A **Tag** is just a way of grouping GameObjects essentially for purposes exactly like this
-        - **Layers** also group GameObjects but are also used when rendering or calculating collisions
-- If it is a good enemy, call `Score.Singleton.AddScore(10);`
-- If it is a bad enemy, call `Score.Singleton.AddScore(-10000);`
-    - Or you could find some more elegant way to end the game, but this will suffice for the lab
-- Then, delete the enemy
+Final stretch! Now that we have an enemy to hit, go into the MouseInput script and add some code to deal with when the player clicks on an enemy. 
+1. We need some way to distinguish the good enemy from the bad. 
+    <details>
+    <summary>Hint 1</summary>
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;"
+    >We recommend using the <strong>Tag</strong> field. A Tag is essentially just a way of grouping GameObjects for purposes like this. To create Tags, select any prefab and in the Inspector <code>Tag > Add Tags... > Tags & Layers</code>
+
+    <p>You can access the <strong>Tag</strong> in script with <code>gameObject.tag</code></p>
+    </div>
+    </details>
+2. Now let's implement the scoring system. 
+    - If it is a good enemy, call `Score.Singleton.AddScore(10);`
+    - If it is a bad enemy, call `Score.Singleton.AddScore(-10000);`
+        - Or you could find some more elegant way to end the game, but this will suffice for the lab
+3. Then, delete the enemy. 
 
 You did it! Congratulations! As a challenge, try and go back and improve things as much as you can :D
 
