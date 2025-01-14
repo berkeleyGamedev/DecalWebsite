@@ -80,7 +80,7 @@ A GameObject is the fundamental building block in every scene. It could be anyth
 
 3. [SetActive()]
     - Activates or deactivates the GameObject locally. 
-    - Generally preferred to outright destroying GameObjects, because you can’t un-[Destroy] GameObjects, and destroying may mess up interactions with other scripts. A nice way to turn off GameObjects (or components) while the game is running by passing in **False**. 
+    - A nice way to turn off GameObjects (or components) while the game is running by passing in **False**. Generally preferred to outright destroying GameObjects, because you can’t un-[Destroy] GameObjects, and destroying may mess up interactions with other scripts. 
     - Ex: if you want to turn off your player when getting killed you would use something like:
 
 	        gameObject.SetActive(False);
@@ -189,7 +189,7 @@ As mentioned earlier, you will be building a simplified version of the *Fruit Ni
     - Variables and functions should be kept private
     - Variables that can be edited in the editor should have a tooltip
 
-For this lab we have a few systems already in place in `Assets > Prefabs > System`. Take a look and figure out how each script works. 
+For this lab we have a few systems already in place in `Assets > Prefabs > System` or . Take a look and figure out see each script works.  
 1. **MouseInput**: tracks the mouse input and acts as an attack where the mouse left clicks.
 2. **Score**: updates the score and changes a very simple UI.
 
@@ -214,7 +214,7 @@ A good place to start is to create our enemy prefabs. You'll need to design two 
 
 Our current enemy prefabs don't actually do anything yet. So, the next step is to create and attach a script detailing our desired enemy behavior (e.g., moving around, chasing, or attacking the player). For this lab, at a minimum, both enemy types should **spawn** at a random location and **despawn** after some specified time has passed. 
 
-1. Right click the Assets tab `Create > C# Script (name the script ‘Enemy’)`. Open the script.
+1. Right click the Assets tab `Create > Scripting > MonoBehavior Script (name the script ‘Enemy’)`. Open the script.
 2. Find some satisfiable way to move the enemy to a good spawn location. (Again, you have creative freedom here.)
     <br>
     <details>
