@@ -63,25 +63,31 @@ With that being said, let’s anchor our UI to the center of the screen. Hold do
 Now, let’s add the title and exit button. Create a new Image and Button as children of the Panel.
 
 ![](images/image32.png)
-
-![](images/image15.png)  
+  
 
 Go into the GUI folder and put the *hp panel* sprite on the Image, and the *x button passive* on the Button’s image component. Let’s also name the objects so they’re a bit more organized. Lastly, use the RectTransform of each object to anchor the Image to the top center of the panel, and the Button to the bottom center of the panel. Drag the corners around until you’re satisfied with the size of your elements.
 
-Now, expand the Button and delete its child Text object. Then right click on the title Image object and add a new UI component called Text - TextMeshPro.
+![](images/image15.png)
+
+Now, expand the Button and delete its child Text object. Then right click on the title Image object and add a new Text - TextMeshPro UI component.
+
+![](images/image18.png) 
 
 TextMeshPro is a replacement for Unity’s default text option. To put it briefly, it solves many of the problems that Unity’s default text has, and lets you do a lot more. 
 
 {: .note}
->TextMeshPro should already be installed in this project, but if this is your first time using TextMeshPro in a project, when you try to create the asset, it may prompt you to install the package.
+>TextMeshPro should already be installed in this project, but if this is your first time using TextMeshPro in a project, when you try to create the asset, it may prompt you to install the package. 
 
-![](images/image18.png)  
+
+If you select the text, you should see it in the scene. You can change the text in the TextMeshPro component in the inspector. Change the text to "Shop". TextMeshPro has many options for the font type, size, alignment, etc. Here, I’ve changed the font and set the alignment to center.
 
 ![](images/lab9_1.png)
 
-If you select the text, you should see it in the scene. You can change the text in the TextMeshPro component in the inspector. Remember to anchor your text as well to the center of the component through the RectTransform. TextMeshPro has many options for the font type, size, alignment, etc. Here, I’ve changed the font and set the alignment to center.
+Remember to anchor your text as well to the center of the component through the RectTransform.
 
 ![](images/image13.png)
+
+Your shop UI should now look similar to the image below.
 
 ![](images/image7.png)
 
@@ -153,15 +159,13 @@ Alright, let’s start adding the scripts! Create a new GameObject in the scene,
 
 ![](images/image23.png)
 
-![](images/image1.png) 
-
 Now go to the Panel GameObject and add the script ItemShop to it. In that script component, there should be an expandable field called Item List. Set the size to 5. Once you do, you should see a list of empty elements. For each one, set the item ID’s from 1 to 5 (don’t index from 0), add the necessary sprites from the Sprites folder, and set the item names and prices.
 
-Now through the hierarchy, double click into your Item GameObject. Add the script ItemHolder to it, and drag the corresponding UI elements into their respective fields. The top text should be the item name, and the bottom text should be the item price.
+![](images/image1.png) 
+
+In the hierarchy, double click into your Item GameObject. Add the script ItemHolder as a component, and drag the corresponding UI elements into their respective fields. The top text should be the item name, and the bottom text should be the item price. Your screen should be similar to the image below.
 
 ![](images/lab9_2.png)
-
-![](images/image12.png)
 
 
 Now let’s make the buttons actually do something. In the item in the hierarchy, add the script BuyButton. In the Button component of your item, add a new condition to the OnClick() list. Drag the item itself into the GameObject slot, and in the dropdown menu, select BuyButton.BuyItem().
