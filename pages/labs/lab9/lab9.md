@@ -77,6 +77,8 @@ TextMeshPro is a replacement for Unity’s default text option. To put it briefl
 
 ![](images/image18.png)  
 
+![](images/lab9_1.png)
+
 If you select the text, you should see it in the scene. You can change the text in the TextMeshPro component in the inspector. Remember to anchor your text as well to the center of the component through the RectTransform. TextMeshPro has many options for the font type, size, alignment, etc. Here, I’ve changed the font and set the alignment to center.
 
 ![](images/image13.png)
@@ -112,7 +114,7 @@ Now let’s anchor the Grid to the top left of Spacer. Hold Shift and Alt on the
 
 ![](images/image31.png)  
 
-You can check if you did this correctly by selecting Item and copy and pasting it multiple times. As you paste, it should add more buttons below the last one.
+You can check if you did this correctly by selecting Item and duplicating it (ctrl + d) multiple times, it should add more buttons below the last one.
 
 ![](images/image33.png)  
 
@@ -146,9 +148,6 @@ Now let’s make this into a Prefab. Create a Prefabs folder inside your Assets 
 
 Now let’s make text to show how much money the player has left. Create a new TextMeshPro element as a child of the panel, and name it Money. As usual, anchor it to the correct position, and adjust the TextMeshPro settings as you see fit.
 <br><br><br>
-Finally, let’s add some functionality to our buttons! If you select your Item, you will see a component called Button. The important thing here is the **OnClick()** list in this component. This will dictate what happens when the button is pressed. To add something to the list, click on the plus sign in the corner. The field on the bottom left is where you can put a GameObject. After you place a GameObject in the field, the dropdown menu on the right will become active and you can select the button’s functionality from this list.
-
-![](images/image26.png)  
 
 Alright, let’s start adding the scripts! Create a new GameObject in the scene, independent of all our UI elements. Name this GameObject *GameManager*, and attach the GameManager script onto it. This will handle the currency system. Take the Money Text GameObject you just created and drag it to the Money parameter in the GameManager component. Also set your money to some number. I’m setting it as 1000.
 
@@ -158,20 +157,28 @@ Alright, let’s start adding the scripts! Create a new GameObject in the scene,
 
 Now go to the Panel GameObject and add the script ItemShop to it. In that script component, there should be an expandable field called Item List. Set the size to 5. Once you do, you should see a list of empty elements. For each one, set the item ID’s from 1 to 5 (don’t index from 0), add the necessary sprites from the Sprites folder, and set the item names and prices.
 
-Now go to your Item GameObject. Add the script ItemHolder to it, and drag the corresponding UI elements for each item into the fields. The top text should be the item name, and the bottom text should be the item price.
+Now through the hierarchy, double click into your Item GameObject. Add the script ItemHolder to it, and drag the corresponding UI elements into their respective fields. The top text should be the item name, and the bottom text should be the item price.
+
+![](images/lab9_2.png)
 
 ![](images/image12.png)
-
-![](images/image2.png)
-
-![](images/image34.png)
 
 
 Now let’s make the buttons actually do something. In the item in the hierarchy, add the script BuyButton. In the Button component of your item, add a new condition to the OnClick() list. Drag the item itself into the GameObject slot, and in the dropdown menu, select BuyButton.BuyItem().
 
-Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. It’s important that you add the Prefab to the field, instead of the GameObject in the scene. In the Grid section, add the Grid GameObject. 
-
 ![](images/image8.png)  
+
+Once you’re done, don’t forget to apply these changes to your prefab so that all instances of this object will have the same changes. 
+
+![](images/image2.png)
+
+Then select the panel in the hierarchy and add the Item prefab to the Item Holder Prefab section of the Item Shop Script. In the Grid section, add the Grid GameObject. 
+
+![](images/image34.png)
+
+{: .note}
+>It’s important that you add the Item Prefab to the field, instead of the Item GameObject in the scene. 
+
 
 ![](images/image19.png)
 
@@ -197,7 +204,9 @@ Sets up the shop, Instantiating prefabs for each item and setting their data.
 **BuyButton.cs**
 Checks to see if the item can be bought, and updates the item and the player’s money accordingly. This is the script used by the button.
 
-## Messing with Layering
+## Additional Information (Optional)
+
+### Messing with Layering
 
 One problem many people have when dealing with Canvas UI elements is layering. Sometimes you want an object to appear
 above another, or you have a button that you can't seem to click. These issues are usually due to improper layering. For a quick
@@ -228,7 +237,7 @@ The way clicks work in Unity is that a ray is cast from your monitor to the scen
 This ray then returns the UI element that it first comes in contact with. Un-
 checking Raycast Target tells Unity to ignore this object when registering clicks.
 
-## Overriding Layering with Multiple Canvases
+### Overriding Layering with Multiple Canvases
 
 Exit out of play mode and set "Canvas_2" in the Hierarchy to active. You should see that its being blocked by Canvas_1. In
 the Inspector for Canvas_2, look at its Canvas component and set its Sort Order to 1. What happens?
