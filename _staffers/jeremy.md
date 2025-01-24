@@ -1,6 +1,6 @@
 ---
 name: Jeremy Fernandez
-role: Teaching Assistant
+role: Instructor
 email:
 website:
 photo: jeremy_fernandez.jpg

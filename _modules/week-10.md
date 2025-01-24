@@ -2,11 +2,11 @@
 title: Week 10
 ---
 
-Nov 11
-: **Lecture**{: .label .gdd-blue } Work Day
+Apr 7
+: **Lecture**{: .label .gdd-blue } Accessibility
 : **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
-Nov 14
+Apr 9
 : **Project**{: .label .gdd-navy } Guest Lecture
 
 [Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/

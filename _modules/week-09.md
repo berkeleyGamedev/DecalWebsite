@@ -2,15 +2,20 @@
 title: Week 9
 ---
 
-Nov 4
-: **Lecture**{: .label .gdd-blue } [Accessibility]
-: **Reading**{: .label .gdd-brown } [Accessible Controllers]
+Mar 31
+: **Lecture**{: .label .gdd-blue } Music and SFX
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
+: **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
-Nov 7
-: **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
+Apr 2
+: **Project**{: .label .gdd-blue } Work Day
 
-[Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
+
 
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
 
 [Accessibility]: https://docs.google.com/presentation/d/1f7FlbS_d-gSuqQF1lpWztqZyTJE3zI6IZJJph0RhZq8/edit#slide=id.g20221f2e5b6_0_162
+
+[Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
+
+[Lab 16: Lighting]: ./../pages/labs/lab16/lab16

@@ -1,14 +1,15 @@
 ---
 title: Week 8
 ---
+Spring Recess
 
-Oct 28
+<!-- Oct 28
 : **Lecture**{: .label .gdd-blue } [Music and SFX]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Oct 31
-: **Project**{: .label .gdd-blue } [Work Day]
+: **Project**{: .label .gdd-blue } [Work Day] -->
 
 [Lab 16: Lighting]: ./../pages/labs/lab16/lab16
 
