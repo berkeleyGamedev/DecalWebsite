@@ -57,11 +57,11 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
     ![](images/image2.png)
 
-2. Go to `Archive -> download archive`
+2. Go to `Archive -> Download Archive`
 
     ![](images/download.png)
 
-3. Go to the `Unity 2022.X` tab and search for `2022.3.28f1`. Click Install (will install in your Unity Hub).
+3. Go to the `Unity 6` tab and search for `6000.0.32f1`. Click Install (will prompt an install in your Unity Hub).
 
     ![](images/openWithHub.png)
 
