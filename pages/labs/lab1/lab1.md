@@ -180,7 +180,7 @@ You can click play and hit the asteroid 3 times to see that the player loses all
 
 Now let’s add a way for the player to get rid of the asteroids. Find the laser image in the Sprites folder and drag in into the hierarchy.
 
-**Add a CapsuleCollider2D component to the laser** and fiddle around with the size until the capsule fits the size of the laser. This collider allows us to see what the laser interacts with. **Also set the IsTrigger field in this component to True.** This will allow us to know when objects touch each other without causing the objects to move each other.
+The attached CapsuleCollider2D allows us to see what the laser interacts with. The IsTrigger field is set to true, allowing us to know when objects touch each other without causing the objects to move each other.
 
 Also add the Rigidbody2D component for movement, and set the gravity and drag to 0.
 

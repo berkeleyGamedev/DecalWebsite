@@ -14,6 +14,9 @@ nav_order: 0
 > 
 > **Deadline: Friday, January 31, 11:59 PM**
 >
+> **Come to our info sessions on Monday 1/27 and Thursday 1/29 6:30-8:00PM in Jacobs 10!**
+> 
+> [Click here for infosession slides!]
 
 Jump to Week: [0](#week-0)
 
@@ -48,5 +51,8 @@ Jump to Week: [0](#week-0)
 
 [form]: https://forms.gle/WrDUcRKpRqHvDXwA7
 
-[Apply]: https://tinyurl.com/fa24gddapp
+[Apply]: https://tinyurl.com/fa25gddapp
+
+[Click here for infosession slides!]: https://docs.google.com/presentation/d/1LADC9Byt52I4q0NpYCA9_YU4Q4a-XVkh1xN95CsGlIo/edit?usp=sharing
+
 
