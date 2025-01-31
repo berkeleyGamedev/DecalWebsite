@@ -30,7 +30,7 @@ When you open up Unity, you should see something like this. Click on the New pro
 
 ![](images/image21.png)
 
-Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create project.
+Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in Universal 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create project.
 
 ![](images/image20.png)
 
@@ -64,7 +64,7 @@ If there are any errors that occur within the project, like compiling errors in 
 
 ### Hierarchy and Inspector
 
-The Hierarchy window contains all of the GameObjects that are currently being used in a scene. GameObjects are the basic building components in Unity. Every object you see is basically some sort of GameObject, and each GameObject can have extra components and scripts attached to it, giving each of them their own unique properties and behaviors. Right now, your Hierarchy should only have the Main Camera.
+The Hierarchy window contains all of the GameObjects that are currently being used in a scene. GameObjects are the basic building components in Unity. Every object you see is basically some sort of GameObject, and each GameObject can have extra components and scripts attached to it, giving each of them their own unique properties and behaviors. Right now, your Hierarchy should only have the Main Camera and Global Light 2D GameObjects.
 
 The Inspector window allows you to view and edit the properties and components of GameObjects. If you click on a GameObject in the Hierarchy window, you can see all of the components currently attached to the GameObject. The Main Camera should have the fields for Transform, Camera, and Audio Listener.
 
