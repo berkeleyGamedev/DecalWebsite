@@ -104,7 +104,7 @@ Now that you have learned some of the basics, let’s start making a game!
 ## Space Shooter Game
 ### Setting it up
 
-Close the project you made. Open Unity Hub again, and click the arrow next to "Open". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
+Close the project you made. Open Unity Hub again, and click the arrow next to "Add". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
 
 ![](images/image12.png)
 
@@ -145,7 +145,7 @@ Now, let’s make it so that the ship can wrap around the screen. **Add the Scre
 
 Now let’s add something that the player can interact with. 
 
-Add the asteroid into the scene by dragging the asteroid sprite into the hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 and the linear and angular drag to 1. 
+Add the asteroid into the scene by dragging the asteroid sprite into the hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 and the linear and angular damping to 1. 
 
 This will allow the asteroid to slowly stop moving if it is ever touched. Now to create interactivity between the objects, let’s add some colliders. Add a component called CircleCollider2D to both the ship and the asteroid. You might need to adjust the radius for the collider to fit better. 
 
@@ -153,6 +153,7 @@ This will allow the asteroid to slowly stop moving if it is ever touched. Now to
 
 ![](images/image18.png)
 
+Before hitting play, click and drag the asteroid away from the ship so they don't spawn ontop of one another!
 When you hit play, the asteroid and the ship can now collide and interact with each other.
 
 ### Health
@@ -166,7 +167,7 @@ If the player collides with an object, the script will check what the object's t
 To add some UI to see the player's health, look in the prefabs folder and drag the UI prefab into the hierarchy. You should be able to see the health and score when you click play. You can’t see it in the scene because the UI overlays on a UI canvas. But if you zoom way out in the Scene view, you should be able to see the words.
 
 
-The UI also takes care of the win condition of the game. Click into the UI object in your hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the hierarchy and **change the tag for the player to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
+The UI also takes care of the win condition of the game. Click into the UI object in your hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the hierarchy and **change the tag for the ship to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
 
 ![](images/image1.png)
 
@@ -182,9 +183,7 @@ Now let’s add a way for the player to get rid of the asteroids. Find the laser
 
 The attached CapsuleCollider2D allows us to see what the laser interacts with. The IsTrigger field is set to true, allowing us to know when objects touch each other without causing the objects to move each other.
 
-Also add the Rigidbody2D component for movement, and set the gravity and drag to 0.
-
-![](images/image17.png)
+Also make sure the Rigidbody2D component is attached for movement, the gravity and damping should be set to 0.
 
 Finally, **add the Bullet script** (`laser selected > Add Component > Bullet`). This keeps track of who shot the bullet, which will be used to keep track of score.
 
