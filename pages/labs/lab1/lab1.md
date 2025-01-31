@@ -68,9 +68,7 @@ The Hierarchy window contains all of the GameObjects that are currently being us
 
 The Inspector window allows you to view and edit the properties and components of GameObjects. If you click on a GameObject in the Hierarchy window, you can see all of the components currently attached to the GameObject. The Main Camera should have the fields for Transform, Camera, and Audio Listener.
 
-![](images/image4.png)
-
-![](images/image25.png)
+<img src="images/image4.png" width="425"/> <img src="images/image25.png" width="425"/> 
 
 To add new components or scripts, press Add Component, which is located at the bottom of the Inspector. You can look for specific components in the search bar. If you want to add the component, just click on it and it should show up under everything else. Another way to add a script is to simply locate it in the project window and drag it into the inspector.
 
