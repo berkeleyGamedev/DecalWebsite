@@ -26,7 +26,7 @@ In this lab, you will be putting together a small game from scratch! You don’t
 **NOTE**: This lab assumes you have both Unity Hub and Unity version 6000.0.32f1 installed. If this is not the case, please refer to [Lab 0].
 
 ### Setting up your project (practice)
-When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **6000.0.32f1**, as this is the version that the labs in this class will be working under.
+When you open up Unity, you should see something like this. Click on the New project button on the top right hand corner: Make sure you select version **6000.0.32f1**, as this is the version that the labs in this class will be working under.
 
 ![](images/image21.png)
 
@@ -54,7 +54,7 @@ The first window we will look at is the Project window.
 
 ![](images/image15.png)
 
-This window shows all of the files and folders that are usable assets for your project. Everything you need, from sprites to scripts, will be here. In a new project, the Assets folder will not have anything in it except for the scenes folder. Scenes are different files that are made using all of the assets; think of them as different levels. They all draw from the same pre-existing assets, but have a different format and layout. We’ll start adding more to this once we start the lab.
+This window shows all of the files and folders that are usable assets for your project. Everything you need, from sprites to scripts, will be here. In a new project, the Assets folder will not have anything in it except for the scenes (and the settings) folder. Scenes are different files that are made using all of the assets; think of them as different levels. They all draw from the same pre-existing assets, but have a different format and layout. We’ll start adding more to this once we start the lab.
 
 Next to the Project window is the Console window.
 
