@@ -23,14 +23,14 @@ nav_exclude: true
 In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make art; this is an introduction to the basics of the Unity engine.
 
 ## Lab Instructions
-**NOTE**: This lab assumes you have both Unity Hub and Unity version 2022.3.28f1 installed. If this is not the case, please refer to [Lab 0].
+**NOTE**: This lab assumes you have both Unity Hub and Unity version 6000.0.32f1 installed. If this is not the case, please refer to [Lab 0].
 
 ### Setting up your project (practice)
-When you open up Unity, you should see something like this. Click on the arrow next to the New button on the top right hand corner: Make sure you select version **2022.3.28f1**, as this is the version that the labs in this class will be working under.
+When you open up Unity, you should see something like this. Click on the New project button on the top right hand corner: Make sure you select version **6000.0.32f1**, as this is the version that the labs in this class will be working under.
 
 ![](images/image21.png)
 
-Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create project.
+Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in Universal 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create project.
 
 ![](images/image20.png)
 
@@ -54,7 +54,7 @@ The first window we will look at is the Project window.
 
 ![](images/image15.png)
 
-This window shows all of the files and folders that are usable assets for your project. Everything you need, from sprites to scripts, will be here. In a new project, the Assets folder will not have anything in it except for the scenes folder. Scenes are different files that are made using all of the assets; think of them as different levels. They all draw from the same pre-existing assets, but have a different format and layout. We’ll start adding more to this once we start the lab.
+This window shows all of the files and folders that are usable assets for your project. Everything you need, from sprites to scripts, will be here. In a new project, the Assets folder will not have anything in it except for the scenes (and the settings) folder. Scenes are different files that are made using all of the assets; think of them as different levels. They all draw from the same pre-existing assets, but have a different format and layout. We’ll start adding more to this once we start the lab.
 
 Next to the Project window is the Console window.
 
@@ -64,13 +64,11 @@ If there are any errors that occur within the project, like compiling errors in 
 
 ### Hierarchy and Inspector
 
-The Hierarchy window contains all of the GameObjects that are currently being used in a scene. GameObjects are the basic building components in Unity. Every object you see is basically some sort of GameObject, and each GameObject can have extra components and scripts attached to it, giving each of them their own unique properties and behaviors. Right now, your Hierarchy should only have the Main Camera.
+The Hierarchy window contains all of the GameObjects that are currently being used in a scene. GameObjects are the basic building components in Unity. Every object you see is basically some sort of GameObject, and each GameObject can have extra components and scripts attached to it, giving each of them their own unique properties and behaviors. Right now, your Hierarchy should only have the Main Camera and Global Light 2D GameObjects.
 
 The Inspector window allows you to view and edit the properties and components of GameObjects. If you click on a GameObject in the Hierarchy window, you can see all of the components currently attached to the GameObject. The Main Camera should have the fields for Transform, Camera, and Audio Listener.
 
-![](images/image4.png)
-
-![](images/image25.png)
+<img src="images/image4.png" width="425"/> <img src="images/image25.png" width="425"/> 
 
 To add new components or scripts, press Add Component, which is located at the bottom of the Inspector. You can look for specific components in the search bar. If you want to add the component, just click on it and it should show up under everything else. Another way to add a script is to simply locate it in the project window and drag it into the inspector.
 
@@ -104,7 +102,7 @@ Now that you have learned some of the basics, let’s start making a game!
 ## Space Shooter Game
 ### Setting it up
 
-Close the project you made. Open Unity Hub again, and click the arrow next to "Open". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
+Close the project you made. Open Unity Hub again, and click the arrow next to "Add". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
 
 ![](images/image12.png)
 
@@ -145,7 +143,7 @@ Now, let’s make it so that the ship can wrap around the screen. **Add the Scre
 
 Now let’s add something that the player can interact with. 
 
-Add the asteroid into the scene by dragging the asteroid sprite into the hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 and the linear and angular drag to 1. 
+Add the asteroid into the scene by dragging the asteroid sprite into the hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 and the linear and angular damping to 1. 
 
 This will allow the asteroid to slowly stop moving if it is ever touched. Now to create interactivity between the objects, let’s add some colliders. Add a component called CircleCollider2D to both the ship and the asteroid. You might need to adjust the radius for the collider to fit better. 
 
@@ -153,6 +151,7 @@ This will allow the asteroid to slowly stop moving if it is ever touched. Now to
 
 ![](images/image18.png)
 
+Before hitting play, click and drag the asteroid away from the ship so they don't spawn ontop of one another!
 When you hit play, the asteroid and the ship can now collide and interact with each other.
 
 ### Health
@@ -166,7 +165,7 @@ If the player collides with an object, the script will check what the object's t
 To add some UI to see the player's health, look in the prefabs folder and drag the UI prefab into the hierarchy. You should be able to see the health and score when you click play. You can’t see it in the scene because the UI overlays on a UI canvas. But if you zoom way out in the Scene view, you should be able to see the words.
 
 
-The UI also takes care of the win condition of the game. Click into the UI object in your hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the hierarchy and **change the tag for the player to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
+The UI also takes care of the win condition of the game. Click into the UI object in your hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the hierarchy and **change the tag for the ship to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
 
 ![](images/image1.png)
 
@@ -182,9 +181,7 @@ Now let’s add a way for the player to get rid of the asteroids. Find the laser
 
 The attached CapsuleCollider2D allows us to see what the laser interacts with. The IsTrigger field is set to true, allowing us to know when objects touch each other without causing the objects to move each other.
 
-Also add the Rigidbody2D component for movement, and set the gravity and drag to 0.
-
-![](images/image17.png)
+Also make sure the Rigidbody2D component is attached for movement, the gravity and damping should be set to 0.
 
 Finally, **add the Bullet script** (`laser selected > Add Component > Bullet`). This keeps track of who shot the bullet, which will be used to keep track of score.
 
