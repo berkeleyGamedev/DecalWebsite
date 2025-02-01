@@ -8,13 +8,13 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }
-> **DeCal applications for the Spring 2025 semester are now open!**
+> **DeCal application deadline has been EXTENDED until Saturday 11:59PM!**
 >
 > [Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLScwAKJp0br4S0SpYepsGBtL3C40yk5fA2kDWeTxkjPKMXVEbg/viewform?usp=sf_link)
 > 
-> **Deadline: Friday, January 31, 11:59 PM**
+> **Deadline: Saturday, February 1st 11:59 PM**
 >
-> **Come to our info sessions on Monday 1/27 and Thursday 1/29 6:30-8:00PM in Jacobs 10!**
+> **Check out the info session slides!**
 > 
 > [Click here for infosession slides!]
 
