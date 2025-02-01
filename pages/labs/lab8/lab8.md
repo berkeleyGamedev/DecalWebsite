@@ -195,16 +195,16 @@ Press the Play button and try jumping. Notice how the jump animation is too quic
 
 ### Animator Checkoff
 
-Change the Speed parameter from a float to a boolean and make the appropriate changes in your Movement script to ensure the same functionality. You may also need to delete the existing animation transitions in the `Animator View` and re-add them with your new variable. 
+<!-- Change the Speed parameter from a float to a boolean and make the appropriate changes in your Movement script to ensure the same functionality. You may also need to delete the existing animation transitions in the `Animator View` and re-add them with your new variable. -->
 
 Explain the process of implementing transitions in the Animator and setting parameters in code.
-
-![](images/image4.png)
 
 ### Animator Challenge (Optional)
 
 Remove the ability to infinite jump while in the air (i.e. you can only jump if you’re on the ground)
 Make whatever changes necessary to make this Animator map function the same way as our current implementation: 
+
+![](images/image4.png)
 
 ## Blend Trees
 
