@@ -63,10 +63,9 @@ As an artist, if you are not the one implementing assets into Unity, it’s impo
 
 ## Check-off
 
-Redesign UI of a game. Design a health bar, stat tracker (could track anything, points, etc), an inventory with minimum 2 items in the slots, and an in-game menu with pause, restart, resume, and options. These assets should fit in and be themed with the environment (screenshot) of your favorite (or not so favorite) games. (If you are having issues finding a background without the game's original UI in the way, try adding the term "cutscene" to your search!)
+Redesign UI of a game. Design a health bar, stat tracker (could track anything, points, etc), an inventory with minimum 2 items in the slots, and an in-game menu with pause, restart, resume, and options. These assets should fit in and be themed with the environment (screenshot) of your favorite (or not so favorite) games. If you are having issues finding a background without the game's original UI in the way, try adding the term "cutscene" to your search!
 
 Create the assets and apply them on top of an image of your background, like so (with the correct assets):
-Tip: it is recommended you draw ontop of your background (on a layer above) when planning and designing your UI assets in order to get a feel for the theme and scale
 
 ![](images/image5.png)
 
