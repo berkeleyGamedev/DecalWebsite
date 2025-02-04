@@ -8,8 +8,7 @@ Mar 31
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Apr 2
-: **Project**{: .label .gdd-blue } Work Day
-
+: **Project**{: .label .gdd-blue } [Milestone 2: Alpha Playtest]
 
 
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
