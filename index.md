@@ -8,15 +8,15 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }
-> **DeCal application deadline has been EXTENDED until Saturday 11:59PM!**
+> **DeCal Application results have been sent out! Please check your email and spam folder if you haven't heard back from us yet.**
 >
-> [Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLScwAKJp0br4S0SpYepsGBtL3C40yk5fA2kDWeTxkjPKMXVEbg/viewform?usp=sf_link)
+> Welcome to the first week of DeCal! 
 > 
-> **Deadline: Saturday, February 1st 11:59 PM**
+> The first day of class is **Monday 2/3 6:30PM-8:00PM at Jacobs 10** Excited to see everyone there!
 >
-> **Check out the info session slides!**
+> Lab 0 and lab 1 is assigned and due **Monday 2/10** 
 > 
-> [Click here for infosession slides!]
+> Keep in mind you must complete lab 0 before starting lab 1
 
 Jump to Week: [0](#week-0)
 

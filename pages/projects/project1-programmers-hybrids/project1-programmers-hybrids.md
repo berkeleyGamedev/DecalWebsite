@@ -20,7 +20,7 @@ The goal of this project is to familiarize you with Unity, guide you through mak
 
 ## Part 1: Base Project
 
-**Note**: The tutorials are done in a different version of Unity, but you should do yours in **2022.3.28f1**. The project files have been updated to this version.
+**Note**: The tutorials are done in a different version of Unity, but you should do yours in **6000.0.32f1**. The project files have been updated to this version.
 
 Select between the two tutorials:
 * 2D Project
