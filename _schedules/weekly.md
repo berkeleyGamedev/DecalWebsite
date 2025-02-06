@@ -31,13 +31,13 @@ schedule:
         end: 8:00 PM
         location: Jacobs 10
   - name: Tuesday
-  - name: Wednessday
-  - name: Thursday
-    events:
+  - name: Wednesday
+  events:
         - name: Class
           start: 6:30 PM
           end: 8:00 PM
           location: Jacobs 10
+  - name: Thursday
   - name: Friday
     events:
         - name: Office Hours

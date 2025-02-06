@@ -15,11 +15,11 @@ nav_order: 4
 
 ## Course Info
 
-**Time**: Mondays/Thursdays 6:30pm - 8:00pm
+**Time**: Mondays/Wednesday 6:30pm - 8:00pm
 
 **Location**: Jacobs 10
 
-**Facilitator**: Jackie Dai, Joshua Almario
+**Facilitator**: Jackie Dai, Joshua Almario, Jeremy Fernandez
 
 **Faculty of Record**: James O'Brien
 
