@@ -40,8 +40,8 @@ schedule:
   - name: Thursday
   events:
         - name: Office Hours
-          start: 4:00 PM
-          end: 5:00 PM
+          start: 2:00 PM
+          end: 3:00 PM
           location: Online 
   - name: Friday
 ---
