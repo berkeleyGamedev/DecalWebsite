@@ -23,8 +23,8 @@ schedule:
   - name: Monday
     events:
       - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
+        start: 2:00 PM
+        end: 3:00 PM
         location: Online
       - name: Class
         start: 6:30 PM
@@ -38,10 +38,10 @@ schedule:
           end: 8:00 PM
           location: Jacobs 10
   - name: Thursday
-  - name: Friday
-    events:
+  events:
         - name: Office Hours
           start: 4:00 PM
           end: 5:00 PM
           location: Online 
+  - name: Friday
 ---
