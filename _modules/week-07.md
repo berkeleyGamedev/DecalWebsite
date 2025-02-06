@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Mar 17
-: **Project**{: .label .gdd-navy } Game Feel
+: **Lecture**{: .label .gdd-blue } Game Feel
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 

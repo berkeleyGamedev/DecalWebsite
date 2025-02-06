@@ -8,15 +8,15 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }
-> **DeCal Application results have been sent out! Please check your email and spam folder if you haven't heard back from us yet.**
->
 > Welcome to the first week of DeCal! 
-> 
-> The first day of class is **Monday 2/3 6:30PM-8:00PM at Jacobs 10** Excited to see everyone there!
 >
 > Lab 0 and lab 1 is assigned and due **Monday 2/10** 
 > 
 > Keep in mind you must complete lab 0 before starting lab 1
+>
+> Lab 2 is assigned and due **Wednesday 2/12**
+>
+> Have a great week everyone!
 
 Jump to Week: [0](#week-0)
 

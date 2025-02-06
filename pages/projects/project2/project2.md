@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**Project Due**: Saturday 10/5 at 11:59 PM
+**Project Due**: Wednesday 02/26 at 11:59 PM
 
 **Submission Link**: [Google Form]
 
@@ -52,7 +52,7 @@ Musicians/sound designers should create music and sound effects for the game, bu
 We will be grading on the amount of effort and time put into the project. This will be reflected through the submitted project and the reflection that everyone will be turning in. It is also helpful to keep a log of everything that was accomplished (or attempted if it ended up not working out)
 
 ## Submission
-Submit your Unity project through Github via the [Google Form] by **Saturday 10/5 at 11:59 PM**
+Submit your Unity project through Github via the [Google Form] by **Wednesday 02/26 at 11:59 PM**
 
 ### Resources:
 https://www.piskelapp.com/  -  A place to create animated sprites in pixel art

@@ -21,7 +21,7 @@ nav_exclude: true
 
 ## Lab Overview
 
-**IMPORTANT**: This lab is quite strenuous and covers a lot of ground, so make sure to follow the directions carefully and backtrack when you reach an error.”
+**IMPORTANT**: This lab is quite strenuous and covers a lot of ground, so make sure to follow the directions carefully and backtrack when you reach an error.
 
 In this lab, you will be making a shop to learn how UI elements work in Unity. UI is present in most games, yet can get quite complicated when you have to consider how the UI layout will look on different screen resolutions.
 

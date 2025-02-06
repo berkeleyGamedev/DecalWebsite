@@ -19,7 +19,7 @@ nav_order: 4
 
 **Location**: Jacobs 10
 
-**Facilitator**: Jackie Dai, Joshua Almario
+**Facilitator**: Jackie Dai, Joshua Almario, Jeremy Fernandez
 
 **Faculty of Record**: James O'Brien
 

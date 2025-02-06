@@ -7,7 +7,7 @@ Apr 7
 : **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
 Apr 9
-: **Project**{: .label .gdd-navy } Guest Lecture
+: **Lecture**{: .label .gdd-blue } Guest Lecture
 
 [Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
 
