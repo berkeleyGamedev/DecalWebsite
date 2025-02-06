@@ -102,7 +102,7 @@ Now that you have learned some of the basics, let’s start making a game!
 ## Space Shooter Game
 ### Setting it up
 
-Close the project you made. Open Unity Hub again, and click the arrow next to "Add". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
+**!!!Close the project you made!!!**. Open Unity Hub again, and click the arrow next to "Add". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
 
 ![](images/image12.png)
 
