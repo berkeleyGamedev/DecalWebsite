@@ -3,16 +3,16 @@ title: Week 2
 ---
 
 Feb 10
-: **Lecture**{: .label .gdd-blue } Game Art Fundamentals
+: **Lecture**{: .label .gdd-blue } [Game Art Fundamentals]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 5: Tilesets]
 : **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
 Feb 12
-: **Lecture**{: .label .gdd-blue } Fundamentals of Animation
+: **Lecture**{: .label .gdd-blue } [Fundamentals of Animation]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 
 
-[Game Art Fundamentals]: https://docs.google.com/presentation/d/1krfyeYU4X-fTp6YqiejvA640hT_Vu0QCMreyjQO-Deg/edit?usp=sharing
+[Game Art Fundamentals]: https://docs.google.com/presentation/d/1xQdH3qp6pj1s0jeCtjGWRH3NGzpSwyLvZ1zzSQzYry0/edit?usp=sharing
 
 [Fundamentals of Animation]: https://docs.google.com/presentation/d/1DSOXp2OjayGv85iwT10dmJbvam0uuJjatSg7YMAIlOQ/edit?usp=sharing 
  
