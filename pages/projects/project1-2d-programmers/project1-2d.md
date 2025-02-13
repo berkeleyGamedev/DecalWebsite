@@ -623,7 +623,7 @@ In this section, you will handle all the sound aspects of the project, along wit
 
 First, enable the *AudioManager* object in the Hierarchy. Then, in your *Player* script, add the sounds where you want it to be played. In order to do this, you will need to add this line of code to where you want the sound to be played: `FindObjectOfType<AudioManager>().Play("SoundName");`. 
 
-{. note}
+{: .note}
 >In order to enable game objects: select the object you would like to enable in your hierarchy, then check the box located at the top left of your inspector.
 
 To find the names of each sound, go into the *AudioManager* object, and click on each sound dropdown to find the *Name* field. You will need to add this line for each sound in their respective locations. The link to the tutorial with the timestamp can be found below.
