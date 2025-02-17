@@ -13,25 +13,35 @@ nav_order: 0
 >
 > **only** Thursday OH from 2-3PM this week. 
 >
-> Monday (2/17)
-> Due in class:
-> **Nothing!**
-
->Assigned:
-> Lab 8: Animator and Blend Trees *(due 2/24)*
-
-> Wednesday (2/19)
-> Due in class:
-> Programmer 💻 Lab 4: Advanced Scripting
-> Programmer 💻 Lab 6: Colliders
-> Artist 🎨 Lab 5: Tilesets
-> Artist 🎨 Lab 7: Animation
-> **Project 1 DUE AT 11:59 PM**
-
-> Assigned:
-> Programmer💻 Lab 9: UI and layering *(due 2/26)*
-> Artist 🎨 Lab 10: UI asset Creation *(due 2/26)*
-> **Project 2 released!**
+> ### Monday (2/17) 
+> >Due in class:
+>>
+> >**Nothing!**
+> >
+> >Assigned:
+>>
+> >Lab 8: Animator and Blend Trees *(due 2/24)*
+>
+> ### Wednesday (2/19)
+> >Due in class:
+>>
+> >Programmer 💻 Lab 4: Advanced Scripting
+>> 
+> >Programmer 💻 Lab 6: Colliders
+>>
+> >Artist 🎨 Lab 5: Tilesets
+>>
+> >Artist 🎨 Lab 7: Animation
+>>
+> >**Project 1 DUE AT 11:59 PM**
+>>
+> >Assigned:
+>>
+> >Programmer💻 Lab 9: UI and layering *(due 2/26)*
+>>
+> >Artist 🎨 Lab 10: UI asset Creation *(due 2/26)*
+>>
+> >**Project 2 released!**
 
 Jump to Week: [0](#week-0)
 
