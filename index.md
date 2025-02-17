@@ -8,25 +8,30 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }
-> Office Hours are starting this week  Monday & Thursday from 2-3PM. Stop by the discord VC if you need help or check-offs
+> Happy long weekend everyone! There are some **important** announcements this week so please take
+> your time to read throught this! 
 >
-> Monday (2/10)
+> **only** Thursday OH from 2-3PM this week. 
+>
+> Monday (2/17)
 > Due in class:
-> Lab 1: Intro to Unity
+> **Nothing!**
 
 >Assigned:
-> Programmer 💻Lab 4: Advanced Scripting   (due 2/17)
-> Artist 🎨 Lab 5: Tilesets  (due 2/17)
+> Lab 8: Animator and Blend Trees *(due 2/24)*
 
-> Wednesday (2/12)
+> Wednesday (2/19)
 > Due in class:
-> Programmer 💻 Lab 2: Basic Scripting
-> Artist 🎨 Lab 3: Pixel Art and Spriting
-> Project 1 Part 1 DUE AT 11:59 PM 
+> Programmer 💻 Lab 4: Advanced Scripting
+> Programmer 💻 Lab 6: Colliders
+> Artist 🎨 Lab 5: Tilesets
+> Artist 🎨 Lab 7: Animation
+> **Project 1 DUE AT 11:59 PM**
 
 > Assigned:
-> Programmer💻 Lab 6: Colliders and Rigidbodies (due 2/19)
-> Artist 🎨 Lab 7: Animation (due 2/19)
+> Programmer💻 Lab 9: UI and layering *(due 2/26)*
+> Artist 🎨 Lab 10: UI asset Creation *(due 2/26)*
+> **Project 2 released!**
 
 Jump to Week: [0](#week-0)
 
