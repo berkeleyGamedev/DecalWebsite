@@ -34,7 +34,7 @@ After completing the project, each person is expected to also submit a short ref
 * Describe how your group incorporated the theme
 
 ## Themes/Ideas
-To better emulate the game jam experience, you are required to incorporate the theme of **Possession**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless.
+To better emulate the game jam experience, you are required to incorporate the theme of **Reboot**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless.
 
 ## Roles
 
