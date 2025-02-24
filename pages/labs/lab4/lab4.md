@@ -196,9 +196,6 @@ For this lab we have a few systems already in place in `Assets > Prefabs > Syste
 **You have a lot of creative freedom here on out. You can take that and run with it or you can follow the more chunked up, bare minimum steps below.**
 
 ### Creating the Enemies
-<!-- First off, we need a enemies to interact with. We will be creating two enemy types: a good and bad. If **the good Enemy** is clicked on, the player will be awarded with points, but if the player clicks on **the bad Enemy**, points will be deducted. Similar to Fruit Ninja, where you get points for slicing fruits, but lose the game if you hit a bomb. However, the point
-- Create a serializable variable named despawnTime. This determines how long an enemy will stay active if the player doesn’t click on it. Give it a value in the inspector.
-- In the Update function, compare the despawnTime with the elapsedTime to determine whether or not the enemy should be active. -->
 
 A good place to start is to create our enemy prefabs. You'll need to design two types of enemies: a **GoodEnemy** which will award points, and a **BadEnemy**, which will deduct points (or end the game). 
 
@@ -216,27 +213,29 @@ Our current enemy prefabs don't actually do anything yet. So, the next step is t
 
 1. Right click the Assets tab `Create > Scripting > MonoBehavior Script (name the script ‘Enemy’)`. Open the script.
 2. Find some satisfiable way to move the enemy to a good spawn location. (Again, you have creative freedom here.)
-    <br>
     <details>
     <summary>Hint 1</summary>
-    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;"
-    >To move to a spawn location, I recommend using something like: 
-
-    <p><code> transform.position = new Vector2(Random.Range(-horizontalBound, horizontalBound), Random.Range(-verticalBound, verticalBound));</code></p>
-
-    For the purposes of this lab, you can hard-code values for <strong>horizontalBound</strong> and <strong>verticalBound</strong>. In a real game you would want to figure out how to do this dynamically (just google it), but it is not worth doing for this lab.
-   
-    <p><strong>Random.Range</strong> has two versions--one for floats and one for integers. Make sure you use the one for floats.
-
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+    To move to a spawn location, I recommend using something like: <br>
+    <br>
+    <code>transform.position = new Vector2(Random.Range(-horizontalBound, horizontalBound), Random.Range(-verticalBound, verticalBound));</code> <br>
+    <br>
+    For the purposes of this lab, you can hard-code values for <strong>horizontalBound</strong> and <strong>verticalBound</strong>. In a real game you would want to figure out how to do this dynamically (just google it), but it is not worth doing for this lab. <br>
+    <br>
+    <strong>Random.Range</strong> has two versions--one for floats and one for integers. Make sure you use the one for floats. <br>
+    <br>
     <details>
     <summary>Hint 2</summary>
     <br>
-    <p>If you use the approach above, you'll need a Vector2 variable <strong>startingPosition</strong>. Under the Start() method, set your <strong>startingPosition</strong> to the enemy's new position AFTER using <strong>transform.position</strong> to randomize the spawn location. 
-
+    <br>If you use the approach above, you'll need a Vector2 variable <strong>startingPosition</strong>. Under the Start() method, set your <strong>startingPosition</strong> to the enemy's new position AFTER using <strong>transform.position</strong> to randomize the spawn location. <br>
     <details>
     <summary>Hint 3</summary>
     <br>
-    <p> I found the ranges (-10,10) and (-5, 5) reasonable for horizontal and vertical bounds, respectively. 
+    <br>I found the ranges (-10,10) and (-5, 5) reasonable for horizontal and vertical bounds, respectively. 
+    </details>
+    </details>
+    </div>
+    </details>
 
 3. Finally, you will need to implement some way to despawn the enemy after a specified amount of time has passed. 
     <details>
@@ -289,6 +288,7 @@ Now we have to spawn the enemies! Open up the **SpawnManager** script and carefu
     </details>
 </div>
 </details>
+
 
 If you haven't already, attach this SpawnManager script on an object in the scene that will **NOT** be destroyed (i.e., an empty GameObject specifically to handle spawning). When you hit play, you should see both enemy types spawn and despawn at random locations. Feel free to experiment with despawnTimer, Spawn Rate, and other variables until you're happy with it.  
 
