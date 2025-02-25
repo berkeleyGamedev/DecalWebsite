@@ -11,7 +11,7 @@ nav_order: 0
 > Happy long weekend everyone! There are some **important** announcements this week so please take
 > your time to read throught this! 
 >
-> **only** Thursday OH from 2-3PM this week. 
+> Monday and Thursday OH from 2-3PM this week. 
 >
 > ### Monday (2/24) 
 > >Due in class:
@@ -24,7 +24,7 @@ nav_order: 0
 >
 > >Artist 🎨 Lab 12: Environment Design *(due 3/2)*
 >>
-> ### Wednesday (2/26)
+### Wednesday (2/26)
 > >Due in class:
 >>
 > >Programmer 💻 Lab 9: UI and Layering *(due 3/5)*
