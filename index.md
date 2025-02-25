@@ -24,7 +24,7 @@ nav_order: 0
 >
 > >Artist 🎨 Lab 12: Environment Design *(due 3/2)*
 >>
-### Wednesday (2/26)
+> ### Wednesday (2/26)
 > >Due in class:
 >>
 > >Programmer 💻 Lab 9: UI and Layering *(due 3/5)*
