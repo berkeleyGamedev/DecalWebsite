@@ -9,12 +9,12 @@ Mar 10
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
 Mar 12
-: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
+: **Lecture**{: .label .gdd-blue } [Tutorial + Level Design]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
 [Work Day]: https://docs.google.com/presentation/d/134ed12Z_He_NzoOFaq3FVqIYG_UBFjaeMBw-LTorsAM/edit?usp=sharing
-[Tutorial + Level Design]: https://docs.google.com/presentation/d/1OvpjWZmDU6Tijvcjyd8NZFN3yxhcWBm9K5hivGKy-8A/edit?usp=sharing 
+[Tutorial + Level Design]: https://docs.google.com/presentation/d/1aK37EimUl3oVzollVlF9DuLGpuQ4SjBj0VqyzWuGxpk/edit?usp=sharing
 
 [Lab 13: Transitioning, Saving and Building]: ./../pages/labs/lab13/lab13
 [Lab 14: 3D Rigging, Skinning, and Animation]: ./../pages/labs/lab14/lab14

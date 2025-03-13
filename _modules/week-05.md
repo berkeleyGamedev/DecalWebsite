@@ -15,3 +15,5 @@ Mar 5
 [Project 3: Final]: ./../pages/projects/Projects
 
 [How to Write a Good Game Design Document]: https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545 
+
+[Pitch Day]: https://docs.google.com/presentation/d/1qpeffTg0sfncp_yk8Yrc3Yu06eEEoUwnQnntBe9bviI/edit?usp=drive_link

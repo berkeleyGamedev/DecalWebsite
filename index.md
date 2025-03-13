@@ -8,33 +8,7 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }
-> Happy long weekend everyone! There are some **important** announcements this week so please take
-> your time to read throught this! 
->
-> Monday and Thursday OH from 2-3PM this week. 
->
-> ### Monday (2/24) 
-> >Due in class:
->>
-> >Programmer 💻 Lab 8: Animator and Blend
-> >
-> >Assigned:
->>
-> >Programmer 💻 Lab 11: Coroutines *(due 3/2)*
->
-> >Artist 🎨 Lab 12: Environment Design *(due 3/2)*
->>
-> ### Wednesday (2/26)
-> >Due in class:
->>
-> >Programmer 💻 Lab 9: UI and Layering 
-> 
-> >Artist 🎨 Lab 10: UI Asset Creation 
->>
-> >Assigned:
->>
-> >Nothing!
->>
+> No more labs woooooO!
 
 Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4)
 
