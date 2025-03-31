@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**Project Due**: Wednesday 02/26 at 11:59 PM
+**Project Due**: Saturday 03/01 at 11:59 PM
 
 **Submission Link**: [Google Form]
 
@@ -34,7 +34,7 @@ After completing the project, each person is expected to also submit a short ref
 * Describe how your group incorporated the theme
 
 ## Themes/Ideas
-To better emulate the game jam experience, you are required to incorporate the theme of **Possession**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless.
+To better emulate the game jam experience, you are required to incorporate the theme of **Reboot**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless.
 
 ## Roles
 
@@ -52,7 +52,7 @@ Musicians/sound designers should create music and sound effects for the game, bu
 We will be grading on the amount of effort and time put into the project. This will be reflected through the submitted project and the reflection that everyone will be turning in. It is also helpful to keep a log of everything that was accomplished (or attempted if it ended up not working out)
 
 ## Submission
-Submit your Unity project through Github via the [Google Form] by **Wednesday 02/26 at 11:59 PM**
+Submit your Unity project through Github via the [Google Form] by **Saturday 03/01 at 11:59 PM**
 
 ### Resources:
 https://www.piskelapp.com/  -  A place to create animated sprites in pixel art
@@ -69,4 +69,4 @@ http://blog.studiominiboss.com/pixelart - Awesome pixel art tutorial master page
 
 
 [Unity API]: https://docs.unity3d.com/ScriptReference/
-[Google Form]: https://tinyurl.com/fa24p2submit
+[Google Form]: https://tinyurl.com/sp25p2submit
