@@ -3,14 +3,14 @@ title: Week 7
 ---
 
 Mar 17
-: **Lecture**{: .label .gdd-blue } Game Feel
+: **Lecture**{: .label .gdd-blue } [Game Feel]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
 Mar 19
 : **Lecture**{: .label .gdd-blue } Work Day
 
-[Game Feel]:https://docs.google.com/presentation/d/1xbvDz1dijMdYWynhOHidGY9DCrLy8dGIzosByyiqsoM/edit?usp=share_link
+[Game Feel]:https://docs.google.com/presentation/d/1m3b50RvOGrwETjx0Kiy_1kIVYGfu2axHTaktSOUv8_4/edit?usp=sharing
 
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
 
