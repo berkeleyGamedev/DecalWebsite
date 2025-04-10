@@ -48,7 +48,7 @@ Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-
 
 [Apply]: https://tinyurl.com/fa25gddapp
 
-[Apply to be a Facilitator!!!]: http://tinyurl.com/gddsp25facap
+[Apply to be a Facilitator!]: http://tinyurl.com/gddsp25facap
 
 [Click here for infosession slides!]: https://docs.google.com/presentation/d/1LADC9Byt52I4q0NpYCA9_YU4Q4a-XVkh1xN95CsGlIo/edit?usp=sharing
 
