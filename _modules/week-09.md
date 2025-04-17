@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Mar 31
-: **Lecture**{: .label .gdd-blue } Music and SFX
+: **Lecture**{: .label .gdd-blue } [Music and SFX]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
@@ -11,9 +11,10 @@ Apr 2
 : **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
 
 
+[Music and SFX]: https://docs.google.com/presentation/d/1WZoFc1IEeaQX71Qld3cTw9LpJZWtO7Mz6SHflW88500/edit?usp=sharing
+
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
 
-[Accessibility]: https://docs.google.com/presentation/d/1f7FlbS_d-gSuqQF1lpWztqZyTJE3zI6IZJJph0RhZq8/edit#slide=id.g20221f2e5b6_0_162
 
 [Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
 
