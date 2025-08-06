@@ -54,17 +54,17 @@ A GameObject is the fundamental building block in every scene. It could be anyth
             foo = GameObject.Find(‘Player’);  
 
         **foo** is assigned as a “pointer” to that GameObject instance (highlighted in blue). 
-    - This method is considered inefficient, but for this class optimization is not a big deal so using this method is fine. If you do want to try optimizing, you could potentially call this method once in the `Start()` method and then store a  reference to what you found in the script
+    - This method is considered inefficient because it may need to search through many GameObjects, but for this class optimization is not a big deal so using this method is fine. If you do want to try optimizing, you can call this method once in the `Start()` method and then store a reference to what you found in a variable.
     - **More commonly used is [GameObject.FindWithTag()], to avoid having to change your code if you decide to rename a GameObject in the Inspector.**
 
 2. [GetComponent()]  
     Returns a specified GameObject component. 
-    - Ex: During the gameplay, if you want to change the color of your purple player square to red, you could type the following:  
+    - Ex: During the gameplay, if you want to change the color of your player's sprite to red, you could type the following:  
 
             foo = GameObject.Find(‘Player’)  
             if (insert some arbitrary condition here) {  
                 sr = foo.GetComponent<SpriteRenderer>();  
-                sr.color = new Color.red; 
+                sr.color = Color.red; 
             }
 
         - Not static and **must be called on a GameObject instance**. Typical usage for this method: 
@@ -74,16 +74,16 @@ A GameObject is the fundamental building block in every scene. It could be anyth
     - To access the GameObject that your script is attached to you can simply use the keyword **gameObject**
         - Ex: if you have a Health script attached to your player GameObject, and you want to change the player’s color to red directly **from within the Health script**, you can type the following:
 
-                gameObject.GetComponent<SpriteRenderer>.color = new Color.red;
+                gameObject.GetComponent<SpriteRenderer>.color = Color.red;
 
-    - This method is also considered inefficient. The same can be said here as was said about **Find()**
+    - This method is also considered inefficient. It's advisable to call the method once and store its result just like with **Find()**
 
 3. [SetActive()]
     - Activates or deactivates the GameObject locally. 
-    - A nice way to turn off GameObjects (or components) while the game is running by passing in **False**. Generally preferred to outright destroying GameObjects, because you can’t un-[Destroy] GameObjects, and destroying may mess up interactions with other scripts. 
+    - A nice way to turn off GameObjects (or components) while the game is running by passing in **false**. Generally preferred to outright destroying GameObjects, because you can’t un-[Destroy] GameObjects, and destroying may mess up interactions with other scripts. 
     - Ex: if you want to turn off your player when getting killed you would use something like:
 
-	        gameObject.SetActive(False);
+	        gameObject.SetActive(false);
 
 
 ### Singletons
@@ -112,7 +112,8 @@ Now when another script wants to modify the score they can simply say:
 
 Instead of: 
 
-        Score scoreObj = GameObject.Find(“Score”).GetComponent<Score>(); scoreObj.addScore(1337);
+        Score scoreObj = GameObject.Find(“Score”).GetComponent<Score>();
+        scoreObj.addScore(1337);
 
 ### DeltaTime
 - [Time.deltaTime]
@@ -122,13 +123,14 @@ Instead of:
         - Then subtract **Time.deltaTime** in each call to `Update()`
         - Once it reaches 0, restart the timer (if applicable)
         - Then do whatever action you were waiting to do
+        - We'll also cover Coroutines, which are more flexible ways to handle time!
 - [Time.fixedDeltaTime]
     1. This is the amount of time between physics updates
     2. Unlike **Time.deltaTime**, this value is consistent throughout your game
     3. Whenever you use a physics method such as `FixedUpdate()`, you should be using this value instead of **Time.deltaTime** to avoid unwanted behavior
 
 ### Misc Tips
-- Don’t feel too overwhelmed by some of the crazy syntax and differences in C#, you can get really far by just pretending its Java and ignoring the new stuff
+- Don’t feel too overwhelmed by some of the crazy syntax and differences in C#, you can get really far by just pretending its Java and ignoring the new stuff. Both languages are based on C++ and therefore have tons of similarities!
 - Don’t forget the tips from the last scripting lab! It covered ways to get more out of the Unity Inspector for your script (among other things):
     1. Structs
     2. Arrays/Lists
@@ -138,23 +140,22 @@ Instead of:
     2. Or through an external method call
         - GUI button press set to call a method, another script calling one of your public methods, etc
 - [This is an extremely useful chart of what order things run in]
-    1. Scroll to the bottom of the page
 
-**Organization and Practices**
-1. When writing a lot of code, you want to try your best to keep it organized and clear
-2. Decide on a naming convention to differentiate script variables from local function variables. Personally, I will preface any script variable with an m_ and leave it out from local function variables. So instead of score, I would use **m_Score**.
-3. Keep ALL variables and functions private. There are very few reasons to make variables public. If you go through the delegates and events lab, there will be exceptions there. Certain functions need to be public as well (`AddScore()`).
-4. If you need to edit a variable in the editor, instead of making it public, give it the **\[SerializeField\]** heading AND a **[Tooltip(“explain what this variable is here”)]**
-5. Try your best to group different functions together and then use:  
+**Organization and Good Practices**
+1. When writing a lot of code, you want to try your best to keep it organized and clear.
+2. Keeping a consistent naming scheme is a good idea. Unity themselves use camelCase for their public property names and PascalCase for their function names. This lab uses `m_` before any private class variables, but feel free to use whatever in your own code.
+3. Try to keep your variables private when possible. This will prevent other scripts from potentially changing a variable and breaking something! [C# Properties] might be helpful for managing which scripts can access what information, like making a variable that other classes can only read, not change!
+4. If you need to edit a private variable in the editor, give it the **\[SerializeField\]** heading.
+5. Additionally adding a **[Tooltip(“explain what this variable is here”)]** header to your serialized variables will give information when you hover over it in the inspector.
+6. Try your best to group different functions together and then use:  
         #region Region Name  
         #endregion  
-    to group these functions together
-6. Use short accessors and mutators
-7. Generally, use the **\[DisallowMultipleComponent\]** (with brackets) because you would rather be safe than sorry; this header will ensure that you do not place the same script twice on the same object
-8. Use the **\[RequireComponent(typeof(ENTER_TYPE_HERE))\]** header as well whenever you use the function `GetComponent<>()`
-9. You will find examples of each of these points in the scripts of this lab  
+    to create an organizational dropdown for them.
+7. It doesn't hurt to use the **\[DisallowMultipleComponent\]** header when applicable; this header will ensure that you do not place the same script more than once on the same object.
+8. Using the **\[RequireComponent(typeof(ENTER_TYPE_HERE))\]** header as well whenever your script depends on a certain component will have Unity automatically add the component alongside the script as well as preventing its removal.
+9. You will find examples of each of these points in the scripts of this lab.
 
-Do not worry if you don’t know what some of these things mean. As you go spend more time in Unity, this section will make a lot more sense. For now, use **REGIONS** as your main organizational tool.
+A lot of these tips are just precautionary measures to keep your code readable and error-proof. This class mostly recommends using **REGIONS** as your main organizational tool, and none of these are ironclad rules.
 
 **Useful Scripting Reference links**
 - [Mathf]
@@ -313,28 +314,6 @@ You did it! Congratulations! As a challenge, try and go back and improve things 
 
 ********************************************************************************************************
 
-### Appendix: Unity Script Organization
-
-I keep my scripts organized using the following Region Headers. The bolded headers are ones that you will see in this lab (and you will probably want to use these). If you have any questions about any of them, feel free to ask.
-
-Delegates and Events  
-**Editor Variables**  
-**Non-Editor Variables**  
-**Cached Components**  
-Cached Instance References  
-**Singletons**  
-**First Time Initialization and Set Up**  
-OnEnable, Set Ups, and Resetters  
-**Main Updates**  
-Game Loop Updates  
-OnDisable and Other Enders  
-**Accessors and Mutators**  
-Getters  
-Checkers and Verifiers  
-Collision Methods  
-Unity Misc  
-**Script Specific Headers**
-
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
@@ -348,6 +327,7 @@ If you experience any bugs or typos within the lab itself, please report it [her
 [Time.fixedDeltaTime]: https://docs.unity3d.com/ScriptReference/Time-fixedDeltaTime.html
 [MonoBehavior Event]: https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
 [This is an extremely useful chart of what order things run in]: https://docs.unity3d.com/Manual/ExecutionOrder.html
+[C# Properties]: https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties
 [Mathf]: https://docs.unity3d.com/ScriptReference/Mathf.html
 [Instantiate()]: https://docs.unity3d.com/ScriptReference/Object.Instantiate.html
 [Vector2]: https://docs.unity3d.com/ScriptReference/Vector2.html
