@@ -15,13 +15,15 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
+<!-- **NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
-[Download Lab 5](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-blue }
+[Download Lab 5](https://github.com/berkeleyGamedev/TilesetLab/archive/refs/heads/master.zip){: .btn .btn-blue } 
 
-## Overview
+-->
 
-**Tilesets** are a collection of **tiles**, or square graphic images that are laid out in a grid to form the game environment. Many games, especially pixel games, are created through tilesets. It greatly speeds up the process of making game environments, because one set of 9 ground tiles can be used to quickly generate hundreds of unique floor plans. 
+## Overview 
+
+**Tilesets** are a collection of **tiles**, or square graphic images, that are laid out in a grid to form the game environment. Many games, especially pixel games, are created through tilesets. It greatly speeds up the process of making game environments, because one set of 9 ground tiles can be used to quickly generate hundreds of unique floor plans. 
 
 There is a separate lab called Tilemaps if you are interested in learning how to implement Tilesets. However, in this lab we will go into how to set up a drawing app to create Tilesets, and how to design them.
 
@@ -37,19 +39,19 @@ Like mentioned in the overview, Tilesets are a collection of tiles that can be s
 ![](images/image2.png)
 
 
-## Setting up Photoshop
+## Setting Up: Photoshop
 
 Photoshop is a great asset in creating Tilesets (and it’s free for Berkeley students!). First, make a blank canvas. You can choose any small size you’d like; in this tutorial I’m going with 400x400. Once that’s open, go to `Edit > Preferences > Grids, Guides & Slices`. Under “grid”, change Gridline to every 32 pixels. That way, the grids will be 32x32. 
 
 ![](images/image9.png)
 
-If the grid isn’t showing up, go to `View Menu > Pixel Aspect Ratio and go to View > Showing` and turn it on. Once you are all done, your Photoshop should look something like this:
+If the grid isn’t showing up, go to `View Menu > Pixel Aspect Ratio` into `View > Showing` and turn it on. Once you are all done, your Photoshop should look something like this:
 
 ![](images/image8.png)
 
-## Setting up Procreate
+## Setting Up: Procreate
 
-For procreate users, you can download the free pixel brush back from [Ittai Manero](https://folio.procreate.com/discussions/10/28/46618) and work on a 300x300 vancas. The lab requires you to design a 3x3 tileset, hence the multiple of 3. You can fill a 100x100 canvas with black, and then copy and paste it into your 300x300 canvas for exact pixel accuracy. 
+For procreate users, you can download the free pixel brush back from [Ittai Manero](https://folio.procreate.com/discussions/10/28/46618) and work on a 300x300 canvas. The lab requires you to design a 3x3 tileset, hence the multiple of 3. You can fill a 100x100 canvas with black, and then copy and paste it into your 300x300 canvas for exact pixel accuracy. 
 
 ## Tileset Apps
 
@@ -63,20 +65,20 @@ This lab does not in any way require download of these apps, but I recommend art
 
 ## Designing Tilesets 
 
-Tiles, when placed next to each other, should create a smooth background. To achieve this, you’ll 
+Tiles, when placed next to each other, should create a seamless edge. To achieve this, you’ll 
 need to create two 3x3 sets of tiles: one for the outer edge of grass and one for the inner edge. 
-This goes for any environment tiles you’d like to create where two different textures meet, like a 
+This goes for any environment tiles that you’d like to create where two different textures meet, like a 
 dirt road with grass at the edge, or bodies of water among grass. It should look something like the 
 image to the left. 
 You would also need to create a center grass tile in the “inner rounding” 3x3 set that isn’t 
 featured here. One option is to simply just draw the tiles from a blank Photoshop canvas with the 
-grids set up, but Brackeys made a great template to use: [Brackey's Photoshop Template].
+grids set up, but Brackeys made a great Photoshop template to use: [Brackey's Photoshop Template].
 
 Clicking that link should take you to a Tileset template that looks like this:
 
 ![](images/image6.png)
 
-In the layers coded by colors are the files for the four tiles: side, corner, filler, and corner. 
+The files contains four tiles denoted by color within the layers: side, corner, filler, and corner. 
 
 ![](images/image7.png)
 
@@ -87,7 +89,7 @@ Double-clicking on any of the four tiles will open the working Photoshop file in
 
 ## Check-off
 
-For this lab, your job is to create your own Tileset! You can make a Tileset for any environment you’d like, but it has to have two different surfaces making contact (ex. grass and cobblestone, dirt and water). Show a facilitator the 3x3 tiles for the outer and inner rounding.
+For this lab, your job is to create your own Tileset! You can make a Tileset for any environment you’d like, but it has to have two different surfaces making contact (ex. grass and cobblestone, dirt and water). Show a facilitator your set of 3x3 tiles for the outer and inner rounding.
 
 
 ## Bug Reports

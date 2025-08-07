@@ -19,7 +19,6 @@ nav_exclude: true
 In this lab, you are designing an environment, or background, for a 2D infinite side scroller game. The purpose of this lab is to have practice in making art assets that establish an atmosphere for a game. Additionally, your piece should be layered to create an illusion
 of depth (a.k.a the parallax effect).
 
-
 ## Parallax Effect
 The parallax effect is created when the background moves slower than the foreground. This is accomplished through having multiple layers to a background and can look like this **(Fig. 1):**
 
@@ -27,7 +26,7 @@ The parallax effect is created when the background moves slower than the foregro
 
 In order to create depth and the parallax effect, there are different shades of orange/red with the darker colors in the foreground and the lighter colors in the background. This depth is what is trying to be achieved in this lab.
 
-Please watch this video to understand [the parallax effect] completely. 
+You can watch this informational video about [the parallax effect] for a more in-depth explanation. 
 
 There are plenty of ways to achieve depth and a parallax effect. Below are some analyses of different game screenshots and how depth is created.
 
@@ -65,7 +64,7 @@ The image above **(Fig. 5)** is highlighted to differentiate the foreground (red
 
 This piece exemplifies what is trying to be accomplished with this lab. There is the foreground with the arrow, the midground which contains the islands spread across the picture, and the background with large focal elements. Note how the background follows the general rule of being less detailed. We can also see strong contrasts between the colors in the piece, creating a sense of depth in the environment.
 
-## How to Export for Unity
+## How to Export for Unity: Photoshop
 
 For Photoshop, go to `File > Export > Layers to Files…`. Then in the pop up menu, change File Type to PNG-8. Photoshop will export each layer as a separate file –– perfect for Unity!
 
@@ -73,26 +72,30 @@ For Photoshop, go to `File > Export > Layers to Files…`. Then in the pop up me
 
 ![](images/image8.png)
 
+## How to Export for Unity: Procreate
+
+For Procreate, click on the wrench icon and navigate to `Share > Share Layers > PNG Files`. Procreate will export each layer as a separate file, **including hidden layers.** 
+
 ## General Tips
 
 - Objects of focus should contrast with what is behind it.
 - Contrast, by color and/or outline, should be used in between layers of the environment to create depth.
-- Each component of the environment (foreground, midground, background) has to be on different layers, otherwise you will not be able to export it (see below). 
+- Each component of the environment (foreground, midground, background) must be drawn on different layers, otherwise you will not be able to export it as a game-ready asset (see below). 
 - MORE IN FOCUS, MORE IN DETAIL. LESS IN FOCUS, LESS IN DETAIL. 
 
 ## Themes
 
-The themes of the lab are as follows: **cyberpunk, fantasy, nature, or apocalyptic.**
+The themes of the lab are as follows: **cyberpunk, fantasy, nature, apocalyptic or noir.**
 
-Choose 1 (or more) and create a background that fulfills the checkoff list. You should be making an environment for a scrolling 2D platformer (something like the Pixel Art example).
+Choose 1 (or more) and create a background that fulfills the checkoff list. You should be making an environment for a scrolling 2D platformer (similar to the Pixel Art lab example).
 
 ## Checkoff
 
-- Panoramic, extending left and right
-- Have the background be able to be repeated, like in an infinite runner game
+- Create a panoramic background, extending left and right of the screen
+- Have the background repeat seamlessly, like in an infinite runner game
 - At least 1 large focal element, like the watch tower in **Fig. 1** or the skull in **Fig. 6**
 - At least 2 foreground elements, like the flowers in **Fig. 2** or **Fig. 4**
-- Have a depth of at least three layers (background, midground, foreground) to create a parallax effect
+- Include depth of at least three layers (background, midground, foreground) to create a parallax effect
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
