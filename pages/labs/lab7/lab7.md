@@ -15,9 +15,11 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+<!-- 
 **NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
 [Download Lab 7](https://github.com/berkeleyGamedev/AnimationLab/archive/refs/heads/master.zip){: .btn .btn-blue }
+-->
 
 ## Overview
 In this lab, you will be getting a preview of the game animation pipeline, starting with a Photoshop sprite to a finished Unity animation! For this lab, we will be covering both sprite-based and puppet-based animation, as well as some techniques for creating sprite-based animations. However, we won’t go too in depth about how to animate it in Unity, as there is another lab (Animator and Blend Trees) that covers it in more detail--be sure to check that out!
