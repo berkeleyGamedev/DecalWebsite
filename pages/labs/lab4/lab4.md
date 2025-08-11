@@ -54,7 +54,7 @@ A GameObject is the fundamental building block in every scene. It could be anyth
             foo = GameObject.Find(‘Player’);  
 
         **foo** is assigned as a “pointer” to that GameObject instance (highlighted in blue). 
-    - This method is considered inefficient because it may need to search through many GameObjects, but for this class optimization is not a big deal so using this method is fine. If you do want to try optimizing, you can call this method once in the `Start()` method and then store a reference to what you found in a variable.
+    - This method isn't that slow, and optimization isn't that big of a deal in this class. But if you're calling this method a lot and do want to try optimizing this a little, you can call this method once in the `Start()` method and then store a reference to what you found in a variable.
     - **More commonly used is [GameObject.FindWithTag()], to avoid having to change your code if you decide to rename a GameObject in the Inspector.**
 
 2. [GetComponent()]  
@@ -76,7 +76,7 @@ A GameObject is the fundamental building block in every scene. It could be anyth
 
                 gameObject.GetComponent<SpriteRenderer>.color = Color.red;
 
-    - This method is also considered inefficient. It's advisable to call the method once and store its result just like with **Find()**
+    - This method can also be optimized just like with **Find()**. It's advisable to call the method once in `Awake()` or `Start()` and store its result
 
 3. [SetActive()]
     - Activates or deactivates the GameObject locally. 
@@ -130,7 +130,7 @@ Instead of:
     3. Whenever you use a physics method such as `FixedUpdate()`, you should be using this value instead of **Time.deltaTime** to avoid unwanted behavior
 
 ### Misc Tips
-- Don’t feel too overwhelmed by some of the crazy syntax and differences in C#, you can get really far by just pretending its Java and ignoring the new stuff. Both languages are based on C++ and therefore have tons of similarities!
+- Don’t feel too overwhelmed by some of the crazy syntax and differences in C#, you can get really far by just pretending its Java and ignoring the new stuff. Both languages are very similar in syntax because Java's syntax is also inspired by C.
 - Don’t forget the tips from the last scripting lab! It covered ways to get more out of the Unity Inspector for your script (among other things):
     1. Structs
     2. Arrays/Lists
