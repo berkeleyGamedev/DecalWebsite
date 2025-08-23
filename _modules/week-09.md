@@ -2,12 +2,12 @@
 title: Week 9
 ---
 
-Mar 31
+Nov 4
 : **Lecture**{: .label .gdd-blue } [Music and SFX]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
-Apr 2
+Nov 6
 : **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
 
 

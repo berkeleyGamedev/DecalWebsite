@@ -2,11 +2,11 @@
 title: Week 11
 ---
 
-Apr 14
+Nov 18
 : **Lecture**{: .label .gdd-blue } Work Day
 : **Reading**{: .label .gdd-brown } [AI in Gaming]
 
-Apr 16
+Nov 20
 : **Project**{: .label .gdd-navy } [Milestone 3: Beta Playtest]
 
 [AI in Gaming]: https://www.gamedesigning.org/gaming/ai-in-gaming/

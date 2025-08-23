@@ -2,12 +2,12 @@
 title: Week 4
 ---
 
-Feb 24
+Sept 30
 : **Lecture**{: .label .gdd-blue } [Git Tutorial]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 11: Coroutines] / Artist: [Lab 12: Environment Design]
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
-Feb 26
+Oct 2
 : **Lecture**{: .label .gdd-blue } Design Docs and MVPs
 
 [Git Tutorial]: https://docs.google.com/presentation/d/1vNXmh3VyOytHG3j47ZQMGtLGa0-8WUxK5RxDzjIfxHA/edit?usp=sharing

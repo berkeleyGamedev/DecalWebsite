@@ -2,11 +2,11 @@
 title: Week 13
 ---
 
-Apr 28
+Dec 2
 : **Lecture**{: .label .gdd-blue } [Building and Publishing]
 : **Reading**{: .label .gdd-brown }[Gamification]
 
-Apr 30
+Dec 4
 : **Lecture**{: .label .gdd-blue } Course Postmortem
 : **Project**{: .label .gdd-navy } [Milestone 4: Final Submission]
 

@@ -2,12 +2,12 @@
 title: Week 2
 ---
 
-Feb 10
+Sept 16
 : **Lecture**{: .label .gdd-blue } [Game Art Fundamentals]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 4: Advanced Scripting] / Artist: [Lab 5: Tilesets]
 : **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
-Feb 12
+Sept 18 
 : **Lecture**{: .label .gdd-blue } [Fundamentals of Animation]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 

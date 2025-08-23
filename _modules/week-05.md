@@ -2,11 +2,11 @@
 title: Week 5
 ---
 
-Mar 3
+Oct 7
 : **Lecture**{: .label .gdd-blue } Pitch Day
 : **Reading**{: .label .gdd-brown }[How to Write a Good Game Design Document]
 
-Mar 5
+Oct 9
 : **Lecture**{: .label .gdd-blue } Project 2 Showcase
 : **Project**{: .label .gdd-navy }[Project 3: Final]
 

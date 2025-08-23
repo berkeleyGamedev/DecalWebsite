@@ -2,13 +2,13 @@
 title: Week 6
 ---
 
-Mar 10
+Oct 14
 : **Lecture**{: .label .gdd-blue } Work Day
 : **Lab**{: .label .gdd-yellow } Optional: [Lab 13: Transitioning, Saving and Building]
 : **Project**{: .label .gdd-navy } [Milestone 0: Game Design Doc]
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
-Mar 12
+Oct 16
 : **Lecture**{: .label .gdd-blue } [Tutorial + Level Design]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]

@@ -2,12 +2,12 @@
 title: Week 7
 ---
 
-Mar 17
+Oct 21
 : **Lecture**{: .label .gdd-blue } [Game Feel]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
-Mar 19
+Oct 23
 : **Lecture**{: .label .gdd-blue } Work Day
 
 [Game Feel]:https://docs.google.com/presentation/d/1m3b50RvOGrwETjx0Kiy_1kIVYGfu2axHTaktSOUv8_4/edit?usp=sharing
