@@ -1,6 +1,7 @@
 ---
 name: Jackie Dai
 role: Instructor
+pronouns: he/him
 email:
 website:
 photo: jackie.jpg

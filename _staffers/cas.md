@@ -1,9 +1,10 @@
 ---
 name: Yik Suen Lung (Cas)
 role: Teaching Assistant
+pronouns: they/any
 email:
 website:
 photo: cas_lung.png
 ---
 
-Hi y’all, I’m Kas, a sophomore Art Practice and Political Science double major. I enjoy roguelike and RPG games (including tabletop gaming).
+ Hello, I’m Cas! I’m a senior double majoring in Art Practice and Political Science, with a minor in Science, Technology, and Society. I’m playing a handful of roguelikes and deckbuilders (Darkest Dungeon, The Bazaar, Hades) as I recover from 1200+ hours in the Sims 4.
