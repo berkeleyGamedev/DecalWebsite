@@ -20,8 +20,8 @@ nav_exclude: true
 **Since this lab is relatively long and involves a lot of reading, tasks you should complete have been marked in <span style="color:blue">​BLUE</span> ​to make them easier to spot.** ​Most of this lab will go over pixel art fundamentals, and there will be a task at the end for you to practice using the fundamentals. Don’t skip the reading, because you’ll be asked to explain your choices later. 
 
 ### Tools & Software
-This lab will be in **​Photoshop**​ since it's free for students and has powerful editing and color correcting features that are useful for tweaking pixel drawings after they’re done.  
-If you are comfortable in another pixel art software, you may use that software for the task portion of this lab, but Photoshop is strongly recommended for its versatility. **​<span style="color:blue">If you do not yet have Photoshop downloaded, head over to [Adobe Software](https://software.berkeley.edu/adobe-creative-cloud)​ and read on as you wait for the download to finish. Otherwise, if you already have Photoshop, you’re good to go!</span>** 
+This lab will be **​Photoshop**​ specific since it's free for students and has powerful editing and color correcting features that are useful for tweaking pixel drawings after they’re done.  
+If you are comfortable in another pixel art software, you may use that software for the task portion of this lab. **​<span style="color:blue">If you do not yet have Photoshop downloaded, head over to [Adobe Software](https://software.berkeley.edu/adobe-creative-cloud)​ and read on as you wait for the download to finish. Otherwise, if you already have Photoshop, you’re good to go!</span>** 
 
 For those interested, there are a few other lightweight software options for pixel art, listed below: 
 - [Aseprite] ($14.99)
@@ -29,19 +29,21 @@ For those interested, there are a few other lightweight software options for pix
 - [Piskel] (Free, online)
 - [Medibang] (Free, online)
 
-### Note: Canvas Size
+{: .note-title }
+> **Canvas Size**
+> 
+> To make scaling pixel art up and down easier, as well as to enable compression and optimization at a game engine level, the standard is to keep canvas dimensions for pixel art **powers of two.**  
+>
+> Some commonly used dimensions are:
+>
+> | ![](images/image12.png) | ![](images/image9.png) | ![](images/image3.png) |
+> |:-------:|:-------:|:---------:|
+> | **32 × 32** | **64 × 64** | **128 × 128** |
+>
+> | ![](images/image5.png) | ![](images/image10.png) |
+> |:---------:|:---------:|
+> | **256 × 256** | **512 × 512** |
 
-To make scaling pixel art up and down easier, as well as to enable compression and optimization at a game engine level, the standard is to keep canvas dimensions for pixel art **powers of two​.** Some commonly used dimensions are: 
-- 32 x 32
-![](images/image12.png)
-- 64 x 64
-![](images/image9.png)
-- 128 x 128
-![](images/image3.png)
-- 256 x 256
-![](images/image5.png)
-- 512 x 512
-![](images/image10.png)
 
 
 ## Tips and Techniques
@@ -57,7 +59,10 @@ Dithering is the simulation of a gradient with often very ​few ​colors. Usin
 
 While dithering can be done by hand, photoshop has third-party brushes that make the task a little bit quicker. You can find them [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abductedplatypus.itch.io/dither-brushes&ved=2ahUKEwiHnuXt76SIAxWLPTQIHakqE8IQFnoECBsQAQ&usg=AOvVaw3dS8NXBvF5h1FH0hiLn-Rm).
 
-*Note*:​ Each brush is titled by the pixel “channels” it covers. So, a brush labeled “AB” will conflict with a brush labeled “B”, since they both occupy the “B” channel, and one brush will always paint over the other one. Basically, in the words of the creator, to use the brushes without conflict, it’s useful to assign to each color either to OABC or DEFG brushes, since this will make it easier to dither with 3 or more colours. 
+If you're interested in doing this lab with **Procreate**, here is a recommended [free pixel art brush set](https://ittaimanero.gumroad.com/l/FREEPixelArtMiniSet). 
+
+{: .note }
+​Each brush is titled by the pixel “channels” it covers. So, a brush labeled “AB” will conflict with a brush labeled “B”, since they both occupy the “B” channel, and one brush will always paint over the other one. Basically, in the words of the creator, to use the brushes without conflict, it’s useful to assign to each color either to OABC or DEFG brushes, since this will make it easier to dither with 3 or more colours. 
 
 ### Anti-Aliasing
 Anti-aliasing is a stylistic choice​ ​used to make your pixel art look smoother when zoomed out by using gray pixels to fill in sharp edges​. ​Some pixel artist traditionalists disparage anti-aliasing, while others use it generously for smoother-looking lines. In general, NOT using anti-aliasing will make your pixel art look ​more old-school, lower definition, and more “pixely”. ​In contrast, using anti-aliasing will give the illusion of ​higher resolution artwork and smoother lines/color transitions. ​Which style you prefer is purely up to you and your vision for the game. 
