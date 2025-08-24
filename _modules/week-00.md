@@ -3,11 +3,11 @@ title: Week 0
 ---
 
 Sept 2
-: **Lecture**{: .label .gdd-blue } [Infosession]
+: **Lecture**{: .label .gdd-blue } Infosession
 : **Lab**{: .label .gdd-yellow }[Lab 0: Unity Setup]
 
 Sept 4
-: **Lecture**{: .label .gdd-blue } [Infosession]
+: **Lecture**{: .label .gdd-blue } Infosession
 : **Lab**{: .label .gdd-yellow }[Lab 0: Unity Setup]
 
 

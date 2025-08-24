@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Nov 4
-: **Lecture**{: .label .gdd-blue } [Music and SFX]
+: **Lecture**{: .label .gdd-blue } Music and SFX
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 

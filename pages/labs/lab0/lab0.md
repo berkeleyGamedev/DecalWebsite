@@ -81,6 +81,18 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
 After your Unity Editor finishes installing, you're all set up!
 
+## Troubleshooting
+If intellisense is not working properly in your IDE, go to `Edit > Preferences > External Tools`, and make sure to select your IDE of choice for ‘External Script Editor’. Then regenerate the project files: 
+
+![](images/regen.png)
+
+{: .note }
+Visual Studio and VS Code have their own packages for unity dev that should be installed beforehand!
+
+**Still Stuck?** 
+While the editor version is outdated, the general principle stay the same in [this video](https://www.youtube.com/watch?v=ewiw2tcfen8). 
+
+
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 

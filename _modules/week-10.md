@@ -2,9 +2,9 @@
 title: Week 10
 ---
 
-Nov 11
+<!-- Nov 11
 : **Lecture**{: .label .gdd-blue } [Accessibility]
-: **Reading**{: .label .gdd-brown } [Accessible Controllers]
+: **Reading**{: .label .gdd-brown } [Accessible Controllers] -->
 
 Nov 13
 : **Lecture**{: .label .gdd-blue } Guest Lecture

@@ -9,7 +9,7 @@ Oct 14
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
 Oct 16
-: **Lecture**{: .label .gdd-blue } [Tutorial + Level Design]
+: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 

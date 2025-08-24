@@ -8,13 +8,19 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }   
-> INTERESTED IN JOINING THE FACILITATOR TEAM?!
-> Benefits include:
-> 2 P/NP upper division units
-> Great addition to your resume!
-> Mentor your own project 3 group!
-> Application deadline: Saturday, May 3rd @ 11:59PM
-> [Apply to be a Facilitator!] 
+> # <img src = "assets/announcement/bluegreen.gif" alt="bluegreen" width="65"/> **Welcome Back!** <img src = "assets/announcement/pinkyellow.gif" alt="pinkyellow" width="70"/> 
+> **Join Us for GDD Info Sessions**
+>
+> We are kicking off the Fall 2025 semester with **[two infosessions](#week-0) in Jacobs 10 at 6:30PM**! Come learn about our DeCal and see how you can get involved this semester! We can’t wait to see you there!
+>
+> [Fall 25 Application](https://tinyurl.com/5yy5v4ym){: .btn .btn-blue }
+>
+> **Due Friday 9/5, 11:59 PM!**
+
+
+
+
+
 
 
 Jump to Week: [0](#week-0)
@@ -52,8 +58,6 @@ Jump to Week: [0](#week-0)
 [form]: https://forms.gle/WrDUcRKpRqHvDXwA7
 
 [Apply]: https://tinyurl.com/fa25gddapp
-
-[Apply to be a Facilitator!]: http://tinyurl.com/gddsp25facap
 
 [Click here for infosession slides!]: https://docs.google.com/presentation/d/1LADC9Byt52I4q0NpYCA9_YU4Q4a-XVkh1xN95CsGlIo/edit?usp=sharing
 
