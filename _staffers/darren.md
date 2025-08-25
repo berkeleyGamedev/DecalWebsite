@@ -1,7 +1,7 @@
 ---
 name: Darren Ting
 role: Teaching Assistant
-pronouns: he/him
+pronouns: he/they
 email:
 website:
 photo: Darren_Ting.jpg
