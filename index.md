@@ -8,7 +8,7 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }   
-> # <img src = "assets/announcement/bluegreen.gif" alt="bluegreen" width="65"/> **Welcome Back!** <img src = "assets/announcement/pinkyellow.gif" alt="pinkyellow" width="70"/> 
+> ## <img src = "assets/announcement/bluegreen.gif" alt="bluegreen" width="50"/> **Welcome Back!** <img src = "assets/announcement/pinkyellow.gif" alt="pinkyellow" width="55"/> 
 > **Join Us for GDD Info Sessions**
 >
 > We are kicking off the Fall 2025 semester with **[two infosessions](#week-0) in Jacobs 10 at 6:30PM**! Come learn about our DeCal and see how you can get involved this semester! We can’t wait to see you there!
