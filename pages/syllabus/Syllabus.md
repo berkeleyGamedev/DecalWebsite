@@ -122,7 +122,7 @@ For Projects 1 and 2, a 30% deduction will be applied on the assignment for the 
 
 ## Attendance Policy
 
-**Attendance matters!** If you cannot be at class, you _must_ inform an instructor via the course email, <span style="color:blue;">berkeley.gamedev@gmail.com</span>. Only **two unexcused absences** will be allowed, and any further absences will result in your grade dropping 10% per absence. If you are in danger of not passing by the middle of the semester, the instructors will let people know what can be done to remedy that.
+**Attendance matters!** If you cannot be at class, you _must_ inform an instructor via the course email, <span style="color:blue;">berkeley.gamedev@gmail.com</span>. Only **two unexcused absences** will be allowed, and any further absences will result an automatic NP grade. If you are in danger of not passing by the middle of the semester, the instructors will let people know what can be done to remedy that.
 
 ## Academic Honesty
 
