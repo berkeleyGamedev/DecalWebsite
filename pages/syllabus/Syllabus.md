@@ -15,11 +15,11 @@ nav_order: 4
 
 ## Course Info
 
-**Time**: Mondays/Wednesdays 6:30pm - 8:00pm
+**Time**: Tuesday & Thursday 7:00PM - 8:00PM
 
 **Location**: Jacobs 10
 
-**Facilitator**: Jackie Dai, Joshua Almario, Jeremy Fernandez
+**Facilitator**: Jackie Dai, Joshua Almario, Sabrina Kuang
 
 **Faculty of Record**: James O'Brien
 
@@ -45,7 +45,7 @@ Artists:
 
 ## Course Structure
 
-- The class meets twice a week, for an hour and a half each meeting. Classes begin at 6:40 sharp, and we cannot accommodate for students who arrive later.
+- The class meets twice a week, for an hour and a half each meeting. Classes begin at 7:10 sharp, and we cannot accommodate for students who arrive later.
 - **Weeks 1-4**: Meetings will be tutorial lectures, designed to provide students with knowledge of how the Unity engine works and best practices for implementing game mechanics.
 - **Week 5**: Students will be formed into small teams to work on Project 2. This project is designed to give students the opportunity to collaborate on and execute a small scale game before working on the final project.
 - **Week 6-14**: Final project teams are formed around Week 6 and the course will assume the following structure:
@@ -65,11 +65,13 @@ Artists:
 
 At each milestone (except for the zeroth milestone), all projects are shared with the rest of the class. These milestones are as follows:
 
-- _Milestone 0_: Each team is expected to have a game design document completed. The design document needs to include an explanation for the vision of the game as well as the specifics for the core aspects of the game. The teams are also expected to create a rough week by week breakdown of tasks.
-- _Milestone 1_: Minimum Viable Product (MVP): Playable prototype of the original pitch. The core mechanics and the first iteration of the core art assets of the game should be implemented. Effectively this milestone exists to ensure that the games are fun, and to provide teams with feedback regarding how their game can be improved.
-- _Milestone 2_: Alpha Build: All of the main mechanics should be in place. The general art style should be decided on and the main assets (character, environment) should be in place. A first pass should be done on the rest of the art assets. There should be a basic but complete level as intended to appear in the final game. This build can have bugs.
-- _Milestone 3_: Beta Build: The main mechanics should no longer have any bugs. Most of the art assets should be completed and in the game. The game and its levels should be mostly complete. This build needs to have a certain level of polish; having a few small bugs and incomplete minor assets is fine at this build.
-- _Milestone 4(showcase)_: Release Build: Finished Project. The game should be complete, and in line with the original pitch. It should be polished, playable from start to finish, and mostly bug free.
+|:-----------------------:|-------------|
+| <span style="color:blue;">_Milestone 0_</span> | Each team is expected to have a game design document completed. The design document needs to include an explanation for the vision of the game as well as the specifics for the core aspects of the game. The teams are also expected to create a rough week-by-week breakdown of tasks. |
+| <span style="color:blue;">_Milestone 1_</span> | **Minimum Viable Product (MVP):** Playable prototype of the original pitch. The core mechanics and the first iteration of the core art assets of the game should be implemented. This milestone ensures the games are fun and provides feedback for improvement. |
+| <span style="color:blue;">_Milestone 2_</span> | **Alpha Build:** All of the main mechanics should be in place. The general art style should be decided on and the main assets (character, environment) should be in place. A first pass should be done on the rest of the art assets. There should be a basic but complete level as intended to appear in the final game. This build can have bugs. |
+| <span style="color:blue;">_Milestone 3_</span> | **Beta Build:** The main mechanics should no longer have any bugs. Most of the art assets should be completed and in the game. The game and its levels should be mostly complete. This build needs to have polish; a few small bugs or incomplete minor assets are fine. |
+| <span style="color:blue;">_Milestone 4 (Showcase)_</span> | **Release Build:** Finished Project. The game should be complete and in line with the original pitch. It should be polished, playable from start to finish, and mostly bug-free. |
+
 
 At each milestone, team members will fill out team evaluations that will be factored into each member’s grade. For milestones that include playtests, students must also fill out feedback forms for other groups.
 
@@ -120,7 +122,7 @@ For Projects 1 and 2, a 30% deduction will be applied on the assignment for the 
 
 ## Attendance Policy
 
-Attendance matters! If you cannot be at class, you must inform an instructor via the course email, berkeley.gamedev@gmail.com. Only two unexcused absences will be allowed, and any further absences will result in your grade dropping 10% per absence. If you are in danger of not passing by the middle of the semester, the instructors will let people know what can be done to remedy that.
+**Attendance matters!** If you cannot be at class, you _must_ inform an instructor via the course email, <span style="color:blue;">berkeley.gamedev@gmail.com</span>. Only **two unexcused absences** will be allowed, and any further absences will result an **automatic NP grade**. If you are in danger of not passing by the middle of the semester, the instructors will let people know what can be done to remedy that.
 
 ## Academic Honesty
 

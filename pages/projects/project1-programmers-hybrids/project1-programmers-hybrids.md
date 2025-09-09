@@ -69,9 +69,9 @@ For part 1, upload your project to Github in a private repo and share it with be
 After projects have been graded, you will receive feedback on your project. 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
-[Part 1 Submission] is due **02/12 at 11:59 pm**
+[Part 1 Submission] is due **09/18 at 11:59 pm**
 
-[Part 2 Submission] is due **02/19 at 11:59 pm**
+[Part 2 Submission] is due **09/25 at 11:59 pm**
 
 [2D Github Repo]: https://github.com/berkeleyGamedev/Project-1-2D-2024.git
 [2D Spec]: ../project1-2d-programmers/project1-2d.md

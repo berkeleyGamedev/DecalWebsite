@@ -8,22 +8,17 @@ nav_order: 0
 # Game Design and Development Decal Spring 2025
 
 {: .announcements }   
-> ## <img src = "assets/announcement/bluegreen.gif" alt="bluegreen" width="50"/> **Welcome Back!** <img src = "assets/announcement/pinkyellow.gif" alt="pinkyellow" width="55"/> 
-> **Join Us for GDD Info Sessions**
+> # **Welcome to Game Design DeCal!** <img src = "assets/announcement/club_penguin.gif" alt = "club" width="50" height="50">
+> 
+> We’re excited to have you join us this semester! Our first class will be **Tuesday, September 9th at 7:00 PM in Jacobs 10.**
 >
-> We are kicking off the Fall 2025 semester with **[two infosessions](#week-0) in Jacobs 10 at 6:30PM**! Come learn about our DeCal and see how you can get involved this semester! We can’t wait to see you there!
+> Please remember to **bring your laptop**! Have Lab 0 completed so you'll be ready to participate right away. 
 >
-> [Fall 25 Application](https://tinyurl.com/5yy5v4ym){: .btn .btn-blue }
->
-> **Due Friday 9/5, 11:59 PM!**
+> We look forward to meeting you and starting a great semester of game design together!
 
 
-
-
-
-
-
-Jump to Week: [0](#week-0)
+| -------- |
+| Jump to Week: [0](#week-0), [1](#week-1)| 
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
