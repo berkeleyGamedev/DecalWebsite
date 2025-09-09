@@ -21,35 +21,38 @@ nav_exclude: true
 
 ## Lab Overview 
 
-In this lab you will be learning all about coroutines, which are Unity’s mesthod of performing asynchronous updates, allowing you to make things happen outside of Unity’s update cycle. By default, any code you put inside your Update function, as well as any physics or collider interactions, will execute every frame. But if you want to provide the player with a smooth transition from one state to another (e.g. changing colors or positions), it will need to take place over multiple frames; and for that, you will need coroutines. 
+In this lab you will be learning all about **coroutines**, which are Unity’s method of performing asynchronous updates, allowing you to make things happen outside of Unity’s update cycle. By default, any code you put inside your Update function, as well as any physics or collider interactions, will execute every frame. But if you want to provide the player with a smooth transition from one state to another (e.g. changing colors or positions), it will need to take place over multiple frames; and for that, you will need coroutines.
 
 ### Key terms 
 In order to make a function coroutine ready, you will need to use a special header and a yield statement. 
 
 **Header: IEnumerator FunctionName( [Parameters] )**
 
-Declaring the function as an IEnumerator tells Unity that it is a coroutine 
-
-**Yield Statement:** 
-
-Once your coroutine is called, it will run until it reaches a yield statement and then stop executing. After a given period of time, execution will continue, starting with the next line. If you remember generators from 61A, coroutines function in exactly the same way! 
-
-There are quite a few different yield statements, but these are some of the most useful: 
-
-1. yield; or yield return null; 
-    - Execution resumes at the start of the next frame (when Update() is called). 
-2. yield return new WaitForSeconds(waitTime); 
-    - Execution resumes after waitTime has elapsed. 
-3.  yield return new WaitUntil(() => [condition]) 
-    - Execution resumes after the declared condition evaluates to true. 
-    - This is a bit of a weird yield statement and less commonly used than the first two, but it can be useful if you only want something to occur under certain conditions.
-
+Declaring the function as an IEnumerator tells Unity that it is a coroutine .
 
 **StartCoroutine:** 
 
 - When you want to start your coroutine for the first time, you call it with the command StartCoroutine(CoroutineName()); 
 
 - If your coroutine takes in any parameters, you can pass those in by calling StartCoroutine(CoroutineName(Parameters)); 
+
+**Yield Statement:** 
+
+Once your coroutine is called, it will run until it reaches a yield statement, and then pause execution. After a given period of time, execution will continue, starting with the next line. If you remember generators from 61A, coroutines function in exactly the same way! 
+
+There are quite a few different yield statements, but these are some of the most useful: 
+
+1. yield; or yield return null; 
+    - Execution resumes at the start of the next frame (when Update() is called). 
+2. yield return new WaitForSeconds(waitTime); 
+    - Execution resumes after waitTime seconds have elapsed. 
+3. yield return new WaitUntil(() => [condition]);
+    - Execution resumes after the declared condition evaluates to true. 
+    - This is less commonly used than the first two, but it can be useful if you only want something to occur under certain conditions.
+4. yield return StartCoroutine(CoroutineName());
+    - Starts the nested coroutine CoroutineName. Execution resumes after CoroutineName finishes.
+    - This can come in handy for sequential events, like waiting out a Lerp (explained in the next section). Having many of these can easily get confusing, so use with caution!
+
 
 **Lerps and Time.DeltaTime:** 
 
@@ -64,22 +67,23 @@ There are quite a few different yield statements, but these are some of the most
 
 -  If you want a smooth transition from your starting state to ending state, then you will need to gradually increase your “x” value through multiple calls to your Lerp function 
     -  Time.DeltaTime can be used to do this; it tells you the amount of time that has elapsed since the last Update call 
-    - Another way to think of this is by thinking of a loop and a fraction, lets call this our 'x' value. Given X is a fraction we should have two values our numerator and denominator. By changing our numerator through multiples calls in a loop (hint hint) we are effectively increasing this x value each time we call the Lerp function. Again, Time.DeltaTime can be used to help you build this.
+    - Another way to think of this is by thinking of a loop and a fraction. Let's call this fraction our 'x' value; we should have two values for x, a numerator and denominator. By changing our numerator through multiples calls in a loop (hint hint) we are effectively increasing this x value each time we call the Lerp function. Again, Time.DeltaTime can be used to help you build this.
 
 - Lerp is an extremely useful function that you should always keep in mind and have a good understanding of. Below is a link to website that explains the fundamentals of lerp for programmers and animators alike. Please check it out!
-(https://www.febucci.com/2018/08/easing-functions/)
+(<https://www.febucci.com/2018/08/easing-functions/>)
 
 ## Lab Instructions 
 
 ### Task 1: Create a “death animation” for the player
-when you press the “F” key, your character sprite should fade to black
+When you press the “F” key, your character sprite should fade to black.
 
 - To change the player’s color, you will have to modify the Color component of the player’s Sprite Renderer
     - Use GetComponent 
 
 - All code should be written in the PlayerController script 
 
-- Your implementation should use both a Coroutine and Color.Lerp (Here is the documentation for Color.Lerp: https://docs.unity3d.com/ScriptReference/Color.Lerp.html)
+- Your implementation should use both a Coroutine and Color.Lerp
+    - Here is the documentation for Color.Lerp: <https://docs.unity3d.com/ScriptReference/Color.Lerp.html>
 
 ### Task 2: Use a coroutine to spawn in enemies at regular intervals 
 - All code should be written in the SpawnManager script 
