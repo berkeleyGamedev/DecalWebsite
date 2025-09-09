@@ -127,6 +127,9 @@ Compile your game art assets and **animations** to a google drive and make sure 
 
 [Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
 
+**Optional**: Please take the time to fill out a feedback form. Tell us what worked and what didn't. The team would love to hear back from you! 
+
+[Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
 
 ## Resources
 

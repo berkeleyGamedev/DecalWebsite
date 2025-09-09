@@ -15,9 +15,10 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**Project Due**: Saturday 03/01 at 11:59 PM
+The Theme is... <img src="images/censor.png" alt="dunno" width="50" height="60">
+{: .fs-8 }
 
-**Submission Link**: [Google Form]
+<!-- Replace with <span style="color:DodgerBlue">**THEME**</span>! -->
 
 ## Overview
 For Project 2, you will be working in groups of 2-3 (preferably not a group of all programmers or all artists) over the span of a week to create a game in Unity. It should be an original game idea you have or a mechanic that you find interesting (you may not repurpose any lab or project assets - scripts, art, prefabs, etc.). The project that you turn in does not have to be a fully functioning, polished game; the goal of this project is for you to see how it is to work in a team, figure out team dynamics, and learn how to scope your project.
@@ -33,8 +34,8 @@ After completing the project, each person is expected to also submit a short ref
 * Describe the aesthetic goal(s)
 * Describe how your group incorporated the theme
 
-## Themes/Ideas
-To better emulate the game jam experience, you are required to incorporate the theme of **Reboot**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless.
+<!-- ## Themes/Ideas
+To better emulate the game jam experience, you are required to incorporate the theme of **Reboot**! It should be easy to tell how your group followed the theme at a glance, but you are given the opportunity to elaborate in the reflection regardless. -->
 
 ## Roles
 
@@ -52,21 +53,36 @@ Musicians/sound designers should create music and sound effects for the game, bu
 We will be grading on the amount of effort and time put into the project. This will be reflected through the submitted project and the reflection that everyone will be turning in. It is also helpful to keep a log of everything that was accomplished (or attempted if it ended up not working out)
 
 ## Submission
-Submit your Unity project through Github via the [Google Form] by **Saturday 03/01 at 11:59 PM**
 
-### Resources:
-https://www.piskelapp.com/  -  A place to create animated sprites in pixel art
-https://www.codeandweb.com/texturepacker - A sprite sheet maker
-https://unity3d.com/learn/tutorials  -  A myriad of unity tutorials on a variety of topics
-https://itch.io/game-assets/free - Lots of free game assets you can use as references
-http://www.mapeditor.org/ - Tiled - A program which lets you design levels, maps, etc by importing your own art
-http://www.seanba.com/tiled2unity - Tiled2Unity - Used to import Tiled files to Unity assets
-http://blog.studiominiboss.com/pixelart - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
+Everyone must fill out the submission form, but only **one person** should submit the project files. Invite berkeleyGameDev as a collaborator.
+
+[Project 2 Due Wednesday, 10/1 @ 11:59 PM.](https://tinyurl.com/f25proj2){: .btn .btn-purple }
+
+## Resources:
+
+[Piskel App] - A place to create animated sprites in pixel art
+
+[Code and Web] - A sprite sheet maker
+
+[Unity 3D Tutorials] - A myriad of unity tutorials on a variety of topics
+
+[Itch.io game assets] - Lots of free game assets you can use as references
+
+[Map Editor] - Tiled - A program which lets you design levels, maps, etc by importing your own art
+
+[Tiled2Unity] - Used to import Tiled files to Unity assets
+
+[Studio Mini Boss Blog] - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
 
 
 
-
-
+[Piskel App]: https://www.piskelapp.com/ 
+[Code and Web]: https://www.codeandweb.com/texturepacker
+[Unity 3D Tutorials]: https://unity3d.com/learn/tutorials
+[Itch.io game assets]: https://itch.io/game-assets/free
+[Map Editor]: http://www.mapeditor.org
+[Tiled2Unity]: http://www.seanba.com/tiled2unity
+[Studio Mini Boss Blog]: http://blog.studiominiboss.com/pixelart
 
 [Unity API]: https://docs.unity3d.com/ScriptReference/
 [Google Form]: https://tinyurl.com/sp25p2submit

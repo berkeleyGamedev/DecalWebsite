@@ -42,7 +42,7 @@ The game should be able to be played without compiler errors. If there is an err
 
 After projects have been graded, you will receive feedback on your project. 
 
-[Part 1 Due Thursday, 9/15 @ 6:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+[Part 1 Due Thursday, 9/15 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
 
 ## Part 2: Programmers
 * 2D project:
@@ -78,7 +78,12 @@ Project 1 will be graded P/NP. Part 1 will be graded on completion, based on if 
 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
-[Part 1 Submission] is due **09/18 at 11:59 pm**
+[Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
+
+**Optional**: Please take the time to fill out a feedback form. Tell us what worked and what didn't. The team would love to hear back from you! 
+
+[Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
+
 
 [Part 2 Submission] is due **09/25 at 11:59 pm**
 
