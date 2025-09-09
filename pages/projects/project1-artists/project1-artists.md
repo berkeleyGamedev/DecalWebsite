@@ -60,8 +60,8 @@ When you have a solid picture for what you want to create, it's time to start yo
     |![](images/chara2.png)|
     |Character Example|
 
-3. Items and assets (x3)
-    * Choose at least three *significantly* different items that is **relevant** to your game. 
+3. Items and assets
+    * Choose at least 3 *significantly* different items that is **relevant** to your game. 
     * They can be weapons, projectiles, obstacles, collectibles, or anything else you think is essential. 
 
     |![](images/items.png)|

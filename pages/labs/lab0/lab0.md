@@ -61,7 +61,7 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
     ![](images/download.png)
 
-3. Go to the `Unity 6` tab and search for `6000.0.32f1`. Click Install (will prompt an install in your Unity Hub).
+3. Go to the `Unity 6` tab and search for `6000.0.49f1`. Click Install (will prompt an install in your Unity Hub).
 
     ![](images/openWithHub.png)
 

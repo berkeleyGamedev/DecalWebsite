@@ -34,6 +34,16 @@ Select between the two tutorials:
 
 Download the projects from Github, unzip the project and complete the tutorials linked in the Youtube Playlist.
 
+## Submission 
+
+Ensure that your github repo is **private** and invite berkeleyGameDev as a collaborator.
+
+The game should be able to be played without compiler errors. If there is an error that prevents the project from being graded, you will be notified after submission and given 24 hours to send corrections so that it is playable. Do not add new content. If we see that there has been new content added, you will receive an **automatic NP grade**. 
+
+After projects have been graded, you will receive feedback on your project. 
+
+[Part 1 Due Thursday, 9/15 @ 6:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+
 ## Part 2: Programmers
 * 2D project:
     * Select 2 or more of the following features from the list below and implement them within your game:
@@ -65,8 +75,7 @@ Download the projects from Github, unzip the project and complete the tutorials 
 Project 1 will be graded P/NP. Part 1 will be graded on completion, based on if the project is completed up to the standard of the video tutorials. Part 2 will be graded on completion of implementing new mechanics, enemies, item, etc based on the requirements.
 
 ## Submission 
-For part 1, upload your project to Github in a private repo and share it with berkeleyGamedev. The game should be able to be played without compiler errors. If there is an error that prevents the project from being graded, you will be notified after submission and given 24 hours to send corrections so that it is playable. Do not add new content. 
-After projects have been graded, you will receive feedback on your project. 
+
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
 [Part 1 Submission] is due **09/18 at 11:59 pm**
