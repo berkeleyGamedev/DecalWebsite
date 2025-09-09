@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-The Theme is... <img src="images/censor.png" alt="dunno" width="50" height="60">
+The Theme is... <img src="/pages/projects/project2/images/bar.png" alt="dunno" width="200" height="200">
 {: .fs-8 }
 
 <!-- Replace with <span style="color:DodgerBlue">**THEME**</span>! -->

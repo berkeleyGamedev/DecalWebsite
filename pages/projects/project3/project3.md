@@ -21,7 +21,11 @@ For the final project you will be working in teams of 3-5 for the rest of the se
 ## Milestones
 The timeline from here until the end of the semester is broken up into a series of milestones - 1 every 1-3 weeks. At each milestone, your team will showcase your game and have your game be playtested. Each playtest will require a set of questions that you want playtesters to answer. Between each milestone your team will update its mentor and the mentor will provide feedback and assistance based on the game’s progress. One of your earliest tasks is to coordinate as a team and come up with a schedule to meet these deadlines.
 
-### Milestone 0 (03/10)
+### Milestone 0 
+
+Due October 14th 
+{: .label }
+
 Game design document that must include all of the following sections:
 * Objective (max: 3 sentences)
 * Description (min: 2 paragraphs)
@@ -35,16 +39,32 @@ Game design document that must include all of the following sections:
 
 Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. Turn in link [here](http://tinyurl.com/fa24mile0).
 
-### Milestone 1 (03/12)
+### Milestone 1 
+
+Due October 14th 
+{: .label }
+
 Your MVP must be complete (refer to the [MVP lecture]). Playable prototype of the original pitch. At least two of the core mechanics of your game should be implemented, though no art needs to be in place yet. Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be what you expected.
 
-### Milestone 2 (04/02):
+### Milestone 2 
+
+Due Ocotober 16th
+{: .label }
+
 Alpha Build. All mechanics should be in place/in a testable state. Your general art style should be decided on and you should have a few assets added in. You should have a basic level. This build may have bugs.
 
-### Milestone 3 (04/16):
+### Milestone 3 
+
+Due November 6th
+{: .label }
+
 Beta Build. All levels should be built, and all mechanics should be implemented. A first pass should have been done on all art assets, and they should be in the game. There may be bugs and glitches, but the game should be starting to look like the final product at this point.
 
-### Milestone 4 (04/30):
+### Milestone 4
+
+Due November 20th
+{: .label }
+
 Finished Project. The game should be complete, and in line with the original pitch. It should be playable from start to finish, and mostly bug free. You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30-60 second trailer. If you need help making a trailer, here are a few options and guidelines: [Trailer Guide]
 
 ### GDD Showcase (05/05):
