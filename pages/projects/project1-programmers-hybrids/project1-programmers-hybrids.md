@@ -16,35 +16,44 @@ nav_exclude: true
 {:toc}
 
 ## Overview
-The goal of this project is to familiarize you with Unity, guide you through making a game from start to finish and designing and implementing new aspects into a game. There are two parts to the project. The first is following a tutorial in which you will create the game using videos that will guide you step by step. The second is an open ended section where you build off of part 1. **You only need to do the Part 2 corresponding to your role.**
+The goal of this project is to familiarize you with Unity, guide you through making a game from start to finish and designing and implementing new aspects into a game. There are two parts to the project. The first is following a tutorial in which you will create the game using videos that will guide you step by step. Part 2 is an open ended section, building off of the first part. **You only need to do the Part 2 corresponding to your role.**
 
 ## Part 1: Base Project
 
-**Note**: The tutorials are done in a different version of Unity, but you should do yours in **6000.0.32f1**. The project files have been updated to this version.
+{: .note} 
+> The tutorials are done in a different version of Unity, but you should do yours in **6000.0.49f1**. The project files have been updated to this version.
 
-Select between the two tutorials:
-* 2D Project
+There are two versions of the base project. Please choose **one**, download the Github Project, and follow its corresponding spec instructions. 
+
+1. **2D Project**
     * A top down 2D hack n slash with mechanics similar to the original Legend of Zelda
     * [2D Github Repo]
     * [2D Spec]
-* 3D Project
+2. **3D Project**
     * A first person, 3D platformer and shooter with elemental attacks
     * [3D Github Repo]
     * [3D Playlist] (2.5 - 3 hrs)
 
-Download the projects from Github, unzip the project and complete the tutorials linked in the Youtube Playlist.
+{: .highlight}
+> Project 1 will be graded P/NP. **Part 1** will be graded on completion, based on if the project is completed up to the standard of the video tutorials. **Part 2** will be graded on completion of implementing new mechanics, enemies, item, etc based on the requirements.
 
-## Submission 
+### Submission 
 
-Ensure that your github repo is **private** and invite berkeleyGameDev as a collaborator.
+Ensure that your github repo is **private** and invite <span style="color:blue;">berkeleyGameDev</span> as a collaborator.
 
-The game should be able to be played without compiler errors. If there is an error that prevents the project from being graded, you will be notified after submission and given 24 hours to send corrections so that it is playable. Do not add new content. If we see that there has been new content added, you will receive an **automatic NP grade**. 
+Your base project should be able to be played *without compiler errors*. If there is an error that prevents the project from being graded, you will be notified after submission and given 24 hours to send corrections so that it is playable. 
+
+**Do not add new content.** If we see that there has been new content added in your corrected version, you will receive an **automatic NP grade**. 
 
 After projects have been graded, you will receive feedback on your project. 
 
-[Part 1 Due Thursday, 9/15 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+[Part 1 Due Thursday, 9/18 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
 
-## Part 2: Programmers
+## Part 2
+
+Part 2 is the open-ended portion of Project 1, where you expand on the base game. Since it is **role-specific**, you only need to focus on the assigned tasks for your role. You’ll be graded according to those requirements, but you’re encouraged to explore further if you want to! 
+
+### Programmers 
 * 2D project:
     * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
@@ -55,26 +64,29 @@ After projects have been graded, you will receive feedback on your project.
 * 3D project
     * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
-        * New powerups
+        * New power-ups
         * New UI elements
         * New player attacks
         * New level
 
-## Part 2: Artist Hybrid
-* Make and replace sprites/animations for the following
-    * Character (including animation)
-    * One enemy (including animation)
-    * Tileset
+### Artist  
+* Make and replace sprites and **all** their animations for the following
+    * Character 
+        * Attack (x4)
+        * Idle (x4)
+        * Walk (x4)
+    * One enemy
+    * Entire Tileset
 
-## Part 2: Musician Hybrid
+### Musician  
 * Make and implement music and sound effects into the game, including the following:
     * ~90 seconds of original music
     * 2 original sound effects
 
-## Grading
-Project 1 will be graded P/NP. Part 1 will be graded on completion, based on if the project is completed up to the standard of the video tutorials. Part 2 will be graded on completion of implementing new mechanics, enemies, item, etc based on the requirements.
+{: .highlight}
+> Project 1 will be graded P/NP. **Part 1** will be graded on completion, based on if the project is completed up to the standard of the video tutorials. **Part 2** will be graded on completion of implementing new mechanics, enemies, item, etc based on the requirements.
 
-## Submission 
+### Submission 
 
 For part 2, upload your project to a new Github repo and fill out the respective form.
 
@@ -84,8 +96,6 @@ For part 2, upload your project to a new Github repo and fill out the respective
 
 [Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
 
-
-[Part 2 Submission] is due **09/25 at 11:59 pm**
 
 [2D Github Repo]: https://github.com/berkeleyGamedev/Project-1-2D-2024.git
 [2D Spec]: ../project1-2d-programmers/project1-2d.md
