@@ -41,7 +41,7 @@ To facilitate creating assets, you must determine what your game will be about. 
 |:---:|
 |Mood Board Example|
 
-When you have a solid picture for what you want to create, its time to start your first iteration of assets for the game. Here is a checklist for that is required for your submission. Please feel free to go beyond the requirements. 
+When you have a solid picture for what you want to create, it's time to start your first iteration of assets for the game. Here is a checklist for what is required in your submission. Please feel free to go beyond the requirements. 
 
 1. Environment 
     * This is dependent on what type of game you're creating. Generally speaking, an environment is a space where your character exists. (i.e., battle fields, open world, dungeons,...)
@@ -93,14 +93,14 @@ An art critique is a group discussion where students will be able to give and re
 You will receive a copy of your feedback after class. Since nothing is perfect on the first pass, we expect to see some meaningful changes in Part 2. 
 
 {: .highlight }
-It is *imperative* that you show up for this critique. **Failure to do so may result in a NP grade for Project 1.** Please email staff if any circumstances comes up and prevents you from attending. 
+It is absolutely *imperative* that you show up for this critique. **Failure to do so may result in a NP grade for Project 1.** Please email the staff if any circumstances comes up that prevents you from attending. 
 
 ## Part 2: Revise Assets and Create Animations
 This part of the project is meant to revise your art assets and **create animations** for at least one character. 
 
 <span style="color:blue"> **Part 2 submission deliverables will require you to talk about your animations and explain the changes you made from Part 1.** </span>
 
-You can choose to make additional assets for things that you opted out of in Part 1 (such as UI or enemies). This is optional, but it can make your game art more fleshed out!
+You can choose to make additional assets for game components that you opted out of in Part 1 (such as UI or enemies). This is optional, but it can make your game art more fleshed out!
 
 ### Animation Guidelines
 1. You must create *at least* 3 different animations. 
@@ -110,15 +110,15 @@ You can choose to make additional assets for things that you opted out of in Par
     |:---:|
     |Animation Example|
 
-2. Animations are not limited to one character 
+2. Animations are not limited to one character.
     * You can split up your animations between your characters. 
 
     |![](images/moreanim.gif)|
     |:---:|
     |Animation Example|
 
-3. Do not implement to Unity! 
-    * We are not expecting you to import these assets and animations to a new Unity project. 
+3. **Do not implement to Unity!**
+    * We are not expecting you to import these assets and animations into a new Unity project. 
     * Ensure your animations are in a Gif or video format. 
 
 ### Submission
