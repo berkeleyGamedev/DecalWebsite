@@ -15,6 +15,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+*The following illustrations are made by [Karina Dehtyar](https://www.behance.net/pixeldehtyar).*
+
 ## Overview
 The objective of this project is to allow you to gain experience creating your own art assets and animations. Familiarizing yourself with the game art pipeline will hopefully help with managing time and efficiency with Projects 2 and 3. You will be creating everything from concept art to animations for an *original* game idea. The project will be split up into **two different parts** over a span of two weeks.
 
@@ -83,7 +85,7 @@ When you have a solid picture for what you want to create, its time to start you
 
 Compile your game art assets to a google drive and make sure it is accessible to facilitators. 
 
-[Part 1 Due Thursday, 9/15 @ 6:59 PM.](https://forms.gle/Q5EBmf2dLhVtHRn99){: .btn .btn-purple }
+[Part 1 Due Thursday, 9/15 @ 6:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
 
 ## Art Critique 
 An art critique is a group discussion where students will be able to give and receive feedback on artwork. You will be expected to *present* and discuss your Part 1 submission to your artist peers and art facilitators. 
@@ -123,7 +125,7 @@ You can choose to make additional assets for things that you opted out of in Par
 
 Compile your game art assets and **animations** to a google drive and make sure it is accessible to facilitators. 
 
-[Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://forms.gle/8XKQtpQPueHLehRD6){: .btn .btn-purple }
+[Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
 
 
 ## Resources
