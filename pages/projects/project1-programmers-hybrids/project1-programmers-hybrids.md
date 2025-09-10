@@ -69,6 +69,9 @@ Part 2 is the open-ended portion of Project 1, where you expand on the base game
         * New player attacks
         * New level
 
+{: .note}
+There is no expectation to have new art or animations, however you are allowed to. There are plenty of free sprite assets online. 
+
 ### Artist  
 * Make and replace sprites and **all** their animations for the following
     * Character 

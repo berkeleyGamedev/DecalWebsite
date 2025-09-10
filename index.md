@@ -5,7 +5,7 @@ description: Announcements and Class schedule
 nav_order: 0
 ---
 
-# Game Design and Development Decal Spring 2025
+# Game Design and Development Decal Fall 2025
 
 {: .announcements }   
 > # **Welcome to GDD!** <img src = "assets/announcement/club_penguin.gif" alt = "club" width="50" height="50">
