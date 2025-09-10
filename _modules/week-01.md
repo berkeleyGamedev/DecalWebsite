@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Sept 9
-: **Lecture**{: .label .gdd-blue } Intro to Unity
+: **Lecture**{: .label .gdd-blue } [Intro to Unity]
 : **Lab**{: .label .gdd-yellow }[Lab 1: Intro to Unity]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
@@ -24,5 +24,5 @@ Sept 11
 
 [Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/ 
 
-[Intro to Unity]: https://docs.google.com/presentation/d/1wZFuNQITPRJoUa2i8-fG9tHq-1LKDKsujn648OE9KGg/edit?usp=sharing
-[Game Design]: https://docs.google.com/presentation/d/1JLabu51BfCX23SYAW_y11EFQJpdPpEQfzDpkxY_IKD4/edit?usp=sharing
+[Intro to Unity]: https://docs.google.com/presentation/d/1PJ0L7nqvG6Mbjj7I7lE6QFiuFUJsUL7Np-WYDimYLiA/edit?usp=sharing
+[Game Design]: 
