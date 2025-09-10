@@ -25,4 +25,3 @@ Sept 11
 [Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/ 
 
 [Intro to Unity]: https://docs.google.com/presentation/d/1PJ0L7nqvG6Mbjj7I7lE6QFiuFUJsUL7Np-WYDimYLiA/edit?usp=sharing
-[Game Design]: 
