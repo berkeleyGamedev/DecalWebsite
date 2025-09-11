@@ -279,4 +279,4 @@ You can also redesign the shop, and set up a new layout for it.
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 

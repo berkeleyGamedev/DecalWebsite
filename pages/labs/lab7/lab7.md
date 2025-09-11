@@ -216,7 +216,7 @@ Show your animation window and play your finished animation, which should be mad
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [https://github.com/berkeleyGamedev/AnimationLab]: https://github.com/berkeleyGamedev/AnimationLab
-[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 [https://youtu.be/aBRQT8tvpKs]: https://youtu.be/aBRQT8tvpKs
 
 [Finalparsec]: https://www.finalparsec.com/tools/sprite_sheet_maker 

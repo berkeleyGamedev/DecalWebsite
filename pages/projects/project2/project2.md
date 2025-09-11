@@ -74,6 +74,10 @@ Everyone must fill out the submission form, but only **one person** should submi
 
 [Studio Mini Boss Blog] - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
 
+## Bug Reports
+If you experience any bugs or typos within the project itself, please report it [here!]
+
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 
 
 [Piskel App]: https://www.piskelapp.com/ 

@@ -147,6 +147,11 @@ Compile your game art assets and **animations** to a google drive and make sure 
 
 [Studio Mini Boss Blog] - Awesome pixel art tutorial master page, everything from character design to pretty rocks to animated loops.
 
+## Bug Reports
+If you experience any bugs or typos within the project itself, please report it [here!]
+
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
+
 [Piskel App]: https://www.piskelapp.com/ 
 [Code and Web]: https://www.codeandweb.com/texturepacker
 [Unity 3D Tutorials]: https://unity3d.com/learn/tutorials

@@ -100,6 +100,6 @@ Choose 1 (or more) and create a background that fulfills the checkoff list. You 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 
 [the parallax effect]: https://www.youtube.com/watch?v=z9tBce8eFqE 

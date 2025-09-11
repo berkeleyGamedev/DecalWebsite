@@ -242,7 +242,7 @@ Here are some additional, more challenging tasks if you’d like extra practice 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
-[here!]: https://forms.gle/oiyM6iu3MinHfmNc7 
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 [https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html]: https://docs.unity3d.com/ScriptReference/Physics2D.CircleCast.html
 
 [Lab 2 Repo]: https://github.com/berkeleyGamedev/BasicScriptingLab

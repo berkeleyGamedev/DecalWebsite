@@ -106,6 +106,11 @@ Final course writeup (1 per person):
 * [Reflection Spec]
 * [Reflection Submission]
 
+## Bug Reports
+If you experience any bugs or typos within the project itself, please report it [here!]
+
+[here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
+
 [Game Submission]: https://tinyurl.com/sp25final
 [Reflection Spec]: https://tinyurl.com/sp25refSpec
 [Reflection Submission]: https://tinyurl.com/sp25refSubmit

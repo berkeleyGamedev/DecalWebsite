@@ -54,14 +54,14 @@ After projects have been graded, you will receive feedback on your project.
 Part 2 is the open-ended portion of Project 1, where you expand on the base game. Since it is **role-specific**, you only need to focus on the assigned tasks for your role. You’ll be graded according to those requirements, but you’re encouraged to explore further if you want to! 
 
 ### Programmers 
-* 2D project:
+1. **2D project:**
     * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New items
         * New player abilities
         * New UI elements
         * New Levels
-* 3D project
+2. **3D project**
     * Select 2 or more of the following features from the list below and implement them within your game:
         * New enemies
         * New power-ups
@@ -69,17 +69,15 @@ Part 2 is the open-ended portion of Project 1, where you expand on the base game
         * New player attacks
         * New level
 
-{: .note}
-There is no expectation to have new art or animations, however you are allowed to. There are plenty of free sprite assets online. 
-
 ### Artist  
-* Make and replace sprites and **all** their animations for the following
-    * Character 
-        * Attack (x4)
-        * Idle (x4)
-        * Walk (x4)
-    * One enemy
-    * Entire Tileset
+Replace the existing sprite assets with new ones you created. Be sure to include **all** animations.  
+
+1. Character  
+    * **Animations** (must include all four facing directions): Walk, Idle, and Attack. 
+2.  One enemy
+    * **Animations:** Idle 
+3.  Tileset 
+    * You do **not** need to replace the existing tileset, rather create a new scene and make a new map with the tileset you've created.
 
 ### Musician  
 * Make and implement music and sound effects into the game, including the following:
@@ -99,6 +97,10 @@ For part 2, upload your project to a new Github repo and fill out the respective
 
 [Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
 
+## Bug Reports
+If you experience any bugs or typos within the project itself, please report it [here!]
+
+[here!]: https://forms.gle/JAPYBPsvmKueXjhXA
 
 [2D Github Repo]: https://github.com/berkeleyGamedev/Project-1-2D-2024.git
 [2D Spec]: ../project1-2d-programmers/project1-2d.md
@@ -106,3 +108,4 @@ For part 2, upload your project to a new Github repo and fill out the respective
 [3D Playlist]: https://www.youtube.com/playlist?list=PLkTqf5DBzPsDQDTYorcX8RIcxzVC-sgO6
 [Part 1 Submission]: https://docs.google.com/forms/d/e/1FAIpQLSdN4DVIbdaYsTTjlSQPwwuHfHpFo9nHWLLtRzWQ9AbPBiat-Q/viewform?usp=header
 [Part 2 Submission]: https://docs.google.com/forms/d/e/1FAIpQLSfUiNQ-pmERcYHe4QbO-VoR8bDj9MQ3pkvVG_xiMyQoA1c5aQ/viewform?usp=header
+
