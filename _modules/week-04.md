@@ -10,7 +10,7 @@ Sept 30
 Oct 2
 : **Lecture**{: .label .gdd-blue } Design Docs and MVPs
 
-[User Interfaces]: 
+<!-- [User Interfaces]:  -->
 
 [Design Docs and MVPs]: https://drive.google.com/file/d/1fxQ0rzlHSFVsqxYEvEBSafmvb5o2KdnO/view?usp=sharing
 
