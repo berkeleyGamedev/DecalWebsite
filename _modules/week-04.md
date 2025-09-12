@@ -3,14 +3,14 @@ title: Week 4
 ---
 
 Sept 30
-: **Lecture**{: .label .gdd-blue } Git Tutorial
+: **Lecture**{: .label .gdd-blue }  User Interfaces
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 11: Coroutines] / Artist: [Lab 12: Environment Design]
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
 Oct 2
 : **Lecture**{: .label .gdd-blue } Design Docs and MVPs
 
-[Git Tutorial]: https://docs.google.com/presentation/d/1vNXmh3VyOytHG3j47ZQMGtLGa0-8WUxK5RxDzjIfxHA/edit?usp=sharing
+[User Interfaces]: 
 
 [Design Docs and MVPs]: https://drive.google.com/file/d/1fxQ0rzlHSFVsqxYEvEBSafmvb5o2KdnO/view?usp=sharing
 

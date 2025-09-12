@@ -8,12 +8,12 @@ Sept 23
 : **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
 
 Sept 25
-: **Lecture**{: .label .gdd-blue } User Interfaces
+: **Lecture**{: .label .gdd-blue } Git Tutorial
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 [Game Loops]: https://docs.google.com/presentation/d/16rfxusEsfZ4T8kfmcx1aNzvUWIYoi00tCANsHP45QA8/edit?usp=sharing 
-[User Interfaces]: https://docs.google.com/presentation/d/1YlNotBjsmo2-exoLi9HrqbkvRntvad_NPBGZiEMeY8U/edit?usp=sharing
+[Git Tutorial]: 
 
 [Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
 [Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9
