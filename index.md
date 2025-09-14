@@ -8,7 +8,7 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> <img src = "assets/announcement/peepoPogClimbingTreeHard4House.gif" alt = "club" width="50" height="50"> Welcome back GDD! We hope you all enjoyed the first week of class. We have a lot of **important news** for this week, so listen up! 
+> <img src = "assets/announcement/wave.gif" alt = "club" width="50" height="50"> Welcome back GDD! We hope you all enjoyed the first week of class. We have a lot of **important news** for this week, so listen up! 
 >
 > **Office hours are starting this week!** They will be on **Monday 5:30-6:30PM and Wednesday 8-9PM**. Hop in the voice channel in Discord to get check-offs done or if you need help on anything.
 >
@@ -16,7 +16,7 @@ nav_order: 0
 >>
 > >**Programmers:** You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
 >>
-> **Artists:** Please be aware that the deadline for Part 1 is **BEFORE CLASS and not 11:59❗** That way, we can get in-class art critiques rolling smoothly~
+> **Artists:** Please be aware that the deadline for Part 1 is **BEFORE CLASS and not 11:59!** That way, we can get in-class art critiques rolling smoothly~
 > 
 > ### Tuesday 09/16
 > >Due in class:
