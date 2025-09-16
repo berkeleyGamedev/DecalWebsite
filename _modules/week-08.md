@@ -9,7 +9,7 @@ Oct 28
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
 Oct 30
-: **Project**{: .label .gdd-navy } Work Day
+: **Lecture**{: .label .gdd-blue } Work Day
 
 [Lab 16: Lighting]: ./../pages/labs/lab16/lab16
 
