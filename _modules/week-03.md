@@ -13,7 +13,7 @@ Sept 25
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 [Game Loops]: https://docs.google.com/presentation/d/16rfxusEsfZ4T8kfmcx1aNzvUWIYoi00tCANsHP45QA8/edit?usp=sharing 
-[Git Tutorial]: 
+<!-- [Git Tutorial]:  -->
 
 [Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
 [Lab 9: UI and Layering]: ./../pages/labs/lab9/lab9

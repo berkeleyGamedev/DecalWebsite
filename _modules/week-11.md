@@ -3,7 +3,7 @@ title: Week 11
 ---
 
 Nov 18
-: **Lecture**{: .label .gdd-blue } Work Day
+: **Lecture**{: .label .gdd-blue } 3D Modeling
 : **Reading**{: .label .gdd-brown } [AI in Gaming]
 
 Nov 20

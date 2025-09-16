@@ -8,17 +8,48 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> # **Welcome to GDD!** <img src = "assets/announcement/club_penguin.gif" alt = "club" width="50" height="50">
+> <img src = "assets/announcement/wave.gif" alt = "club" width="50" height="50"> Welcome back GDD! We hope you all enjoyed the first week of class. We have a lot of **important news** for this week, so listen up! 
+>
+> **Office hours are starting this week!** They will be on **Monday 5:30-6:30PM and Wednesday 8-9PM**. Hop in the voice channel in Discord to get check-offs done or if you need help on anything.
+>
+> Reminders for Project 1 for both roles:
+>>
+> >**Programmers:** You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
+>>
+> **Artists:** Please be aware that the deadline for Part 1 is **BEFORE CLASS and not 11:59!** That way, we can get in-class art critiques rolling smoothly~
 > 
-> We’re excited to have you join us this semester! Our first class will be **Tuesday, September 9th at 7:00 PM in Jacobs 10.**
+> ### Tuesday 09/16
+> >Due in class:
+>>
+> >All 💻+🎨 Lab 1: Intro to Unity
+>>
+> >Assigned:
+>>
+> >Programmer 💻 Lab 4: Advanced Scripting *(due 9/23)*
+>>
+> >Artist 🎨 Lab 5: Tilesets *(due 9/23)*
 >
-> Please remember to **bring your laptop**! Have Lab 0 completed so you'll be ready to participate right away. 
->
-> We look forward to meeting you and starting a great semester of game design together!
+> ### Thursday 09/18
+> >Due in class:
+>>
+> >Programmer 💻 Lab 2: Basic Scripting
+>>
+> >Artist 🎨 Lab 3: Pixel Art and Spriting
+>>
+> >**Project 1, Part 1 due by 11:59PM for programmers, BEFORE CLASS for artists!**
+>>
+> >Assigned:
+>>
+> >Programmer 💻 Lab 6: Colliders and Rigidbodies *(due 9/25)*
+>>
+> >Artist 🎨 Lab 7: Animation *(due 9/25)*
+>>
+> >**Project 1, Part 2 due 9/25 at 11:59pm**
+
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1)| 
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2)| 
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 

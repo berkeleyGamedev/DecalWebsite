@@ -3,19 +3,18 @@ title: Week 9
 ---
 
 Nov 4
-: **Lecture**{: .label .gdd-blue } Music and SFX
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
-: **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
+: **Lecture**{: .label .gdd-blue } Accessibility
+: **Lab**{: .label .gdd-yellow }Optional: [Lab 17: Delegates and Events]
+: **Reading**{: .label .gdd-brown }[Accessible Controllers]
 
 Nov 6
 : **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
 
 
-[Music and SFX]: https://docs.google.com/presentation/d/1WZoFc1IEeaQX71Qld3cTw9LpJZWtO7Mz6SHflW88500/edit?usp=sharing
+[Accessibility]: https://cdn.discordapp.com/attachments/433105512675016716/1416994428136067135/IMG_0453.jpg?ex=68c98726&is=68c835a6&hm=eb8947454b5c10cb3eaf64facaeda73b04aeb50fb632a3c5a069f63b801d54d3&
 
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
 
+[Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
 
-[Insightful Playtest Questions]: https://www.gamedeveloper.com/business/10-insightful-playtest-questions  
-
-[Lab 16: Lighting]: ./../pages/labs/lab16/lab16
+[Lab 17: Delegates and Events]: ./../pages/labs/lab17/lab17
