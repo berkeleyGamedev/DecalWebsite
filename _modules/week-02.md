@@ -12,9 +12,9 @@ Sept 18
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 
 
-[Game Art Fundamentals]: https://docs.google.com/presentation/d/1xQdH3qp6pj1s0jeCtjGWRH3NGzpSwyLvZ1zzSQzYry0/edit?usp=sharing
+[Game Art Fundamentals]: https://docs.google.com/presentation/d/1XerEr012hwlqTbO_rSnV_ZAzbZ-Fj3u_Ihd-WbT0D6A/edit?usp=share_link
 
-[Fundamentals of Animation]: https://docs.google.com/presentation/d/1DSOXp2OjayGv85iwT10dmJbvam0uuJjatSg7YMAIlOQ/edit?usp=sharing 
+[Fundamentals of Animation]: https://docs.google.com/presentation/d/1Z6lU-dLIUxSx6aO1Sjodpb_7NIQMScEtIx9uUmpTx8E/edit?usp=share_link
  
 [Lab 4: Advanced Scripting]: ./../pages/labs/lab4/lab4
 [Lab 7: Animation]: ./../pages/labs/lab7/lab7

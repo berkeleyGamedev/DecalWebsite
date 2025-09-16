@@ -37,7 +37,7 @@ Game design document that must include all of the following sections:
 * Schedule
 * Others (optional)
 
-Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. Turn in link [here](http://tinyurl.com/fa24mile0).
+Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. Turn in link [here](https://tinyurl.com/f25mile0dd).
 
 ### Milestone 1 
 
@@ -115,7 +115,7 @@ If you experience any bugs or typos within the project itself, please report it 
 
 [here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 
-[Game Submission]: https://tinyurl.com/sp25final
+[Game Submission]: https://tinyurl.com/f25final
 [Reflection Spec]: https://tinyurl.com/sp25refSpec
-[Reflection Submission]: https://tinyurl.com/sp25refSubmit
+[Reflection Submission]: https://tinyurl.com/f25finalref
 [Trailer Guide]: https://tinyurl.com/gddTrailer
