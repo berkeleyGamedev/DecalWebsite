@@ -4,7 +4,7 @@ title: Week 5
 
 Oct 7
 : **Lecture**{: .label .gdd-blue } Pitch Day
-: **Reading**{: .label .gdd-brown }[How to Write a Good Game Design Document]
+: **Reading**{: .label .gdd-brown }[Effectively Organize with a Game Design Document]
 
 Oct 9
 : **Lecture**{: .label .gdd-blue } Project 2 Showcase
@@ -14,6 +14,6 @@ Oct 9
 [Project 2 Showcase]: https://docs.google.com/presentation/d/16gLK3rRbWZzN8SunlftMyqUsAMK8b8CvDDnf0FFlfT8/edit?usp=sharing -->
 [Project 3: Final]: ./../pages/projects/Projects
 
-[How to Write a Good Game Design Document]: https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545 
+[Effectively Organize with a Game Design Document]: https://code.tutsplus.com/effectively-organize-your-games-development-with-a-game-design-document--active-10140a
 
 [Pitch Day]: https://docs.google.com/presentation/d/1qpeffTg0sfncp_yk8Yrc3Yu06eEEoUwnQnntBe9bviI/edit?usp=drive_link
