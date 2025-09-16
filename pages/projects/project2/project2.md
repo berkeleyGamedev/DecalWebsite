@@ -56,7 +56,7 @@ We will be grading on the amount of effort and time put into the project. This w
 
 Everyone must fill out the submission form, but only **one person** should submit the project files. Invite berkeleyGameDev as a collaborator.
 
-[Project 2 Due Wednesday, 10/1 @ 11:59 PM.](https://tinyurl.com/f25proj2){: .btn .btn-purple }
+[Project 2 Due Thursday, 10/9 @ 11:59 PM.](https://tinyurl.com/f25proj2){: .btn .btn-purple }
 
 ## Resources:
 
