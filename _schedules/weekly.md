@@ -32,7 +32,7 @@ schedule:
     events:
       - name: Lecture
         start: "7:00 PM"
-        end: "8:00 PM"
+        end: "8:30 PM"
         location: "Jacobs 10"
 
   - name: Wednesday
@@ -46,7 +46,7 @@ schedule:
     events:
       - name: Lecture
         start: "7:00 PM"
-        end: "8:00 PM"
+        end: "8:30 PM"
         location: "Jacobs 10"
 
   - name: Friday

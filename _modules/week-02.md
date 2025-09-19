@@ -8,7 +8,7 @@ Sept 16
 : **Reading**{: .label .gdd-brown }[Graphics vs Aesthetics]
 
 Sept 18 
-: **Lecture**{: .label .gdd-blue } Fundamentals of Animation
+: **Lecture**{: .label .gdd-blue } [Fundamentals of Animation]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 
 
