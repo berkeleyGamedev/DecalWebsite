@@ -8,43 +8,13 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> <img src = "assets/announcement/wave.gif" alt = "club" width="50" height="50"> Welcome back GDD! We hope you all enjoyed the first week of class. We have a lot of **important news** for this week, so listen up! 
+> # **⚠️ Important update regarding Projects and Due Dates (9/18 Update) ⚠️**
+> As most of you may know, the power suddenly went out during class this day. To accommodate for these circumstances, we're extending some due dates and announcing some logistics regarding Projects, so **read the following carefully:**
 >
-> **Office hours are starting this week!** They will be on **Monday 5:30-6:30PM and Wednesday 8-9PM**. Hop in the voice channel in Discord to get check-offs done or if you need help on anything.
+> - Checkoffs for Lab 2: Basic Scripting / Lab 3: Pixel Art and Spriting have been extended to **Tuesday (9/23) in-class!**
+> - Artists will now have to do Project 1, Part 2 without finished art critiques. However, if any of you still want art critiques, notify one of the facilitators and we can schedule something for you.
 >
-> Reminders for Project 1 for both roles:
->>
-> >**Programmers:** You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
->>
-> **Artists:** Please be aware that the deadline for Part 1 is **BEFORE CLASS and not 11:59!** That way, we can get in-class art critiques rolling smoothly~
-> 
-> ### Tuesday 09/16
-> >Due in class:
->>
-> >All 💻+🎨 Lab 1: Intro to Unity
->>
-> >Assigned:
->>
-> >Programmer 💻 Lab 4: Advanced Scripting *(due 9/23)*
->>
-> >Artist 🎨 Lab 5: Tilesets *(due 9/23)*
->
-> ### Thursday 09/18
-> >Due in class:
->>
-> >Programmer 💻 Lab 2: Basic Scripting
->>
-> >Artist 🎨 Lab 3: Pixel Art and Spriting
->>
-> >**Project 1, Part 1 due by 11:59PM for programmers, BEFORE CLASS for artists!**
->>
-> >Assigned:
->>
-> >Programmer 💻 Lab 6: Colliders and Rigidbodies *(due 9/25)*
->>
-> >Artist 🎨 Lab 7: Animation *(due 9/25)*
->>
-> >**Project 1, Part 2 due 9/25 at 11:59pm**
+> Finally, the Project 2 group matching form is now out! **FILL OUT THE PROJECT 2 MATCHING FORM ([LINKED HERE](https://docs.google.com/forms/d/e/1FAIpQLSc9hSn3HAVuRzOV2HU10GxF0sLX4D-LXKBwohsySccs8duMZQ/viewform?usp=sharing&ouid=113673515578318920455)) TO RECEIVE ATTENDANCE FOR CLASS ON 9/18** (the form is due by Tuesday 9/23)
 
 
 
