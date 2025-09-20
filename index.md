@@ -12,6 +12,7 @@ nav_order: 0
 > As most of you may know, the power suddenly went out during class this day. To accommodate for these circumstances, we're extending some due dates and announcing some logistics regarding Projects, so **read the following carefully:**
 >
 > - Checkoffs for Lab 2: Basic Scripting / Lab 3: Pixel Art and Spriting have been extended to **Tuesday (9/23) in-class!**
+> - Reminder for Project 1 Part 1 (due to some confusion): to submit, you must fill out the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdNIkpJ-CN0puSWmZxeZTt_7MyMPaqGwyhKtEUUw3Aody0nnA/viewform) (all submission forms for projects are linked in the respective project spec.) If you have completed project 1 part 1 but forgot to submit the form, please do as soon as possible! 
 > - Artists will now have to do Project 1, Part 2 without finished art critiques. However, if any of you still want art critiques, notify one of the facilitators and we can schedule something for you.
 >
 > Finally, the Project 2 group matching form is now out! **FILL OUT THE PROJECT 2 MATCHING FORM ([LINKED HERE](https://docs.google.com/forms/d/e/1FAIpQLSc9hSn3HAVuRzOV2HU10GxF0sLX4D-LXKBwohsySccs8duMZQ/viewform?usp=sharing&ouid=113673515578318920455)) TO RECEIVE ATTENDANCE FOR CLASS ON 9/18** (the form is due by Tuesday 9/23)
