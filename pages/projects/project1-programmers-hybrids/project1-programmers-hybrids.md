@@ -91,7 +91,7 @@ Replace the existing sprite assets with new ones you created. Be sure to include
 
 ### Submission 
 
-For part 2, upload your project to a new Github repo and fill out the respective form.
+To submit your project for part 2, **upload your project to a new Github repo** and **fill out the respective form** by clicking the button below.
 
 **Part 2 Due Thursday, 9/25 @ 11:59 PM.**
 
