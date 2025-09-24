@@ -934,6 +934,21 @@ Functions to modify:
 
 Give yourself a pat on the back! You have a super mega epic video game of the year triple AAA worthy in your hands!!! Upload your project onto a respository, fill out the Project 1 form on the Decal website, and go take a breather. The facilitator team grants you permission to do so.
 
+### Submission 
+
+Ensure that your github repo is **private** and invite <span style="color:blue;">berkeleyGameDev</span> as a collaborator.
+
+Your base project should be able to be played *without compiler errors*. If there is an error that prevents the project from being graded, you will be notified after submission and given 24 hours to send corrections so that it is playable. 
+
+**Do not add new content.** If we see that there has been new content added in your corrected version, you will receive an **automatic NP grade**. 
+
+After projects have been graded, you will receive feedback on your project. 
+
+**Part 1 Due Thursday, 9/18 @ 6:59 PM.**
+
+[SUBMIT PART 1 HERE!](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+
+
 ## Bug Reports
 
 If you find any bugs or typos within the project, please report it [here!]
