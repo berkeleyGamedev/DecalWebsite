@@ -47,6 +47,8 @@ Your base project should be able to be played *without compiler errors*. If ther
 
 After projects have been graded, you will receive feedback on your project. 
 
+To submit your project for part 1, **upload your project to a new Github repo** and **fill out the respective form** by clicking the button below.
+
 [Part 1 Due Thursday, 9/18 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
 
 ## Part 2
@@ -89,7 +91,7 @@ Replace the existing sprite assets with new ones you created. Be sure to include
 
 ### Submission 
 
-For part 2, upload your project to a new Github repo and fill out the respective form.
+To submit your project for part 2, **upload your project to a new Github repo** and **fill out the respective form** by clicking the button below.
 
 [Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
 
