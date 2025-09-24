@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Course Info
 
-**Time**: Tuesday & Thursday 7:00PM - 8:00PM
+**Time**: Tuesday & Thursday 7:00PM - 8:30PM
 
 **Location**: Jacobs 10
 

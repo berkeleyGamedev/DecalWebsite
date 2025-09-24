@@ -8,48 +8,48 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> <img src = "assets/announcement/wave.gif" alt = "club" width="50" height="50"> Welcome back GDD! We hope you all enjoyed the first week of class. We have a lot of **important news** for this week, so listen up! 
+> Welcome to Week 3. This week’s announcements also contain the **important updates after 9/18’s class!** ⚠️ If you're not up to speed, better read the announcements carefully!
 >
-> **Office hours are starting this week!** They will be on **Monday 5:30-6:30PM and Wednesday 8-9PM**. Hop in the voice channel in Discord to get check-offs done or if you need help on anything.
+> As most of you may know, the power suddenly went out during class this day. To accommodate for these circumstances, we have made some changes:
 >
-> Reminders for Project 1 for both roles:
->>
-> >**Programmers:** You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
->>
-> **Artists:** Please be aware that the deadline for Part 1 is **BEFORE CLASS and not 11:59!** That way, we can get in-class art critiques rolling smoothly~
-> 
-> ### Tuesday 09/16
-> >Due in class:
->>
-> >All 💻+🎨 Lab 1: Intro to Unity
->>
-> >Assigned:
->>
-> >Programmer 💻 Lab 4: Advanced Scripting *(due 9/23)*
->>
-> >Artist 🎨 Lab 5: Tilesets *(due 9/23)*
+> - Checkoffs for Lab 2: Basic Scripting / Lab 3: Pixel Art and Spriting have been extended to **Tuesday (9/23) in-class!**
+> - Artists will now have to do Project 1, Part 2 without finished art critiques. However, if any of you still want art critiques, notify one of the facilitators and we can schedule something for you.
 >
-> ### Thursday 09/18
-> >Due in class:
+> The Project 2 group matching form is now out! **FILL OUT THE PROJECT 2 MATCHING FORM ([LINKED HERE](https://docs.google.com/forms/d/e/1FAIpQLSc9hSn3HAVuRzOV2HU10GxF0sLX4D-LXKBwohsySccs8duMZQ/viewform?usp=sharing&ouid=113673515578318920455))!** Filling out the form will also count as **attendance for 9/18's class,** so please fill it out! (Form is due by Tuesday 9/23)
+>
+> ### Tuesday 09/23
+> >__Due in class:__
 >>
-> >Programmer 💻 Lab 2: Basic Scripting
+> >Programmer 💻 Lab 2: Basic Scripting*, Lab 4: Advanced Scripting
 >>
-> >Artist 🎨 Lab 3: Pixel Art and Spriting
+> >Artist 🎨 Lab 3: Pixel Art and Spriting*, Lab 5: Tilesets
 >>
-> >**Project 1, Part 1 due by 11:59PM for programmers, BEFORE CLASS for artists!**
+> >__Assigned:__
 >>
-> >Assigned:
+> >All 💻+🎨 Lab 8: Animator and Blend Trees *(due 9/30)*
+>
+> ### Thursday 09/25
+> >__Due in class:__
 >>
-> >Programmer 💻 Lab 6: Colliders and Rigidbodies *(due 9/25)*
+> >Programmer 💻 Lab 6: Colliders and Rigidbodies
 >>
-> >Artist 🎨 Lab 7: Animation *(due 9/25)*
+> >Artist 🎨 Lab 7: Animation
 >>
-> >**Project 1, Part 2 due 9/25 at 11:59pm**
-
+> >*Project 1, Part 2 due by 11:59PM!*
+>>
+> >__Assigned:__
+>>
+> >Programmer 💻 Lab 9: UI and Layering *(due 10/2)*
+>>
+> >Artist 🎨 Lab 10: UI Asset Creation *(due 10/2)*
+>>
+> >*Project 2 is assigned, and due 10/9 at 11:59pm*
+>
+>*(due to power outage 🔌)
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2)| 
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3)| 
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
