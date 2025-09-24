@@ -85,7 +85,9 @@ When you have a solid picture for what you want to create, it's time to start yo
 
 Compile your game art assets to a google drive and make sure it is accessible to facilitators. 
 
-[Part 1 Due Thursday, 9/18 @ 6:59 PM.](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+**Part 1 Due Thursday, 9/18 @ 6:59 PM.**
+
+[SUBMIT PART 1 HERE!](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
 
 ## Art Critique 
 An art critique is a group discussion where students will be able to give and receive feedback on artwork. You will be expected to *present* and discuss your Part 1 submission to your artist peers and art facilitators. 
@@ -125,7 +127,9 @@ You can choose to make additional assets for game components that you opted out 
 
 Compile your game art assets and **animations** to a google drive and make sure it is accessible to facilitators. 
 
-[Part 2 Due Thursday, 9/25 @ 11:59 PM.](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
+**Part 2 Due Thursday, 9/25 @ 11:59 PM.** 
+
+[SUBMIT PART 2 HERE](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
 
 **Optional**: Please take the time to fill out a feedback form. Tell us what worked and what didn't. The team would love to hear back from you! 
 
