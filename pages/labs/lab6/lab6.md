@@ -150,7 +150,7 @@ Upon completion of this lab, you should understand how to use the Rigidbody2D pr
         ![](images/gravity.png)
 
 4. Activate **Bob the Ball** by clicking the same box that we selected to deactivate it earlier.
-5. Adjust the Gravity Scales for both the ball and the robot so that the ball ends up in the bottom right corner of the box and the robot ends up in the goal zone on the ceiling.
+5. Adjust the Gravity Scales for both the ball and the robot so that the ball ends up in the box and the robot ends up in the goal zone on the ceiling.
 6. **Save this Scene before moving onto the next task.**
 
 ### Task 5
