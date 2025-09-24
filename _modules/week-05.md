@@ -3,11 +3,12 @@ title: Week 5
 ---
 
 Oct 7
-: **Lecture**{: .label .gdd-blue } Pitch Day
+: **Lecture**{: .label .gdd-blue } 3D Modeling
+: **Lecture**{: .label .gdd-blue } Project 2 Showcase
 : **Reading**{: .label .gdd-brown }[Effectively Organize with a Game Design Document]
 
 Oct 9
-: **Lecture**{: .label .gdd-blue } Project 2 Showcase
+: **Lecture**{: .label .gdd-blue } Pitch Day
 : **Project**{: .label .gdd-navy }[Project 3: Final]
 
 <!-- [Pitch Day]: https://docs.google.com/presentation/d/1vaz1Q_YqXOGP_fpGI7Wtqqe6-YCmiCaYQ6I3eptQkYo/edit?usp=sharing

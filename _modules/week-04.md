@@ -6,7 +6,6 @@ Sept 30
 : **Lecture**{: .label .gdd-blue }  User Interfaces
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 11: Coroutines] / Artist: [Lab 12: Environment Design]
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
-: **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 Oct 2
 : **Lecture**{: .label .gdd-blue } Design Docs and MVPs

@@ -10,6 +10,7 @@ Sept 23
 Sept 25
 : **Lecture**{: .label .gdd-blue } Git Tutorial
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
+: **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 [Game Loops]: https://docs.google.com/presentation/d/16rfxusEsfZ4T8kfmcx1aNzvUWIYoi00tCANsHP45QA8/edit?usp=sharing 
 <!-- [Git Tutorial]:  -->
