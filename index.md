@@ -8,14 +8,8 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> Welcome to Week 3. This week’s announcements also contain the **important updates after 9/18’s class!** ⚠️ If you're not up to speed, better read the announcements carefully!
->
-> As most of you may know, the power suddenly went out during class this day. To accommodate for these circumstances, we have made some changes:
->
-> - Checkoffs for Lab 2: Basic Scripting / Lab 3: Pixel Art and Spriting have been extended to **Tuesday (9/23) in-class!**
-> - Artists will now have to do Project 1, Part 2 without finished art critiques. However, if any of you still want art critiques, notify one of the facilitators and we can schedule something for you.
->
-> The Project 2 group matching form is now out! **FILL OUT THE PROJECT 2 MATCHING FORM ([LINKED HERE](https://docs.google.com/forms/d/e/1FAIpQLSc9hSn3HAVuRzOV2HU10GxF0sLX4D-LXKBwohsySccs8duMZQ/viewform?usp=sharing&ouid=113673515578318920455))!** Filling out the form will also count as **attendance for 9/18's class,** so please fill it out! (Form is due by Tuesday 9/23)
+> **The Project 2 GROUPS are NOW OUT! ([CHECK YOUR GROUP HERE](https://docs.google.com/spreadsheets/d/1WMcV7qOyGGR7Lwv0gmNfc7ozFPMMPhNPrcsTigwAOqU/edit?usp=sharing))!**
+> ## The theme is: **LOOP**
 >
 > ### Tuesday 09/23
 > >__Due in class:__
