@@ -9,6 +9,9 @@ Oct 21
 
 Oct 23
 : **Lecture**{: .label .gdd-blue } Work Day
+: **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
+
+[Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
 
 [Game Feel]:https://docs.google.com/presentation/d/1m3b50RvOGrwETjx0Kiy_1kIVYGfu2axHTaktSOUv8_4/edit?usp=sharing
 
