@@ -8,38 +8,19 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> **The Project 2 GROUPS are NOW OUT! ([CHECK YOUR GROUP HERE](https://docs.google.com/spreadsheets/d/1WMcV7qOyGGR7Lwv0gmNfc7ozFPMMPhNPrcsTigwAOqU/edit?usp=sharing))!**
-> ## The theme is: **LOOP**
+> Welcome back to Week 4, GDD!
 >
-> ### Tuesday 09/23
-> >__Due in class:__
->>
-> >Programmer 💻 Lab 2: Basic Scripting*, Lab 4: Advanced Scripting
->>
-> >Artist 🎨 Lab 3: Pixel Art and Spriting*, Lab 5: Tilesets
->>
-> >__Assigned:__
->>
-> >All 💻+🎨 Lab 8: Animator and Blend Trees *(due 9/30)*
+> The Project 2 GROUPS are NOW OUT! **([CHECK YOUR GROUP HERE](https://docs.google.com/spreadsheets/d/1WMcV7qOyGGR7Lwv0gmNfc7ozFPMMPhNPrcsTigwAOqU/edit?usp=sharing))!**
 >
-> ### Thursday 09/25
-> >__Due in class:__
->>
-> >Programmer 💻 Lab 6: Colliders and Rigidbodies
->>
-> >Artist 🎨 Lab 7: Animation
->>
-> >*Project 1, Part 2 due by 11:59PM!*
->>
-> >__Assigned:__
->>
-> >Programmer 💻 Lab 9: UI and Layering *(due 10/2)*
->>
-> >Artist 🎨 Lab 10: UI Asset Creation *(due 10/2)*
->>
-> >*Project 2 is assigned, and due 10/9 at 11:59pm*
+> **<img src = "assets/announcement/bluegreen.gif" alt = "club" width="50" height="50">  The Project 2 theme is: LOOP  <img src = "assets/announcement/pinkyellow.gif" alt = "club" width="50" height="50">**
 >
->*(due to power outage 🔌)
+> Tuesday’s lab is the last required lab for the semester! The rest of the assignments in the semester will consist of optional labs and projects (including the fabled Project 3 😨). Congratulations on all of your hard work so far!
+>
+> |**Date**|**Due**|**Assigned**|
+> |Tuesday (9/30)| **ALL**: Lab 8: Animator and Blend Trees | _Due 10/7 in class:_ <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design |
+> |Thursday (10/2)| **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2 is due at 11:59pm!** | NONE! 🎉 |
+> 
+>
 
 
 | -------- |
