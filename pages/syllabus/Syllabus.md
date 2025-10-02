@@ -107,9 +107,9 @@ Project 1 and 2:
 
 Project 3 (Per milestone):
 
-- Mentor evaluation: 40% of project 3 grade, 24% of overall grade
-- Peer evaluations: 40% of project 3 grade, 24% of overall grade
-- Project score: 20% of project 3 grade, 12% of overall grade
+- Mentor evaluation: 40% of project 3 grade, 16% of overall grade
+- Peer evaluations: 40% of project 3 grade, 16% of overall grade
+- Project score: 20% of project 3 grade, 8% of overall grade
   - Project score is based on progress made, not percentage of pitch completed.
 
 Grades will not be readily available until the end of the semester due to the timing and weight of assignments. Students who are not doing well will be notified and worked with accordingly.

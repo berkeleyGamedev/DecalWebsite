@@ -105,3 +105,15 @@ body {
 .gdd-navy {
   background-color: #29528c !important;
 }
+
+/* Darker borders + more padding for tables */
+table,
+th,
+td {
+  border: 2px solid #909090;
+  /* makes cell borders darker */
+  padding: 10px;
+  /* more breathing room inside cells */
+  border-collapse: collapse;
+  /* cleaner grid */
+}
