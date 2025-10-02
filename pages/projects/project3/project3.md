@@ -15,10 +15,12 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-## Overview
+## Overview 
 For the final project you will be working in teams of 3-5 for the rest of the semester to make a game based on your original pitches. A facilitator will be assigned to your team to help guide your team so that the final version is as wonderful as possible.
 
-## Milestones
+Milestones 
+{: .fs-6 }
+
 The timeline from here until the end of the semester is broken up into a series of milestones - 1 every 1-3 weeks. At each milestone, your team will showcase your game and have your game be playtested. Each playtest will require a set of questions that you want playtesters to answer. Between each milestone your team will update its mentor and the mentor will provide feedback and assistance based on the game’s progress. One of your earliest tasks is to coordinate as a team and come up with a schedule to meet these deadlines.
 
 ### Milestone 0 
