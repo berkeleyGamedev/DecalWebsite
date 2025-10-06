@@ -8,23 +8,25 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> Welcome back to Week 4, GDD!
+> Welcome to Week 5, the beginning of a new era!
 >
-> The Project 2 GROUPS are NOW OUT! **([CHECK YOUR GROUP HERE](https://docs.google.com/spreadsheets/d/1WMcV7qOyGGR7Lwv0gmNfc7ozFPMMPhNPrcsTigwAOqU/edit?usp=sharing))!**
+> Congratulations on finishing your Project 2’s in such a short amount of time! You will get to show off the hard work you did at the **Project 2 Showcase on Tuesday**, so please show up! 
 >
-> **<img src = "assets/announcement/bluegreen.gif" alt = "club" width="50" height="50">  The Project 2 theme is: LOOP  <img src = "assets/announcement/pinkyellow.gif" alt = "club" width="50" height="50">**
+> Moving on to the next and final project of the semester, **Project 3 Pitch Day** will happen on Thursday! To prepare, everyone must [fill out the Pitch Day Submission Form](https://tinyurl.com/f25pitch) before Thursday’s class. (More details to follow.)
 >
-> Tuesday’s lab is the last required lab for the semester! The rest of the assignments in the semester will consist of optional labs and projects (including the fabled Project 3 😨). Congratulations on all of your hard work so far!
+> Additionally, we will **no longer have office hours starting this week** as we are done with labs 😔 Thank you all who came out and entertained us.
+>
+> Finally, **Our first Industry Speaker Event** is prepared! Come join **Dave Oshry’s talk on October 10th, 7-9PM** to hear words of wisdom from a CEO of 10+ years! Find more details in the Discord announcement.
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (9/30)| **ALL**: Lab 8: Animator and Blend Trees | _Due 10/7 in class:_ <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design |
-> |Thursday (10/2)| **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2 is due at 11:59pm!** | NONE! 🎉 |
+> |Tuesday (10/7)| **Project 2 Showcase in class!** <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design | None! |
+> |Thursday (10/9)| **Project 3 Pitch Day!** <br> **ALL:** Project 3 Pitch Form | None! |
 > 
 >
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
