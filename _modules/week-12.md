@@ -9,6 +9,6 @@ Nov 25
 <!-- Nov 27
 : **Lecture**{: .label .gdd-blue } Guest Lecture -->
 
-[Tutorial Design]: https://code.tutsplus.com/4-ways-to-teach-your-players-how-to-play-your-game--cms-22719t
+[Tutorial Designs]: https://code.tutsplus.com/4-ways-to-teach-your-players-how-to-play-your-game--cms-22719t
 
 
