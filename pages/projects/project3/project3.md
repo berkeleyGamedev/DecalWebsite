@@ -32,7 +32,7 @@ For reference:
 
 | Milestone | Due Date | Requirements |
 |:-----------:|:----------:|:--------------|
-| Milestone 0: <br> **Design Doc** | **Oct 16th** | Game design document that must include all of the following sections:<br>• Objective (max: 3 sentences)<br>• Description (min: 2 paragraphs)<br>• Mechanics (min: 3 mechanics)<br>• Genre/Platform (max: 3 sentences)<br>• Aesthetics (min: 1 paragraph)<br>• Feature List (seven to fifteen features)<br>• Division of Tasks<br>• Schedule<br>• Others (optional)<br><br>Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume.<br><br>[SUBMIT HERE](https://tinyurl.com/f25mile0dd){: .btn .btn-purple} |
+| Milestone 0: <br> **Design Doc** | **Oct 16th** | Game [design document] that must include all of the following sections:<br>• Objective (max: 3 sentences)<br>• Description (min: 2 paragraphs)<br>• Mechanics (min: 3 mechanics)<br>• Genre/Platform (max: 3 sentences)<br>• Aesthetics (min: 1 paragraph)<br>• Feature List (seven to fifteen features)<br>• Division of Tasks<br>• Schedule<br>• Others (optional)<br><br>Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. <br><br>[SUBMIT HERE](https://tinyurl.com/f25mile0dd){: .btn .btn-purple} |
 | Milestone 1: <br> **MVP** | **Oct 23th** | Your MVP must be complete (refer to the [MVP] lecture). Playable prototype of the original pitch. <br>• At least two of the core mechanics implemented<br>• No art needs to be in place yet <br> <br> Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be what you expected. |
 | Milestone 2: <br> **Alpha Build** | **Nov 6th** | • All mechanics should be in place/in a testable state. <br>• Your general art style should be decided on <br>• A few assets added in <br>• You should have a basic level <br> **This build may have bugs.** |
 | Milestone 3: <br> **Beta Build** | **Nov 20th** | • **All levels should be built** <br>• **All mechanics should be implemented** <br>• A first pass should have been done on all art assets, and they should be in the game <br> <br> There may be bugs and glitches, but the game should be starting to look like the final product at this point. |
@@ -101,3 +101,5 @@ If you experience any bugs or typos within the project itself, please report it 
 [Trailer Guide]: https://tinyurl.com/gddTrailer
 [MVP]: https://docs.google.com/presentation/d/1YyqXXky2oNlxi8GU02GzaoJ_eIE7t1mvDoJcBMQmjFU/edit?usp=share_link
 [template]: https://docs.google.com/presentation/d/1KinR_DaVAWfIWviBe5npctMqJ4JJJlmPzSqgktCq43g/edit?usp=sharing
+
+[design document]: https://docs.google.com/document/d/1A-8J30XsRUKz00HI61uEuSMYknEjsni4UhWr1U8gYRQ/edit?usp=sharing
