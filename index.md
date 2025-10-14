@@ -13,8 +13,6 @@ nav_order: 0
 > Your Project 3 teams will be announced soon! If you have not already, **DO [THIS PITCH INTEREST FORM](https://forms.gle/VYydUFPfuiDTXzPt5) NOW!** ([List of pitches here](https://docs.google.com/document/d/17AX2gyBsEI0majOD85dtexYJBTIcHw9Ka5SLZAxZbQ0/edit?usp=drive_web&ouid=112129111954821211473))
 >
 > This week begins a string of optional labs. These are solely for those interested in learning more, and **don’t** need to get checked off. <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
-> 
-> The **Industry Speaker Event** is on **Monday, October 13th, 8PM**! Come listen to CEO of New Blood Dave Oshry speak his wisdom (+this is your chance to flex)! Find more details in the Discord announcement.
 >
 > |**Date**|**Due**|**Assigned**|
 > |Tuesday (10/14)| None! | OPTIONAL: Lab 13 <br> **Project 3 Milestone 0 (due 10/16 (this Thursday!))** |
