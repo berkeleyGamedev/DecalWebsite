@@ -8,25 +8,22 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> Welcome to Week 5, the beginning of a new era!
+> This week is the beginning of what you all have been waiting for... **Project 3!** 👀
+> 
+> Your Project 3 teams will be announced soon! If you have not already, **DO [THIS PITCH INTEREST FORM](https://forms.gle/VYydUFPfuiDTXzPt5) NOW!** ([List of pitches here](https://docs.google.com/document/d/17AX2gyBsEI0majOD85dtexYJBTIcHw9Ka5SLZAxZbQ0/edit?usp=drive_web&ouid=112129111954821211473))
 >
-> Congratulations on finishing your Project 2’s in such a short amount of time! You will get to show off the hard work you did at the **Project 2 Showcase on Tuesday**, so please show up! 
->
-> Moving on to the next and final project of the semester, **Project 3 Pitch Day** will happen on Thursday! To prepare, everyone must [fill out the Pitch Day Submission Form](https://tinyurl.com/f25pitch) before Thursday’s class. (More details to follow.)
->
-> Additionally, we will **no longer have office hours starting this week** as we are done with labs 😔 Thank you all who came out and entertained us.
->
-> Finally, **Our first Industry Speaker Event** is prepared! Come join **Dave Oshry’s talk on October 10th, 7-9PM** to hear words of wisdom from a CEO of 10+ years! Find more details in the Discord announcement.
+> This week begins a string of optional labs. These are solely for those interested in learning more, and **don’t** need to get checked off. <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
+> 
+> The **Industry Speaker Event** is on **Monday, October 13th, 8PM**! Come listen to CEO of New Blood Dave Oshry speak his wisdom (+this is your chance to flex)! Find more details in the Discord announcement.
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (10/7)| **Project 2 Showcase in class!** <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design | None! |
-> |Thursday (10/9)| **Project 3 Pitch Day!** <br> **ALL:** Project 3 Pitch Form | None! |
+> |Tuesday (10/14)| None! | OPTIONAL: Lab 13 <br> **Project 3 Milestone 0 (due 10/16 (this Thursday!))** |
+> |Thursday (10/16)| **Project 3 Milestone 0** | OPTIONAL: Lab 14 <br> **Project 3 Milestone 1 (due 10/24)** |
 > 
->
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
