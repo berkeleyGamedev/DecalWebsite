@@ -8,20 +8,22 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> This week is the beginning of what you all have been waiting for... **Project 3!** 👀
-> 
-> Your Project 3 teams will be announced soon! If you have not already, **DO [THIS PITCH INTEREST FORM](https://forms.gle/VYydUFPfuiDTXzPt5) NOW!** ([List of pitches here](https://docs.google.com/document/d/17AX2gyBsEI0majOD85dtexYJBTIcHw9Ka5SLZAxZbQ0/edit?usp=drive_web&ouid=112129111954821211473))
+> Happy Halloween Week! 🎃
 >
-> This week begins a string of optional labs. These are solely for those interested in learning more, and **don’t** need to get checked off. <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
+> I hope you all had fun getting the first glimpses at each other’s Project 3s during the MVP Playtest last Thursday! 
+>
+> There are no milestones this week (woohoo!), but the Alpha Playtest is coming around the corner **next week!** Take this week to **get work done!**
+>
+> As Project 3 continues, remember that you must fill out your **progress reports every week!** The report doesn't need to be high-effort—just a couple sentences/bullet points along with some image(s) is plenty, as long as you show your contribution + goals.
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (10/14)| None! | OPTIONAL: Lab 13 <br> **Project 3 Milestone 0 (due 10/16 (this Thursday!))** |
-> |Thursday (10/16)| **Project 3 Milestone 0** | OPTIONAL: Lab 14 <br> **Project 3 Milestone 1 (due 10/24)** |
+> |Tuesday (10/28)| None! | OPTIONAL: Lab 16 |
+> |Thursday (10/30)| None! | None! |
 > 
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
