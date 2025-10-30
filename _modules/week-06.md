@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Oct 14
-: **Lecture**{: .label .gdd-blue } Work Day
+: **Lecture**{: .label .gdd-blue } [Work Day]
 : **Lab**{: .label .gdd-yellow } Optional: [Lab 13: Transitioning, Saving and Building]
 : **Project**{: .label .gdd-navy }[Project 3: Final]
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
@@ -13,8 +13,7 @@ Oct 16
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 : **Project**{: .label .gdd-navy } [Milestone 0: Game Design Doc]
 
-[Work Day]: https://docs.google.com/presentation/d/134ed12Z_He_NzoOFaq3FVqIYG_UBFjaeMBw-LTorsAM/edit?usp=sharing
-[Tutorial + Level Design]: https://docs.google.com/presentation/d/1aK37EimUl3oVzollVlF9DuLGpuQ4SjBj0VqyzWuGxpk/edit?usp=sharing
+[Work Day]: https://docs.google.com/presentation/d/1R9bQmwpgBpIGpopn7Eg89hOtoxWg6_1DDjOETC2tBRE/edit?usp=sharing
 
 [Lab 13: Transitioning, Saving and Building]: ./../pages/labs/lab13/lab13
 [Lab 14: 3D Rigging, Skinning, and Animation]: ./../pages/labs/lab14/lab14
