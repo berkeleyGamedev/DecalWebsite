@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Nov 25
-: **Lecture**{: .label .gdd-blue } Work Day
+: **Lecture**{: .label .gdd-blue } Accessibility
 : **Reading**{: .label .gdd-brown } [Tutorial Designs]
 
 <!-- Nov 27

@@ -8,18 +8,14 @@ nav_order: 0
 # Game Design and Development Decal Fall 2025
 
 {: .announcements }   
-> The **Project 3 Beta Playtest** is happening **THIS THURSDAY!** Consult the Project 3 spec for details, but in general this means *all levels and mechanics should be in place, along with most art assets!* Work hard and get your Projects prepared for your next big milestone! 💪
+> Happy Thanksgiving/Friendsgiving week! To truly express our thanks, **there is no class this week!!** 🎊
 >
-> As Project 3 continues, remember that you must fill out your **progress reports every week!** The report doesn't need to be high-effort—just a couple sentences/bullet points along with some image(s) is plenty, as long as you show your contribution + goals.
->
-> |**Date**|**Due**|**Assigned**|
-> |Tuesday (11/11)| None | None |
-> |Thursday (11/13)| Project 3, Milestone 3 (have ready BEFORE class) | FINISHED PROJECT 3 (Milestone 4)‼️ (due 12/4) |
+> However, there is still an optional, recorded lecture on Tuesday on Accessibility (postponed from before). Although optional, watching it and filling out the attendance form as usual will grant an extra attendance drop (from 2 to 3).
 > 
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 

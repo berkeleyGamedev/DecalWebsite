@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Nov 4
-: **Lecture**{: .label .gdd-blue } Accessibility
+: **Lecture**{: .label .gdd-blue } Work Day
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 17: Delegates and Events]
 : **Reading**{: .label .gdd-brown }[Accessible Controllers]
 
