@@ -10,8 +10,10 @@ nav_order: 0
 {: .announcements }   
 > Happy Thanksgiving/Friendsgiving week! To truly express our thanks, **there is no class this week!!** 🎊
 >
-> However, there is still an optional, recorded lecture on Tuesday on Accessibility (postponed from before). Although optional, watching it and filling out the attendance form as usual will grant an extra attendance drop (from 2 to 3).
-> 
+> However, there is still an optional, recorded lecture on Tuesday on Accessibility (postponed from before). Although optional, watching it and filling out the attendance form as usual will grant an extra attendance drop (from 2 to 3). The deadline for the form is **by next Tuesday (12/2)**!
+>
+> [Click here for the lecture recording](https://drive.google.com/file/d/1eUBwnh7bNIbQbm_GpRhMsdO2woCvuBuT/view?usp=drive_link) 
+>
 
 
 | -------- |
