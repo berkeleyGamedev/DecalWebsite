@@ -5,19 +5,16 @@ description: Announcements and Class schedule
 nav_order: 0
 ---
 
-# Game Design and Development Decal Fall 2025
+# Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Happy Thanksgiving/Friendsgiving week! To truly express our thanks, **there is no class this week!!** 🎊
->
-> However, there is still an **optional, recorded** lecture on Tuesday on Accessibility (postponed from before). Although optional, watching it and filling out the attendance form as usual will grant an **extra attendance drop** (from 2 to 3). For those interested, the deadline for the form is **by next Tuesday (12/2)**!
->
-> [Click here for the lecture recording](https://drive.google.com/file/d/1eUBwnh7bNIbQbm_GpRhMsdO2woCvuBuT/view?usp=drive_link) 
->
+> <img src="assets/announcement/snowman.gif" width="300" height="150"/>
+> <br>
+> Have a great winter break! See you in Spring! 
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12)|
+| Jump to Week: [0](#week-0)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
