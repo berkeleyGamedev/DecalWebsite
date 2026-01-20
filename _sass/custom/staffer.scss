@@ -28,7 +28,7 @@
   }
 
   .staffer-pronouns {
-    @extend .label, .text-grey-dk-300, .bg-grey-lt-000;
+    @extend .label, .text-grey-dk-300, .bg-grey-lt-000, .gdd-blue;
 
     user-select: none;
   }
@@ -94,6 +94,3 @@
   transform: scale(1.03);
 }
 
-.staffer:hover .staffer-image-wrapper .img-default {
-  opacity: 0;
-}
