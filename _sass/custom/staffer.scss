@@ -64,3 +64,36 @@
     width: 100px;
   }
 }
+
+.staffer-image-wrapper {
+  position: relative;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: $sp-4;
+  width: 100px;
+  height: 100px;
+}
+
+.staffer-image-wrapper .staffer-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.staffer-image-wrapper .img-default {
+  opacity: 1;
+}
+
+.staffer-image-wrapper .img-hover {
+  opacity: 0;
+}
+
+.staffer:hover .staffer-image-wrapper .img-hover {
+  opacity: 1;
+  transform: scale(1.03);
+}
+
+.staffer:hover .staffer-image-wrapper .img-default {
+  opacity: 0;
+}
