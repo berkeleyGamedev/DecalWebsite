@@ -8,9 +8,19 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> <img src="assets/announcement/snowman.gif" width="300" height="150"/>
+> <h1>Welcome back!<img src = "assets/announcement/wave.gif" width=50></h1>
+> 
+> <h3>Our Spring 26 Decal Applications are now open! </h3>
+> <br> Interested in game development and/or need 3 upper-div units? Come apply to our Video Game Design & Development DeCal!
 > <br>
-> Have a great winter break! See you in Spring! 
+> <br> We will be hosting two info sessions. Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)! Both info sessions contain the same content, so show up to the time that works best for you! Hope to see you there!
+> <br>
+> <br> <b>Dates:</b> Tuesday, January 27th and Thursday, January 29th
+> <br> <b>Time:</b> 7:00pm-8:30pm
+> <br> <b>Location:</b> Jacobs 10 
+>
+> <br> [Apply Here]( https://tinyurl.com/s26gddapp){: .btn .btn-purple }
+> <br> <b>Applications are due Friday, January 30th at 11:59 PM</b>
 
 
 | -------- |
