@@ -8,23 +8,16 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> <h1>Welcome back!<img src = "assets/announcement/wave.gif" width=50></h1>
+> <h1>Welcome Spring 2026!<img src = "assets/announcement/pika.gif" width=50></h1>
 > 
-> <h3>Our Spring 26 Decal Applications are now open! </h3>
-> <br> Interested in game development and/or need 3 upper-div units? Come apply to our Video Game Design & Development DeCal!
-> <br>
-> <br> We will be hosting two info sessions. Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)! Both info sessions contain the same content, so show up to the time that works best for you! Hope to see you there!
-> <br>
-> <br> <b>Dates:</b> Tuesday, January 27th and Thursday, January 29th
-> <br> <b>Time:</b> 7:00pm-8:30pm
-> <br> <b>Location:</b> Jacobs 10 
->
-> <br> [Apply Here]( https://tinyurl.com/s26gddapp){: .btn .btn-purple }
-> <br> <b>Applications are due Friday, January 30th at 11:59 PM</b>
+> Thank you so much to everyone who applied and congratulations to those who made it in the Decal!
+> We hope you're as excited as you are to start game developing! 
+> <br> <br>
+> **Come to class with your Laptop!** We will be hitting the ground running. Hope to see you in class!
 
 
 | -------- |
-| Jump to Week: [0](#week-0)|
+| Jump to Week: [0](#week-0), [1](#week-1)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 

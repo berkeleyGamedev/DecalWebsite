@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Feb 3
-: **Lecture**{: .label .gdd-blue } Intro to Unity
+: **Lecture**{: .label .gdd-blue } [Intro to Unity]
 : **Lab**{: .label .gdd-yellow }[Lab 1: Intro to Unity]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
@@ -13,7 +13,7 @@ Feb 5
 : **Project**{: .label .gdd-navy }[Project 1]
 
 <!-- Lectures:  -->
-[Intro to Unity]: https://docs.google.com/presentation/d/1dAfCKSTjRtghfBLiGwkLpU6Dm3gb2sl1D8NYpA9ybg0/edit#slide=id.g2315d55620b_0_5
+[Intro to Unity]: https://docs.google.com/presentation/d/11O-l3yDW4NzbnXYD2psOwV7C9SdE-NUrSqr3PMfyGYY/edit?usp=share_link
 [Game Design]: https://docs.google.com/presentation/d/1RpVf1FSk65H_PmsjtTQv-FIC1WyNJFd1_GbCdFJvMLE/edit?usp=sharing
 
 <!-- Lab/Project: -->
