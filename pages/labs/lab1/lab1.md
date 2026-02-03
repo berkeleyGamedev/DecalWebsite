@@ -23,14 +23,14 @@ nav_exclude: true
 In this lab, you will be putting together a small game from scratch! You don’t need to know any programming or how to make art; this is an introduction to the basics of the Unity engine.
 
 ## Lab Instructions
-**NOTE**: This lab assumes you have both Unity Hub and Unity version 6000.0.49f1 installed. If this is not the case, please refer to [Lab 0].
+**NOTE**: This lab assumes you have both Unity Hub and Unity version **6000.0.64f1** installed. If this is not the case, please refer to [Lab 0].
 
 ### Setting up your project (practice)
-When you open up Unity, you should see something like this. Click on the New project button on the top right hand corner: Make sure you select version **6000.0.49f1**, as this is the version that the labs in this class will be working under.
+When you open up Unity, you should see something like this. Click on the New project button on the top right hand corner: Make sure you select version **6000.0.64f1**, as this is the version that the labs in this class will be working under.
 
 ![](images/image21.png)
 
-Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in Universal 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create project.
+Now you should see a screen like the one below. Title your project whatever you want in the project name field (the name of this is not  important, as we will be working on a different project later in this lab), and make sure the template is in Universal 2D. Choose whichever location you  want the project to be in your computer. Once you’ve filled everything in, click Create Project.
 
 ![](images/image20.png)
 
@@ -42,7 +42,7 @@ After waiting for a bit, you should see a screen like this. It’s okay if it do
 
 In the top menu, go to `Unity > Settings/Preferences > External Tools.`
 
-Verify that your script editor is selected as the External Script Editor. For example, in the image below, we are using Visual Studios so we selected Visual Studios.
+Verify that your script editor is selected as the External Script Editor. For example, in the image below, we are using Visual Studio so we selected Visual Studio.
 
 ![](images/image10.png)
 
@@ -92,24 +92,26 @@ Here, you can organize the layout of this particular scene. The Game window show
 
 ![](images/image8.png)
 
-1. The play button will start running the game inside the editor so that you can test the game. Hitting the play button while the game is running will stop the game.
-2. The pause button will pause the game on a frame when you are playing it, which is useful when you want to debug a problem.
-3. The step button allows you to skip forward a frame. It will pause the game if it isn’t already paused. This is also useful for debugging as  it allows you to go frame by frame.
+1. The Play button will start running the game inside the editor so that you can test the game. Hitting the play button while the game is running will stop the game.
+2. The Pause button will pause the game on a frame when you are playing it, which is useful when you want to debug a problem.
+3. The Step button allows you to skip forward a frame. It will pause the game if it isn’t already paused. This is also useful for debugging as  it allows you to go frame by frame.
 
 In addition, you can change variables in the inspector while the game is running, but when you stop playing the game, your changes will be reverted back to what they were before you started playing. This is important to keep in mind while testing your game.
 
 Now that you have learned some of the basics, let’s start making a game!
 
 ## Space Shooter Game
-### Setting it up
+### Setting Up the Lab
 
-**!!!Close the project you made!!!**. Open Unity Hub again, and click the arrow next to "Add". Then click "Add project from disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
+**Please close the project that you just made!**. 
+
+Open Unity Hub again, and click the arrow next to "Add". Then click "Add Project from Disk" and select the Unity Basics lab folder. Then, open the project up. It might take a while for Unity to set up all of the project files. Once inside the project, navigate to `Scenes > SampleScene` (located at the bottom left corner under the assests folder, assuming default Unity layout is used) and double click it to open it up.
 
 ![](images/image12.png)
 
-Go into the Sprites folder. Find the bg image and drag it into the hierarchy (just click and drag). This will be the background for the game.
+Go into the Sprites folder. Find the bg image and drag it into the Hierarchy (just click and drag). This will be the background for the game.
 
-Now look in the inspector on the right (your "bg" GameObject should be selected). **Expand Additional Settings and set the Sorting Layer to Background**. Once you do this, the background will always be behind the other GameObjects you put in.
+Now look in the Inspector on the right (your "bg" GameObject should be selected). **Expand Additional Settings and set the Sorting Layer to Background**. Once you do this, the background will always be behind the other GameObjects you put in.
 
 ![](images/image26.png)
 
@@ -138,15 +140,15 @@ Let’s add some particle effects to our ship. Go into the Prefabs folder. Drag 
 
 Once you do this, if you hit play, you should see flames trailing behind your character!
 
-Now, let’s make it so that the ship can wrap around the screen. **Add the ScreenBounds script to the ship.** Once you press play you can see the ship will teleport to the opposite side if it is about to go offscreen.
+Now, let’s make it so that the ship can wrap around the screen. **Add the ScreenBounds script to the ship.** Once you press play you can see the ship will teleport to the opposite side if it is about to go off screen.
 
 ### Asteroids
 
 Now let’s add something that the player can interact with. 
 
-Add the asteroid into the scene by dragging the asteroid sprite into the hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 and the linear and angular damping to 1. 
+Add the asteroid into the scene by dragging the asteroid sprite into the Hierarchy. Add the Rigidbody2D component so that it can move, and set the gravity to 0 along with the linear and angular damping to 1. 
 
-This will allow the asteroid to slowly stop moving if it is ever touched. Now to create interactivity between the objects, let’s add some colliders. Add a component called CircleCollider2D to both the ship and the asteroid. You might need to adjust the radius for the collider to fit better. 
+This will allow the asteroid to slowly stop moving if it is ever touched. Now let’s add some colliders to allow the objects to interact. Add a component called CircleCollider2D to both the ship and the asteroid. You might need to adjust the radius for the collider to fit better. 
 
 *(Tip: Click the Edit Collider Button under the Circle Collider 2D component and you’ll be able to resize the radius in the Scene view!)*
 
@@ -157,28 +159,28 @@ When you hit play, the asteroid and the ship can now collide and interact with e
 
 ### Health
 
-Now let’s add something more interesting. Let’s make it so that the player has health, and every time it touches an asteroid, its health goes down. **Add the PlayerHealth component to the ship.** This will keep track of the current health, and decrease it if the player interacts with an asteroid.
+Let’s add something more interesting. Let’s make it so that the player has health, and every time it touches an asteroid, its health goes down. **Add the PlayerHealth component to the ship.** This will keep track of the current health, and decrease it if the player interacts with an asteroid.
 
 If the player collides with an object, the script will check what the object's tag is. If the collided object's tag is "Asteroid," then the player’s health is decreased. To allow this to work, however, **we need to change the tag of the asteroid to "Asteroid".** In the inspector, click the "Untagged" dropdown and select "Asteroid" to do so.
 
 ![](images/image19.png)
 
-To add some UI to see the player's health, look in the prefabs folder and drag the UI prefab into the hierarchy. You should be able to see the health and score when you click play. You can’t see it in the scene because the UI overlays on a UI canvas. But if you zoom way out in the Scene view, you should be able to see the words.
+To add some UI to see the player's health, look in the prefabs folder and drag the UI prefab into the Hierarchy. You should be able to see the health and score when you click play. You can’t see it in the scene because the UI overlays on a UI canvas. But if you zoom way out in the Scene view, you should be able to see the words.
 
 
-The UI also takes care of the win condition of the game. Click into the UI object in your hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the hierarchy and **change the tag for the ship to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
+The UI also takes care of the win condition of the game. Click into the UI object in your Hierarchy and scroll down on the inspector. Right now, you need a score of 5 to win, as you can see in the Score To Win field of the UI script. To make the system work, you need to do one more thing. Select the player in the Hierarchy and **change the tag for the ship to Player.** Just like with the asteroid, the UI uses the Player tag to know which object’s health to keep track of.
 
 ![](images/image1.png)
 
 ![](images/image16.png)
 
-You can click play and hit the asteroid 3 times to see that the player loses all its health and loses the game. If all done correctly, the game  should look something like this:
+You can click play and hit the asteroid 3 times to see that the player loses all its health and loses the game. If all done correctly, the game should look something like this:
 
 ![](images/image24.png)
 
 ### Bullet
 
-Now let’s add a way for the player to get rid of the asteroids. Find the laser image in the Sprites folder and drag in into the hierarchy.
+Now let’s add a way for the player to get rid of the asteroids. Find the laser image in the Sprites folder and drag in into the Hierarchy.
 
 The attached CapsuleCollider2D allows us to see what the laser interacts with. The IsTrigger field is set to true, allowing us to know when objects touch each other without causing the objects to move each other.
 
@@ -187,13 +189,13 @@ Also make sure the Rigidbody2D component is attached for movement, the gravity a
 Finally, **add the Bullet script** (`laser selected > Add Component > Bullet`). This keeps track of who shot the bullet, which will be used to keep track of score.
 
 
-Now we want to make the laser a prefab. A prefab is an instance of a GameObject, so it saves a GameObject and all its components and fields. This way, you can create multiple instances of the same GameObject. We use this property to make copies of the same laser when the game is running. **You can do this by dragging the laser from the hierarchy into the Prefabs folder.** Once you have a copy of it in your Prefabs folder, delete the one in the hierarchy (right click + Delete).
+Now we want to make the laser a prefab. A prefab is an instance of a GameObject, so it saves a GameObject and all its components and fields. This way, you can create multiple instances of the same GameObject. We use this property to make copies of the same laser when the game is running. **You can do this by dragging the laser from the hierarchy into the Prefabs folder.** Once you have a copy of it in your Prefabs folder, delete the one in the Hierarchy (right click + Delete).
 
 ![](images/image22.png)
 
 ![](images/image28.png)
 
-Now let’s make sure it spawns from the correct location. Select the ship in the hierarchy and create a new GameObject. You can do this by right clicking on the ship and creating a new empty object. This way, it will be a child of the ship. Name it something like Laser Spawner.
+Now let’s make sure it spawns from the correct location. Select the ship in the Hierarchy and create a new GameObject. You can do this by right clicking on the ship and creating a new empty object. This way, it will be a child of the ship. Name it something like Laser Spawner.
 
 You can move the laser spawner to the position from which you want the laser to shoot. Since I want it to shoot from the tip of the ship, I’ll move it to the tip, like so: (select the option under the hand, in the Scene view toolbar to move GameObjects around)
 
@@ -207,25 +209,20 @@ Now, when you play, you should be able to press Left Shift to shoot, destroy ast
 
 *Optional:* Try changing Score To Win in UI Script to a number that will make you win faster, or duplicating the asteroids by selecting one and pressing CTRL/CMD + D in order to create more obstacles to destroy for more points!
 
+Hint: You can create a prefab of the asteroid and create multiple instances of the same asteroid by dragging the prefab into your scene.
+
 ## Lab Summary
 
 Now that you’ve the basics of components, prefabs, scripts, and how they work with each other, you’re on your way to learning how Unity works! All of these concepts are the bread and butter of using Unity, so you can always refer back to this document if you need a refresher on how these components work.
 
 ## Checkoff Requirements
 
-1. Drifiting out of bounds teleports you to the opposite side of the screen.
-2. Destroy asteroids with bullets and add to the score counter
-3. Lose lives when hit by asteroid. If health below 0 -> game over.
-
-## Challenges (Optional)
-
-Now that you have some basics, try creating a small game! Some possible ideas are a precision-based maze game, a racing game, or a shooting game. Feel free to use anything, including functionality that we did not go over in the lab.
-
-Hint: You can create a prefab of the asteroid and create multiple instances of the same asteroid by dragging the prefab into your scene.
+1. Drifting out of bounds teleports you to the opposite side of the screen.
+2. Destroy asteroids with bullets and add to the score counter.
+3. Lose lives when hit by asteroid. If health below 0 -> Game Over.
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
-
 
 [Lab 0]: ../../lab0/lab0
 [Lab 1 Repo]: https://github.com/berkeleyGamedev/UnityBasics

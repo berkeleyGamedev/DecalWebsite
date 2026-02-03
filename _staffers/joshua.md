@@ -8,4 +8,4 @@ photo: joshua_almario.jpg
 photo_hover: alt/josh.jpg
 ---
 
-Hi! I’m Josh, a third-year studying EECS. I’m an enjoyer of board games that bring people together, and party games that tear people apart. I’m also a digital artist; come show me awesome character designs!
+Hi! I’m Josh, a third-year studying EECS. Crow lover and RPG lover also. Unfortunate, but proud victim to number-go-up slop. Feral for good character designs.
