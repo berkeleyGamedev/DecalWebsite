@@ -6,7 +6,7 @@ nav_order: 3
 nav_exclude: true
 ---
 
-# Project 2: Game Jam
+# Project 2: Game Jam <img src="../images/bear.gif" width='40'>
 {: .no_toc }
 
 ## Table of contents
@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-The Theme is... <span style="color:DodgerBlue">**LOOP!**</span>
+The Theme is... 
 {: .fs-8 }
 
 ## Overview

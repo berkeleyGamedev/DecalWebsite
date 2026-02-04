@@ -161,8 +161,6 @@ If you feel like a brief (6 min) demonstration would be helpful, check out a [su
 
 [Pixel Join Forum] - Where most of the information from this lab was pulled from. A solid resource to check in with when in doubt.
 
-[Pixelation​] - A great community of pixel artists, excellent for general knowledge and finding resources
-
 [aP's Dither Brushes] - Dithering brushes for Photoshop
 
 [Todo Asano​] - Twitch streamer who often streams drawing pixel art, good for ideas and inspiration
@@ -174,7 +172,6 @@ If you experience any bugs or typos within the lab itself, please report it [her
 
 [here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
 [Pixel Join Forum]: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
-[Pixelation​]: https://pixelation.org/
 [aP's Dither Brushes]: https://abductedplatypus.itch.io/dither-brushes
 [Todo Asano​]: https://www.twitch.tv/todo_asano
 [Lospec]: https://lospec.com/

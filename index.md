@@ -13,7 +13,7 @@ nav_order: 0
 > Thank you so much to everyone who applied and congratulations to those who made it in the Decal!
 > We hope you're as excited as you are to start game developing! 
 > <br> <br>
-> **Come to class with your Laptop!** We will be hitting the ground running. Hope to see you in class!
+> We're going to hit the ground running, so please **come to class with your laptop!** Hope to see you in class!
 
 
 | -------- |
