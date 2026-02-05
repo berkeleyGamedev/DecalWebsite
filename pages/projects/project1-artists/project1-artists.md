@@ -26,10 +26,10 @@ The objective of this project is to allow you to gain experience creating your o
 For ease of reference, here is the Project 1 timeline: 
 
 |---|---|---|
-|Sept 11| Project 1 Released |  |
-|Sept 18| Part 1 Deadline| **Due before Class!** |
+|Feb 5| Project 1 Released |  |
+|Feb 12| Part 1 Deadline| **Due before Class!** |
 ||Art Critiques|Artists will receive feedback with an *in class* **art critique**. Part 2 is intended to be built upon your Part 1 submission and the feedback you received, so please come prepared for the critique.|
-| Sept 25 | Part 2 Deadline | Due at 11:59 PM |
+| Feb 19 | Part 2 Deadline | Due at 11:59 PM |
 
 
 ## Part 1: Creating Assets
@@ -85,9 +85,9 @@ When you have a solid picture for what you want to create, it's time to start yo
 
 Compile your game art assets to a google drive and make sure it is accessible to facilitators. 
 
-**Part 1 Due Thursday, 9/18 @ 6:59 PM.**
+**Part 1 Due Thursday, 2/12 @ 6:59 PM.**
 
-[SUBMIT PART 1 HERE!](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+[SUBMIT PART 1 HERE!](https://tinyurl.com/gddS26p1p1){: .btn .btn-purple }
 
 ## Art Critique 
 An art critique is a group discussion where students will be able to give and receive feedback on artwork. You will be expected to *present* and discuss your Part 1 submission to your artist peers and art facilitators. 
@@ -127,13 +127,13 @@ You can choose to make additional assets for game components that you opted out 
 
 Compile your game art assets and **animations** to a google drive and make sure it is accessible to facilitators. 
 
-**Part 2 Due Thursday, 9/25 @ 11:59 PM.** 
+**Part 2 Due Thursday, 2/19 @ 11:59 PM.** 
 
-[SUBMIT PART 2 HERE](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
+[SUBMIT PART 2 HERE](https://tinyurl.com/gddS26p1p2){: .btn .btn-purple }
 
 **Optional**: Please take the time to fill out a feedback form. Tell us what worked and what didn't. The team would love to hear back from you! 
 
-[Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
+[Feedback](https://tinyurl.com/gdds26p1feedback ){: .btn .btn-outline }
 
 ## Resources
 

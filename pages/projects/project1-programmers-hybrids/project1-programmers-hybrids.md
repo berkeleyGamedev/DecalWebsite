@@ -47,9 +47,9 @@ Your base project should be able to be played *without compiler errors*. If ther
 
 After projects have been graded, you will receive feedback on your project. 
 
-**Part 1 Due Thursday, 9/18 @ 6:59 PM.**
+**Part 1 Due Thursday, 2/12 @ 11:59 PM.**
 
-[SUBMIT PART 1 HERE!](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+[SUBMIT PART 1 HERE!](https://tinyurl.com/gddS26p1p1){: .btn .btn-purple }
 
 ## Part 2
 
@@ -93,13 +93,13 @@ Replace the existing sprite assets with new ones you created. Be sure to include
 
 To submit your project for part 2, **upload your project to a new Github repo** and **fill out the respective form** by clicking the button below.
 
-**Part 2 Due Thursday, 9/25 @ 11:59 PM.**
+**Part 2 Due Thursday, 2/19 @ 11:59 PM.**
 
-[SUBMIT PART 2 HERE!](https://tinyurl.com/gddf25proj1part2){: .btn .btn-purple }
+[SUBMIT PART 2 HERE!](https://tinyurl.com/gddS26p1p2){: .btn .btn-purple }
 
 **Optional**: Please take the time to fill out a feedback form. Tell us what worked and what didn't. The team would love to hear back from you! 
 
-[Feedback](https://tinyurl.com/gddf25proj1feedback ){: .btn .btn-outline }
+[Feedback](https://tinyurl.com/gdds26p1feedback){: .btn .btn-outline }
 
 ## Bug Reports
 If you experience any bugs or typos within the project itself, please report it [here!]

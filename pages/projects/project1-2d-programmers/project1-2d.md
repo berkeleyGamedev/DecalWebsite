@@ -944,9 +944,9 @@ Your base project should be able to be played *without compiler errors*. If ther
 
 After projects have been graded, you will receive feedback on your project. 
 
-**Part 1 Due Thursday, 9/18 @ 6:59 PM.**
+**Part 1 Due Thursday, 2/12 @ 11:59 PM.**
 
-[SUBMIT PART 1 HERE!](https://tinyurl.com/gddf25proj1part1){: .btn .btn-purple }
+[SUBMIT PART 1 HERE!](https://tinyurl.com/gddS26p1p1){: .btn .btn-purple }
 
 
 ## Bug Reports
