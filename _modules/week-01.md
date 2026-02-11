@@ -8,13 +8,13 @@ Feb 3
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
 Feb 5
-: **Lecture**{: .label .gdd-blue } Game Design
+: **Lecture**{: .label .gdd-blue } [Game Design]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Spriting]
 : **Project**{: .label .gdd-navy }[Project 1]
 
 <!-- Lectures:  -->
 [Intro to Unity]: https://docs.google.com/presentation/d/11O-l3yDW4NzbnXYD2psOwV7C9SdE-NUrSqr3PMfyGYY/edit?usp=share_link
-[Game Design]: https://docs.google.com/presentation/d/1RpVf1FSk65H_PmsjtTQv-FIC1WyNJFd1_GbCdFJvMLE/edit?usp=sharing
+[Game Design]: https://docs.google.com/presentation/d/1mfvuj4AwXhHN6YNbNfJrNIYvqXaWwwRdEmNAvVp9eVM/edit?usp=share_link
 
 <!-- Lab/Project: -->
 [Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
