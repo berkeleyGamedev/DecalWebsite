@@ -9,14 +9,14 @@ nav_order: 0
 
 {: .announcements }   
 > Welcome to Week 3!
-> <br>
+> <br> <br>
 > **Office hours are starting this week!** They will be **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in our Decal Discord to get check-offs done or if you need help on anything!
-> <br>
-> **Project 2 begins this week!** For this, there will be a **required** Project 2 matching form to choose your team. Please be on the lookout for when we announce this (likely on Tuesday)!
+> <br> <br>
+> Next, **Project 2 begins Thursday!** Prior to this, there will be a **required** Project 2 matching form to choose your team. Please be on the lookout for when we announce this (likely on Tuesday)!
 >
 > |**Date**|**Due**|**Assigned**|
 > |Tuesday (2/17)| **Programmer**: Lab 4: Advanced Scripting <br> **Artist**: Lab 5: Tilesets | **ALL**: Lab 8: Animator and Blend Trees |
-> |Thursday (2/19)| **Programmer**: Lab 6: Colliders and Rigidbodies <br> **Artist**: Lab 7: Animation <br> **Project 1 Pt 2 due at 11:59pm!** | **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2, due 2/26 @ 11:59PM** |
+> |Thursday (2/19)| **Programmer**: Lab 6: Colliders and Rigidbodies <br> **Artist**: Lab 7: Animation <br> **Project 1 Pt 2 due @11:59pm!** | **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2, due 2/26 @11:59PM** |
 
 
 | -------- |
