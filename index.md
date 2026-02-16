@@ -8,12 +8,15 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> <h1>Welcome Spring 2026!<img src = "assets/announcement/pika.gif" width=50></h1>
-> 
-> Thank you so much to everyone who applied and congratulations to those who made it in the Decal!
-> We hope you're as excited as you are to start game developing! 
-> <br> <br>
-> We're going to hit the ground running, so please **come to class with your laptop!** Hope to see you in class!
+> Welcome to Week 3!
+> <br>
+> **Office hours are starting this week!** They will be **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in our Decal Discord to get check-offs done or if you need help on anything!
+> <br>
+> **Project 2 begins this week!** For this, there will be a **required** Project 2 matching form to choose your team. Please be on the lookout for when we announce this (likely on Tuesday)!
+>
+> |**Date**|**Due**|**Assigned**|
+> |Tuesday (2/17)| **Programmer**: Lab 4: Advanced Scripting <br> **Artist**: Lab 5: Tilesets | **ALL**: Lab 8: Animator and Blend Trees |
+> |Thursday (2/19)| **Programmer**: Lab 6: Colliders and Rigidbodies <br> **Artist**: Lab 7: Animation <br> **Project 1 Pt 2 due at 11:59pm!** | **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2, due 2/26 @ 11:59PM** |
 
 
 | -------- |
