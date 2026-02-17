@@ -932,7 +932,7 @@ Functions to modify:
 68 74 74 70 73 3A 2F 2F 79 6F 75 74 75 2E 62 65 2F 41 69 68 54 49 45 32 67 2D 6C 55 3F 6C 69 73 74 3D 50 4C 6B 54 71 66 35 44 42 7A 50 73 41 65 2D 70 52 35 62 44 55 64 77 48 69 43 4E 67 48 63 79 42 49 68 26 74 3D 35 38 
 ```
 
-Give yourself a pat on the back! You have a super mega epic video game of the year triple AAA worthy in your hands!!! Upload your project onto a respository, fill out the Project 1 form on the Decal website, and go take a breather. The facilitator team grants you permission to do so.
+Give yourself a pat on the back! You have a super mega epic video game of the year triple AAA worthy in your hands!!! Upload your project onto a repository, fill out the Project 1 form on the Decal website, and go take a breather. The facilitator team grants you permission to do so.
 
 ### Submission 
 
