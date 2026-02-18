@@ -12,7 +12,7 @@ nav_order: 0
 > <br> <br>
 > **Office hours are starting this week!** They will be **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in our Decal Discord to get check-offs done or if you need help on anything!
 > <br> <br>
-> Next, **Project 2 begins Thursday!** Prior to this, there will be a **required** Project 2 matching form to choose your team. Please be on the lookout for when we announce this (likely on Tuesday)!
+> Next, **Project 2 is on the horizon!** Prior to this, you **must submit [this team matching form](https://docs.google.com/forms/d/e/1FAIpQLSduya_CGQOJFgyVXKFxH9WNe3jXz73vXMaIQNkahjGoUBMZnw/viewform?usp=dialog) by the end of Thursday!** This is required to start Project 2.
 >
 > |**Date**|**Due**|**Assigned**|
 > |Tuesday (2/17)| **Programmer**: Lab 4: Advanced Scripting <br> **Artist**: Lab 5: Tilesets | **ALL**: Lab 8: Animator and Blend Trees |
