@@ -22,11 +22,7 @@ timeline:
 
 schedule:
   - name: Monday
-    events:
-      - name: Office Hours
-        start: "5:30 PM"
-        end: "6:30 PM"
-        location: "Online"
+    events: []
 
   - name: Tuesday
     events:
@@ -38,8 +34,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Office Hours
-        start: "8:00 PM"
-        end: "9:00 PM"
+        start: "5:30 PM"
+        end: "6:30 PM"
         location: "Online"
 
   - name: Thursday
