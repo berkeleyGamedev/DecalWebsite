@@ -7,6 +7,16 @@
 @import 'schedule';
 @import 'staffer';
 
+// google font pixelify
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+.pixelify {
+  font-family: 'Pixelify Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
 // Overrides
 code {
   font-size: 14px;

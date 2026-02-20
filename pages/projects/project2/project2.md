@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-The Theme is... 
+The Theme is... <span class="pixelify">Sticky Situation</span>.
 {: .fs-8 }
 
 ## Overview

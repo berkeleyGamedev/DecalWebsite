@@ -8,13 +8,13 @@ Feb 17
 : **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
 
 Feb 19
-: **Lecture**{: .label .gdd-blue } Git Tutorial
+: **Lecture**{: .label .gdd-blue } [Git Tutorial]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
 
 <!-- Lectures: -->
 [Game Loops]: https://docs.google.com/presentation/d/1Ktu-MEO9uC63MtbZznZPJDkCG-D2MC-76kV6P5pk6Gg/edit?usp=share_link
-[Git Tutorial]: https://docs.google.com/presentation/d/1zgJTWPc2e2zflFxc7Tek80XQTKiQr4jAr9yTK7nVn4c/edit?usp=share_link
+[Git Tutorial]:https://docs.google.com/presentation/d/1--AoK3RMRk8xcUu5DW5VE9wI_w1hob2XhJGR1QBrLxU/edit?usp=share_link
 
 <!-- Lab/Project: -->
 [Lab 8: Animator and Blend Trees]: ./../pages/labs/lab8/lab8
