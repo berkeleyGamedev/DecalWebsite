@@ -8,11 +8,11 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Welcome to Week 3!
+> Welcome to Week 4!
 > <br> <br>
 > The Project 2 groups are [at this link!](https://docs.google.com/spreadsheets/d/1fTt64FqCINRuanr_jGcVXzULd0nr3ygO3g_4pONZkX4/edit?gid=0) Your team should’ve gotten started by now; if you haven’t already, please do! Reminder that it's due **by the end of Thursday!**
 > <br> <br>
-> Tuesday’s lab (Lab 11 & 12) is the last required lab for the semester! The rest of the assignments in the semester will consist of projects and optional labs (including Project 3!). Congratulations to everyone's hard work so far ♡
+> Tuesday’s lab (Lab 11 & 12) is the last required lab for the semester! The rest of the assignments in the semester will consist of optional labs, and the great Project 3. Congratulations!
 >
 > |**Date**|**Due**|**Assigned**|
 > |Tuesday (2/24)| **ALL**: Lab 8: Animator and Blend Trees | **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design |
