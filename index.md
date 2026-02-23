@@ -10,17 +10,17 @@ nav_order: 0
 {: .announcements }   
 > Welcome to Week 3!
 > <br> <br>
-> **Office hours are starting this week!** They will be **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in our Decal Discord to get check-offs done or if you need help on anything!
+> The Project 2 groups are [at this link!](https://docs.google.com/spreadsheets/d/1fTt64FqCINRuanr_jGcVXzULd0nr3ygO3g_4pONZkX4/edit?gid=0) Your team should’ve gotten started by now; if you haven’t already, please do! Reminder that it's due **by the end of Thursday!**
 > <br> <br>
-> Next, **Project 2 is on the horizon!** Prior to this, you **must submit [this team matching form](https://docs.google.com/forms/d/e/1FAIpQLSduya_CGQOJFgyVXKFxH9WNe3jXz73vXMaIQNkahjGoUBMZnw/viewform?usp=dialog) by the end of Thursday!** This is required to start Project 2.
+> Tuesday’s lab (Lab 11 & 12) is the last required lab for the semester! The rest of the assignments in the semester will consist of projects and optional labs (including Project 3!). Congratulations to everyone's hard work so far ♡
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (2/17)| **Programmer**: Lab 4: Advanced Scripting <br> **Artist**: Lab 5: Tilesets | **ALL**: Lab 8: Animator and Blend Trees |
-> |Thursday (2/19)| **Programmer**: Lab 6: Colliders and Rigidbodies <br> **Artist**: Lab 7: Animation <br> **Project 1 Pt 2 due @11:59pm!** | **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2, due 2/26 @11:59PM** |
+> |Tuesday (2/24)| **ALL**: Lab 8: Animator and Blend Trees | **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design |
+> |Thursday (2/26)| **Programmer**: Lab 9: UI and Layering <br> **Artist**: Lab 10: UI Asset Creation <br> **Project 2 due @11:59pm!** | None! |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
