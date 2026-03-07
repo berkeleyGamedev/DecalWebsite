@@ -11,7 +11,7 @@ Mar 10
 Mar 12
 : **Lecture**{: .label .gdd-blue } Tutorial + Level Design
 : **Lab**{: .label .gdd-yellow } Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
-: **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
+
 
 
 

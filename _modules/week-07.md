@@ -9,6 +9,7 @@ Mar 17
 
 Mar 19
 : **Lecture**{: .label .gdd-blue } Game Feel
+: **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
 <!-- Lecture: -->
 [Game Feel]:https://docs.google.com/presentation/d/1PyLLP_67-obXTeiEOSSLepWF9CZrwutTdGi8Gp2JJFk/edit?usp=sharing
