@@ -8,21 +8,22 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Salutations to Week 5!
+> Welcome to Week 6, and the real start of Project 3!
 > <br> <br>
-> **Project 1 grades have been released on bCourses!** 📬 If you have any questions about your grade or the project, please don't hesitate to reach out to staff.
+> **Milestone 0 (design doc) is due this Tuesday.** Communicate with the team and get that done! (Remember, don't start coding until AFTER you've finished your design doc!)
 > <br> <br>
-> Congratulations on finishing your Project 2’s in such a short amount of time! 🎉 You will get to show off your hard work at the **Project 2 Showcase on Thursday,** so please be present!
+> This week starts the beginning of a string of optional labs. These are solely for those interested in learning more, and don’t need to get checked off! 
+> <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
 > <br> <br>
-> Finally, **Project 3 Pitch Day is in class on Tuesday (3/3)!** Please fill out [the pitch form](https://forms.gle/6C8QYC7LuZ13LGK59) before class. This form is **required** whether or not you're actually presenting, if you have a pitch. Check the Project 3 spec for more details.
+> The end of labs also means **office hours have now ended!** Thank you to everyone who showed up~
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/3)| **Project 3 Pitch Day!** <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design | None! |
-> |Thursday (3/5)| **Project 2 Showcase!** | None! |
+> |Tuesday (3/10)| **Project 3 Milestone 0 (Design Doc)** | **Project 3 Milestone 1** (due 3/19) |
+> |Thursday (3/12)| None! | None! |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
