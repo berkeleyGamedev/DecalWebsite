@@ -9,7 +9,7 @@ Mar 10
 : **Reading**{: .label .gdd-brown }[Team Structures in Game Development]
 
 Mar 12
-: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
+: **Lecture**{: .label .gdd-blue } Work Day
 : **Lab**{: .label .gdd-yellow } Optional: [Lab 14: 3D Rigging, Skinning, and Animation]
 
 
