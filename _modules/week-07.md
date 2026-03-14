@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Mar 17
-: **Lecture**{: .label .gdd-blue } Work Day
+: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
@@ -17,6 +17,7 @@ Mar 19
 
 <!-- Lab/Project: -->
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
+[Milestone 1: MVP Playtest]: ./../pages/projects/project3/project3
 
 <!-- Readings: -->
 [Tips for Better Playtesting]: https://www.gamedeveloper.com/design/best-practices-five-tips-for-better-playtesting 
