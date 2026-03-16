@@ -8,22 +8,19 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Welcome to Week 6, and the real start of Project 3!
+> Thank you to everyone who came out to Dan Salvato! ❤️ One of our best event turnouts yet 😊
 > <br> <br>
-> **Milestone 0 (design doc) is due this Tuesday.** Communicate with the team and get that done! (Remember, don't start coding until AFTER you've finished your design doc!)
+> **Milestone 1 (MVP Playtest) is due this Thursday (3/19)!** For this milestone, your group must have implemented at least 2 core mechanics, though no art needs to be in place yet.
 > <br> <br>
-> This week starts the beginning of a string of optional labs. These are solely for those interested in learning more, and don’t need to get checked off! 
-> <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
-> <br> <br>
-> The end of labs also means **office hours have now ended!** Thank you to everyone who showed up~
+> The MVP Playtest will also happen during class that day! You will have to come up with playtest questions and send to your mentor(s) by the night before. (Link will be provided later.)
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/10)| **Project 3 Milestone 0 (Design Doc)** | **Project 3 Milestone 1** (due 3/19) |
-> |Thursday (3/12)| None! | None! |
+> |Tuesday (3/17)| None! | None! |
+> |Thursday (3/19)| **Project 3 Milestone 1 (MVP)** | **Project 3 Milestone 2 (Alpha)** (due 4/2) |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
