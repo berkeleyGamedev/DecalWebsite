@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Mar 17
-: **Lecture**{: .label .gdd-blue } Work Day
+: **Lecture**{: .label .gdd-blue } Tutorial + Level Design
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
