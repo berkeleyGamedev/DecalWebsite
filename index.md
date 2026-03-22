@@ -11,8 +11,8 @@ nav_order: 0
 > ## <img src='../assets/announcement/pinkyellow.gif' width=50> <span class="pixelify">Enjoy your Spring Break!</span> <img src='../assets/announcement/bluegreen.gif' width=50>
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/17)| None! | None! |
-> |Thursday (3/19)| **Project 3 Milestone 1 (MVP)** | **Project 3 Milestone 2 (Alpha)** (due 4/2) |
+> |Tuesday (3/31)| None! | None! |
+> |Thursday (4/2)| **Project 3 Milestone 2 (Alpha)** | **Project 3 Milestone 3 (Βeta)** (due 4/16) |
 
 
 | -------- |
