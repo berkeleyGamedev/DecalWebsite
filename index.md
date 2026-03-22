@@ -8,11 +8,7 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Thank you to everyone who came out to Dan Salvato! ❤️ One of our best event turnouts yet 😊
-> <br> <br>
-> **Milestone 1 (MVP Playtest) is due this Thursday (3/19)!** For this milestone, your group must have implemented at least 2 core mechanics, though no art needs to be in place yet.
-> <br> <br>
-> The MVP Playtest will also happen during class that day! You will have to come up with playtest questions and send to your mentor(s) by the night before. (Link will be provided later.)
+> ## <img src='../assets/announcement/pinkyellow.gif' width=50> <span class="pixelify">Enjoy your Spring Break!</span> <img src='../assets/announcement/bluegreen.gif' width=50>
 >
 > |**Date**|**Due**|**Assigned**|
 > |Tuesday (3/17)| None! | None! |
@@ -20,7 +16,7 @@ nav_order: 0
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
