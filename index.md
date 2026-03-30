@@ -9,14 +9,21 @@ nav_order: 0
 
 {: .announcements }   
 > ## <img src='../assets/announcement/pinkyellow.gif' width=50> <span class="pixelify">Enjoy your Spring Break!</span> <img src='../assets/announcement/bluegreen.gif' width=50>
+>> We hope you enjoyed your Spring Break! Now, we Rise and Grind 💪
+> <br> <br>
+> **We are having the 🐺 Alpha Playtest THIS THURSDAY!** Consult the Project 3 spec for details, but in general this means most/all mechanics should be in place! Work hard and get your Projects prepared for your next big milestone! :joobicool: 
+> <br> <br>
+> Once again, the corresponding Alpha Playtest will also happen during class that day! You will have to come up with playtest questions and send to your mentor(s) by the night before. (Link will be provided later.)
+> <br> <br>
+> Finally, as a general reminder, please **complete your Progress Reports** before class on Tuesdays! They do not need to be high effort. 
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/31)| None! | None! |
-> |Thursday (4/2)| **Project 3 Milestone 2 (Alpha)** | **Project 3 Milestone 3 (Βeta)** (due 4/16) |
+> | Tuesday (3/31) | None! | None! |
+> | Thursday (4/2) | **Project 3 Milestone 2 (Alpha)** | **Project 3 Milestone 3 (Beta)** (due 4/16) |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
