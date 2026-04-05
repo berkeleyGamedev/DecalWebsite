@@ -8,18 +8,20 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> ## <img src='../assets/announcement/pinkyellow.gif' width=50> <span class="pixelify">Enjoy your Spring Break!</span> <img src='../assets/announcement/bluegreen.gif' width=50>
->> We hope you enjoyed your Spring Break! Now, we Rise and Grind 💪
+> There's a lot to announce this week—but no milestones! 🎉
 > <br> <br>
-> **We are having the 🐺 Alpha Playtest THIS THURSDAY!** Consult the Project 3 spec for details, but in general this means most/all mechanics should be in place! Work hard and get your Projects prepared for your next big milestone! :joobicool: 
+> We have a special **decal-exclusive Guest Speaker coming this Thursday!**
+> > Nik Thomas, Project Lead at The Wacy, graduated from UCSC in 2023 and will be speaking about his experiences with indie game design after graduation. His most recent rhythm game Beat Heart Beat currently has a demo out on Steam and Itch (https://linktr.ee/beatheartbeatgame). 
+>
+> Look forward to this in class this week, and be on your best behavior!
 > <br> <br>
-> Once again, the corresponding Alpha Playtest will also happen during class that day! You will have to come up with playtest questions and send to your mentor(s) by the night before. (Link will be provided later.)
+> Next, **Bear Jams is this weekend!** Challenge yourself to a weekend-long game jam with real cash prizes on the line! This event is open to anyone; please participate if interested! Check the Announcement on the Discord server for more details.
 > <br> <br>
-> Finally, as a general reminder, please **complete your Progress Reports** before class on Tuesdays! They do not need to be high effort. 
+> Thats all for now. Keep up the hard work for the next Milestone next Thursday! Do not procrastinate.
 >
 > |**Date**|**Due**|**Assigned**|
-> | Tuesday (3/31) | None! | None! |
-> | Thursday (4/2) | **Project 3 Milestone 2 (Alpha)** | **Project 3 Milestone 3 (Beta)** (due 4/16) |
+> | Tuesday (4/7) | None! | None! |
+> | Thursday (4/9) | None! | None! |
 
 
 | -------- |
