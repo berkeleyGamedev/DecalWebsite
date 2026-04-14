@@ -8,24 +8,19 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> There's a lot to announce this week—but no milestones! 🎉
+> Thank you to those of you who participated in Bear Jams! Best of luck to your submissions ❤️
 > <br> <br>
-> We have a special **decal-exclusive Guest Speaker coming this Thursday!**
-> > Nik Thomas, Project Lead at The Wacy, graduated from UCSC in 2023 and will be speaking about his experiences with indie game design after graduation. His most recent rhythm game Beat Heart Beat currently has a demo out on Steam and Itch (https://linktr.ee/beatheartbeatgame). 
+> The next milestone is already upon us! **The Beta Milestone is THIS THURSDAY!** Consult the Project 3 spec for details, but in general this means all levels and mechanics should be in place, along with most art assets!
 >
-> Look forward to this in class this week, and be on your best behavior!
-> <br> <br>
-> Next, **Bear Jams is this weekend!** Challenge yourself to a weekend-long game jam with real cash prizes on the line! This event is open to anyone; please participate if interested! Check the Announcement on the Discord server for more details.
-> <br> <br>
-> Thats all for now. Keep up the hard work for the next Milestone next Thursday! Do not procrastinate.
+> Just like with all other milestones, the corresponding playtest will also happen during class that day, so come with playtest questions and send to your mentor(s) by the night before!
 >
 > |**Date**|**Due**|**Assigned**|
-> | Tuesday (4/7) | None! | None! |
-> | Thursday (4/9) | None! | None! |
+> | Tuesday (4/14) | Project 3 Weekly Progress Report | None! |
+> | Thursday (4/16) | **Project 3 Milestone 3** | **FINAL Project 3** (due 4/30) |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
