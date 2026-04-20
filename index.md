@@ -8,19 +8,22 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Thank you to those of you who participated in Bear Jams! Best of luck to your submissions ❤️
-> <br> <br>
-> The next milestone is already upon us! **The Beta Milestone is THIS THURSDAY!** Consult the Project 3 spec for details, but in general this means all levels and mechanics should be in place, along with most art assets!
+> <h2>FACILITATOR APPLICATIONS ARE NOW OPEN!<img src = "assets/announcement/pika.gif" width=50></h2>
+> If you would like an opportunity to help teach the only game design and development class at Cal, please take the time to fill out the application below. You will get 2 units, on top of joining our silly little crew, meeting new people, and helping teach and maintain the class! 
 >
-> Just like with all other milestones, the corresponding playtest will also happen during class that day, so come with playtest questions and send to your mentor(s) by the night before!
+> Ask any of our leads for any questions regarding the position. Please apply if interested! The application is due Friday, May 1st at 11:59 PM. 
+>
+> The application is found here: <https://tinyurl.com/gdd26facilapps>
+>
+> Aside from that, remember that your **COMPLETED Project 3** is due next Thursday! It's the start of the final stretch—finish strong! ✨
 >
 > |**Date**|**Due**|**Assigned**|
-> | Tuesday (4/14) | Project 3 Weekly Progress Report | None! |
-> | Thursday (4/16) | **Project 3 Milestone 3** | **FINAL Project 3** (due 4/30) |
+> | Tuesday (4/21) | Project 3 Weekly Progress Report | None! |
+> | Thursday (4/23) | None! | **FINAL Project 3** (due 4/30) |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
