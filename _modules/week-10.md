@@ -3,14 +3,14 @@ title: Week 10
 ---
 
 Apr 7
-: **Lecture**{: .label .gdd-blue } Accessibility
+: **Lecture**{: .label .gdd-blue } [Accessibility]
 : **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
 Apr 9
 : **Lecture**{: .label .gdd-blue } Guest Lecture
 
 <!-- Lecture: -->
-[Accessibility]: https://docs.google.com/presentation/d/1GD2ghItjDc_tAhWSfyL-dm1rCKlt3fu5/edit?usp=sharing&ouid=100199393940763246714&rtpof=true&sd=true
+[Accessibility]: https://docs.google.com/presentation/d/1RE0DD5hWWk8L9fSUS4Y_tSD5VD6T3twd2569ML5-DVw/edit?usp=sharing
 
 <!-- Lab/Project: -->
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
