@@ -8,21 +8,22 @@ nav_order: 0
 # Game Design and Development Decal Spring 2026
 
 {: .announcements }   
-> Salutations to Week 5!
-> <br> <br>
-> **Project 1 grades have been released on bCourses!** 📬 If you have any questions about your grade or the project, please don't hesitate to reach out to staff.
-> <br> <br>
-> Congratulations on finishing your Project 2’s in such a short amount of time! 🎉 You will get to show off your hard work at the **Project 2 Showcase on Thursday,** so please be present!
-> <br> <br>
-> Finally, **Project 3 Pitch Day is in class on Tuesday (3/3)!** Please fill out [the pitch form](https://forms.gle/6C8QYC7LuZ13LGK59) before class. This form is **required** whether or not you're actually presenting, if you have a pitch. Check the Project 3 spec for more details.
+> <h2>FACILITATOR APPLICATIONS ARE NOW OPEN!<img src = "assets/announcement/pika.gif" width=50></h2>
+> If you would like an opportunity to help teach the only game design and development class at Cal, please take the time to fill out the application below. You will get 2 units, on top of joining our silly little crew, meeting new people, and helping teach and maintain the class! 
+>
+> Ask any of our leads for any questions regarding the position. Please apply if interested! The application is due Friday, May 1st at 11:59 PM. 
+>
+> The application is found here: <https://tinyurl.com/gdd26facilapps>
+>
+> Aside from that, remember that your **COMPLETED Project 3** is due next Thursday! It's the start of the final stretch—finish strong! ✨
 >
 > |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/3)| **Project 3 Pitch Day!** <br> **Programmer**: Lab 11: Coroutines <br> **Artist**: Lab 12: Environment Design | None! |
-> |Thursday (3/5)| **Project 2 Showcase!** | None! |
+> | Tuesday (4/21) | Project 3 Weekly Progress Report | None! |
+> | Thursday (4/23) | None! | **FINAL Project 3** (due 4/30) |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 

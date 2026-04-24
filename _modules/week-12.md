@@ -7,10 +7,7 @@ Apr 21
 : **Reading**{: .label .gdd-brown } [Tutorial Designs]
 
 Apr 23
-: **Lecture**{: .label .gdd-blue } [Work Day]
-
-[Work Day]: 
-
+: **Lecture**{: .label .gdd-blue } Workday
 
 [Tutorial Designs]: https://code.tutsplus.com/4-ways-to-teach-your-players-how-to-play-your-game--cms-22719t
 
