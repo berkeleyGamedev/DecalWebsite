@@ -15,15 +15,16 @@ nav_order: 0
 >
 > The application is found here: <https://tinyurl.com/gdd26facilapps>
 >
-> Aside from that, remember that your **COMPLETED Project 3** is due next Thursday! It's the start of the final stretch—finish strong! ✨
+> Aside from that, remember that your **COMPLETED Project 3** is due **THIS THURSDAY!** It's the final stretch—finish strong! ✨ 
+> Afterwards, we will have the **GDD Showcase on Saturday, May 2nd at 7:30pm in Jacobs 310** where you all present your final Projects!
 >
 > |**Date**|**Due**|**Assigned**|
-> | Tuesday (4/21) | Project 3 Weekly Progress Report | None! |
-> | Thursday (4/23) | None! | **FINAL Project 3** (due 4/30) |
+> | Tuesday (4/28) | Project 3 Weekly Progress Report | None! |
+> | Thursday (4/30) | **FINAL Project 3** | None, forever.. |
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
