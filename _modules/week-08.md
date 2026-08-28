@@ -1,7 +1,8 @@
 ---
 title: Week 8
 ---
-Spring Recess 
+## <img src='../assets/announcement/bluegreen.gif' width=50> <span class="pixelify">Spring Recess</span> <img src='../assets/announcement/pinkyellow.gif' width=50>
+
 
 
 <!-- Oct 28

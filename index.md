@@ -5,25 +5,31 @@ description: Announcements and Class schedule
 nav_order: 0
 ---
 
-# Game Design and Development Decal Spring 2026
+# Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> Welcome to Week 6, and the real start of Project 3!
-> <br> <br>
-> **Milestone 0 (design doc) is due this Tuesday.** Communicate with the team and get that done! (Remember, don't start coding until AFTER you've finished your design doc!)
-> <br> <br>
-> This week starts the beginning of a string of optional labs. These are solely for those interested in learning more, and don’t need to get checked off! 
-> <br> *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ― Albert Einstein*
-> <br> <br>
-> The end of labs also means **office hours have now ended!** Thank you to everyone who showed up~
+> <h2>The Game Design and Development DeCal is NOW ACCEPTING APPLICATIONS for Fall 2026!</h2>
+> <h2><img src = "assets/announcement/minions.gif" width=180></h2>
+> Interested in game development and/or need 3 upper-div units? Come apply to our Video Game Design & Development DeCal! Applications are due Friday, September 4th at 11:59 pm, or in 8 days. If you have any questions, feel free to reach out to any lead, or email us at berkeley.gamedev@gmail.com.
 >
-> |**Date**|**Due**|**Assigned**|
-> |Tuesday (3/10)| **Project 3 Milestone 0 (Design Doc)** | **Project 3 Milestone 1** (due 3/19) |
-> |Thursday (3/12)| None! | None! |
+> **Application link**: <https://tinyurl.com/gddf26app>
+>
+> 💼 **DECAL INFO SESSIONS** 💼
+>
+> We will be hosting two info sessions next week! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)! Both info sessions contain the same content, so show up to the time that works best for you.
+> Hope to see you there!
+>
+> Discord server: <https://discord.gg/yaFYJxc>
+>
+> |**Infosession Date**|**Time**|**Location**|
+> | Tuesday (9/1) | 6:30pm-8pm | Jacobs 10 |
+> | Thursday (9/3) | 6:30pm-8pm | Jacobs 10 |
+
+
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
