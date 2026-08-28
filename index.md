@@ -5,22 +5,27 @@ description: Announcements and Class schedule
 nav_order: 0
 ---
 
-# Game Design and Development Decal Spring 2026
+# Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>FACILITATOR APPLICATIONS ARE NOW OPEN!<img src = "assets/announcement/pika.gif" width=50></h2>
-> If you would like an opportunity to help teach the only game design and development class at Cal, please take the time to fill out the application below. You will get 2 units, on top of joining our silly little crew, meeting new people, and helping teach and maintain the class! 
+> <h2>The Game Design and Development DeCal is NOW ACCEPTING APPLICATIONS for Fall 2026!</h2>
+> <h2><img src = "assets/announcement/minions.gif" width=180></h2>
+> Interested in game development and/or need 3 upper-div units? Come apply to our Video Game Design & Development DeCal! Applications are due Friday, September 4th at 11:59 pm, or in 8 days. If you have any questions, feel free to reach out to any lead, or email us at berkeley.gamedev@gmail.com.
 >
-> Ask any of our leads for any questions regarding the position. Please apply if interested! The application is due Friday, May 1st at 11:59 PM. 
+> **Application link**: <https://tinyurl.com/gddf26app>
 >
-> The application is found here: <https://tinyurl.com/gdd26facilapps>
+> 💼 **DECAL INFO SESSIONS** 💼
 >
-> Aside from that, remember that your **COMPLETED Project 3** is due **THIS THURSDAY!** It's the final stretch—finish strong! ✨ 
-> Afterwards, we will have the **GDD Showcase on Saturday, May 2nd at 7:30pm in Jacobs 310** where you all present your final Projects!
+> We will be hosting two info sessions next week! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)! Both info sessions contain the same content, so show up to the time that works best for you.
+> Hope to see you there!
 >
-> |**Date**|**Due**|**Assigned**|
-> | Tuesday (4/28) | Project 3 Weekly Progress Report | None! |
-> | Thursday (4/30) | **FINAL Project 3** | None, forever.. |
+> Discord server: <https://discord.gg/yaFYJxc>
+>
+> |**Infosession Date**|**Time**|**Location**|
+> | Tuesday (9/1) | 6:30pm-8pm | Jacobs 10 |
+> | Thursday (9/3) | 6:30pm-8pm | Jacobs 10 |
+
+
 
 
 | -------- |
