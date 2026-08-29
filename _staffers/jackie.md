@@ -1,6 +1,6 @@
 ---
 name: Jackie Dai
-role: Instructor
+role: Teaching Assistant
 pronouns: he/him
 email:
 website:
