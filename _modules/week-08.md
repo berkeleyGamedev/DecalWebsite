@@ -1,17 +1,17 @@
 ---
 title: Week 8
 ---
-## <img src='../assets/announcement/bluegreen.gif' width=50> <span class="pixelify">Spring Recess</span> <img src='../assets/announcement/pinkyellow.gif' width=50>
+<!-- ## <img src='../assets/announcement/bluegreen.gif' width=50> <span class="pixelify">Spring Recess</span> <img src='../assets/announcement/pinkyellow.gif' width=50> -->
 
 
 
-<!-- Oct 28
+Oct 27
 : **Lecture**{: .label .gdd-blue } Music and SFX
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 16: Lighting]
 : **Reading**{: .label .gdd-brown }[Insightful Playtest Questions]
 
-Oct 30
-: **Lecture**{: .label .gdd-blue } Work Day -->
+Oct 29
+: **Lecture**{: .label .gdd-blue } Work Day
 
 
 <!-- Lecture: -->

@@ -2,12 +2,12 @@
 title: Week 3
 ---
 
-Feb 17
+Sep 22
 : **Lecture**{: .label .gdd-blue } [Game Loops]
 : **Lab**{: .label .gdd-yellow }[Lab 8: Animator and Blend Trees]
 : **Reading**{: .label .gdd-brown }[13 Principles of Gameplay]
 
-Feb 19
+Sep 24
 : **Lecture**{: .label .gdd-blue } [Git Tutorial]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 9: UI and Layering] / Artist: [Lab 10: UI Asset Creation]
 : **Project**{: .label .gdd-navy }[Project 2: Game Jam]
