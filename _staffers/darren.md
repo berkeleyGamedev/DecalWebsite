@@ -8,4 +8,5 @@ photo: Darren_Ting.jpg
 photo_hover: alt/dar.jpg
 ---
 
-Hi, I’m Darren, a 3rd year studying CS. Resident rhythm game player and vocaloid fan. Always looking out for offbeat indie game releases, or a good time for a nap.
+Hi, I’m Darren! I’m a 4th year studying CS. Silly resident Vocaloid/rhythm game fan; that’s me! Always looking for new indie games… and napping.
+
