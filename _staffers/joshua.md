@@ -1,10 +1,10 @@
 ---
 name: Joshua Almario
-role: Instructor
+role: Teaching Assistant
 pronouns: he/him
 email:
 website:
-photo: joshua_almario.JPG
+photo: joshua_almario.jpg
 photo_hover: alt/josh.jpg
 ---
 
