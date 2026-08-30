@@ -4,7 +4,7 @@ title: Week 4
 
 Sep 29
 : **Lecture**{: .label .gdd-blue } [User Interfaces]
-: **Lab**{: .label .gdd-yellow } Programmer: [Lab 11: Coroutines] / Artist: [Lab 12: Environment Design]
+: **Lab**{: .label .gdd-yellow } Programmer: [Lab 11: UI and Layering] / Artist: [Lab 12: UI Asset Creation]
 : **Reading**{: .label .gdd-brown }[How to Pitch your Project]
 
 Oct 01
