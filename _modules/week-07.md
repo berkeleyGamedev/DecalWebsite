@@ -2,12 +2,12 @@
 title: Week 7
 ---
 
-Mar 17
+Oct 20
 : **Lecture**{: .label .gdd-blue } [Tutorial + Level Design]
 : **Lab**{: .label .gdd-yellow }Optional: [Lab 15: Raycasting]
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
-Mar 19
+Oct 22
 : **Lecture**{: .label .gdd-blue } Game Feel
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
