@@ -1,6 +1,6 @@
 ---
 name: Laurier Ke (Honorary Staff) 
-role: Instructor
+role: Teaching Assistant
 pronouns: he/him
 email:
 website:
