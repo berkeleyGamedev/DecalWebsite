@@ -33,7 +33,7 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 {: .note}
 > You will be prompted to make a Unity ID if you don't already have one. Once you login with one, you will be redirected to the download menu. **You are not required to use your berkeley.edu email.**
 
-2. Follow the steps listed on the page to download and open the installer. Mac instructions are listed below.
+2. Follow the steps listed on the page to download and open the installer. Mac instructions are listed below as a reference.
 
     ![](images/image5.png)
 
@@ -59,10 +59,10 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
     ![](images/image2.png)
 
-2. Go to `Archive` and search for `6000.3.18f1`. Click Install (will prompt an install in your Unity Hub).
+2. Go to `Archive` and search for `6000.3.18f1` in the search bar above. Click Install (will prompt an install in your Unity Hub).
 
 
-4. By default, Unity will install Visual Studio as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
+3. By default, Unity will install Visual Studio as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
 
     For the purposes of this class, we will only ever ask you to build your project as an executable. (WebGL executables will be covered later in the course, once we reach the final project!)
 
