@@ -2,11 +2,11 @@
 title: Week 12
 ---
 
-## <img src='../assets/announcement/bluegreen.gif' width=50> <span class="pixelify">Thanksgiving!</span> <img src='../assets/announcement/pinkyellow.gif' width=50>
-
 Nov 24
 : **Lecture**{: .label .gdd-blue } Guest Lecture
 : **Reading**{: .label .gdd-brown } [Tutorial Designs]
+
+## <img src='../assets/announcement/bluegreen.gif' width=50> <span class="pixelify">Thanksgiving!</span> <img src='../assets/announcement/pinkyellow.gif' width=50>
 
 <!--Apr 26
 : **Lecture**{: .label .gdd-blue } Workday-->
