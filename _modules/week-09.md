@@ -2,12 +2,12 @@
 title: Week 9
 ---
 
-Mar 31
-: **Lecture**{: .label .gdd-blue } [Music and SFX]
-: **Lab**{: .label .gdd-yellow }Optional: [Lab 17: Delegates and Events]
+Nov 03
+: **Lecture**{: .label .gdd-blue } [Accessibility]
+: **Reading**{: .label .gdd-brown } [Accessible Controllers]
 
-Apr 2
-: **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
+Nov 05
+: **Lecture**{: .label .gdd-blue } Work Day
 
 
 <!-- Lecture: -->
