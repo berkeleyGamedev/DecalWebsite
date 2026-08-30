@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-**DISCLAIMER**: This setup tutorial is for Macs and Windows Computers.  If you have a Chromebook or a Linux system, we recommend looking  up a YouTube tutorial on how to do so (there are a lot online!) 
+<!-- **DISCLAIMER**: This setup tutorial is for Mac and Windows Computers.  If you have a Chromebook or a Linux system, we recommend looking up a YouTube tutorial on how to do so (there are a lot online!)  -->
 
 ## Creating a Unity ID
 If you already have a Unity ID, you may skip this step. Otherwise, [create a Unity account].
@@ -25,15 +25,17 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 ![](images/createUnityId.png)
 
 ## Installing Unity Hub
-1. Install Unity Hub by clicking one of the following links, depending on your system.
 
-    [Windows Download]
+1. Install Unity Hub by clicking on the link below. The download should automatically be configured to a detected platform, but you can also manually download a specific format on the same page.
 
-    [Mac Download]
+    [Download]
 
-2. Install Unity Hub. If you get this prompt, click `Allow access`.
+{: .note}
+> You will be prompted to make a Unity ID if you don't already have one. Once you login with one, you will be redirected to the download menu. **You are not required to use your berkeley.edu email.**
 
-    ![](images/image6.png)
+2. Follow the steps listed on the page to download and open the installer. Mac instructions are listed below.
+
+    ![](images/image5.png)
 
 3. Sign in with the Unity ID you just created.
 
@@ -57,17 +59,12 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 
     ![](images/image2.png)
 
-2. Go to `Archive -> Download Archive`
+2. Go to `Archive` and search for `6000.3.18f1`. Click Install (will prompt an install in your Unity Hub).
 
-    ![](images/download.png)
 
-3. Go to the `Unity 6` tab and search for `6000.0.64f1`. Click Install (will prompt an install in your Unity Hub).
+4. By default, Unity will install Visual Studio as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
 
-    ![](images/openWithHub.png)
-
-4. By default, Unity will install Visual Studios as the text editor for your scripts. If you would prefer to use a different editor such as [VS Code For Unity], then un-check this box.
-
-    For the purposes of this class, we will only ever ask you to build your project as an executable. (Webgl executables will be covered later in the course, once we reach the final project!)
+    For the purposes of this class, we will only ever ask you to build your project as an executable. (WebGL executables will be covered later in the course, once we reach the final project!)
 
     This means for Windows users, check `Windows Build Support (IL2CPP)`.
 
@@ -82,22 +79,20 @@ If you already have a Unity ID, you may skip this step. Otherwise, [create a Uni
 After your Unity Editor finishes installing, you're all set up!
 
 ## Troubleshooting
-If intellisense is not working properly in your IDE, go to `Edit > Preferences > External Tools`, and make sure to select your IDE of choice for ‘External Script Editor’. Then regenerate the project files: 
+If IntelliSense is not working properly in your IDE, go to `Edit > Preferences > External Tools`, and make sure to select your IDE of choice for ‘External Script Editor’. Then regenerate the project files: 
 
 ![](images/regen.png)
 
 {: .note }
-Visual Studio and VS Code have their own packages for unity dev that should be installed beforehand!
+Visual Studio and VS Code have their own packages for Unity dev that should be installed beforehand!
 
 **Still Stuck?** 
-While the editor version is outdated, the general principle stay the same in [this video](https://www.youtube.com/watch?v=ewiw2tcfen8). 
-
+While the editor version is outdated, the general principle stayw the same in [this video](https://www.youtube.com/watch?v=ewiw2tcfen8). 
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [here!]: https://forms.gle/JAPYBPsvmKueXjhXA
-[create a Unity account]: https://id.unity.com/en/conversations/02f34c66-e99a-487b-bf0b-669778c319cc002f
-[Windows Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
-[Mac Download]: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg
+<!-- [create a Unity account]: https://id.unity.com/en/conversations/02f34c66-e99a-487b-bf0b-669778c319cc002f -->
+[Download]: https://unity.com/download
 [VS Code For Unity]: https://code.visualstudio.com/docs/other/unity
