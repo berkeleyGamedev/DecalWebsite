@@ -4,7 +4,7 @@ role: Teaching Assistant
 pronouns: she/her
 email:
 website:
-photo: Karyss_Park.jpg
+photo: Karyss_Park.png
 photo_hover: alt/karyss.jpg
 ---
 
