@@ -15,8 +15,8 @@ Oct 29
 
 
 <!-- Lecture: -->
-[Music and SFX]: https://docs.google.com/presentation/d/1__z-V8P5MrFMpAO4GqjrLe3Os-eTJ2vyZNp_3dHV2cc/edit?usp=sharing
-[Work Day]: https://docs.google.com/presentation/d/1-HQqyJL7VE9U3LYsFRsUril_aYGi9-dnl-i0AUAnCfc/edit?usp=sharing
+<!-- [Music and SFX]: https://docs.google.com/presentation/d/1__z-V8P5MrFMpAO4GqjrLe3Os-eTJ2vyZNp_3dHV2cc/edit?usp=sharing
+[Work Day]: https://docs.google.com/presentation/d/1-HQqyJL7VE9U3LYsFRsUril_aYGi9-dnl-i0AUAnCfc/edit?usp=sharing -->
 
 <!-- Lab/Project: -->
 [Lab 16: Lighting]: ./../pages/labs/lab16/lab16

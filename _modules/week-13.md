@@ -11,8 +11,8 @@ Dec 3
 : **Project**{: .label .gdd-navy } [Milestone 4: Final Submission]
 
 <!-- Lecture: -->
-[Building and Publishing]: https://docs.google.com/presentation/d/13hBSfcfErFZp4QR-dFVJ42UW0cm0MX_nXVdkQSNIYNQ/edit?usp=sharing
-[Course Postmortem]: https://docs.google.com/document/d/1FreG-CxgChfSAyKwz5S5rjSffoPWxVtsowYawKBcAHU/edit?usp=sharing
+<!-- [Building and Publishing]: https://docs.google.com/presentation/d/13hBSfcfErFZp4QR-dFVJ42UW0cm0MX_nXVdkQSNIYNQ/edit?usp=sharing
+[Course Postmortem]: https://docs.google.com/document/d/1FreG-CxgChfSAyKwz5S5rjSffoPWxVtsowYawKBcAHU/edit?usp=sharing -->
 
 <!-- Lab/Project: -->
 [Milestone 4: Final Submission]: ../pages/projects/project3/project3

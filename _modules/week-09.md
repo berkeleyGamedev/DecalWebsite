@@ -11,12 +11,13 @@ Nov 05
 
 
 <!-- Lecture: -->
-[Music and SFX]: https://docs.google.com/presentation/d/1ROulqUCA7Yg67O7noNTpb1tZ3b9txuhmLftZeuR4C_s/edit?usp=share_link
+[Accessibility]: https://docs.google.com/presentation/d/1RE0DD5hWWk8L9fSUS4Y_tSD5VD6T3twd2569ML5-DVw/edit?usp=sharing
 
 <!-- Lab/Project: -->
 [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3
-[Lab 17: Delegates and Events]: ./../pages/labs/lab17/lab17
 
 <!-- Readings: -->
+[Accessible Controllers]: https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/
+
 
 

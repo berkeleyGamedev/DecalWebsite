@@ -12,8 +12,8 @@ Sep 17
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 6: Colliders and Rigidbodies] / Artist: [Lab 7: Animation]
 
 <!-- Lectures:  -->
-[Game Art Fundamentals]: https://docs.google.com/presentation/d/1xQdH3qp6pj1s0jeCtjGWRH3NGzpSwyLvZ1zzSQzYry0/edit?usp=share_link
-[Fundamentals of Animation]: https://docs.google.com/presentation/d/1Z6lU-dLIUxSx6aO1Sjodpb_7NIQMScEtIx9uUmpTx8E/edit?usp=sharing
+<!-- [Game Art Fundamentals]: https://docs.google.com/presentation/d/1xQdH3qp6pj1s0jeCtjGWRH3NGzpSwyLvZ1zzSQzYry0/edit?usp=share_link
+[Fundamentals of Animation]: https://docs.google.com/presentation/d/1Z6lU-dLIUxSx6aO1Sjodpb_7NIQMScEtIx9uUmpTx8E/edit?usp=sharing -->
  
 <!-- Lab/Project: -->
 [Lab 4: Advanced Scripting]: ./../pages/labs/lab4/lab4
@@ -22,4 +22,4 @@ Sep 17
 [Lab 5: Tilesets]: ./../pages/labs/lab5/lab5
 
 <!-- Readings: -->
-[Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo 
+[Graphics vs Aesthetics]: https://game-wisdom.com/critical/art-vs-aesthetics-nintendo
