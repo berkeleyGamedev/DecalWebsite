@@ -16,8 +16,8 @@ Oct 15
 
 
 <!-- Lecture:  -->
-[Work Day]: https://docs.google.com/presentation/d/1TscLMK7vp1svKYjRhCYw1QSdoqfZC3FF95KRjIzuCJo/edit?usp=sharing
-[Tutorial + Level Design]: https://docs.google.com/presentation/d/1R9bQmwpgBpIGpopn7Eg89hOtoxWg6_1DDjOETC2tBRE/edit?usp=sharing
+<!-- [Work Day]: https://docs.google.com/presentation/d/1TscLMK7vp1svKYjRhCYw1QSdoqfZC3FF95KRjIzuCJo/edit?usp=sharing
+[Tutorial + Level Design]: https://docs.google.com/presentation/d/1R9bQmwpgBpIGpopn7Eg89hOtoxWg6_1DDjOETC2tBRE/edit?usp=sharing -->
 
 <!-- Lab/Project: -->
 [Lab 13: Transitioning, Saving and Building]: ./../pages/labs/lab13/lab13
