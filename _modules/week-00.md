@@ -11,7 +11,6 @@ Sep 03
 : **Lab**{: .label .gdd-yellow }[Lab 0: Unity Setup]
 
 
-<!-- [Infosession]: https://docs.google.com/presentation/d/1iZ9pJvwR1TOjbn_a8NzRG-Pyqg8lfGIktHdKdTzB16g/edit?usp=share_link -->
-
+[Infosession]: https://docs.google.com/presentation/d/1p40YVvlmEWD-lIvoiOv5P0tgRicDRoEfasd7N_6qW0I/edit?usp=sharing
 
 [Lab 0: Unity Setup]: ./../pages/labs/lab0/lab0
