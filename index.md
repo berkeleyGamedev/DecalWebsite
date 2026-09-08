@@ -11,7 +11,7 @@ nav_order: 0
 > <h2>Week 1 (9/8)</h2>
 > <img src = "assets/announcement/bluegreen.gif" width = 180>
 >
-> Welcome to GDD club!
+> Welcome to GDD!
 > Thank you so much to everyone who applied and congratulations to those who made it in the DeCal! We hope you’re as excited as you are to start game developing :D
 >
 > We’re going to hit the ground running, so please come to class with your laptop. Hope to see you in class!
