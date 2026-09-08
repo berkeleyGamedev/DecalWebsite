@@ -8,24 +8,17 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>The Game Design and Development DeCal is NOW ACCEPTING APPLICATIONS for Fall 2026!</h2>
-> <h2><img src = "assets/announcement/minions.gif" width=180></h2>
-> Interested in game development and/or need 3 upper-div units? Come apply to our Video Game Design & Development DeCal! Applications are due Friday, September 4th at 11:59 pm, or in 8 days. If you have any questions, feel free to reach out to any lead, or email us at berkeley.gamedev@gmail.com.
+> <h2>Week 1 (9/8)</h2>
+> <img src = "assets/announcement/bluegreen.gif" width = 180>
 >
-> **Application link**: <https://tinyurl.com/gddf26app>
+> Welcome to GDD club!
+> Thank you so much to everyone who applied and congratulations to those who made it in the DeCal! We hope you’re as excited as you are to start game developing :D
 >
-> 💼 **DECAL INFO SESSIONS** 💼
+> We’re going to hit the ground running, so please come to class with your laptop. Hope to see you in class!
 >
-> We will be hosting two info sessions next week! Come by to learn about our course, see some DeCal games made in the past, or to get help setting up Unity on your laptop (Lab 0)! Both info sessions contain the same content, so show up to the time that works best for you.
-> Hope to see you there!
->
-> Discord server: <https://discord.gg/yaFYJxc>
->
-> |**Infosession Date**|**Time**|**Location**|
-> | Tuesday (9/1) | 6:30pm-8pm | Jacobs 10 |
-> | Thursday (9/3) | 6:30pm-8pm | Jacobs 10 |
-
-
+> |**Date**|**Due in Class**|**Assigned**|
+> | Tuesday (9/8) | None | Lab 1 will be assigned, check-off is due 9/15 in class. |
+> | Thursday (9/10) | None | Programmer Lab 2 / Artist Lab 3 will be assigned, check-off is due 9/17 in class. Project 1 will be assigned, Part 1 is due 9/17 at 11:59pm via this form (to be linked after class)
 
 
 | -------- |
