@@ -85,7 +85,7 @@ When you have a solid picture for what you want to create, it's time to start yo
 
 Compile your game art assets to a google drive and make sure it is accessible to facilitators. 
 
-**Part 1 Due Thursday, 2/12 @ 6:59 PM.**
+**Part 1 Due Thursday, 9/17 @ 6:29 PM.**
 
 [SUBMIT PART 1 HERE!](https://tinyurl.com/gddS26p1p1){: .btn .btn-purple }
 
@@ -127,7 +127,7 @@ You can choose to make additional assets for game components that you opted out 
 
 Compile your game art assets and **animations** to a google drive and make sure it is accessible to facilitators. 
 
-**Part 2 Due Thursday, 2/19 @ 11:59 PM.** 
+**Part 2 Due Thursday, 9/24 @ 11:59 PM.** 
 
 [SUBMIT PART 2 HERE](https://tinyurl.com/gddS26p1p2){: .btn .btn-purple }
 

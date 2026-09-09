@@ -8,6 +8,7 @@ Nov 03
 
 Nov 05
 : **Lecture**{: .label .gdd-blue } Work Day
+: **Project**{: .label .gdd-navy } [Milestone 2: Alpha Playtest]
 
 
 <!-- Lecture: -->

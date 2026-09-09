@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-The Theme is... <span class="pixelify">Sticky Situation</span>.
+The Theme is... <span class="pixelify">???</span>.
 {: .fs-8 }
 
 ## Overview
@@ -54,7 +54,7 @@ We will be grading on the amount of effort and time put into the project. This w
 
 Everyone must fill out the submission form, but only **one person** should submit the project files. Invite berkeleyGameDev as a collaborator.
 
-**Project 2 Due Thursday, 2/26 @ 11:59 PM.**
+**Project 2 Due Thursday, 10/1 @ 11:59 PM.**
 
 [SUBMIT PROJECT 2 HERE!](https://tinyurl.com/s26proj2){: .btn .btn-purple }
 
