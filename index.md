@@ -5,26 +5,29 @@ description: Announcements and Class schedule
 nav_order: 0
 ---
 
-# Game Design and Development Decal Spring 2026
+# Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>FACILITATOR APPLICATIONS ARE NOW OPEN!<img src = "assets/announcement/pika.gif" width=50></h2>
-> If you would like an opportunity to help teach the only game design and development class at Cal, please take the time to fill out the application below. You will get 2 units, on top of joining our silly little crew, meeting new people, and helping teach and maintain the class! 
+> <h2>Week 2 (9/14)</h2>
+> <img src = "assets/announcement/club_penguin.gif" width=180>
 >
-> Ask any of our leads for any questions regarding the position. Please apply if interested! The application is due Friday, May 1st at 11:59 PM. 
+> Hey guys! We hope you enjoyed the first two sessions of our DeCal last week :D
 >
-> The application is found here: <https://tinyurl.com/gdd26facilapps>
+> Every Sunday, we will plug weekly DeCal-related announcements and reminders, such as due dates and other events, to both the DeCal website as well as the Discord server on this announcements channel.
 >
-> Aside from that, remember that your **COMPLETED Project 3** is due **THIS THURSDAY!** It's the final stretch—finish strong! ✨ 
-> Afterwards, we will have the **GDD Showcase on Saturday, May 2nd at 7:30pm in Jacobs 310** where you all present your final Projects!
 >
-> |**Date**|**Due**|**Assigned**|
-> | Tuesday (4/28) | Project 3 Weekly Progress Report | None! |
-> | Thursday (4/30) | **FINAL Project 3** | None, forever.. |
+> **Programmers**: You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
+>
+> **Artists**: Please be aware that the deadline for Part 1 is BEFORE CLASS and not 11:59! That way, we can get art critiques in-class rolling smoothly.
+>
+> |**Date**|**Due in Class**|**Assigned**|
+> | Tuesday (9/15) | All Lab 1 | Programmer Lab 4 / Artist Lab 5, due 09/22 |
+> | Thursday (9/17) | Programmer Lab 2 / Artist Lab 3 Project 1 Part 1, due at 11:59PM. | Programmer Lab 6 / Artist Lab 7, due 09/24 in class. Project 1 Part 2, due 09/24 at 11:59PM.
+
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13)|
+| Jump to Week: [0](#week-0), [1](#week-1)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 

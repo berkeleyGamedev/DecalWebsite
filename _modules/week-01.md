@@ -2,19 +2,19 @@
 title: Week 1
 ---
 
-Feb 3
+Sep 08
 : **Lecture**{: .label .gdd-blue } [Intro to Unity]
 : **Lab**{: .label .gdd-yellow }[Lab 1: Intro to Unity]
 : **Reading**{: .label .gdd-brown }[Game Design Principles]
 
-Feb 5
+Sep 10
 : **Lecture**{: .label .gdd-blue } [Game Design]
 : **Lab**{: .label .gdd-yellow }Programmer: [Lab 2: Basic Scripting] / Artist: [Lab 3: Pixel Art and Spriting]
 : **Project**{: .label .gdd-navy }[Project 1]
 
 <!-- Lectures:  -->
-[Intro to Unity]: https://docs.google.com/presentation/d/11O-l3yDW4NzbnXYD2psOwV7C9SdE-NUrSqr3PMfyGYY/edit?usp=share_link
-[Game Design]: https://docs.google.com/presentation/d/1mfvuj4AwXhHN6YNbNfJrNIYvqXaWwwRdEmNAvVp9eVM/edit?usp=share_link
+[Intro to Unity]: https://docs.google.com/presentation/d/1iKM14Em3HuoTVsZjPl4D3tWYqklq3MVmWdMK0Fq4bnY/edit?usp=sharing
+[Game Design]: https://docs.google.com/presentation/d/17UoC1lN-89-V05dIYJ__IfP10IC5nak08hGv_H6Eg3s/edit?usp=sharing 
 
 <!-- Lab/Project: -->
 [Lab 1: Intro to Unity]: ./../pages/labs/lab1/lab1
@@ -23,4 +23,4 @@ Feb 5
 [Project 1]: ./../pages/projects/Projects
 
 <!-- Readings: -->
-[Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/ 
+[Game Design Principles]: https://www.gamedesigning.org/learn/game-design-principles/

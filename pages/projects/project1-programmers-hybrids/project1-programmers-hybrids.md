@@ -47,7 +47,7 @@ Your base project should be able to be played *without compiler errors*. If ther
 
 After projects have been graded, you will receive feedback on your project. 
 
-**Part 1 Due Thursday, 2/12 @ 11:59 PM.**
+**Part 1 Due Thursday, 9/17 @ 11:59 PM.**
 
 [SUBMIT PART 1 HERE!](https://tinyurl.com/gddS26p1p1){: .btn .btn-purple }
 
@@ -93,7 +93,7 @@ Replace the existing sprite assets with new ones you created. Be sure to include
 
 To submit your project for part 2, **upload your project to a new Github repo** and **fill out the respective form** by clicking the button below.
 
-**Part 2 Due Thursday, 2/19 @ 11:59 PM.**
+**Part 2 Due Thursday, 9/24 @ 11:59 PM.**
 
 [SUBMIT PART 2 HERE!](https://tinyurl.com/gddS26p1p2){: .btn .btn-purple }
 
