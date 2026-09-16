@@ -1,4 +1,4 @@
-    ---
+---
 title: "Lab 4: Advanced Scripting"
 parent: Labs
 layout: home
