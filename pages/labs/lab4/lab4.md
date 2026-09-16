@@ -85,6 +85,10 @@ When writing your C# scripts, you will use methods of the [GameObject] class to 
     - Ex: if you want to turn off your player when getting killed you would use something like:
 
 	        gameObject.SetActive(false);
+        
+        or alternatively (does the same thing):
+
+            SetActive(false);
 
 
 ### Singletons
