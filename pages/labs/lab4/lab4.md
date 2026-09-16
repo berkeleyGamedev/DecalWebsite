@@ -1,4 +1,4 @@
----
+    ---
 title: "Lab 4: Advanced Scripting"
 parent: Labs
 layout: home
@@ -30,17 +30,18 @@ This is how you dropdown.
 ## Overview 
 In this lab, you will create a mini-game loosely inspired by *Fruit Ninja*. While we will provide a basic framework for the game, you will have the opportunity to design and implement the enemies entirely from scratch. Exciting, right? 
 
-## PREFACE
+## Preface
 Before we begin, there are 3 concepts we want to make sure you understand. The lab will help to reinforce all three of these ideas. We highly encourage you to read through this section and explore the linked Script References. Even if you are already familiar with these concepts, we recommend reviewing the material, as it contains methods that you may find useful! 
 
 ### GameObject Methods
-By now, you most certainly have encountered at least one [GameObject], so there's no need for a detailed explanation. 
 <details>
-<summary>If you need a quick refresher...</summary>
+<summary>A quick refresher about GameObjects</summary>
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
 A GameObject is the fundamental building block in every scene. It could be anything from a character, a light source, or a spawn point. While the GameObject itself does not "do" anything, it serves as a "container" which you can attach various components. These components define its behavior, appearance, and functionality, as demonstrated by the following methods. 
 </div>
 </details>
+
+When writing your C# scripts, you will use methods of the [GameObject] class to create the behaviors you want for your game, here are some examples:
 
 1. [Find()]  
     Finds and returns a GameObject with the specified name.
@@ -51,19 +52,19 @@ A GameObject is the fundamental building block in every scene. It could be anyth
 
     - Ex: In the previous lab, the GameObject for the player in the scene was named “Player”. Thus, if we write  
 
-            foo = GameObject.Find(‘Player’);  
+            GameObject player = GameObject.Find(‘Player’);  
 
-        **foo** is assigned as a “pointer” to that GameObject instance (highlighted in blue). 
-    - This method isn't that slow, and optimization isn't that big of a deal in this class. But if you're calling this method a lot and do want to try optimizing this a little, you can call this method once in the `Start()` method and then store a reference to what you found in a variable.
+        **player** is assigned as a “pointer” to that GameObject instance (highlighted in blue). 
+    - This method isn't that slow, and optimization isn't that big of a deal in this class, but ideally you should try to only call this method once in the `Start()` method and then store a reference to what you found in a variable. 
     - **More commonly used is [GameObject.FindWithTag()], to avoid having to change your code if you decide to rename a GameObject in the Inspector.**
 
 2. [GetComponent()]  
     Returns a specified GameObject component. 
     - Ex: During the gameplay, if you want to change the color of your player's sprite to red, you could type the following:  
 
-            foo = GameObject.Find(‘Player’)  
+            GameObject player = GameObject.Find(‘Player’);
             if (insert some arbitrary condition here) {  
-                sr = foo.GetComponent<SpriteRenderer>();  
+                SpriteRenderer sr = player.GetComponent<SpriteRenderer>();  
                 sr.color = Color.red; 
             }
 
@@ -71,10 +72,10 @@ A GameObject is the fundamental building block in every scene. It could be anyth
 
                  ComponentType name = GameObject.GetComponent<ComponentType>();
 
-    - To access the GameObject that your script is attached to you can simply use the keyword **gameObject**
+    - To access the GameObject that your script is attached to you can simply use the keyword **gameObject**. Additionally, if you are trying to call a method on the GameObject your script is attatched to, you can call that method without a reference.
         - Ex: if you have a Health script attached to your player GameObject, and you want to change the player’s color to red directly **from within the Health script**, you can type the following:
 
-                gameObject.GetComponent<SpriteRenderer>.color = Color.red;
+                GetComponent<SpriteRenderer>.color = Color.red;
 
     - This method can also be optimized just like with **Find()**. It's advisable to call the method once in `Awake()` or `Start()` and store its result
 
@@ -93,27 +94,26 @@ So how do we make a singleton? Easy! Let’s break this down.
 
 ![](images/image4.png)
 
-- First, this is not a true singleton because you could technically make more of them by attaching this script to multiple objects; however, this does not matter for our use case.
-- **Public** means all scripts anywhere can access this variable
-- **Static** means all Score script objects share the same **st** variable
-    - It also means you can access this shared **st** variable using **Score.st**
+- We create **Instance** as an auto-implemented [property] **(we can think of this as just a variable in this case)** that can be accessed publicly (get) but modified privately (private set)
+- **Public** means all scripts anywhere can access this property
+- **Static** means all Score script objects share the same **Instance** property 
+    - It also means you can access this shared **Instance** property using **ScoreCounter.Instance**
         - This is nice because there are no **GetComponent**s or **GameObject.Find**s required!
+- The if condition enforces that there is indeed only once instance of the object (if there already exists an Instance, this instance shouldn't exist!)
+    - We return afterwards because Destroy doesn't immediately stop the script from running (so otherwise we wouold be setting Instance = null)
 - **We do this in `Awake()` because `Awake()` is guaranteed to happen before `Start()` which is a place where this singleton might get used**
 
 {: .important}
->If another script tries to reference **Score.st** from within an `Awake()` there is no guarantee that **Score.st** will be assigned yet!!! (It will only work sometimes)
-
-{: .note}
->We use a short variable name (**st** short for singleton in this case) to make future uses in other scripts cleaner and easier to read, but you can name it whatever you want.
+>If another script tries to reference **ScoreCounter.Instance** from within an `Awake()` there is no guarantee that **ScoreCounter.Instance** will be assigned yet!!! (It will only work sometimes)
 
 Now when another script wants to modify the score they can simply say:
 
-        Score.st.addScore(9001);
+        ScoreCounter.Instance.AddScore(9001);
 
 Instead of: 
 
-        Score scoreObj = GameObject.Find(“Score”).GetComponent<Score>();
-        scoreObj.addScore(1337);
+        ScoreCounter scoreObj = GameObject.Find(“Score”).GetComponent<ScoreCounter>();
+        scoreObj.AddScore(1337);
 
 ### DeltaTime
 - [Time.deltaTime]
@@ -129,7 +129,7 @@ Instead of:
     2. Unlike **Time.deltaTime**, this value is consistent throughout your game
     3. Whenever you use a physics method such as `FixedUpdate()`, you should be using this value instead of **Time.deltaTime** to avoid unwanted behavior
 
-### Misc Tips
+### Miscellaneous Tips
 - Don’t feel too overwhelmed by some of the crazy syntax and differences in C#, you can get really far by just pretending its Java and ignoring the new stuff. Both languages are very similar in syntax because Java's syntax is also inspired by C.
 - Don’t forget the tips from the last scripting lab! It covered ways to get more out of the Unity Inspector for your script (among other things):
     1. Structs
@@ -182,7 +182,7 @@ As mentioned earlier, you will be building a simplified version of the *Fruit Ni
 - A functioning mini-game that is mechanically similar to Fruit Ninja (in the loosest sense)
 - 2 enemy types
     - One that you want to hit, one that you don’t
-- Score integration (use Score.st.addScore())
+- Score integration (use ScoreCounter.Instance.AddScore())
 - A functioning spawn system
 - Mouse attacks should kill enemies
 - And ensuring everything is organized (the enemy script in particular)!
@@ -192,7 +192,7 @@ As mentioned earlier, you will be building a simplified version of the *Fruit Ni
 
 For this lab we have a few systems already in place in `Assets > Prefabs > System` or . Take a look and figure out see each script works.  
 1. **MouseInput**: tracks the mouse input and acts as an attack where the mouse left clicks.
-2. **Score**: updates the score and changes a very simple UI.
+2. **ScoreCounter**: updates the score and changes a very simple UI.
 
 **You have a lot of creative freedom here on out. You can take that and run with it or you can follow the more chunked up, bare minimum steps below.**
 
@@ -305,8 +305,8 @@ Final stretch! Now that we have an enemy to hit, go into the MouseInput script a
     </div>
     </details>
 2. Now let's implement the scoring system. 
-    - If it is a good enemy, call `Score.Singleton.AddScore(10);`
-    - If it is a bad enemy, call `Score.Singleton.AddScore(-10000);`
+    - If it is a good enemy, call `ScoreCounter.Instance.AddScore(10);`
+    - If it is a bad enemy, call `ScoreCounter.Instance.AddScore(-10000);`
         - Or you could find some more elegant way to end the game, but this will suffice for the lab
 3. Then, delete the enemy. 
 
@@ -340,3 +340,4 @@ If you experience any bugs or typos within the lab itself, please report it [her
 [SpriteRenderer]: https://docs.unity3d.com/ScriptReference/SpriteRenderer.html
 [Destroy]: https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Object.Destroy.html
 [GameObject.FindWithTag()]: https://docs.unity3d.com/6000.0/Documentation/ScriptReference/GameObject.FindWithTag.html
+[property]: https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties
