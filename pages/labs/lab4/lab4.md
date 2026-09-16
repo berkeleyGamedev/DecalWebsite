@@ -75,7 +75,7 @@ When writing your C# scripts, you will use methods of the [GameObject] class to 
     - To access the GameObject that your script is attached to you can simply use the keyword **gameObject**. Additionally, if you are trying to call a method on the GameObject your script is attatched to, you can call that method without a reference.
         - Ex: if you have a Health script attached to your player GameObject, and you want to change the player’s color to red directly **from within the Health script**, you can type the following:
 
-                GetComponent<SpriteRenderer>.color = Color.red;
+                GetComponent<SpriteRenderer>().color = Color.red;
 
     - This method can also be optimized just like with **Find()**. It's advisable to call the method once in `Awake()` or `Start()` and store its result
 
