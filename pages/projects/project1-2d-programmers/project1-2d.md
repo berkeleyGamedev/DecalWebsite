@@ -890,7 +890,7 @@ We will now hook up the functions to the buttons in each scene. Access the *Star
 
 Drag the *GameManager* prefab into the empty object slot, and select `GameManager > StartGame()` on the dropdown menu. Now when the button is clicked, the `StartGame()` function will execute.
 
-An important step is to head to `File > Build Settings` and click on the `Add Open Scenes` button under `Scenes In Build`. This will add *MainMenu* to the build, which will allow `SceneManager` to access the scene in order to switch to it.
+An important step is to head to `File > Build Profiles > Scene List` and click on the `Add Open Scenes` button below the scene list. This will add *MainMenu* to the build, which will allow `SceneManager` to access the scene in order to switch to it.
 
 {: .important}
 > `SceneManager` functions can only access scenes that are contained in the build. Add scenes that you want to access into the build before testing out the `SceneManager` functions.
