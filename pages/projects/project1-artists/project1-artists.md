@@ -26,10 +26,10 @@ The objective of this project is to allow you to gain experience creating your o
 For ease of reference, here is the Project 1 timeline: 
 
 |---|---|---|
-|Feb 5| Project 1 Released |  |
-|Feb 12| Part 1 Deadline| **Due before Class!** |
+|Sep 10| Project 1 Released |  |
+|Sep 17| Part 1 Deadline| **Due before Class!** |
 ||Art Critiques|Artists will receive feedback with an *in class* **art critique**. Part 2 is intended to be built upon your Part 1 submission and the feedback you received, so please come prepared for the critique.|
-| Feb 19 | Part 2 Deadline | Due at 11:59 PM |
+|Sep 24| Part 2 Deadline | Due at 11:59 PM |
 
 
 ## Part 1: Creating Assets
