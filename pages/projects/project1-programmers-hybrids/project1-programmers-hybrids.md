@@ -21,7 +21,7 @@ The goal of this project is to familiarize you with Unity, guide you through mak
 ## Part 1: Base Project
 
 {: .note} 
-> The tutorials are done in a different version of Unity, but you should do yours in **6000.0.49f1**. The project files have been updated to this version.
+> The tutorials are done in a different version of Unity, but you should do yours in **6000.3.18f1**. The project files have been updated to this version.
 
 There are two versions of the base project. Please choose **one**, download the Github Project, and follow its corresponding spec instructions. 
 
