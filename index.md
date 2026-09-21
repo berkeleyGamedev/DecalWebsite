@@ -8,21 +8,21 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 2 (9/14)</h2>
-> <img src = "assets/announcement/club_penguin.gif" width=180>
+> <h2>Week 3 (9/21)</h2>
+> <img src = "assets/announcement/coin.gif" width=120>
 >
-> Hey guys! We hope you enjoyed the first two sessions of our DeCal last week :D
+> Damn its week 3 already! Congrats on completing your first project, we will be grading those soon :D 
 >
-> Every Sunday, we will plug weekly DeCal-related announcements and reminders, such as due dates and other events, to both the DeCal website as well as the Discord server on this announcements channel.
+> And now for some weekly announcements…
 >
+> Office hours are starting this week! They will be on **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in Discord to get check-offs done or if you need help on anything!
 >
-> **Programmers**: You should be adding ``berkeleyGameDev`` as a collaborator to your Project 1 repository, and keep the project submission as a private repo.
->
-> **Artists**: Please be aware that the deadline for Part 1 is BEFORE CLASS and not 11:59! That way, we can get art critiques in-class rolling smoothly.
+> Also, Project 2 is slowly approaching (this thursday!!), and the Project 2 group matching form [is now out]! [**FILL OUT THE PROJECT 2 MATCHING FORM**](https://docs.google.com/forms/d/e/1FAIpQLSe2wB9-AsD8qbKAR4YYmzYX1WjVaxbwY31r1m_JDqpTSv8LsA/viewform) by **Thursday 9/24!**
+
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (9/15) | All Lab 1 | Programmer Lab 4 / Artist Lab 5, due 09/22 |
-> | Thursday (9/17) | Programmer Lab 2 / Artist Lab 3 Project 1 Part 1, due at 11:59PM. | Programmer Lab 6 / Artist Lab 7, due 09/24 in class. Project 1 Part 2, due 09/24 at 11:59PM.
+> | Tuesday (9/22) | Programmer Lab 4 / Artist Lab 5 | All Lab 8, **due 09/29 in class.** |
+> | Thursday (9/24) | Programmer Lab 6 / Artist Lab 7 is due in class. **Project 1 Part 2 is due at 11:59pm.**| Programmer Lab 9 / Artist Lab 10, **due 10/01 in class.** **Project 2, due 10/01 at 11:59pm.**
 
 
 
@@ -64,5 +64,3 @@ nav_order: 0
 [Apply]: https://tinyurl.com/fa25gddapp
 
 [Click here for infosession slides!]: https://docs.google.com/presentation/d/1LADC9Byt52I4q0NpYCA9_YU4Q4a-XVkh1xN95CsGlIo/edit?usp=sharing
-
-
