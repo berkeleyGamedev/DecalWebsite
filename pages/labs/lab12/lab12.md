@@ -1,12 +1,12 @@
 ---
-title: "Lab 9: Environment Design"
+title: "Lab 12: UI Asset Creation"
 parent: Labs
 layout: home
 nav_order: 12
 nav_exclude: true
 ---
 
-# Lab 9: Environment Design
+# Lab 12: UI Asset Creation
 {: .no_toc }
 
 ## Table of contents
@@ -16,90 +16,60 @@ nav_exclude: true
 {:toc}
 
 ## Overview
-In this lab, you are designing an environment, or background, for a 2D infinite side scroller game. The purpose of this lab is to have practice in making art assets that establish an atmosphere for a game. Additionally, your piece should be layered to create an illusion
-of depth (a.k.a the parallax effect).
 
-## Parallax Effect
-The parallax effect is created when the background moves slower than the foreground. This is accomplished through having multiple layers to a background and can look like this **(Fig. 1):**
+In creating games, a core part of tying the entire game together is through UI. User Interface (UI)  encompasses anything the player interacts with. This includes things like health bars, stat meters, text labels, screen shake, dialogue, and a whole lot more. As an artist for this decal, the UI assets you’ll most likely be working on include a start menu, health bar, in-game texts, and an in-game menu, along with others specific to your game genre of choice.
+
+UI is a very underrated aspect of game design. If done well, it goes unnoticed. If done wrong, it completely disrupts the immersion of the game. This lab will teach you how to create cohesive UI assets to tie your game together!
+
+
+## Analysis
+
+First, it’s always great to take a look at what works well. Very popular titles like Hollow Knight, Stardew Valley, Overwatch, and even Minecraft have all nailed down their UI assets.
+
+|![](images/images4and7.png)![](images/image6.jpg)![](images/image2.jpg)|
+|:--:|
+|Stardew Valley UI Examples|
+
+Looking at these assets, it’s evident they all belong to the same game. There’s a general wooden feel to the assets, with wooden backgrounds to the title image and the background behind the governor. All the assets also have a dark brown wooden frame around them, visible in the buttons on the start screen, dialogue box, fishing game, and inventory. The color palette of these assets is an analogous palette of various browns. 
+
+Below are a few more examples of UI assets that have a very cohesive theme.
+
+![](images/image10.jpg)
 
 ![](images/image1.png)
 
-In order to create depth and the parallax effect, there are different shades of orange/red with the darker colors in the foreground and the lighter colors in the background. This depth is what is trying to be achieved in this lab.
-
-You can watch this informational video about [the parallax effect] for a more in-depth explanation. 
-
-There are plenty of ways to achieve depth and a parallax effect. Below are some analyses of different game screenshots and how depth is created.
-
-## Yoshi's Island
-
-Depth is created through the foreground (the orange flowers and bushes), midground (the yellowish/orange field with white flowers), background 1 (dark hills with green/pink pasture on top), and background 2 (the light blue sky with clouds). In this screenshot **(Fig. 2)**, there is the use of scale and shades to create depth. 
-
-![](images/image2.png)
-
-The orange flowers in the foreground are the size of Yoshi and Baby Mario. The hills in background 1 are still big, yet the midground field is bigger in size and detail. Additionally, the hills are staggered to overlap with the lighter part on the right side in front of the darker part on the right creating more depth. Background 2 contrasts the dark hills with a light blue creating more depth using that contrast.
-
-![](images/image5.png)
-
-Here, the image above **(Fig. 3)** is highlighted to differentiate between the foreground (red), midground (green), and background (yellow).
-
-## Ori and the Blind Forest
-
-![](images/image9.png)
-
-In this screenshot **(Fig. 4)**, there is the foreground (the dark flower and rock tower shapes that are out of focus) and the midground (the brighter grassy pathway where Ori is located and is more detailed and in focus). Directly behind Ori, there is a cavity that uses the layers of the tree with lighter browns closer to Ori and darker browns further from it. This is the opposite of **Figure 1**. Yet on the right side of the tree, there is the gradation from the lighter brownish green to the darker, shadowed teal green like the background hills in **Figure 1**. The use of different shades of color creates depth in this frame. Also, the interruption of the smooth transition between shades of color (indicated in **Figure 5**) creates a strong contrast and depth.
-
-![](images/image4.png)
-
-The image above **(Fig. 5)** is highlighted to differentiate the foreground (red), midground (green), and background (yellow). It also includes focus on the door, shading, and interruption of smooth transition.
-
-## Pixel Art
-
 ![](images/image3.png)
 
-**(Fig. 6)**
 
-![](images/image6.png)
+## Color
 
-**(Fig. 7)** Figure 7 is highlighted to differentiate the foreground (red), midground (green), and background (yellow).
+By looking at these examples, it can be noted that UI tends to have a simple and generally monochromatic color palette. They’re not supposed to be a very large focal point of the game, but just there to aid in making it more stylized. However, important elements are colored and designed to be more noticeable, such as the bright design in the rewards in the Dungeon Hunter 4 example, or the congratulating words “spectacular” and “astonishing” in the Medieval UI Pack. It’s up to you to distinguish what parts of UI are more important than others; although, generally elements that directly correlate with gameplay should stand out more, such as the health bar.
 
-This piece exemplifies what is trying to be accomplished with this lab. There is the foreground with the arrow, the midground which contains the islands spread across the picture, and the background with large focal elements. Note how the background follows the general rule of being less detailed. We can also see strong contrasts between the colors in the piece, creating a sense of depth in the environment.
-
-## How to Export for Unity: Photoshop
-
-For Photoshop, go to `File > Export > Layers to Files…`. Then in the pop up menu, change File Type to PNG-8. Photoshop will export each layer as a separate file –– perfect for Unity!
-
-![](images/image7.png)
+![](images/image9.jpg)
 
 ![](images/image8.png)
 
-## How to Export for Unity: Procreate
+Taking a look at these two menus, the general color scheme of UI assets is one that contrasts enough with the background to stand out, but don’t stand out so much as to distract from the general gameplay. They also generally contain 2 main colors, with the top/first/space game being blue and white and the bottom/second/nature game being brown and beige. A limited palette is best for UI as to not take away from the game. 
 
-For Procreate, click on the wrench icon and navigate to `Share > Share Layers > PNG Files`. Procreate will export each layer as a separate file, **including hidden layers.** 
 
-## General Tips
+## UI Assets in Unity
 
-- Objects of focus should contrast with what is behind it.
-- Contrast, by color and/or outline, should be used in between layers of the environment to create depth.
-- Each component of the environment (foreground, midground, background) must be drawn on different layers, otherwise you will not be able to export it as a game-ready asset (see below). 
-- MORE IN FOCUS, MORE IN DETAIL. LESS IN FOCUS, LESS IN DETAIL. 
+Your games in this decal should all be **16:9** and **1920px by 1080px**. Keep that in mind when sizing your assets. One way you can work with this is take a 1920x1080 screenshot of your background (if it’s larger than that, ex. in a side-scroller) and import it into your drawing program. Then, draw your assets on layers on top of the background. This way, you always have a good way to gauge the size of the assets without having to import it into Unity and resize it in the program. We recommend setting each UI element to its own layer as well, so you can readily resize and reposition them individually. 
 
-## Themes
+There are many ways to add extra flairs to UI assets within Unity that are more technical artist/programmer specific, and that as an artist you probably will not have to do (but is good to know). Some of these include adding text, changing colors of buttons when hovered and clicked, and more, but will not be covered in this lab as its purpose is to get you artists familiar with creating UI assets. 
 
-The themes of the lab are as follows: **cyberpunk, fantasy, nature, apocalyptic or noir.**
+As an artist, if you are not the one implementing assets into Unity, it’s important to keep up communication with the programmer to keep the look consistent. Be sure to communicate important design elements like how the UI will be anchored to the screen as well as font and color, which are things the programmer changes within Unity.
 
-Choose 1 (or more) and create a background that fulfills the checkoff list. You should be making an environment for a scrolling 2D platformer (similar to the Pixel Art lab example).
 
-## Checkoff
+## Check-off
 
-- Create a panoramic background, extending left and right of the screen
-- Have the background repeat seamlessly, like in an infinite runner game
-- At least 1 large focal element, like the watch tower in **Fig. 1** or the skull in **Fig. 6**
-- At least 2 foreground elements, like the flowers in **Fig. 2** or **Fig. 4**
-- Include depth of at least three layers (background, midground, foreground) to create a parallax effect
+Redesign UI of a game. Design a health bar, stat tracker (could track anything, points, etc), an inventory with minimum 2 items in the slots, and an in-game menu with pause, restart, resume, and options. These assets should fit in and be themed with the environment (screenshot) of your favorite (or not so favorite) games. If you are having issues finding a background without the game's original UI in the way, try adding the term "cutscene" to your search!
+
+Create the assets and apply them on top of an image of your background, like so (with the correct assets):
+
+![](images/image5.png)
 
 ## Bug Reports
 If you experience any bugs or typos within the lab itself, please report it [here!]
 
 [here!]: https://forms.gle/oGW8yyj6VVSsbhNE8 
-
-[the parallax effect]: https://www.youtube.com/watch?v=z9tBce8eFqE 
