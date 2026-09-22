@@ -1,12 +1,12 @@
 ---
-title: "Lab 11: Coroutines"
+title: "Lab 8: Coroutines"
 parent: Labs
 layout: home
 nav_order: 11
 nav_exclude: true
 ---
 
-# Lab 11: Coroutines
+# Lab 8: Coroutines
 {: .no_toc }
 
 ## Table of contents

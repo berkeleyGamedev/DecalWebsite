@@ -56,7 +56,7 @@ Everyone must fill out the submission form, but only **one person** should submi
 
 **Project 2 Due Thursday, 10/1 @ 11:59 PM.**
 
-[SUBMIT PROJECT 2 HERE!](https://tinyurl.com/s26proj2){: .btn .btn-purple }
+[SUBMIT PROJECT 2 HERE!](https://tinyurl.com/fa26proj2){: .btn .btn-purple }
 
 ## Resources:
 
