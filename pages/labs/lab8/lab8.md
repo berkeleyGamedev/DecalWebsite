@@ -2,7 +2,7 @@
 title: "Lab 8: Coroutines"
 parent: Labs
 layout: home
-nav_order: 11
+nav_order: 8
 nav_exclude: true
 ---
 
