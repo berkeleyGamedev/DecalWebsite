@@ -50,7 +50,7 @@ Milestones are **adaptive**. While all teams are expected to meet the milestone 
 
 | Milestone | Due Date | Requirements |
 |:-----------:|:----------:|:--------------|
-| Milestone 0: <br> **Design Doc** | **October 13th** | Game [design document] that must include all of the following sections:<br>• Objective (max: 3 sentences)<br>• Description (min: 2 paragraphs)<br>• Mechanics (min: 3 mechanics)<br>• Genre/Platform (max: 3 sentences)<br>• Aesthetics (min: 1 paragraph)<br>• Feature List (seven to fifteen features)<br>• Division of Tasks<br>• Schedule<br>• Others (optional)<br><br>Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. <br><br>[SUBMIT HERE](https://tinyurl.com/s26p3designdoc){: .btn .btn-purple} |
+| Milestone 0: <br> **Design Doc** | **October 13th** | Game [design document] that must include all of the following sections:<br>• Objective (max: 3 sentences)<br>• Description (min: 2 paragraphs)<br>• Mechanics (min: 3 mechanics)<br>• Genre/Platform (max: 3 sentences)<br>• Aesthetics (min: 1 paragraph)<br>• Feature List (seven to fifteen features)<br>• Division of Tasks<br>• Schedule<br>• Others (optional)<br><br>Try to keep this updated so that your group can stay coordinated. You can even refer to this if you mention your game on your resume. <br><br>[SUBMIT HERE](https://tinyurl.com/fa26p3designdoc){: .btn .btn-purple} |
 | Milestone 1: <br> **MVP** | **October 22nd** | Your MVP must be complete (refer to the [MVP] lecture). Playable prototype of the original pitch. <br>• At least two of the core mechanics implemented<br>• No art needs to be in place yet <br> <br> Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be what you expected. |
 | Milestone 2: <br> **Alpha Build** | **November 5th** | • All mechanics should be in place/in a testable state. <br>• Your general art style should be decided on <br>• A few assets added in <br>• You should have a basic level <br> **This build may have bugs.** |
 | Milestone 3: <br> **Beta Build** | **November 19th** | • **All levels should be built** <br>• **All mechanics should be implemented** <br>• A first pass should have been done on all art assets, and they should be in the game <br> <br> There may be bugs and glitches, but the game should be starting to look like the final product at this point. |
@@ -67,7 +67,7 @@ Every week where there is a teamshare, you will receive a **mentor evaluation** 
 3 - You did everything you said you would
 4 - You went above and beyond -->
 
-## Progresss Reports
+## Progress Reports
 Each team will maintain a weekly progress report, which will contribute to their overall **mentor evaluation**. These reports are used to track participation and accountability; if a team member consistently shows little progress or poor participation, it will be reflected in their evaluation. A week's progress report will be reviewed the following week, Tuesday. 
 
 We have provided a [template] to use at your discretion.

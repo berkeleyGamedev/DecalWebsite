@@ -1,12 +1,12 @@
 ---
-title: "Lab 8: Animator and Blend Trees"
+title: "Lab 10: Animator and Blend Trees"
 parent: Labs
 layout: home
 nav_order: 8
 nav_exclude: true
 ---
 
-# Lab 8: Animator and Blend Trees
+# Lab 10: Animator and Blend Trees
 {: .no_toc }
 
 ## Table of contents

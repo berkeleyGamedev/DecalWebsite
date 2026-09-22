@@ -1,12 +1,12 @@
 ---
-title: "Lab 12: Environment Design"
+title: "Lab 9: Environment Design"
 parent: Labs
 layout: home
 nav_order: 12
 nav_exclude: true
 ---
 
-# Lab 12: Environment Design
+# Lab 9: Environment Design
 {: .no_toc }
 
 ## Table of contents
