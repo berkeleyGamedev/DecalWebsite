@@ -21,13 +21,13 @@ nav_order: 0
 
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (9/22) | Programmer Lab 4 / Artist Lab 5 | All Lab 8, **due 09/29 in class.** |
-> | Thursday (9/24) | Programmer Lab 6 / Artist Lab 7 is due in class. **Project 1 Part 2 is due at 11:59pm.**| Programmer Lab 9 / Artist Lab 10, **due 10/01 in class.** **Project 2, due 10/01 at 11:59pm.**
+> | Tuesday (9/22) | Programmer Lab 4 / Artist Lab 5 | Programmer Lab 8 / Artist Lab 9, **due 09/29 in class.** |
+> | Thursday (9/24) | Programmer Lab 6 / Artist Lab 7 is due in class. **Project 1 Part 2 is due at 11:59pm.**| Everyone Lab 10, **due 10/01 in class.** **Project 2, due 10/01 at 11:59pm.**
 
 
 
 | -------- |
-| Jump to Week: [0](#week-0), [1](#week-1)|
+| Jump to Week: [0](#week-0), [1](#week-1), [2](#week-2), [3](#week-3)|
 
 <!-- , [1](#week-1), [2](#week-2), [3](#week-3), [4](#week-4), [5](#week-5), [6](#week-6), [7](#week-7), [8](#week-8), [9](#week-9), [10](#week-10), [11](#week-11), [12](#week-12), [13](#week-13),[14](#week-14) -->
 
