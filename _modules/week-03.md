@@ -19,7 +19,7 @@ Sep 24
 <!-- Lab/Project: -->
 [Lab 8: Coroutines]: ./../pages/labs/lab8/lab8
 [Lab 9: Environment Design]: ./../pages/labs/lab9/lab9
-[Lab 10: Animator and Blend Trees]: ./../pages/lab10/lab10/lab10
+[Lab 10: Animator and Blend Trees]: ./../pages/labs/lab10/lab10
 [Project 2: Game Jam]: ./../pages/projects/project2/project2
 
 <!-- Readings: -->
