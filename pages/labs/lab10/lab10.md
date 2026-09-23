@@ -17,7 +17,7 @@ nav_exclude: true
 
 **NOTE**: Download the lab, unzip it, and open the project folder in Unity Hub!
 
-[Download Lab 8](https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab/archive/refs/heads/master.zip){: .btn .btn-blue }
+[Download Lab 10](https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab/archive/refs/heads/master.zip){: .btn .btn-blue }
 
 ## Overview
 
