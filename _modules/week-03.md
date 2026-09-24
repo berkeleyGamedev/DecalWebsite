@@ -13,8 +13,8 @@ Sep 24
 : **Project**{: .label .gdd-navy } [Project 2: Game Jam]
 
 <!-- Lectures: -->
-<!-- [Git Tutorial]:https://docs.google.com/presentation/d/1--AoK3RMRk8xcUu5DW5VE9wI_w1hob2XhJGR1QBrLxU/edit?usp=share_link 
-[Game Loops]: https://docs.google.com/presentation/d/1Ktu-MEO9uC63MtbZznZPJDkCG-D2MC-76kV6P5pk6Gg/edit?usp=share_link -->
+[Git Tutorial]:https://docs.google.com/presentation/d/1--AoK3RMRk8xcUu5DW5VE9wI_w1hob2XhJGR1QBrLxU/edit?usp=share_link 
+[Game Loops]: https://docs.google.com/presentation/d/1k1X41HPiMBhUqfByiCmxtl9yfZ9WlCXtPGrMLZDzQQ8/edit?usp=sharing
 
 <!-- Lab/Project: -->
 [Lab 8: Coroutines]: ./../pages/labs/lab8/lab8
