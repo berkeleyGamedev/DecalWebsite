@@ -19,7 +19,7 @@ nav_order: 4
 
 **Location**: Jacobs 10
 
-**Facilitator**: Jackie Dai, Joshua Almario, Sabrina Kuang
+**Facilitator**: Jinjeong Kim, Justin Lee
 
 **Faculty of Record**: James O'Brien
 
