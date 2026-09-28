@@ -8,21 +8,17 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 3 (9/21)</h2>
-> <img src = "assets/announcement/coin.gif" width=120>
+> <h2>Week 4 (9/28)</h2>
+> <img src = "assets/announcement/pika.gif" width=120>
 >
-> Damn its week 3 already! Congrats on completing your first project, we will be grading those soon :D 
+> Hey guys, here's some weekly announcements :D  
 >
-> And now for some weekly announcements…
->
-> Office hours are starting this week! They will be on **Wednesday 5:30-6:30PM** (for now). Hop in the voice channel in Discord to get check-offs done or if you need help on anything!
->
-> Also, Project 2 is slowly approaching (this thursday!!), and the Project 2 group matching form [is now out]! [**FILL OUT THE PROJECT 2 MATCHING FORM**](https://docs.google.com/forms/d/e/1FAIpQLSe2wB9-AsD8qbKAR4YYmzYX1WjVaxbwY31r1m_JDqpTSv8LsA/viewform) by **Thursday 9/24!**
-
+> Friendly reminder that Project 2 is due by the end of Thursday! You should’ve gotten started by now; if you haven’t already, please do! 
+> Also, good news: this Tuesday the last required lab of the semester is being assigned! Any lab assigned after is purely optional and is there to benefit your own curiosity :D
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (9/22) | Programmer Lab 4 / Artist Lab 5 | Programmer Lab 8 / Artist Lab 9, **due 09/29 in class.** |
-> | Thursday (9/24) | Programmer Lab 6 / Artist Lab 7 is due in class. **Project 1 Part 2 is due at 11:59pm.**| Everyone Lab 10, **due 10/01 in class.** **Project 2, due 10/01 at 11:59pm.**
+> | Tuesday (09/29) | All Lab 8 | Programmer Lab 11 / Artist Lab 12, **due 10/06 in class**|
+> | Thursday (10/01) | Programmer Lab 9 / Artist Lab 10 is due in class. Project 2, **due 10/01 at 11:59pm.**| None
 
 
 
