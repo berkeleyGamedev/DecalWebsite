@@ -17,8 +17,8 @@ nav_order: 0
 > Also, good news: this Tuesday the last required lab of the semester is being assigned! Any lab assigned after is purely optional and is there to benefit your own curiosity :D
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (09/29) | All Lab 8 | Programmer Lab 11 / Artist Lab 12, **due 10/06 in class**|
-> | Thursday (10/01) | Programmer Lab 9 / Artist Lab 10 is due in class. Project 2, **due 10/01 at 11:59pm.**| None
+> | Tuesday (09/29) | Programmer Lab 8 / Artist Lab 9 | Programmer Lab 11 / Artist Lab 12, **due 10/06 in class**|
+> | Thursday (10/01) | Lab 10 is due in class. Project 2, **due 10/01 at 11:59pm.**| None
 
 
 
