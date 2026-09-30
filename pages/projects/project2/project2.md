@@ -15,7 +15,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-The Theme is... <span class="pixelify">???</span>.
+The Themes are... <span class="pixelify">BUGS / What goes Up must come Down</span>.
 {: .fs-8 }
 
 ## Overview
