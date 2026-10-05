@@ -23,7 +23,7 @@ nav_exclude: true
 For the final project you will be working in teams of 3-5 for the rest of the semester to make a game based on your original pitches. Each team will be paired with a facilitator, who will help guide progress and provide feedback to ensure your final game is as strong and polished as possible.
 
 ## Pitches & Pitch Day 
-Unlike previous projects, **you** will propose your own project theme. You have complete creative freedom in developing your game concept; however, we encourage you to be thoughtful and intentional, as your idea may be selected to become a Project 3 game. Please fill out the [Pitch Form](https://tinyurl.com/s26pitch) before class <span style="color:blue"> **Tuesday, March 3** </span>. 
+Unlike previous projects, **you** will propose your own project theme. You have complete creative freedom in developing your game concept; however, we encourage you to be thoughtful and intentional, as your idea may be selected to become a Project 3 game. Please fill out the [Pitch Form](https://tinyurl.com/s26pitch) before class <span style="color:blue"> **Thursday, October 8th** </span>. 
 
 We will dedicate a class session to Pitch Day, where students may present their Project 3 ideas. Projects that generate the most interest will move forward as final project groups. 
 
