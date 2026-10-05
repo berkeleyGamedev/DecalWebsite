@@ -8,17 +8,17 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 4 (9/28)</h2>
-> <img src = "assets/announcement/pika.gif" width=120>
+> <h2>Week 5 (10/5)</h2>
+> <img src = "assets/announcement/waddle_duck.gif" width=120>
 >
-> Hey guys, here's some weekly announcements :D  
+> We're over a third of the way into the course congrats! :D  
 >
-> Friendly reminder that Project 2 is due by the end of Thursday! You should’ve gotten started by now; if you haven’t already, please do! 
-> Also, good news: this Tuesday the last required lab of the semester is being assigned! Any lab assigned after is purely optional and is there to benefit your own curiosity :D
+> Labs are now over, so you get to focus solely on projects from here on out. We can't wait to see you put the skills you've learned to good use! 
+> This week we have the Project 2 showcase on Tuesday and Pitch Day for Project 3 on Thursday. 
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (09/29) | Programmer Lab 8 / Artist Lab 9 | Programmer Lab 11 / Artist Lab 12, **due 10/06 in class**|
-> | Thursday (10/01) | Lab 10 is due in class. Project 2, **due 10/01 at 11:59pm.**| None
+> | Tuesday (10/06) | Programmer Lab 11 / Artist Lab 12 | None|
+> | Thursday (10/08) | Project 3 pitches! **due BEFORE class**| None
 
 
 
