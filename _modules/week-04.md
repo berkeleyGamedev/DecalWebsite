@@ -12,7 +12,7 @@ Oct 01
 
 <!-- Lectures: -->
 [User Interfaces]: https://docs.google.com/presentation/d/1IyVl1spvwEHcB9kIWPICSbiWcfX8riCAlgHdwQmzoXY/edit?usp=sharing
-<!-- [Design Docs and MVPs]: https://docs.google.com/presentation/d/1rmCXd62MF_1JJDhgb5rPR_M4D2daK397q3FUfcl_Zw0/edit?usp=share_link -->
+[Design Docs and MVPs]: https://docs.google.com/presentation/d/1gzqlWTnzo-z5aosUD-YhuY5lhWyxGxvKcXoLeMffb1Y/edit?usp=sharing
 
 <!-- Lab/Project: -->
 [Lab 11: UI and Layering]: ./../pages/labs/lab11/lab11
