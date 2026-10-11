@@ -8,17 +8,16 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 5 (10/5)</h2>
-> <img src = "assets/announcement/waddle_duck.gif" width=120>
+> <h2>Week 6 (10/12)</h2>
+> <img src = "assets/announcement/undertale-flowey.gif" width=120>
 >
-> We're over a third of the way into the course congrats! :D  
+> Transitioning into the last phase of our DeCal: working on Project 3! 
 >
-> Labs are now over, so you get to focus solely on projects from here on out. We can't wait to see you put the skills you've learned to good use! 
-> This week we have the Project 2 showcase on Tuesday and Pitch Day for Project 3 on Thursday. 
+> Classes from here on out will mainly be work days and playtests (where you get feedback from the rest of your class about your work). Can't wait to see your results at the showcase!
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (10/06) | Programmer Lab 11 / Artist Lab 12 | None|
-> | Thursday (10/08) | Project 3 pitches! **due BEFORE class**| None
+> | Tuesday (10/13) | None | Milestone 0: Game Design Doc, **due 10/15 in class**|
+> | Thursday (10/15) | Milestone 0: Game Design Doc | None
 
 
 
