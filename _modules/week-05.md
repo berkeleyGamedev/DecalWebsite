@@ -15,9 +15,9 @@ Oct 08
 
 
 <!-- Lecture: -->
-<!-- [Pitch Day]: https://docs.google.com/presentation/d/1PKUdgBDqUe7JjfFXsRo_BT3gtA0QRqGWmgvNPhI6MYc/edit?usp=share_link
-[3D Modeling]: https://docs.google.com/presentation/d/17dYfHpf-ypNKqBqhPGV_HBigUhQygPa2v5wg4rY71q0/edit?usp=sharing
-[Project 2 Showcase]: https://docs.google.com/presentation/d/16gLK3rRbWZzN8SunlftMyqUsAMK8b8CvDDnf0FFlfT8/edit?usp=sharing -->
+[Pitch Day]: https://docs.google.com/presentation/d/1Un_IyXIlnoC2azI5vEtWO8Cj7RWGRhYklR6IQ84VCMA/edit?usp=sharing
+[3D Modeling]: https://docs.google.com/presentation/d/1ihrj8ZwlHvktmGJu_EIp1_8yGSht80jaJmdQ3GNI7gk/edit?usp=sharing
+<!-- [Project 2 Showcase]: https://docs.google.com/presentation/d/16gLK3rRbWZzN8SunlftMyqUsAMK8b8CvDDnf0FFlfT8/edit?usp=sharing -->
 
 <!-- Lab/Project: -->
 [Project 3: Final]: ./../pages/projects/project3/project3
