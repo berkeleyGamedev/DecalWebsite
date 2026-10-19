@@ -17,7 +17,7 @@ nav_order: 0
 >
 > |**Date**|**Due in Class**|**Assigned**|
 > | Tuesday (10/20) | Progress Report | Milestone 1: MVP, **due 10/22 in class**|
-> | Thursday (10/22) | Milestone 1: MVP | Milestone 2: Alpha Build
+> | Thursday (10/22) | Milestone 1: MVP | Milestone 2: Alpha Build **due 11/05 in class**
 
 
 
