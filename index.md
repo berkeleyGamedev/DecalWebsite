@@ -8,16 +8,16 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 6 (10/12)</h2>
-> <img src = "assets/announcement/undertale-flowey.gif" width=120>
+> <h2>Week 7 (10/19)</h2>
+> <img src = "assets/announcement/gregg.gif" width=120>
 >
-> Transitioning into the last phase of our DeCal: working on Project 3! 
+> Hope you're all making good progress on your games! We have some upcoming due dates...
 >
-> Classes from here on out will mainly be work days and playtests (where you get feedback from the rest of your class about your work). Can't wait to see your results at the showcase!
+> Your first progress reports are due this Tuesday! Please make a copy of the google slides template on the Project 3 spec. In addition, we will be testing your minimum viable product (MVP) on Thursday, so come prepared! We look forward to seeing your work so far :D 
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (10/13) | None | Milestone 0: Game Design Doc, **due 10/15 in class**|
-> | Thursday (10/15) | Milestone 0: Game Design Doc | None
+> | Tuesday (10/20) | Progress Report | Milestone 1: MVP, **due 10/22 in class**|
+> | Thursday (10/22) | Milestone 1: MVP | Milestone 2: Alpha Build
 
 
 
