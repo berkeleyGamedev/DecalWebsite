@@ -13,10 +13,10 @@ nav_order: 0
 >
 > Hope you're all making good progress on your games! We have some upcoming due dates...
 >
-> Your first progress reports are due this Tuesday! Please make a copy of the google slides template on the Project 3 spec. In addition, we will be testing your minimum viable product (MVP) on Thursday, so come prepared! We look forward to seeing your work so far :D 
+> Your first progress reports are due Tuesday 10/27! (got pushed back a week). Please make a copy of the google slides template on the Project 3 spec. In addition, we will be testing your minimum viable product (MVP) on Thursday, so come prepared! We look forward to seeing your work so far :D 
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (10/20) | Progress Report | Milestone 1: MVP, **due 10/22 in class**|
+> | Tuesday (10/20) | None (Progress Report pushed back to next week 10/27) | Milestone 1: MVP, **due 10/22 in class**|
 > | Thursday (10/22) | Milestone 1: MVP | Milestone 2: Alpha Build **due 11/05 in class**
 
 
