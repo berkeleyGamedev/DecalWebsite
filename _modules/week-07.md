@@ -12,9 +12,9 @@ Oct 22
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
 <!-- Lecture: -->
-<!-- [Tutorial + Level Design]: https://docs.google.com/presentation/d/1ZW3qYhyGQKY8-3C-XqyINDV_VhxBVtiTrCJM_GVlEMA/edit?usp=share_link
-[Game Feel]:https://docs.google.com/presentation/d/1PyLLP_67-obXTeiEOSSLepWF9CZrwutTdGi8Gp2JJFk/edit?usp=sharing
-[Work Day]: https://docs.google.com/presentation/d/1KWfLOIEgqJCcyNo_yS0puuT2p9Vt4004iGDI2WueXyo/edit?usp=sharing -->
+[Tutorial + Level Design]: https://docs.google.com/presentation/d/1Tl4_U8xwoSHatpVcuqDbgTjHWm_sinvS89RnoPY_aQo/edit?usp=sharing
+[Game Feel]:
+[Work Day]: https://docs.google.com/presentation/d/1KWfLOIEgqJCcyNo_yS0puuT2p9Vt4004iGDI2WueXyo/edit?usp=sharing
 
 <!-- Lab/Project: -->
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
