@@ -8,12 +8,11 @@ Oct 20
 : **Reading**{: .label .gdd-brown }[Tips for Better Playtesting]
 
 Oct 22
-: **Lecture**{: .label .gdd-blue } Game Feel
+: **Lecture**{: .label .gdd-blue } [Game Feel]
 : **Project**{: .label .gdd-navy } [Milestone 1: MVP Playtest]
 
 <!-- Lecture: -->
 [Tutorial + Level Design]: https://docs.google.com/presentation/d/1Tl4_U8xwoSHatpVcuqDbgTjHWm_sinvS89RnoPY_aQo/edit?usp=sharing
-<!--[Game Feel]:-->
 [Work Day]: https://docs.google.com/presentation/d/1KWfLOIEgqJCcyNo_yS0puuT2p9Vt4004iGDI2WueXyo/edit?usp=sharing
 
 <!-- Lab/Project: -->
