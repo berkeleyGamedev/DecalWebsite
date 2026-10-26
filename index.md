@@ -8,16 +8,16 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 7 (10/19)</h2>
-> <img src = "assets/announcement/gregg.gif" width=120>
+> <h2>Week 8 (10/26)</h2>
+> <img src = "assets/announcement/pingu.gif" width=120>
 >
-> Hope you're all making good progress on your games! We have some upcoming due dates...
+> Happy Halloween! Hope you all have a bunch of spooky fun this week and not-so-spooky midterm grades 💀
 >
-> Your first progress reports are due Tuesday 10/27! (got pushed back a week). Please make a copy of the google slides template on the Project 3 spec. In addition, we will be testing your minimum viable product (MVP) on Thursday, so come prepared! We look forward to seeing your work so far :D 
+> Your first progress reports are due Tuesday! Please make a copy of the Google Slides template on the Project 3 spec. Also, just an FYI that Milestone 2 is due next week on Tuesday, November 5th, so keep up the good work! 
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (10/20) | None (Progress Report pushed back to next week 10/27) | Milestone 1: MVP, **due 10/22 in class**|
-> | Thursday (10/22) | Milestone 1: MVP | Milestone 2: Alpha Build **due 11/05 in class**
+> | Tuesday (10/27) | Progress Reports | Milestone 2: Alpha Build, **due 11/05 in class**. Next week's progress reports, **due 11/03 in class**|
+> | Thursday (10/29) | None | None
 
 
 
