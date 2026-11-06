@@ -14,7 +14,7 @@ Oct 22
 <!-- Lecture: -->
 [Tutorial + Level Design]: https://docs.google.com/presentation/d/1Tl4_U8xwoSHatpVcuqDbgTjHWm_sinvS89RnoPY_aQo/edit?usp=sharing
 [Work Day]: https://docs.google.com/presentation/d/1KWfLOIEgqJCcyNo_yS0puuT2p9Vt4004iGDI2WueXyo/edit?usp=sharing
-
+[Game Feel]: https://docs.google.com/presentation/d/1PyLLP_67-obXTeiEOSSLepWF9CZrwutTdGi8Gp2JJFk/edit?usp=sharing
 <!-- Lab/Project: -->
 [Lab 15: Raycasting]: ./../pages/labs/lab15/lab15
 [Milestone 1: MVP Playtest]: ../pages/projects/project3/project3
