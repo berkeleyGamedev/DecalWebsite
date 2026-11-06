@@ -11,6 +11,7 @@ Nov 12
 
 <!-- Lecture: -->
 <!-- [Accessibility]: https://docs.google.com/presentation/d/1RE0DD5hWWk8L9fSUS4Y_tSD5VD6T3twd2569ML5-DVw/edit?usp=sharing -->
+[Work Day]: https://docs.google.com/presentation/d/16af6Nil53wIlyfZeTSsNR4I8fYWamqpMz7I_-VItJpo/edit?usp=sharing
 
 <!-- Lab/Project: -->
 <!-- [Milestone 2: Alpha Playtest]: ../pages/projects/project3/project3 -->
