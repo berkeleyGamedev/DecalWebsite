@@ -8,18 +8,18 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 9 (11/02)</h2>
-> <img src = "assets/announcement/fall-leaves.gif" width=120>
+> <h2>Week 10 (11/09)</h2>
+> <img src = "assets/announcement/super-mario-dancing-with-banana-pixel-art.gif" width=120>
 >
-> Happy first week of November and midterm election week!
+> We hit double digits today with the commencement of week 10!
 >
-> Milestone 2 is **due BEFORE class** this Thursday (we will be playtesting again during this class session). Your general art style should be implemented, and all your mechanics should be working (though its ok if there are a few bugs). Please plan accordingly and make sure to ask your facilitators if you have any questions! Also, don't forget your progress reports for Tuesday tomorrow!
+> (apologies for the late announcement; I was busy grinding an assignment :P can't wait for Thanksgiving break...)
 >
-> Keep up the great work :D
+> This week is pretty chill; both sessions are Work Days where you and your group willl have time to work on your project. Come prepared to lock in!
 >
 > |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (11/03) | Progress Reports | Milestone 2: Alpha Build, **due 11/05 before class**. Next week's progress reports, **due 11/10 in class**|
-> | Thursday (11/05) | Milestone 2: Alpha Build  | Milestone 3: Beta Build, **due 11/19 before class**
+> | Tuesday (11/10) | Progress Reports | Milestone 3: Beta Build, **due 11/19 before class**  Next week's progress reports, **due 11/17 in class**|
+> | Thursday (11/12) | None  | None
 
 
 
