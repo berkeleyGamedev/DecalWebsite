@@ -8,18 +8,14 @@ nav_order: 0
 # Game Design and Development Decal Fall 2026
 
 {: .announcements }   
-> <h2>Week 10 (11/09)</h2>
-> <img src = "assets/announcement/super-mario-dancing-with-banana-pixel-art.gif" width=120>
+> <h2>Week 11 (11/16)</h2>
+> <img src = "assets/announcement/apple-cat.gif" width=120>
 >
-> We hit double digits today with the commencement of week 10!
+> Last week before Thanksgiving break! Try to make as much progress as possible with your team this week so you can focus on gobbling up food during break :p
 >
-> (apologies for the late announcement; I was busy grinding an assignment :P can't wait for Thanksgiving break...)
->
-> This week is pretty chill; both sessions are Work Days where you and your group willl have time to work on your project. Come prepared to lock in!
->
-> |**Date**|**Due in Class**|**Assigned**|
-> | Tuesday (11/10) | Progress Reports | Milestone 3: Beta Build, **due 11/19 before class**  Next week's progress reports, **due 11/17 in class**|
-> | Thursday (11/12) | None  | None
+> |**Date**|**Due BEFORE Class**|**Assigned**|
+> | Tuesday (11/17) | Progress Reports | None |
+> | Thursday (11/19) | Milestone 3: Beta Build | Milestone 4: Final Submission, **due 12/3 before class**
 
 
 
