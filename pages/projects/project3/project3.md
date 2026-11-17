@@ -55,7 +55,7 @@ Milestones are **adaptive**. While all teams are expected to meet the milestone 
 | Milestone 2: <br> **Alpha Build** | **November 5th** | • All mechanics should be in place/in a testable state. <br>• Your general art style should be decided on <br>• A few assets added in <br>• You should have a basic level <br> **This build may have bugs.** |
 | Milestone 3: <br> **Beta Build** | **November 19th** | • **All levels should be built** <br>• **All mechanics should be implemented** <br>• A first pass should have been done on all art assets, and they should be in the game <br> <br> There may be bugs and glitches, but the game should be starting to look like the final product at this point. |
 | Milestone 4: <br> **Finished Project** | **December 3rd** | • The game should be complete, and in line with the original pitch. <br>• It should be playable from start to finish, and mostly bug free. <br> <br> You will also be required to make a 9x9 graphic with the game’s title for showcase, and a 30–60 second trailer. If you need help making a trailer, here are a few options and guidelines: [Trailer Guide] |
-| **GDD Showcase** <img src="../images/pepe_dance.gif" alt="pepe" width="30" height="30"> | **TBA** | Show off your game to the whole club and see what other games people have been working on this semester! <br> |
+| **GDD Showcase** <img src="../images/pepe_dance.gif" alt="pepe" width="30" height="30"> | **December 5th** | Show off your game to the whole club and see what other games people have been working on this semester! <br> |
 
 
 <!-- ## Team Shares
