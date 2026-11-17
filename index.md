@@ -13,6 +13,8 @@ nav_order: 0
 >
 > Last week before Thanksgiving break! Try to make as much progress as possible with your team this week so you can focus on gobbling up food during break :p
 >
+> Also, we have finalized the GDD Showcase date to **12/5**. Make sure to show up to present your game and check out what your peers have been working on!
+>
 > |**Date**|**Due BEFORE Class**|**Assigned**|
 > | Tuesday (11/17) | Progress Reports | None |
 > | Thursday (11/19) | Milestone 3: Beta Build | Milestone 4: Final Submission, **due 12/3 before class**
